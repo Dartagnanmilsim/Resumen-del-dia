@@ -1,5 +1,7 @@
 # Resumen del día
 
+**👉 Ver el informe: https://dartagnanmilsim.github.io/Resumen-del-dia/**
+
 Lo esencial de **Colombia y el mundo** e **indicadores económicos clave**, en una página limpia pensada para un directivo que necesita estar informado en 5 minutos.
 
 ## Qué hace
@@ -20,13 +22,11 @@ Cada mañana (5:43 a. m., hora de Bogotá) un proceso automático:
 
 El análisis sigue reglas fijas (ver `SYSTEM` en `scripts/generate.mjs`): neutralidad estricta frente a partidos, gobiernos e ideologías; cada valoración se atribuye a quien la hace; se presentan los mejores argumentos de cada lado sin falsos equilibrios; se separan hechos de opiniones; y no se usa nada que no esté en las fuentes. Las "opiniones" son análisis de impacto para la toma de decisiones, no posturas políticas. Los enlaces de las fuentes salen de los feeds, nunca del modelo, así que no pueden ser inventados.
 
-## Puesta en marcha
+## Actualización diaria
 
-1. **Clave de API**: en GitHub → *Settings → Secrets and variables → Actions*, cree el secreto `ANTHROPIC_API_KEY`.
-2. **Publicar la página**: en *Settings → Pages*, elija *Deploy from a branch*, rama principal, carpeta `/ (root)`. El informe queda en https://dartagnanmilsim.github.io/Resumen-del-dia/
-3. **Primera ejecución**: en *Actions → Informe diario → Run workflow*. Después corre solo todos los días. (Las tareas programadas de GitHub solo se activan desde la rama principal.)
+Una **tarea programada de Claude** investiga cada mañana (5:37 a. m., hora de Bogotá) en los principales diarios, escribe `data/latest.json` siguiendo las reglas de `CLAUDE.md`, lo valida con `node scripts/validar.mjs` y lo publica. No requiere clave de API.
 
-Hasta la primera ejecución, la página muestra **datos de ejemplo** marcados con un aviso.
+**Alternativa con clave de API:** el flujo `.github/workflows/informe-diario.yml` lee los feeds RSS y llama a Claude por API. Para usarlo, cree el secreto `ANTHROPIC_API_KEY` (*Settings → Secrets and variables → Actions*) y active la línea `schedule` del archivo. Use solo una de las dos opciones.
 
 ### En su computador
 

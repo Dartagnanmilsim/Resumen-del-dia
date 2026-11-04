@@ -1,9 +1,11 @@
 name: Informe diario
 
+# Alternativa con clave de API de Anthropic. La edición diaria la hace hoy una
+# tarea programada de Claude (ver CLAUDE.md). Para usar este flujo en su lugar,
+# cree el secreto ANTHROPIC_API_KEY y descomente "schedule".
 on:
-  schedule:
-    # 5:43 a. m. hora de Bogotá (10:43 UTC), todos los días.
-    - cron: "43 10 * * *"
+  # schedule:
+  #   - cron: "43 10 * * *"   # 5:43 a. m. hora de Bogotá
   workflow_dispatch: {}
 
 permissions:
