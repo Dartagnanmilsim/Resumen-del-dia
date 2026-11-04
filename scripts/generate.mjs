@@ -161,8 +161,8 @@ async function fetchTRM() {
     variacion_pct: prev ? ((valor - prev) / prev) * 100 : null,
     variacion_mes_pct: serie.length ? ((valor - serie[0]) / serie[0]) * 100 : null,
     serie,
-    vigencia: rows[0].vigenciadesde?.slice(0, 10),
-    fuente: "Superintendencia Financiera (datos.gov.co)",
+    vigencia: rows[0].vigenciadesde ? `Vigente desde ${rows[0].vigenciadesde.slice(0, 10)}` : null,
+    fuente: "Superfinanciera",
   };
 }
 

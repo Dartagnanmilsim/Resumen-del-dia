@@ -31,12 +31,12 @@
 
   function tile(m) {
     const mes = m.variacion_mes_pct;
-    return `<div class="tile" title="${esc(m.fuente || "")}">
+    return `<div class="tile">
       <div class="name">${esc(m.nombre)}</div>
       <div class="val">${fmtNum(m.valor, m.decimales ?? 2)}<span>${esc(m.unidad || "")}</span></div>
-      <div class="chg"><span class="${cls(m.variacion_pct)}">${arrow(m.variacion_pct)} ${fmtPct(m.variacion_pct)}</span>${typeof mes === "number" ? `<span class="${cls(mes)}" title="Variación en el último mes">1M ${fmtPct(mes)}</span>` : ""}</div>
+      <div class="chg">${typeof m.variacion_pct === "number" ? `<span class="${cls(m.variacion_pct)}">${arrow(m.variacion_pct)} ${fmtPct(m.variacion_pct)}</span>` : ""}${typeof mes === "number" ? `<span class="${cls(mes)}" title="Variación en el último mes">1M ${fmtPct(mes)}</span>` : ""}</div>
       ${spark(m.serie, mes)}
-      ${m.vigencia ? `<div class="src">Vigencia ${esc(m.vigencia)}</div>` : ""}
+      ${m.vigencia || m.fuente ? `<div class="src">${esc([m.vigencia, m.fuente].filter(Boolean).join(" · "))}</div>` : ""}
     </div>`;
   }
 
