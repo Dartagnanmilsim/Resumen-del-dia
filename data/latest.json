@@ -1,689 +1,513 @@
 {
-  "fecha": "2026-11-05",
-  "generado": "2026-11-05T13:00:23.242042Z",
+  "fecha": "2026-11-06",
+  "generado": "2026-11-06T10:41:01.901970Z",
   "modelo": null,
   "demo": false,
-  "titular_del_dia": "Con el Congreso de EE. UU. en manos demócratas, el mercado apuesta al fin de la guerra con Irán y el petróleo se hunde 8,7 %; en Colombia, BanRep prevé más inflación y entra en vigor la Ley de Sometimiento.",
+  "titular_del_dia": "Wall Street sufre su peor día desde abril de 2025 por un desplome de la IA (Nasdaq −5,5 %), mientras el petróleo rebota y BanRep eleva a 7,1 % su pronóstico de inflación.",
   "lo_esencial": [
-    "Los demócratas ganan también el Senado de EE. UU. (al menos 54 escaños, según CBS y NBC); Trump admite que la guerra con Irán pesó en la derrota pero dice que lo volvería a hacer.",
-    "El Brent cae 8,7 % a US$94,62 y sigue bajando hoy: el mercado espera que el nuevo Congreso presione el fin de la guerra. Wall Street sube con fuerza (Dow +3 %) y el oro supera US$4.000.",
-    "BanRep publica su Informe de Política Monetaria: proyecta inflación de 7,1 % al cierre de 2026 y crecimiento de 2,0 %. Hoy salen las minutas.",
-    "De la Espriella sanciona la Ley de Sometimiento, que reemplaza la 'paz total' con una ruta judicial sin concesiones políticas.",
-    "El Gobierno pide trámite de urgencia para la Ley de Rescate Económico; el Congreso aprueba en primer debate una adición de $3,8 billones al presupuesto 2026.",
-    "La TRM baja a $3.221,19; el COLCAP cae 0,84 % arrastrado por Ecopetrol (−5,19 %)."
+    "El Nasdaq cae 5,52 % y entra en corrección; el S&P 500 pierde 4,36 % y el Dow 3,44 %. Nvidia baja 9,26 % en una venta masiva de chips e IA.",
+    "El Brent rebota 3,9 % a US$98,29: Trump dice que no planea ataques inmediatos contra Irán, pero las posiciones sobre el programa nuclear siguen lejos.",
+    "BanRep sube a 7,1 % su pronóstico de inflación para 2026 por El Niño y prevé crecer solo 2,0 %; hoy se presenta el informe.",
+    "La Ley de Rescate corre contra el reloj; Davivienda dice que sin ajuste fiscal no bajarán las tasas del crédito.",
+    "La Procuraduría cita al director de la Aerocivil el 9 de noviembre por la falla de radares en El Dorado.",
+    "Trump dice que un acuerdo sobre Ucrania está 'muy cerca' tras reunirse con un enviado de Putin; habrá conversaciones en Abu Dabi el 10 y 11 de noviembre."
   ],
   "colombia": [
     {
-      "titulo": "De la Espriella sanciona la Ley de Sometimiento y cierra la 'paz total'",
-      "categoria": "Orden público / Justicia",
+      "titulo": "BanRep sube su pronóstico de inflación a 7,1 % por El Niño",
+      "categoria": "Economía / Política monetaria",
       "importancia": 5,
-      "resumen": "El presidente sancionó el 4 de noviembre en la Casa de Nariño la Ley de Sometimiento (Ley 2640 de 2026, según El Espectador). El Senado la aprobó 57–24 y la Cámara 95–10 con el mismo texto, por lo que no requirió conciliación. Crea una ruta para que integrantes de grupos armados se sometan a la justicia a cambio de beneficios penales, sin concesiones políticas. Excluye a responsables de reclutamiento de menores, mantiene vigentes órdenes de captura y extradición durante el proceso, limita al 30 % el beneficio para cabecillas y regirá cuatro años.",
-      "por_que_importa": "Define el marco con el que el Estado enfrentará a las estructuras armadas en los próximos años y reemplaza la política de 'paz total' del Gobierno anterior. De su ejecución dependen la seguridad en regiones con operaciones empresariales, minería y energía.",
+      "resumen": "En su Informe de Política Monetaria, publicado el 4 de noviembre, el Banco de la República elevó la inflación esperada para el cierre de 2026 a 7,1 %, desde 6,9 % en el informe anterior, y a 4,8 % para fines de 2027. Atribuye el ajuste sobre todo a El Niño, que presiona alimentos y algunos precios regulados, y menciona costos laborales altos y un gasto de los hogares por encima de la capacidad productiva. Prevé crecimiento de 2,0 % en 2026 y 1,7 % en 2027. Hoy el gerente técnico, Hernando Vargas, presenta el informe.",
+      "por_que_importa": "Con la inflación lejos de la meta de 3 % y en aumento, el margen para bajar la tasa de 12,25 % es mínimo; el mercado ya descuenta una posible subida en diciembre. Eso define el costo del crédito para empresas y hogares en 2027.",
       "perspectivas": [
         {
-          "medio": "El Tiempo",
-          "enfoque": "Explica cómo funcionará la ley en la práctica: requisitos, beneficios y pasos del sometimiento."
+          "medio": "El Espectador",
+          "enfoque": "Explicativo: hacia dónde van la inflación y la economía según el Emisor."
         },
+        {
+          "medio": "Portafolio",
+          "enfoque": "Destaca las variables que vigilará el BanRep para ajustar tasas: El Niño, inflación y cuentas fiscales."
+        },
+        {
+          "medio": "Moncloa.com",
+          "enfoque": "Encuadre de mercado: el BanRep eleva la proyección y el mercado ya descuenta una subida de tasas; resalta siete años sin cumplir la meta."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Resume el doble deterioro: más inflación y menos crecimiento."
+        }
+      ],
+      "coincidencias": "Las fuentes coinciden en las cifras centrales (7,1 % en 2026, 2,0 % de crecimiento) y en que El Niño es la causa principal del ajuste.",
+      "diferencias": "Medios de mercado ponen el foco en la probable subida de tasas; otros, en el impacto sobre el costo de vida. Portafolio cita además otras proyecciones (6,83 % y 5,16 %) que parecen corresponder a otra medición o a encuestas, no al informe.",
+      "analisis": "Según el BanRep, la presión viene en parte de choques de oferta (clima), que la política monetaria controla poco, pero también de demanda y salarios. Quienes piden subir tasas argumentan que hay que evitar que se desanclen las expectativas; quienes prefieren esperar señalan el bajo crecimiento y el reciente descenso del petróleo.",
+      "implicaciones": "Planee con tasas altas al menos durante el primer semestre de 2027. Precios de alimentos y regulados seguirán presionando costos e indexaciones. El salario mínimo y la reforma fiscal serán determinantes para la trayectoria.",
+      "que_vigilar": "Mensajes de Hernando Vargas hoy, dato de inflación de octubre del DANE y decisión del 18 de diciembre.",
+      "fuentes": [
         {
           "medio": "El Espectador",
-          "enfoque": "Subraya que fue una aprobación 'contrarreloj' en el Congreso y precisa el número de la ley."
+          "titulo": "¿Hacia dónde va la inflación y la economía colombiana?: esto dice el Banco de la República",
+          "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/"
         },
         {
-          "medio": "Semana",
-          "enfoque": "Enfatiza el mensaje del Gobierno: 'se acabó la paz total', y detalla los alcances de la medida."
+          "medio": "Portafolio",
+          "titulo": "El Niño, la inflación y las cuentas fiscales: las variables que vigilará el Banrepública para ajustar las tasas",
+          "url": "https://www.portafolio.co/economia/gobierno/el-nino-la-inflacion-y-las-cuentas-fiscales-las-variables-que-vigilara-el-banrep-para-ajustar-las-tasas-505507"
+        },
+        {
+          "medio": "Moncloa.com",
+          "titulo": "Inflación Colombia 2026: el Banco de la República la eleva al 7,1% y el mercado ya descuenta subida de tipos",
+          "url": "https://www.moncloa.com/2026/11/06/inflacion-colombia-2026-tipos-3462600/"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "El Banco de la República prevé más inflación y menos crecimiento para Colombia",
+          "url": "https://ifmnoticias.com/economicas/el-banco-de-la-republica-preve-mas-inflacion-y-menos-crecimiento-para-colombia/"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: carrera contra el reloj y la banca pide ajuste fiscal",
+      "categoria": "Economía / Política fiscal",
+      "importancia": 5,
+      "resumen": "Con el mensaje de urgencia radicado el 3 de noviembre, las comisiones económicas de Senado y Cámara podrán estudiar juntas el proyecto 477 de 2026; el siguiente paso es programar ese estudio y radicar la ponencia, que un medio sugiere presentar a más tardar a mediados de noviembre. Mientras tanto, el presidente de Davivienda, Javier José Suárez, dijo que las tasas altas frenan el crédito de vivienda y la financiación empresarial y que bajar el costo de financiación del Estado mediante un ajuste fiscal permitiría créditos más baratos. Cuestionó la sobretasa al sector financiero que mantiene el proyecto, aunque la aceptó si contribuye al ajuste.",
+      "por_que_importa": "El calendario es apretado: si la ley no avanza antes de que termine el periodo legislativo, se aplaza el ajuste fiscal del que depende, según el Gobierno y la banca, la baja de tasas.",
+      "perspectivas": [
+        {
+          "medio": "Yahoo Noticias (vía medio colombiano)",
+          "enfoque": "Plantea si al Gobierno le alcanza el tiempo para aprobar la ley este año."
+        },
+        {
+          "medio": "Actualícese / Vanguardia",
+          "enfoque": "Cobertura técnica del trámite: sesiones conjuntas y plazos de la urgencia."
         },
         {
           "medio": "Infobae",
-          "enfoque": "Recoge la celebración presidencial: 'la falsa paz total llegó a su fin'."
+          "enfoque": "Recoge la advertencia de Davivienda sobre el costo del crédito."
         },
         {
-          "medio": "El Heraldo / La FM",
-          "enfoque": "Cobertura informativa centrada en el acto de sanción."
+          "medio": "Blu Radio",
+          "enfoque": "Enfoca el impacto de las tasas en crédito y vivienda."
+        },
+        {
+          "medio": "La Veintitrés",
+          "enfoque": "Destaca la crítica de Davivienda a la sobretasa al sector financiero."
         }
       ],
-      "coincidencias": "Las fuentes coinciden en la sanción del 4 de noviembre, las votaciones de ambas cámaras, que no hubo conciliación y en los límites centrales: sin beneficios por reclutamiento de menores, tope de 30 % para cabecillas y vigencia de cuatro años.",
-      "diferencias": "Los medios cercanos al relato oficial resaltan el fin de la 'paz total' como un giro hacia la firmeza; otros ponen el foco en la rapidez del trámite y en los detalles operativos. La cobertura encontrada recoge poco la voz de críticos o de organizaciones de víctimas sobre la nueva ley.",
-      "analisis": "Según el Gobierno, un marco solo judicial y sin negociación política da reglas claras y quita incentivos a los grupos armados. Sus críticos, en debates anteriores, han advertido que sin incentivos atractivos pocos grupos se acogerán y la violencia podría seguir. La eficacia real dependerá de la capacidad de la Fiscalía y los jueces, y de la presión militar paralela.",
-      "implicaciones": "Para empresas con operaciones en zonas de conflicto: el riesgo de seguridad no cambia de inmediato; conviene seguir los primeros procesos de sometimiento y cualquier reacción violenta de los grupos. Una Corte Constitucional que revise la ley también puede alterar su alcance.",
-      "que_vigilar": "Primeras solicitudes de sometimiento, eventual demanda ante la Corte Constitucional, reacción de grupos armados y reglamentación del Gobierno.",
+      "coincidencias": "Las fuentes coinciden en que la urgencia permite sesiones conjuntas y acorta plazos, y en que no hay aún fecha confirmada de primer debate.",
+      "diferencias": "Los medios difieren en el optimismo sobre los tiempos. La banca respalda el ajuste fiscal pero objeta la sobretasa que la afecta; la cobertura encontrada hoy recoge poco a los críticos del proyecto (sindicatos, oposición).",
+      "analisis": "La postura de Davivienda refleja un argumento compartido por el Gobierno: menos déficit, menos riesgo país y tasas más bajas. Los críticos sostienen que el ajuste descansa en impuestos a consumo y sectores específicos. Que la banca acepte la sobretasa con condiciones sugiere que el sector privado prioriza que la ley salga.",
+      "implicaciones": "Las empresas deben preparar escenarios tributarios 2027–2028 y vigilar cambios en comisiones. El sector financiero debe modelar el efecto de la sobretasa.",
+      "que_vigilar": "Radicación de la ponencia, fecha de sesiones conjuntas y posiciones de partidos antes del paro de la CUT del 19 de noviembre.",
       "fuentes": [
         {
-          "medio": "El Tiempo",
-          "titulo": "Presidente Abelardo De La Espriella sancionó la ley de sometimiento: así funcionará",
-          "url": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-sanciono-la-ley-de-sometimiento-asi-funcionara-el-proyecto-aprobado-por-el-congreso-3598591"
+          "medio": "Yahoo Noticias",
+          "titulo": "Rescate Fiscal a contrarreloj: ¿le alcanza el tiempo al Gobierno para sacar adelante la ley este año?",
+          "url": "https://es-us.noticias.yahoo.com/rescate-fiscal-contrarreloj-alcanza-tiempo-173925835.html"
         },
         {
-          "medio": "El Espectador",
-          "titulo": "De la Espriella sancionó la ley de sometimiento tras aprobación contrarreloj en el Congreso",
-          "url": "https://www.elespectador.com/politica/de-la-espriella-sanciono-la-ley-de-sometimiento-tras-aprobacion-contrarreloj-en-el-congreso/"
+          "medio": "Actualícese",
+          "titulo": "Gobierno Nacional radica mensaje de urgencia para acelerar Ley de Rescate Económico en el Congreso",
+          "url": "https://actualicese.com/gobierno-nacional-radica-mensaje-de-urgencia-para-acelerar-la-ley-de-rescate-economico-en-el-congreso/"
         },
         {
-          "medio": "Semana",
-          "titulo": "Presidente Abelardo De La Espriella sancionó la Ley de Sometimiento: estos son los alcances",
-          "url": "https://www.semana.com/politica/articulo/presidente-abelardo-de-la-espriella-sanciono-la-ley-de-sometimiento-estos-son-los-alcances-de-la-medida/202658/"
+          "medio": "Vanguardia",
+          "titulo": "Gobierno pide trámite de urgencia para la Ley de Rescate Económico en el Congreso",
+          "url": "https://www.vanguardia.com/politica/2026/11/03/gobierno-pide-tramite-de-urgencia-para-la-ley-de-rescate-economico-en-el-congreso/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Davivienda advierte que altas tasas dificultan crédito de vivienda y financiación empresarial",
+          "url": "https://www.infobae.com/colombia/2026/11/06/davivienda-advierte-que-altas-tasas-dificultan-credito-de-vivienda-y-financiacion-empresarial/"
+        },
+        {
+          "medio": "Blu Radio",
+          "titulo": "Davivienda advierte sobre el impacto de las altas tasas de interés en el crédito y la vivienda",
+          "url": "https://www.bluradio.com/economia/davivienda-advierte-sobre-el-impacto-de-las-altas-tasas-de-interes-en-el-credito-y-la-vivienda-rg10"
+        },
+        {
+          "medio": "La Veintitrés",
+          "titulo": "Presidente de Davivienda advierte que altas tasas encarecen créditos de vivienda",
+          "url": "https://laveintitres.com/presidente-de-davivienda-advierte-que-altas-tasas-encarecen-crditos-de-vivienda/"
+        }
+      ]
+    },
+    {
+      "titulo": "Falla de radares en El Dorado: Procuraduría cita al director de la Aerocivil",
+      "categoria": "Infraestructura / Transporte",
+      "importancia": 4,
+      "resumen": "Tras la contingencia del 4 de noviembre, cuando fallaron hacia el mediodía los sistemas de visualización radar del Centro de Control y hubo retrasos y cancelaciones en Bogotá durante unas dos horas, la Procuraduría citó al director de la Aerocivil, Arnaud Penent, a una mesa técnica el lunes 9 de noviembre a las 2:00 p. m., con asistencia personal. Deberá explicar causas, medidas y avance en mantenimiento y modernización. La Aerocivil no precisó el origen de la falla y dice que sigue la revisión técnica.",
+      "por_que_importa": "El Dorado es el principal aeropuerto de carga y pasajeros del país; fallas repetidas afectan logística, turismo y negocios, y plantean dudas de seguridad aérea, como habían advertido los controladores.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Énfasis en la Procuraduría y en problemas en diez sistemas de radar."
+        },
+        {
+          "medio": "La Veintitrés",
+          "enfoque": "Titula que fallan 8 de 14 radares del país."
+        },
+        {
+          "medio": "El País (Cali)",
+          "enfoque": "Encuadre institucional: rendición de cuentas de la Aerocivil."
+        },
+        {
+          "medio": "Citytv (El Tiempo)",
+          "enfoque": "Pone el foco en el caos y las cancelaciones para los pasajeros."
+        },
+        {
+          "medio": "360 Radio",
+          "enfoque": "Lo presenta como un 'ultimátum' por el deterioro de la red aérea."
+        }
+      ],
+      "coincidencias": "Coinciden en la falla del 4 de noviembre, la citación de la Procuraduría y la falta de una causa oficial.",
+      "diferencias": "Difieren en la magnitud: unos hablan de 8 de 14 radares fuera de servicio y otros de problemas en diez sistemas; ninguna cifra tiene confirmación oficial. Algunos medios mencionan una falla previa el 31 de agosto.",
+      "analisis": "La Procuraduría sostiene que el problema no es reciente, lo que apunta a rezagos de inversión en mantenimiento. La Aerocivil no ha dado su versión completa; la mesa del 9 de noviembre será la primera oportunidad.",
+      "implicaciones": "Empresas que dependen de carga aérea o viajes deben prever márgenes de tiempo y planes de contingencia. Posibles contrataciones urgentes de modernización.",
+      "que_vigilar": "Explicaciones en la mesa técnica del 9 de noviembre, plan de inversión en radares y nuevas contingencias.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Procuraduría cita a director de Aerocivil por fallas en radares y navegación aérea",
+          "url": "https://www.infobae.com/colombia/2026/11/06/procuraduria-cita-a-director-de-aerocivil-por-fallas-en-radares-y-navegacion-aerea/"
+        },
+        {
+          "medio": "El País (Cali)",
+          "titulo": "Procuraduría pide rendición de cuentas a la Aeronáutica Civil por fallas en sistemas de navegación",
+          "url": "https://www.elpais.com.co/colombia/procuraduria-cita-a-director-de-la-aeronautica-civil-para-que-rinda-cuentas-sobre-fallas-en-los-sistemas-de-navegacion-aerea-0542.html"
         },
         {
           "medio": "El Heraldo",
-          "titulo": "Presidente De la Espriella sancionó la Ley de Sometimiento",
-          "url": "https://www.elheraldo.co/colombia/2026/11/05/presidente-de-la-espriella-sanciono-la-ley-de-sometimiento/"
+          "titulo": "Procuraduría cita al director de la Aerocivil tras fallas en los sistemas de navegación aérea",
+          "url": "https://www.elheraldo.co/colombia/2026/11/05/procuraduria-cita-al-director-de-la-aerocivil-tras-fallas-en-los-sistemas-de-navegacion-aerea/"
         },
         {
-          "medio": "La FM",
-          "titulo": "Presidente De La Espriella sancionó la Ley de Sometimiento a la justicia",
-          "url": "https://www.lafm.com.co/politica/ley-de-sometimiento-sancionada-416167"
+          "medio": "Citytv (El Tiempo)",
+          "titulo": "Falla en los radares de El Dorado desató caos y obligó a cancelar vuelos",
+          "url": "https://citytv.eltiempo.com/programas/citynoticias-de-las-8/falla-en-los-radares-de-el-dorado-desato-caos-y-obligo-cancelar-vuelos_97057"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Abelardo de la Espriella celebró la aprobación de la Ley de Sometimiento",
-          "url": "https://www.infobae.com/colombia/2026/11/04/abelardo-de-la-espriella-celebro-la-aprobacion-de-la-ley-de-sometimiento-en-el-congreso-la-falsa-paz-total-llego-a-su-fin/"
+          "medio": "La Veintitrés",
+          "titulo": "Citan a director de Aerocivil por fallas en 8 de 14 radares del país",
+          "url": "https://laveintitres.com/citan-a-director-de-aerocivil-por-fallas-en-8-de-14-radares-del-pas/"
+        },
+        {
+          "medio": "360 Radio",
+          "titulo": "Ultimátum a la Aerocivil: Procuraduría exige explicaciones por la falla de radares",
+          "url": "https://360radio.com.co/aerocivil-procuraduria-falla-radares/236387/"
         }
       ]
     },
     {
-      "titulo": "BanRep empeora su pronóstico: inflación de 7,1 % al cierre de 2026 y PIB de 2,0 %",
-      "categoria": "Economía / Política monetaria",
-      "importancia": 5,
-      "resumen": "El Banco de la República publicó el 4 de noviembre su Informe de Política Monetaria de octubre. Según la nota de Pymenoticias, proyecta que la inflación siga subiendo hasta 7,1 % al cierre de 2026 y baje a 4,8 % a finales de 2027; el crecimiento sería de 2,0 % en 2026 y 1,7 % en 2027. El informe dice que futuras acciones 'dependerán de la nueva información sobre los precios'. La tasa sigue en 12,25 %. Las minutas salen hoy 5 de noviembre y el gerente técnico, Hernando Vargas, presenta el informe el 6.",
-      "por_que_importa": "Una inflación que sube con economía lenta deja poco espacio para bajar tasas: el crédito seguirá caro en 2027. Tras la votación 4–3 del 30 de octubre, en la que tres codirectores pedían subir, el informe alimenta la posibilidad de un alza en diciembre.",
-      "perspectivas": [
-        {
-          "medio": "Pymenoticias",
-          "enfoque": "Resume las cifras centrales del informe: PIB 2,0 % e inflación 7,1 %."
-        },
-        {
-          "medio": "Colombia Hoy (boletín)",
-          "enfoque": "Lo presenta como un doble deterioro: más inflación y menos crecimiento que lo previsto oficialmente."
-        },
-        {
-          "medio": "Banco de la República",
-          "enfoque": "Mensaje institucional: las decisiones dependerán de los datos de precios."
-        }
-      ],
-      "coincidencias": "Las fuentes coinciden en que el Emisor ve más inflación y menos crecimiento que antes, y en que la tasa sigue en 12,25 %.",
-      "diferencias": "La cobertura de la gran prensa económica sobre este informe aún era escasa al cierre de esta edición; una publicación de La República en X citaba cifras distintas (6,9 % para 2026 y 4,3 % para 2027), que podrían corresponder a un informe anterior.",
-      "analisis": "El pronóstico choca con el Gobierno, que espera que su ajuste fiscal ayude a bajar la inflación. Los partidarios de subir tasas en el BanRep tendrán un argumento más; quienes prefieren esperar dirán que el petróleo más barato y un peso más fuerte pueden aliviar precios. Las cifras exactas deben confirmarse en el documento oficial.",
-      "implicaciones": "Planee con tasas altas durante 2027: costo de deuda, refinanciaciones e inventarios. Indexación de contratos y precios al consumidor seguirán presionados. La presentación del 6 de noviembre y las minutas darán pistas sobre diciembre.",
-      "que_vigilar": "Minutas (5 nov), presentación del informe (6 nov), dato de inflación de octubre del DANE y decisión del 18 de diciembre.",
-      "fuentes": [
-        {
-          "medio": "Pymenoticias",
-          "titulo": "Informe de Política Monetaria: PIB 2,0 % e inflación 7,1 %",
-          "url": "https://www.pymenoticias.com/post/banrep-informe-politica-monetaria-crecimiento-inflacion"
-        },
-        {
-          "medio": "Colombia Hoy",
-          "titulo": "Colombia Hoy — jueves, 5 de noviembre de 2026",
-          "url": "https://colombiahoy.substack.com/p/colombia-hoy-jueves-5-de-noviembre"
-        },
-        {
-          "medio": "Banco de la República",
-          "titulo": "Comunicados y ruedas de prensa de la Junta Directiva",
-          "url": "https://www.banrep.gov.co/es/comunicados-junta"
-        }
-      ]
-    },
-    {
-      "titulo": "Ley de Rescate Económico: mensaje de urgencia y advertencia de default",
-      "categoria": "Economía / Política fiscal",
-      "importancia": 5,
-      "resumen": "El Gobierno radicó el 3 de noviembre un mensaje de urgencia e insistencia para acelerar el trámite del proyecto (477 de 2026 Cámara), que permite sesiones conjuntas de comisiones y plazos más cortos. El proyecto baja la renta empresarial del 35 % al 33 % en 2027 y al 31 % desde 2028, y suma recortes de gasto y austeridad. El vicepresidente José Manuel Restrepo advirtió que sin la ley Colombia podría entrar en default en 2027. El Gobierno espera aprobarla antes de terminar el año.",
-      "por_que_importa": "Es la principal apuesta fiscal del Gobierno y de ella depende la percepción de riesgo país, el costo de la deuda y la carga tributaria de empresas y hogares desde 2027.",
-      "perspectivas": [
-        {
-          "medio": "Portafolio",
-          "enfoque": "Énfasis en el trámite: la urgencia como herramienta para aprobar antes de fin de año."
-        },
-        {
-          "medio": "La República",
-          "enfoque": "Explica los cinco puntos clave del proyecto para empresas y contribuyentes."
-        },
-        {
-          "medio": "El Espectador",
-          "enfoque": "Detalla lo que propone el Gobierno artículo por artículo."
-        },
-        {
-          "medio": "Semana",
-          "enfoque": "Destaca el escenario de riesgo si la ley no pasa: 'la magnitud del problema'."
-        },
-        {
-          "medio": "Noticias RCN",
-          "enfoque": "Cobertura del mensaje de urgencia como paso procedimental."
-        }
-      ],
-      "coincidencias": "Coinciden en la urgencia radicada el 3 de noviembre, la rebaja de renta empresarial y en que el texto puede cambiar en el Congreso.",
-      "diferencias": "Semana y voceros del Gobierno resaltan el riesgo de default si no se aprueba; otros medios se concentran en el contenido técnico. El número de artículos varía entre fuentes (105 o 106).",
-      "analisis": "Según el Gobierno, sin la ley la deuda se vuelve insostenible. Críticos, citados en ediciones anteriores, sostienen que el ajuste descansa más en impuestos (como el IVA a alimentos) que en gasto, y que la rebaja a empresas cuesta caro. La advertencia de default es una valoración del Gobierno, no un hecho; las calificadoras serán el árbitro.",
-      "implicaciones": "Las empresas deben modelar dos escenarios para 2027–2028 (con y sin reforma). La urgencia acorta tiempos: los cambios al texto pueden llegar rápido en comisiones conjuntas.",
-      "que_vigilar": "Fecha de primer debate en comisiones conjuntas, ponencias, posición de los partidos tras el paro de la CUT del 19 de noviembre y reacción de calificadoras.",
-      "fuentes": [
-        {
-          "medio": "Portafolio",
-          "titulo": "Gobierno De La Espriella radicó en el Congreso mensaje de urgencia para acelerar trámite de ley de rescate fiscal",
-          "url": "https://www.portafolio.co/economia/gobierno/gobierno-de-la-espriella-radico-en-el-congreso-mensaje-de-urgencia-para-acelerar-tramite-de-ley-de-rescate-fiscal-505646"
-        },
-        {
-          "medio": "La República",
-          "titulo": "Estos son los cinco puntos claves que contiene la Ley de Rescate Económico",
-          "url": "https://www.larepublica.co/economia/estos-son-los-cinco-puntos-claves-que-contiene-la-ley-de-rescate-economico-del-gobierno-4514369"
-        },
-        {
-          "medio": "El Espectador",
-          "titulo": "Ley de Rescate Económico llegó al Congreso: esto es lo que quiere el Gobierno",
-          "url": "https://www.elespectador.com/economia/ley-de-rescate-economico-llego-al-congreso-esto-es-lo-que-propone-el-gobierno/"
-        },
-        {
-          "medio": "Semana",
-          "titulo": "Qué pasaría si la Ley de Rescate Económico no pasa en el Congreso",
-          "url": "https://www.semana.com/semana-tv/semana-el-debate/articulo/vaticinan-en-vivo-que-pasaria-si-la-ley-de-rescate-economico-no-pasa-en-el-congreso-la-magnitud-del-problema/202626/"
-        },
-        {
-          "medio": "Noticias RCN",
-          "titulo": "Gobierno radicó mensaje de urgencia para acelerar trámite de la ley de rescate económico",
-          "url": "https://www.noticiasrcn.com/colombia/gobierno-radico-mensaje-de-urgencia-para-acelerar-tramite-de-la-ley-de-rescate-economico-en-el-congreso-1078250"
-        },
-        {
-          "medio": "INCP",
-          "titulo": "Gobierno Nacional radicó en el Congreso proyecto de ley de rescate económico",
-          "url": "https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/gobierno-nacional-radico-en-el-congreso-proyecto-de-ley-de-rescate-economico/"
-        }
-      ]
-    },
-    {
-      "titulo": "Congreso aprueba en primer debate adición de $3,8 billones al presupuesto 2026",
-      "categoria": "Economía / Presupuesto",
-      "importancia": 4,
-      "resumen": "Las comisiones económicas conjuntas aprobaron el 4 de noviembre en primer debate una adición de $3,8 billones al Presupuesto de 2026. Incluye $2,7 billones para el Fondo Milagro, destinado a atender las necesidades del terremoto, y $1,15 billones para el programa Colombia Mayor. Hay traslados de unos $1,4 billones para seguridad energética y compromisos con veteranos. Se financia sobre todo con recaudo extraordinario de la emergencia económica. Pasa a plenarias de Senado y Cámara.",
-      "por_que_importa": "Muestra que el Gobierno puede construir mayorías con sectores de oposición en temas fiscales, una señal relevante antes del debate de la Ley de Rescate.",
-      "perspectivas": [
-        {
-          "medio": "El Tiempo",
-          "enfoque": "Cobertura informativa del avance en primer debate y su cuantía."
-        },
-        {
-          "medio": "El País (Cali)",
-          "enfoque": "Pone el foco en el destino al Fondo Milagro y la atención de emergencias."
-        },
-        {
-          "medio": "El Nuevo Siglo",
-          "enfoque": "Destaca el consenso logrado con la oposición, incluido el Pacto Histórico, a cambio de seguimiento al Fondo Milagro."
-        },
-        {
-          "medio": "El Universal",
-          "enfoque": "Nota de agenda legislativa sobre el paso a segundo debate."
-        }
-      ],
-      "coincidencias": "Las fuentes coinciden en el monto, la aprobación en primer debate, el peso del Fondo Milagro y Colombia Mayor, y el paso a plenarias.",
-      "diferencias": "Difieren en el monto de traslados ($1,47 billones o $1,4 billones) y en el detalle de la financiación. El senador Wilson Arias votó en contra; la cobertura recoge poco sus argumentos.",
-      "analisis": "Para el Gobierno, la adición es indispensable para atender la emergencia y a los adultos mayores. Para la oposición, el apoyo quedó condicionado a controles sobre el Fondo Milagro, lo que refleja desconfianza sobre la ejecución.",
-      "implicaciones": "Contratistas de reconstrucción y del sector energético pueden ver recursos en el corto plazo. El acuerdo con la oposición es un termómetro de la gobernabilidad fiscal.",
-      "que_vigilar": "Votación en plenarias, artículo de seguimiento del Fondo Milagro y ejecución antes de fin de año.",
-      "fuentes": [
-        {
-          "medio": "El Tiempo",
-          "titulo": "Comisiones Económicas del Congreso aprueban en primer debate una adición al presupuesto de 2026 por $3,8 billones",
-          "url": "https://www.eltiempo.com/politica/congreso/comisiones-economicas-del-congreso-aprueban-en-primer-debate-una-adicion-al-presupuesto-de-2026-por-3-8-billones-3598512"
-        },
-        {
-          "medio": "El País (Cali)",
-          "titulo": "Adición presupuestal de $3,8 billones pasa a segundo debate con destinación de recursos al Fondo Milagro",
-          "url": "https://www.elpais.com.co/economia/comisiones-economicas-aprueban-adicion-presupuestal-de-38-billones-para-atender-emergencias-en-el-pais-0458.html"
-        },
-        {
-          "medio": "El Nuevo Siglo",
-          "titulo": "Aprueban adición presupuestal de $3,8 billones para la vigencia de 2026",
-          "url": "https://www.elnuevosiglo.com.co/politica/aprueban-adicion-presupuestal-de-38-billones-para-la-vigencia-de-2026"
-        },
-        {
-          "medio": "El Universal",
-          "titulo": "Congreso aprueba en primer debate adición presupuestal de $3,8 billones",
-          "url": "https://www.eluniversal.com.co/colombia/2026/11/04/congreso-aprueba-en-primer-debate-adicion-presupuestal-de-38-billones/"
-        }
-      ]
-    },
-    {
-      "titulo": "Congreso demócrata en EE. UU.: más exigencias para Colombia",
-      "categoria": "Relaciones exteriores",
-      "importancia": 4,
-      "resumen": "Con los demócratas al frente de ambas cámaras de EE. UU., analistas y medios colombianos anticipan más supervisión sobre la cooperación, la ayuda y la agenda migratoria. Según Prensa Latina, Gregory Meeks, que presidiría el Comité de Asuntos Exteriores de la Cámara, había advertido que el respaldo de De la Espriella a la republicana María Elvira Salazar ponía en riesgo el apoyo bipartidista. AmCham Colombia recordó que los US$1.000 millones ofrecidos por EE. UU. requieren interlocución con el Congreso.",
-      "por_que_importa": "La cooperación en seguridad, la ayuda y el clima comercial con el principal socio de Colombia pasan por el Congreso estadounidense, que ahora controla la oposición a Trump.",
-      "perspectivas": [
-        {
-          "medio": "El Colombiano",
-          "enfoque": "Titula que 'aumentarían las exigencias' a Colombia."
-        },
-        {
-          "medio": "Cambio",
-          "enfoque": "Sostiene que el resultado obliga a De la Espriella a modificar su agenda."
-        },
-        {
-          "medio": "Publimetro",
-          "enfoque": "Advierte que la derrota de Trump afectará la relación del presidente con Washington, aunque es pronto para saber si cambiará sus políticas."
-        },
-        {
-          "medio": "La FM",
-          "enfoque": "Enfoca los retos diplomáticos para Colombia."
-        },
-        {
-          "medio": "Vanguardia",
-          "enfoque": "Explicativo: qué cambia para Colombia."
-        }
-      ],
-      "coincidencias": "Todos coinciden en que crecerá el escrutinio del Congreso de EE. UU. sobre ayuda, derechos humanos y migración.",
-      "diferencias": "Cambio, El Colombiano y voces de oposición citadas por Prensa Latina ven un costo político para el Gobierno; el analista Michael Shifter sostiene que la relación estratégica no está en riesgo.",
-      "analisis": "El cambio de mayorías no altera la alianza de fondo, pero sí la forma: más condiciones y audiencias. El Gobierno colombiano, alineado con Trump, tendrá que tender puentes con legisladores demócratas.",
-      "implicaciones": "Exportadores y empresas con negocios en EE. UU. deben vigilar temas laborales y ambientales que podrían entrar en la agenda bilateral. Programas financiados con cooperación pueden enfrentar más requisitos.",
-      "que_vigilar": "Conformación de comités en enero, presupuesto de cooperación y gestos de la Cancillería hacia los demócratas.",
-      "fuentes": [
-        {
-          "medio": "El Colombiano",
-          "titulo": "Lo que vendría para Colombia tras la elección de un Congreso demócrata en EE. UU.",
-          "url": "https://www.elcolombiano.com/colombia/victoria-democrata-congreso-eeuu-consecuencias-para-colombia-KA43164482"
-        },
-        {
-          "medio": "Cambio",
-          "titulo": "Trump sufre una derrota enorme en EE. UU.: ¿qué significa para Abelardo de la Espriella y Colombia?",
-          "url": "https://cambiocolombia.com/poder/articulo/2026/11/los-votantes-castigan-a-donald-trump-y-obligan-a-abelardo-de-la-espriella-a-modificar-su-agenda"
-        },
-        {
-          "medio": "Publimetro",
-          "titulo": "Midterms en Estados Unidos: la derrota de Trump va a afectar a De la Espriella",
-          "url": "https://www.publimetro.co/noticias/2026/11/04/midterms-en-estados-unidos-la-derrota-de-trump-va-a-afectar-a-de-la-espriella-y-su-relacion-con-washington/"
-        },
-        {
-          "medio": "La FM",
-          "titulo": "Elecciones en EE. UU.: el reto que enfrenta Colombia tras el avance demócrata",
-          "url": "https://www.lafm.com.co/internacional/elecciones-estados-unidos-retos-para-colombia-avance-democrata-congreso-416082"
-        },
-        {
-          "medio": "Vanguardia",
-          "titulo": "Los demócratas recuperan el Congreso: ¿qué cambia para Colombia?",
-          "url": "https://www.vanguardia.com/mundo/2026/11/04/en-las-elecciones-en-estados-unidos-2026-los-democratas-recuperan-el-congreso-que-cambia-para-colombia/"
-        },
-        {
-          "medio": "Prensa Latina",
-          "titulo": "Congresistas alertan cómo impactaría triunfo demócrata en Colombia",
-          "url": "https://www.prensa-latina.cu/2026/11/04/congresistas-alertan-como-impactaria-triunfo-democrata-en-colombia/"
-        }
-      ]
-    },
-    {
-      "titulo": "Tribunal mantiene suspendida la aspersión aérea con glufosinato en Putumayo",
-      "categoria": "Orden público / Drogas",
+      "titulo": "COLCAP pierde los 2.500 puntos; Ecopetrol vuelve a caer",
+      "categoria": "Mercados / Empresas",
       "importancia": 3,
-      "resumen": "El Tribunal Administrativo de Putumayo mantuvo suspendido, por un máximo de cuatro meses, el plan piloto de aspersión aérea con glufosinato de amonio sobre hasta 1.000 hectáreas de coca. Según Infobae, el argumento central fue la incertidumbre científica sobre el uso del químico por vía aérea. El tribunal también criticó al juez de primera instancia por imponer condiciones sin mecanismos claros de verificación ni límites temporales.",
-      "por_que_importa": "La aspersión es pieza central de la estrategia antidrogas del Gobierno; el freno judicial retrasa su aplicación y abre un debate sobre salud y ambiente.",
+      "resumen": "El MSCI COLCAP cayó por segundo día el 5 de noviembre (−0,88 % a unos 2.484 puntos, según The Rio Times; −0,86 % según Investing.com) y tocó un mínimo de un mes. Ecopetrol bajó 4,08 %, tras caer 5,19 % el día anterior, y las pérdidas se concentraron en financieras, holdings y servicios públicos. El dólar subió levemente: promedio de $3.228,19 en Set-FX, y la TRM de hoy es $3.228,26. Ecopetrol presenta resultados del tercer trimestre el 10 de noviembre.",
+      "por_que_importa": "Ecopetrol pesa en el índice, en los dividendos al Estado y en las finanzas públicas; su caída refleja la volatilidad del petróleo por la guerra con Irán.",
       "perspectivas": [
         {
-          "medio": "Infobae",
-          "enfoque": "Destaca la incertidumbre científica y el límite de cuatro meses."
-        },
-        {
-          "medio": "La Silla Vacía",
-          "enfoque": "La incluye entre las claves del día como revés judicial para el Gobierno."
-        },
-        {
           "medio": "The Rio Times",
-          "enfoque": "Lo presenta para audiencia internacional como una pausa en la fumigación de coca."
+          "enfoque": "Encuadre para inversionistas extranjeros: el índice pierde los 2.500 puntos aunque el peso gana."
+        },
+        {
+          "medio": "Investing.com",
+          "enfoque": "Nota de cierre centrada en sectores y el mínimo de un mes."
+        },
+        {
+          "medio": "Infobae / Noticias RCN",
+          "enfoque": "Cobertura del dólar: leve alza y volumen negociado."
         }
       ],
-      "coincidencias": "Coinciden en que la suspensión se mantiene y es provisional.",
-      "diferencias": "Las fuentes no coinciden en las fechas de los fallos previos; Infobae resalta tanto el freno como la crítica al juez de primera instancia, lo que deja abierta una salida para el Gobierno.",
-      "analisis": "El Gobierno sostiene que la aspersión es necesaria para reducir cultivos; comunidades y demandantes alegan riesgos a la salud y falta de consulta. El plazo de cuatro meses fija un horizonte para una decisión de fondo.",
-      "implicaciones": "Para agroindustria y operaciones en el sur del país, la erradicación seguirá siendo manual en el corto plazo. Riesgo de tensiones sociales en zonas cocaleras.",
-      "que_vigilar": "Decisión de fondo de la tutela y estudios científicos que presente el Gobierno.",
+      "coincidencias": "Coinciden en la caída del índice, en el peso de Ecopetrol y en un dólar estable cerca de $3.228.",
+      "diferencias": "Pequeñas diferencias en el porcentaje de caída del COLCAP por hora de corte.",
+      "analisis": "La bolsa local siente a la vez la caída del crudo del miércoles y el ambiente de aversión al riesgo global del jueves. El índice conserva una ganancia acumulada de más de 20 % en el año, según Valora Analitik.",
+      "implicaciones": "Inversionistas: alta sensibilidad de la acción de Ecopetrol al petróleo y a sus resultados del 10 de noviembre. Empresas con deuda en dólares: tipo de cambio estable en el rango previsto por Bancolombia ($3.120–$3.300 para noviembre).",
+      "que_vigilar": "Resultados de Ecopetrol (10 nov), precio del Brent y rebalanceo del COLCAP (sin cambios previstos, efectivo 1 dic).",
       "fuentes": [
         {
-          "medio": "Infobae",
-          "titulo": "Tribunal mantiene suspendida aspersión aérea en Putumayo por máximo cuatro meses",
-          "url": "https://www.infobae.com/colombia/2026/11/05/tribunal-mantiene-suspendida-aspersion-aerea-en-putumayo-por-maximo-cuatro-meses/"
-        },
-        {
-          "medio": "La Silla Vacía",
-          "titulo": "Desayune informado con las claves de este 5 de noviembre de 2026",
-          "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-5-de-noviembre-de-2026/"
-        },
-        {
           "medio": "The Rio Times",
-          "titulo": "Colombia Court Keeps Coca Spraying Paused",
-          "url": "https://riotimesonline.com/colombia-court-keeps-coca-spraying-paused-putumayo-2026"
+          "titulo": "Colombia Stocks Slip 0.9% as Peso Gains",
+          "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-thursday-november-5-2026/"
+        },
+        {
+          "medio": "Investing.com",
+          "titulo": "Colombia stocks lower at close of trade; COLCAP down 0.86%",
+          "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-086-5005692"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Precio del dólar hoy en Colombia: así cerró el 5 de noviembre de 2026",
+          "url": "https://www.infobae.com/colombia/2026/11/05/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-5-de-noviembre/"
+        },
+        {
+          "medio": "Noticias RCN",
+          "titulo": "Dólar en Colombia hoy, 5 de noviembre: así cerró la divisa este jueves",
+          "url": "https://www.noticiasrcn.com/economia/dolar-hoy-colombia-5-noviembre-2026-precio-cierre-1079002"
+        },
+        {
+          "medio": "Pluralidad Z",
+          "titulo": "Rebalanceo MSCI Colcap noviembre 2026 sin cambios",
+          "url": "https://pluralidadz.com/economia/rebalanceo-msci-colcap-noviembre-2026-no-tendria-cambios-en-su-canasta/"
         }
       ]
     }
   ],
   "mundo": [
     {
-      "titulo": "Los demócratas ganan también el Senado: Trump pierde el Congreso",
-      "categoria": "EE. UU. / Política",
+      "titulo": "Desplome de la IA: el Nasdaq cae 5,5 % y entra en corrección",
+      "categoria": "Mercados / Tecnología",
       "importancia": 5,
-      "resumen": "Tras las elecciones del 3 de noviembre, CBS y NBC proyectan que los demócratas controlarán el Senado con al menos 54 escaños, además de la Cámara. Ganaron escaños en estados como Ohio, Iowa, Carolina del Norte y Maine, según los conteos; algunas contiendas (Iowa y Misisipi, según NBC) seguían sin definirse. El líder demócrata Chuck Schumer prometió un 'alambre de púas legislativo' frente a Trump. Trump reconoció en entrevistas con Fox News y The Wall Street Journal que la guerra con Irán fue 'parte' de la derrota, pero dijo que lo volvería a hacer.",
-      "por_que_importa": "Con ambas cámaras en contra, Trump queda limitado en presupuesto, nombramientos y nuevas leyes durante sus dos últimos años; el Congreso gana poder de investigación y presión sobre la guerra con Irán.",
+      "resumen": "El 5 de noviembre el Nasdaq Composite cayó 5,52 % a 24.315 puntos, su peor día desde abril de 2025, y quedó más de 10 % por debajo de su máximo del 6 de octubre. El S&P 500 bajó 4,36 % a 7.353,73 y el Dow 3,44 % (−1.833 puntos) a 51.523,06, borrando la subida del día anterior. Nvidia perdió 9,26 % y el índice de semiconductores de Filadelfia más de 12 %; Qualcomm (−14 %) y Arm (−15 %) cayeron tras pronósticos cautelosos. La venta se extendió a memorias, hardware y centros de datos.",
+      "por_que_importa": "La IA ha sido el motor de las bolsas; una corrección fuerte afecta la riqueza de los inversionistas, el apetito por riesgo en emergentes y la inversión en centros de datos.",
       "perspectivas": [
         {
-          "medio": "CBS News",
-          "enfoque": "Encuadra el resultado como victorias sorpresivas en estados republicanos y destaca la promesa de Schumer de frenar a Trump."
+          "medio": "Fox Business",
+          "enfoque": "Vincula la caída a lo que la victoria demócrata podría significar para la regulación de la IA y los centros de datos."
         },
         {
-          "medio": "Axios",
-          "enfoque": "Resalta la lectura del vicepresidente Vance: 'perdimos por la guerra'."
+          "medio": "The Motley Fool",
+          "enfoque": "Lo atribuye a escepticismo sobre la demanda e incertidumbre política, no a noticias de empresas puntuales."
         },
         {
-          "medio": "AP (vía U.S. News)",
-          "enfoque": "Se centra en que Trump admite el peso de Irán en la derrota pero defiende la guerra."
+          "medio": "Gulf Business",
+          "enfoque": "Destaca dudas sobre la inversión en IA, valoraciones exigentes y posibles restricciones regulatorias."
         },
         {
-          "medio": "CNBC",
-          "enfoque": "Enfoque en la aritmética del Senado y su efecto en mercados."
+          "medio": "FX Leaders",
+          "enfoque": "Señala los pronósticos cautelosos de Qualcomm y Arm como detonante de toma de ganancias."
         },
         {
-          "medio": "Iran International",
-          "enfoque": "Destaca que los demócratas exigen terminar la guerra."
+          "medio": "StockTitan",
+          "enfoque": "Cobertura de cierre: la venta de chips se propagó a todo el mercado."
         }
       ],
-      "coincidencias": "Las fuentes coinciden en que los demócratas controlarán ambas cámaras y en que la guerra con Irán pesó en el voto.",
-      "diferencias": "Las cifras finales de escaños aún varían entre conteos. Medios de corte progresista enfatizan el rechazo a Trump; otros, como AP, subrayan que Trump mantiene el veto y no cambiará de rumbo.",
-      "analisis": "Los demócratas pueden negar fondos nuevos y abrir investigaciones, pero no terminar la guerra solos por el veto presidencial. Para los republicanos, el resultado abre un debate interno sobre la guerra, como muestra la declaración de Vance.",
-      "implicaciones": "Más probabilidad de parálisis legislativa y pulsos por el presupuesto (riesgo de cierres de gobierno). Menor margen para nuevas rebajas de impuestos o aranceles por vía legislativa.",
-      "que_vigilar": "Conteo final en Iowa y Misisipi, agenda del nuevo Congreso en enero y negociaciones presupuestales.",
+      "coincidencias": "Las fuentes coinciden en la magnitud de la caída, en que la encabezaron chips e IA y en que el Nasdaq entró en corrección.",
+      "diferencias": "Difieren en la causa principal: unas destacan el riesgo regulatorio tras la elección; otras, las valoraciones y los pronósticos de empresas.",
+      "analisis": "Tras meses de alzas, el mercado parece revisar cuánto vale el gasto en IA. La explicación electoral es una interpretación de los medios; también pesan las guías de empresas. Una sola sesión no confirma un cambio de tendencia.",
+      "implicaciones": "Más aversión al riesgo puede presionar monedas y bolsas emergentes. Empresas con planes de inversión en tecnología pueden encontrar mejores precios de proveedores, pero mercados de capital más exigentes.",
+      "que_vigilar": "Resultados de empresas de chips en las próximas semanas, flujo hacia bonos y si la caída se extiende a Asia y Europa.",
       "fuentes": [
         {
-          "medio": "CBS News",
-          "titulo": "2026 Senate midterm election results as Democrats win control",
-          "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+          "medio": "Fox Business",
+          "titulo": "Nasdaq tumbles 5%, Dow plunges more than 1,800 points",
+          "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
         },
         {
-          "medio": "NBC News",
-          "titulo": "U.S. Senate Election 2026 Live Results: Democrats Win Majority",
-          "url": "https://www.nbcnews.com/politics/2026-elections/senate-results"
+          "medio": "The Motley Fool",
+          "titulo": "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nvidia-slides-on-ai-chip-selloff-as-election-uncertainty-weighs/"
         },
         {
-          "medio": "CNBC",
-          "titulo": "2026 midterm election results: House, Senate",
-          "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"
+          "medio": "Gulf Business",
+          "titulo": "Global AI stock selloff wipes trillions off Wall Street as Nasdaq plunges 5.5%",
+          "url": "https://gulfbusiness.com/en/2026/world/global-ai-stock-selloff-wipes-trillions-off-wall-street-as-nasdaq-plunges-5-5/"
         },
         {
-          "medio": "Axios",
-          "titulo": "Vance says the Iran war cost Republicans the midterms",
-          "url": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election"
+          "medio": "FX Leaders",
+          "titulo": "Nvidia (NVDA) Stock Plunges Nearly 8% as Broad AI and Chip Sell-Off Erases Over 1,000 Nasdaq Points",
+          "url": "https://www.fxleaders.com/news/2026/11/05/nvidia-nvda-stock-plunges-nearly-8-as-broad-ai-and-chip-sell-off-erases-over-1000-nasdaq-points/"
         },
         {
-          "medio": "U.S. News (AP)",
-          "titulo": "Trump Acknowledges Role of Iran War in Democratic Sweep in Midterm Elections",
-          "url": "https://www.usnews.com/news/politics/articles/2026-11-04/trump-acknowledges-iran-played-role-in-republican-midterm-losses"
-        },
-        {
-          "medio": "Iran International",
-          "titulo": "Democrats demand end to Iran war after US midterm sweep",
-          "url": "https://www.iranintl.com/en/202611041086"
+          "medio": "StockTitan",
+          "titulo": "The Stock Market Today, November 5, 2026, Closed Sharply Lower as the AI Chip Selloff Spread",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
         }
       ]
     },
     {
-      "titulo": "El petróleo se desploma 8,7 %: el mercado apuesta al fin de la guerra",
+      "titulo": "El petróleo rebota 3,9 %: el mercado duda del fin rápido de la guerra",
       "categoria": "Energía / Mercados",
-      "importancia": 5,
-      "resumen": "El Brent cerró el 4 de noviembre en US$94,62 (−8,7 %) y el WTI en US$88,12 (−8,3 %), sus niveles más bajos desde el 31 de agosto. El mercado interpreta que un Congreso demócrata presionará a Trump para terminar la guerra con Irán. Los flujos por Ormuz se mantenían cerca de niveles previos a la guerra, e Irán eximió del bloqueo a buques de cuatro países, entre ellos India y China. Este jueves el crudo cae por cuarto día, con el Brent cerca de US$94.",
-      "por_que_importa": "El petróleo es la principal exportación de Colombia: un Brent más bajo reduce ingresos fiscales y de Ecopetrol, pero baja costos de combustibles e inflación en el mundo.",
+      "importancia": 4,
+      "resumen": "Tras el desplome del miércoles, el Brent (enero) subió 3,9 % el 5 de noviembre y cerró en US$98,29; el WTI (diciembre) ganó 2,7 % a US$90,52. Trump dijo que no tiene planes inmediatos de nuevos ataques contra Irán, aunque EE. UU. sigue preparado para escalar. The New York Times informó que Irán revisa propuestas de mediadores sobre su programa nuclear. Eurasia Group advirtió que una escalada podría llevar el Brent a US$110–125.",
+      "por_que_importa": "La volatilidad extrema del crudo complica presupuestos de empresas y del Estado colombiano, cuyos ingresos dependen del petróleo.",
       "perspectivas": [
         {
-          "medio": "Bloomberg / Rigzone",
-          "enfoque": "Encuadra la caída como una apuesta por la desescalada con Irán tras la elección."
+          "medio": "Rigzone (Bloomberg)",
+          "enfoque": "Presenta el alza como un rebote técnico tras la venta masiva."
         },
         {
           "medio": "CNBC",
-          "enfoque": "Vincula la caída directamente al mensaje de Vance culpando a la guerra de la derrota."
+          "enfoque": "Enfatiza la incertidumbre sobre la guerra como motor del rebote."
         },
         {
-          "medio": "Axios",
-          "enfoque": "Destaca la reacción del mercado a la publicación de Vance."
-        },
-        {
-          "medio": "OilPrice",
-          "enfoque": "Titular más dramático: el crudo 'se estrella' 9 %."
+          "medio": "APAC News Network",
+          "enfoque": "Destaca que el mercado sigue mirando un posible fin de la guerra."
         }
       ],
-      "coincidencias": "Coinciden en la magnitud de la caída y en que se explica por expectativas políticas, no por cambios en la oferta física.",
-      "diferencias": "Algunas fuentes advierten que un funcionario iraní desmintió avances en las conversaciones y que hace falta una salida duradera para que la caída continúe; otras dan casi por descontada la desescalada.",
-      "analisis": "La caída descuenta un fin de la guerra que todavía no existe: Trump insiste en su estrategia y siguen los incidentes en Ormuz. Si las negociaciones fracasan, el rebote puede ser rápido.",
-      "implicaciones": "Para Colombia: presión sobre ingresos petroleros y el COLCAP (Ecopetrol cayó 5,19 %), pero alivio en inflación importada y en costos de transporte. Revise coberturas de combustible y supuestos de precio del presupuesto 2027.",
-      "que_vigilar": "Conversaciones EE. UU.–Irán, incidentes en Ormuz, decisiones de la OPEP+ e inventarios en EE. UU.",
+      "coincidencias": "Coinciden en que el precio sube tras la caída y en que todo depende de la diplomacia con Irán.",
+      "diferencias": "Algunos medios subrayan la esperanza de paz; otros, el riesgo de escalada y precios mucho más altos.",
+      "analisis": "El mercado oscila entre dos escenarios extremos: acuerdo (precios más bajos) o escalada (por encima de US$110). Con señales mixtas de Washington y Teherán, la volatilidad seguirá.",
+      "implicaciones": "Para Colombia, un Brent cerca de US$95–100 sigue alto frente a años anteriores; conviene usar rangos amplios en presupuestos y coberturas de combustible.",
+      "que_vigilar": "Respuestas de EE. UU. e Irán a los mediadores, incidentes en Ormuz e inventarios.",
       "fuentes": [
         {
           "medio": "Rigzone (Bloomberg)",
-          "titulo": "Oil Plunges as Election Shifts Iran Outlook",
-          "url": "https://www.rigzone.com/news/wire/oil_plunges_as_election_shifts_iran_outlook-04-nov-2026-185012-article/"
+          "titulo": "Oil Rebounds After Sharp Iran War Selloff",
+          "url": "https://www.rigzone.com/news/wire/oil_rebounds_after_sharp_iran_war_selloff-05-nov-2026-185023-article/"
         },
         {
           "medio": "CNBC",
-          "titulo": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
-          "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html"
+          "titulo": "Oil rises as investors weigh uncertainties around Iran war",
+          "url": "https://www.cnbc.com/amp/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
         },
         {
-          "medio": "Axios",
-          "titulo": "Oil prices plunge after Vance post on Iran war",
-          "url": "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran"
-        },
-        {
-          "medio": "OilPrice",
-          "titulo": "Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout",
-          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
-        },
-        {
-          "medio": "Financefeeds",
-          "titulo": "Brent Crude Oil Price: $94 Thursday After Wednesday's 9% Crash",
-          "url": "https://financefeeds.com/brent-crude-oil-price-94-thursday-after-9-percent-crash-us-iran-deal-bets-bull-100-bear-90/"
+          "medio": "APAC News Network",
+          "titulo": "Brent, WTI Crude Oil Prices Hold Losses as Markets Eye End to Iran War",
+          "url": "https://apacnewsnetwork.com/2026/11/brent-wti-crude-oil-prices-iran-war-peace-hopes/"
         }
       ]
     },
     {
-      "titulo": "Irán: tanqueros en llamas en Ormuz y diplomacia estancada",
+      "titulo": "Irán y EE. UU. revisan propuestas de mediadores, pero siguen lejos",
       "categoria": "Geopolítica / Medio Oriente",
       "importancia": 4,
-      "resumen": "La Guardia Revolucionaria iraní dijo que el 4 de noviembre cuatro tanqueros que intentaban pasar por una ruta 'prohibida' al sur de Ormuz fueron destruidos por minas, y este jueves reportó nuevos incendios en tanqueros y un remolcador (Al Jazeera habla de tres tanqueros; otros medios, de dos). Trump advirtió de un posible 'golpe fuerte' contra Irán. El presidente del Parlamento iraní, Qalibaf, dijo que los estadounidenses votaron 'no a la guerra'. Hay versiones distintas sobre el estado de las conversaciones indirectas mediadas por Catar, Pakistán y Arabia Saudita.",
-      "por_que_importa": "Ormuz es el paso de una parte clave del petróleo mundial; cualquier escalada revierte de inmediato la caída del crudo.",
+      "resumen": "Catar dijo que ambos países revisan propuestas de los mediadores; cinco funcionarios dijeron a The New York Times que Teherán estudia un paquete que podría definir el futuro de su programa nuclear. Trump dijo, según Bloomberg, que no tiene planes inmediatos de atacar, aunque en Fox News renovó advertencias; funcionarios de EE. UU. dijeron a i24NEWS que podría optar por una operación limitada contra instalaciones nucleares. Un alto funcionario iraní rechazó las 'exigencias excesivas' de Washington. El nudo: Trump exige que Irán entregue su material enriquecido y Teherán dice que no saldrá del país. La Guardia Revolucionaria afirmó haber derribado dos drones estadounidenses sobre Qeshm.",
+      "por_que_importa": "Un acuerdo bajaría el riesgo en Ormuz y el precio del petróleo; un fracaso o un ataque limitado podría disparar ambos.",
       "perspectivas": [
         {
-          "medio": "Al Jazeera",
-          "enfoque": "Cobertura en vivo centrada en los incidentes en Ormuz y en que Trump admite el costo electoral de la guerra."
+          "medio": "Bloomberg",
+          "enfoque": "Lee la postura de Trump tras la derrota electoral como un freno a nuevos ataques."
         },
         {
-          "medio": "CBS News",
-          "enfoque": "Subraya la reacción iraní al resultado electoral y que Trump dice que lo haría de nuevo; reporta conversaciones indirectas en curso."
+          "medio": "The New York Times (vía OnTimeBrief)",
+          "enfoque": "Pone el foco en la revisión iraní de propuestas nucleares."
         },
         {
-          "medio": "Gulf News",
-          "enfoque": "Describe las conversaciones como 'estancadas' y destaca las amenazas cruzadas."
+          "medio": "i24NEWS",
+          "enfoque": "Enfatiza la opción de un ataque limitado y la presión de Catar para evitarlo."
         },
         {
-          "medio": "Al Arabiya",
-          "enfoque": "Se apoya en la versión oficial iraní sobre los incendios."
+          "medio": "Business Standard",
+          "enfoque": "Subraya que las partes siguen lejos de un acuerdo."
+        },
+        {
+          "medio": "Anadolu",
+          "enfoque": "Destaca las advertencias de Trump y el reclamo iraní sobre los drones."
         }
       ],
-      "coincidencias": "Coinciden en que hubo nuevos incidentes con tanqueros reportados por Irán y en que no hay acuerdo a la vista.",
-      "diferencias": "El número de buques afectados varía según la fuente. Irán afirma que 11 tanqueros han ardido en nueve días, cifra que EE. UU. disputa. Unos medios ven diplomacia activa; otros, estancamiento.",
-      "analisis": "Irán busca capitalizar la derrota de Trump mostrando control sobre Ormuz, mientras Washington mantiene la presión militar. Muchas cifras provienen de una sola parte y no están verificadas de forma independiente.",
-      "implicaciones": "Alta volatilidad en petróleo, fletes y seguros marítimos. Empresas importadoras deben prever variaciones en costos logísticos.",
-      "que_vigilar": "Nuevos ataques o ataques de EE. UU., avances de mediadores y tránsito real por Ormuz.",
+      "coincidencias": "Las fuentes coinciden en que hay propuestas sobre la mesa y en que las posiciones sobre el material enriquecido siguen enfrentadas.",
+      "diferencias": "Unos medios ven una ventana diplomática tras las elecciones; otros resaltan la amenaza militar. El derribo de drones es una afirmación iraní no verificada.",
+      "analisis": "La derrota electoral reduce el margen político de Trump para escalar, pero él insiste en su línea dura. Irán intenta negociar desde una posición de fuerza en Ormuz.",
+      "implicaciones": "Alta volatilidad de energía, fletes y seguros marítimos en las próximas semanas.",
+      "que_vigilar": "Respuestas formales a los mediadores, posibles ataques limitados y tránsito por Ormuz.",
       "fuentes": [
         {
-          "medio": "Al Jazeera",
-          "titulo": "Iran war live: 3 tankers on fire in Hormuz; Saudi intercepts Houthi missile",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it"
+          "medio": "Bloomberg",
+          "titulo": "Trump Plays Down Prospect of Iran Strikes After Midterm Rout",
+          "url": "https://bloomberg.com/news/articles/2026-11-04/trump-plays-down-prospect-of-strikes-on-iran-after-midterm-rout"
         },
         {
-          "medio": "CBS News",
-          "titulo": "Iran says U.S. election results show Americans reject war, as Trump says he'd do it again",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+          "medio": "OnTimeBrief (NYT)",
+          "titulo": "Iran reviewing mediator proposals on nuclear program, officials tell NYT",
+          "url": "https://ontimebrief.com/en/2026/11/05/the-new-york-times-iran-reviewing-mediator-proposals-on-nuclear-program-officials-tell-nyt/"
         },
         {
-          "medio": "Gulf News",
-          "titulo": "Iran warns against war as Trump signals 'heavy hit' and tankers catch fire near Hormuz",
-          "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100"
+          "medio": "i24NEWS",
+          "titulo": "Iran weighs nuclear proposals as Qatar pushes to avert renewed US strikes",
+          "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-weighs-nuclear-proposals-as-qatar-pushes-to-avert-renewed-us-strikes-report"
         },
         {
-          "medio": "Al Arabiya",
-          "titulo": "Iran says two tankers and tugboat caught fire in Strait of Hormuz",
-          "url": "https://english.alarabiya.net/amp/News/middle-east/2026/11/05/iran-says-two-tankers-and-tugboat-caught-fire-in-strait-of-hormuz"
+          "medio": "Business Standard",
+          "titulo": "US, Iran remain far apart on deal as Trump signals no rush to strike",
+          "url": "https://www.business-standard.com/amp/world-news/us-iran-remain-far-apart-on-deal-as-trump-signals-no-rush-to-strike-126110400352_1.html"
         },
         {
-          "medio": "Time",
-          "titulo": "What the Midterms Mean for the Iran War",
-          "url": "https://time.com/article/2026/11/05/iran-us-midterms-republicans-democrats-war-trump-hegseth/"
+          "medio": "Anadolu",
+          "titulo": "Morning Briefing: Nov. 6, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
         }
       ]
     },
     {
-      "titulo": "Wall Street celebra: el Dow sube 3 % y el oro supera US$4.000",
-      "categoria": "Mercados",
-      "importancia": 4,
-      "resumen": "El 4 de noviembre el Dow Jones subió 3,03 % a 53.356 puntos, su mejor día desde abril de 2025 según CNBC; el S&P 500 ganó 1,58 % a 7.688,62 y el Nasdaq cerca de 1,4 %. El oro (futuros de diciembre) subió 3,4 % a US$4.073 la onza. El bono del Tesoro a 10 años bajó unos 6 puntos básicos, a 4,89 %. Aun así, las probabilidades de que la Fed suba tasas en diciembre aumentaron (76,9 % según Tokenpost; 83 % según Cushman & Wakefield).",
-      "por_que_importa": "El mercado lee el gobierno dividido y un posible fin de la guerra como menos riesgo e inflación por energía, lo que favorece a acciones y bonos.",
-      "perspectivas": [
-        {
-          "medio": "TheStreet",
-          "enfoque": "Lo resume como acciones al alza y petróleo en caída tras la ola demócrata."
-        },
-        {
-          "medio": "StockTitan",
-          "enfoque": "Enfatiza el salto del Dow ligado a la caída del crudo."
-        },
-        {
-          "medio": "The Rio Times",
-          "enfoque": "Destaca el oro por encima de US$4.000 y la reducción del miedo."
-        },
-        {
-          "medio": "Investrade",
-          "enfoque": "Revisión técnica de cierres, tasas y metales."
-        }
-      ],
-      "coincidencias": "Las fuentes coinciden en el fuerte rally, la baja del crudo y del rendimiento a 10 años.",
-      "diferencias": "Las cifras del Nasdaq varían según el índice citado (Composite o Nasdaq 100). Hay distintas estimaciones sobre la probabilidad de un alza de la Fed.",
-      "analisis": "Que suban a la vez acciones y oro sugiere optimismo con cobertura: los inversionistas compran riesgo, pero mantienen protección ante una guerra sin resolver y una Fed que podría subir tasas.",
-      "implicaciones": "Mejores condiciones para emisiones y financiación en mercados internacionales si las tasas largas siguen bajando. Un dólar global más débil favorece al peso.",
-      "que_vigilar": "Datos de empleo de EE. UU., discursos de la Fed y la sostenibilidad del rally si no hay acuerdo con Irán.",
-      "fuentes": [
-        {
-          "medio": "TheStreet",
-          "titulo": "Stock Market Today (Nov. 4, 2026): Stocks rise, oil collapses after Dems sweep midterm elections",
-          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
-        },
-        {
-          "medio": "StockTitan",
-          "titulo": "The Dow Soared in the Stock Market Today, November 4, 2026",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
-        },
-        {
-          "medio": "Investrade",
-          "titulo": "Market Review: November 04, 2026",
-          "url": "https://investrade.com/market-review-november-04-2026/"
-        },
-        {
-          "medio": "The Rio Times",
-          "titulo": "Dow Jumps 3% as Gold Tops US$4,000 and Fear Fades",
-          "url": "https://www.riotimesonline.com/global-economy-briefing-november-5-2026"
-        },
-        {
-          "medio": "Tokenpost",
-          "titulo": "Fed Rate-Hike Odds for December Rise to 76.9% After Election",
-          "url": "https://www.tokenpost.com/news/investing/48784"
-        },
-        {
-          "medio": "Cushman & Wakefield",
-          "titulo": "U.S. Midterms 2026: Policy Impact on CRE",
-          "url": "https://www.cushmanwakefield.com/en/united-states/insights/midterms-2026"
-        }
-      ]
-    },
-    {
-      "titulo": "Ucrania: 42 muertos en un ataque ruso a un centro de ayuda en Zaporiyia",
+      "titulo": "Trump se reúne con enviado de Putin y dice que un acuerdo sobre Ucrania está cerca",
       "categoria": "Geopolítica / Europa",
       "importancia": 4,
-      "resumen": "La policía ucraniana elevó a 42 los muertos por el bombardeo ruso a un punto de distribución de ayuda en Komyshuvakha, región de Zaporiyia; decenas seguían bajo los escombros. Ucrania dice que un segundo ataque alcanzó un refugio subterráneo; entre los muertos hay policías y rescatistas. Zelenski lo calificó como uno de los ataques más letales de la guerra y la misión de derechos humanos de la ONU dijo que probablemente violó el derecho internacional. Rusia afirma que atacó unidades militares. Ocurrió tras expirar un breve cese al fuego local mediado por EE. UU. y a menos de una semana de conversaciones previstas en Abu Dabi.",
-      "por_que_importa": "Complica las negociaciones de paz que EE. UU. impulsa y mantiene el riesgo para la energía y la seguridad en Europa.",
+      "resumen": "Trump dijo el 5 de noviembre, tras reunirse con el enviado ruso Kirill Dmitriev, que un acuerdo para terminar la guerra en Ucrania está 'muy cerca' y que 'involucrará más que a Ucrania', sin dar detalles. No se reunió con la delegación ucraniana presente en un evento de Melania Trump en la Casa Blanca. EE. UU. mediará conversaciones entre Rusia y Ucrania en Abu Dabi el 10 y 11 de noviembre; Jared Kushner habló de discusiones 'productivas' en Bruselas sobre garantías de seguridad para Ucrania.",
+      "por_que_importa": "Un acuerdo cambiaría el mapa de energía, granos y sanciones en Europa; también llega días después de un ataque ruso que dejó 42 muertos en Zaporiyia.",
       "perspectivas": [
         {
-          "medio": "Reuters (vía Deccan Herald)",
-          "enfoque": "Informativo: balance policial, versiones de ambas partes y contexto de negociaciones."
+          "medio": "Al Jazeera",
+          "enfoque": "Destaca que Trump no dio detalles y no recibió a los ucranianos."
         },
         {
-          "medio": "CNN",
-          "enfoque": "Destaca la cita de Zelenski sobre uno de los ataques más letales."
+          "medio": "The Standard (Hong Kong, con agencias)",
+          "enfoque": "Informativo: Trump ve un acuerdo pronto tras la reunión."
         },
         {
-          "medio": "France 24",
-          "enfoque": "Pone el foco en los muertos y desaparecidos."
+          "medio": "Yahoo News",
+          "enfoque": "Resalta el tono de Trump: un acuerdo 'grande y hermoso'."
         }
       ],
-      "coincidencias": "Coinciden en la cifra de 42 muertos y en el contexto de negociaciones próximas.",
-      "diferencias": "Rusia sostiene que atacó objetivos militares y que murieron hasta 25 soldados; Ucrania y la ONU señalan víctimas civiles. Ambos niegan atacar civiles deliberadamente.",
-      "analisis": "El ataque llega justo antes de una ronda de diálogo, lo que puede endurecer posiciones. Las cifras siguen siendo preliminares.",
-      "implicaciones": "Mantiene la prima de riesgo en gas europeo y en granos; relevante para importadores de fertilizantes y trigo.",
-      "que_vigilar": "Si se mantienen las conversaciones de Abu Dabi y la respuesta de EE. UU. y Europa.",
+      "coincidencias": "Coinciden en la reunión con Dmitriev, la ausencia de detalles y la cita de Abu Dabi.",
+      "diferencias": "Algunos medios recogen el optimismo de Trump; otros subrayan que no hay detalles y que el nuevo Congreso demócrata cuestionará el alivio de sanciones a Moscú.",
+      "analisis": "Trump ha anunciado acuerdos cercanos en el pasado sin resultados; la ronda de Abu Dabi será la prueba. El Congreso demócrata que asume en enero, según los reportes, presionaría por más ayuda a Ucrania.",
+      "implicaciones": "Un acuerdo podría bajar precios de gas y granos; la incertidumbre mantiene la volatilidad en materias primas.",
+      "que_vigilar": "Conversaciones en Abu Dabi (10–11 nov), posición europea y de Kiev.",
       "fuentes": [
         {
-          "medio": "Deccan Herald (Reuters)",
-          "titulo": "Death toll from Russian strike on Ukrainian aid centre reaches 42, police say",
-          "url": "https://www.deccanherald.com/world/russia/death-toll-from-russian-strike-on-ukrainian-aid-centre-reaches-42-police-say-4208618"
+          "medio": "Al Jazeera",
+          "titulo": "Trump says Russia-Ukraine deal is near after meeting Putin's envoy",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
         },
         {
-          "medio": "CNN",
-          "titulo": "Russian bombing of Ukrainian aid center is one of the war's 'deadliest attacks,' Zelensky says",
-          "url": "https://www.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl"
+          "medio": "The Standard",
+          "titulo": "Trump says he met Putin envoy, sees Ukraine deal soon",
+          "url": "https://www.thestandard.com.hk/world/article/347723/Trump-says-he-met-Putin-envoy-sees-Ukraine-deal-soon"
         },
         {
-          "medio": "France 24",
-          "titulo": "Dozens dead and missing after Russian strike on Ukrainian aid centre",
-          "url": "https://www.france24.com/en/video/20261105-dozens-dead-and-missing-after-russian-strike-on-ukrainian-aid-centre"
+          "medio": "Yahoo News",
+          "titulo": "Trump touts 'big, beautiful' Ukraine deal after meeting Putin's envoy",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-touts-big-beautiful-ukraine-003322748.html"
         }
       ]
     },
     {
-      "titulo": "China pide a EE. UU. y a la UE reconsiderar sus aranceles",
-      "categoria": "Comercio / China",
+      "titulo": "El Banco de Inglaterra sube su tasa a 4 % por la energía",
+      "categoria": "Economía / Europa",
       "importancia": 3,
-      "resumen": "Con exportaciones en niveles récord, Pekín pidió a EE. UU. y a la Unión Europea reconsiderar sus aranceles y dijo que solo compraría más productos agrícolas estadounidenses si se reducen. El Ministerio de Comercio también expresó 'gran preocupación' por la nueva tasa de 2 euros que la UE cobra desde el 1 de noviembre a importaciones de bajo valor.",
-      "por_que_importa": "Las tensiones comerciales entre las tres mayores economías afectan precios, cadenas de suministro y la demanda de materias primas latinoamericanas.",
+      "resumen": "El Comité de Política Monetaria del Banco de Inglaterra votó 8–1 el 5 de noviembre subir la tasa 0,25 puntos, a 4 %; Catherine Mann votó por un alza de 0,5 puntos. Citó los mayores precios mundiales de la energía y presiones inflacionarias en camino.",
+      "por_que_importa": "Confirma que el choque energético por la guerra con Irán está llevando a bancos centrales a subir tasas, igual que se espera de la Fed en diciembre y como discute el BanRep.",
       "perspectivas": [
         {
-          "medio": "Semafor",
-          "enfoque": "Encuadra la petición china en el contexto de exportaciones récord."
+          "medio": "Banco de Inglaterra",
+          "enfoque": "Comunicado oficial: la energía y la inflación futura justifican el alza."
         },
         {
-          "medio": "China Daily",
-          "enfoque": "Presenta la posición oficial china y su preocupación por las nuevas tasas europeas."
+          "medio": "Vantage Markets",
+          "enfoque": "Análisis previo de lo que cada resultado implicaba para la libra y los bonos británicos."
         }
       ],
-      "coincidencias": "Ambas fuentes recogen la queja china contra las medidas de EE. UU. y la UE.",
-      "diferencias": "China Daily, medio estatal, refleja solo la posición de Pekín; no se encontró en esta edición la respuesta de Bruselas o Washington.",
-      "analisis": "Pekín usa las compras agrícolas como moneda de negociación. En Europa crece la presión de Francia y Alemania por más restricciones, según reportes de octubre.",
-      "implicaciones": "Mercancía china desviada de EE. UU. y Europa puede llegar con más fuerza a América Latina; atención a sectores que compiten con importaciones.",
-      "que_vigilar": "Respuesta de la UE y EE. UU., y nuevas medidas antidumping en la región.",
+      "coincidencias": "El alza era ampliamente esperada por el mercado.",
+      "diferencias": "La división interna fue sobre el tamaño del alza, no sobre la dirección.",
+      "analisis": "Tasas más altas en economías desarrolladas encarecen el financiamiento global y reducen el atractivo relativo de los bonos emergentes.",
+      "implicaciones": "Para empresas colombianas con deuda externa: entorno de tasas altas más duradero en los mercados internacionales.",
+      "que_vigilar": "Próximas decisiones del BCE y de la Fed (9 dic).",
       "fuentes": [
         {
-          "medio": "Semafor",
-          "titulo": "China calls on US and EU to reconsider tariffs",
-          "url": "https://semafor.com/article/11/05/2026/china-calls-on-us-and-eu-to-reconsider-tariffs"
+          "medio": "Banco de Inglaterra",
+          "titulo": "Bank Rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+          "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
         },
         {
-          "medio": "China Daily",
-          "titulo": "China voices concern over EU's new fees on low-value imports",
-          "url": "https://europe.chinadaily.com.cn/a/202611/05/WS6aec413ae4b03ebf8519a8d1.html"
+          "medio": "Vantage Markets",
+          "titulo": "Bank of England Base Rate Decision, 5 November 2026: What Each Outcome Would Show",
+          "url": "https://www.vantagemarkets.com/en/market-analysis/bank-of-england-base-rate-decision-gbp-gilts-ftse/"
         }
       ]
     }
   ],
-  "lectura_mercados": "La victoria demócrata se leyó como un paso hacia el fin de la guerra con Irán: el Brent cayó 8,7 % a US$94,62 y sigue cediendo hoy, mientras las bolsas de EE. UU. subieron con fuerza y el rendimiento a 10 años bajó a 4,89 %. El oro superó US$4.000 porque la guerra sigue sin resolverse. En Colombia, el dólar cerró en promedio en $3.221 y la TRM de hoy es $3.221,19, unos $14 menos que ayer; el COLCAP cayó 0,84 % por Ecopetrol. Un petróleo más barato alivia la inflación, pero golpea ingresos fiscales justo cuando el Gobierno defiende su reforma; con BanRep previendo inflación de 7,1 % y la Fed con probable alza en diciembre, el dinero seguirá caro.",
+  "lectura_mercados": "El optimismo del miércoles se esfumó: una venta masiva de acciones de IA y chips llevó al Nasdaq a −5,5 % y arrastró a todo Wall Street. El petróleo recuperó parte de lo perdido (Brent US$98,29) porque el fin de la guerra con Irán no está asegurado. El Banco de Inglaterra subió tasas por la energía, una señal de lo que se espera de la Fed en diciembre. En Colombia, el COLCAP perdió los 2.500 puntos por Ecopetrol y el dólar se mantuvo estable cerca de $3.228. Con BanRep previendo 7,1 % de inflación, el escenario sigue siendo de tasas altas y volatilidad.",
   "agenda": [
-    "Hoy, 5 de noviembre: Banco de la República publica las minutas de la reunión del 30 de octubre.",
-    "6 de noviembre: presentación del Informe de Política Monetaria a cargo del gerente técnico Hernando Vargas.",
-    "Próximos días: conteo final del Senado de EE. UU. (Iowa y Misisipi).",
-    "Próxima semana: conversaciones entre delegaciones de Ucrania y Rusia en Abu Dabi, convocadas por EE. UU.",
-    "Noviembre: segundo debate de la adición presupuestal y primeros debates de la Ley de Rescate Económico.",
+    "Hoy, 6 de noviembre: presentación del Informe de Política Monetaria del BanRep, a cargo de Hernando Vargas.",
+    "9 de noviembre, 2:00 p. m.: mesa técnica de la Procuraduría con el director de la Aerocivil.",
+    "10 de noviembre: Ecopetrol presenta resultados del tercer trimestre.",
+    "10 y 11 de noviembre: conversaciones Rusia–Ucrania en Abu Dabi, con mediación de EE. UU.",
+    "Mediados de noviembre: posible radicación de la ponencia de la Ley de Rescate Económico (fecha no oficial).",
     "19 de noviembre: paro nacional convocado por la CUT.",
     "9 de diciembre: decisión de tasas de la Reserva Federal.",
     "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
     "18 de diciembre: decisión de tasas del Banco de la República."
   ],
-  "balance_cobertura": "La elección en EE. UU. dominó la cobertura mundial; los medios estadounidenses difieren en el énfasis (rechazo a Trump frente a continuidad de su política por el veto), y las cifras finales del Senado aún varían. Sobre Irán, muchas cifras de buques afectados provienen solo de la Guardia Revolucionaria y no están verificadas de forma independiente. En Colombia, el Informe de Política Monetaria tuvo poca cobertura en la gran prensa económica al cierre de esta edición; sus cifras (7,1 % y 2,0 %) vienen de una nota de Pymenoticias y deben confirmarse en el documento oficial, y una publicación de La República en X citaba 6,9 % y 4,3 %, quizá de un informe anterior. La cobertura de la Ley de Sometimiento recoge poco la voz de críticos y víctimas. No se verificaron: el cierre exacto del Nasdaq (cifra aproximada), el precio del café con una segunda fuente (solo CNN Brasil) ni datos de Europa y América Latina con fuentes del día suficientes para un tema propio. El sismo de 5,6 en Chaparral (Tolima) del 3 de noviembre dejó viviendas dañadas y heridos, con cifras preliminares que varían entre la alcaldía y la UNGRD.",
+  "balance_cobertura": "La cobertura financiera internacional atribuye el desplome tecnológico a causas distintas (riesgo regulatorio tras la elección frente a valoraciones y pronósticos de empresas); son interpretaciones, no hechos comprobados. Sobre Irán, el derribo de drones es una afirmación iraní sin verificación independiente, y las versiones sobre el estado de la diplomacia son contradictorias. En Colombia, no se encontraron las minutas del BanRep que el calendario anunciaba para el 5 de noviembre; la cobertura de la Ley de Rescate hoy recoge sobre todo a Gobierno y banca y poco a sus críticos; y las cifras de radares fuera de servicio (8 de 14 o diez sistemas) no tienen confirmación oficial. Datos no verificados con precisión: cierre exacto del oro y del COLCAP (aproximados) y precio del café (omitido por falta de fuente del día). No se incluyeron por falta de fuentes plurales del día: el proyecto de 'Ley Anticapuchos' (solo Prensa Latina) ni noticias de China y América Latina.",
   "mercados": [
     {
       "id": "trm",
@@ -691,11 +515,11 @@
       "grupo": "Divisas",
       "unidad": "COP",
       "decimales": 2,
-      "valor": 3221.19,
-      "variacion_pct": -0.445,
+      "valor": 3228.26,
+      "variacion_pct": 0.219,
       "variacion_mes_pct": null,
-      "vigencia": "5 nov",
-      "fuente": "Portafolio / Colombia.com"
+      "vigencia": "6 nov",
+      "fuente": "Superfinanciera (vía Colombia.com / Fastway)"
     },
     {
       "id": "usdcop",
@@ -703,10 +527,10 @@
       "grupo": "Divisas",
       "unidad": "COP",
       "decimales": 2,
-      "valor": 3221.4,
-      "variacion_pct": null,
+      "valor": 3228.19,
+      "variacion_pct": 0.21,
       "variacion_mes_pct": null,
-      "vigencia": "Promedio cierre 4 nov (Set-FX)",
+      "vigencia": "Promedio cierre 5 nov (Set-FX)",
       "fuente": "Infobae"
     },
     {
@@ -715,11 +539,11 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 94.62,
-      "variacion_pct": -8.7,
+      "valor": 98.29,
+      "variacion_pct": 3.9,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 4 nov",
-      "fuente": "Rigzone / Investrade"
+      "vigencia": "Cierre 5 nov",
+      "fuente": "Rigzone"
     },
     {
       "id": "wti",
@@ -727,47 +551,35 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 88.12,
-      "variacion_pct": -8.29,
+      "valor": 90.52,
+      "variacion_pct": 2.7,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 4 nov",
-      "fuente": "Rigzone / Strategitz"
-    },
-    {
-      "id": "cafe",
-      "nombre": "Café arábica (dic.)",
-      "grupo": "Materias primas",
-      "unidad": "USD/lb",
-      "decimales": 2,
-      "valor": 2.79,
-      "variacion_pct": -1.48,
-      "variacion_mes_pct": null,
-      "vigencia": "Cierre 4 nov",
-      "fuente": "CNN Brasil"
+      "vigencia": "Cierre 5 nov",
+      "fuente": "Rigzone"
     },
     {
       "id": "oro",
-      "nombre": "Oro (futuros dic.)",
+      "nombre": "Oro (futuros, aprox.)",
       "grupo": "Materias primas",
       "unidad": "USD/oz",
       "decimales": 0,
-      "valor": 4073,
-      "variacion_pct": 3.4,
+      "valor": 4099,
+      "variacion_pct": null,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 4 nov",
-      "fuente": "Investrade"
+      "vigencia": "5 nov",
+      "fuente": "Investing.com"
     },
     {
       "id": "colcap",
-      "nombre": "MSCI COLCAP",
+      "nombre": "MSCI COLCAP (aprox.)",
       "grupo": "Bolsas",
       "unidad": "pts",
-      "decimales": 2,
-      "valor": 2506.42,
-      "variacion_pct": -0.84,
+      "decimales": 0,
+      "valor": 2484,
+      "variacion_pct": -0.88,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 4 nov",
-      "fuente": "Valora Analitik"
+      "vigencia": "Cierre 5 nov",
+      "fuente": "The Rio Times"
     },
     {
       "id": "sp500",
@@ -775,23 +587,23 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 7688.62,
-      "variacion_pct": 1.58,
+      "valor": 7353.73,
+      "variacion_pct": -4.36,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 4 nov",
-      "fuente": "TheStreet / Yahoo Finance"
+      "vigencia": "Cierre 5 nov",
+      "fuente": "Fox Business"
     },
     {
       "id": "nasdaq",
-      "nombre": "Nasdaq Composite (aprox.)",
+      "nombre": "Nasdaq Composite",
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 0,
-      "valor": 25736,
-      "variacion_pct": 1.44,
+      "valor": 24315,
+      "variacion_pct": -5.52,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 4 nov",
-      "fuente": "TheStreet / StockTitan"
+      "vigencia": "Cierre 5 nov",
+      "fuente": "Fox Business"
     },
     {
       "id": "dow",
@@ -799,11 +611,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 53356.12,
-      "variacion_pct": 3.03,
+      "valor": 51523.06,
+      "variacion_pct": -3.44,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 4 nov",
-      "fuente": "TheStreet / StockTitan"
+      "vigencia": "Cierre 5 nov",
+      "fuente": "Fox Business / Yahoo Finance"
     },
     {
       "id": "ust10",
@@ -811,11 +623,11 @@
       "grupo": "Tasas",
       "unidad": "%",
       "decimales": 2,
-      "valor": 4.89,
+      "valor": 4.9,
       "variacion_pct": null,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 4 nov (−6 pb)",
-      "fuente": "Investrade"
+      "vigencia": "5 nov (+1 pb)",
+      "fuente": "Trading Economics"
     }
   ],
   "macro": [
@@ -831,9 +643,9 @@
       "nombre": "Proyección de inflación BanRep (cierre 2026)",
       "valor": "7,1 %",
       "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
-      "fuente": "Pymenoticias",
-      "url": "https://www.pymenoticias.com/post/banrep-informe-politica-monetaria-crecimiento-inflacion",
-      "comentario": "4,8 % a fines de 2027; PIB 2,0 % en 2026 y 1,7 % en 2027. Confirmar en el documento oficial."
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
     },
     {
       "nombre": "Inflación anual Colombia",
@@ -850,6 +662,14 @@
       "fuente": "DANE (vía La República)",
       "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
       "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
     },
     {
       "nombre": "Tasa Reserva Federal (EE. UU.)",
@@ -869,70 +689,20 @@
     }
   ],
   "cobertura": {
-    "total_articulos": 55,
+    "total_articulos": 39,
     "medios": [
       {
-        "medio": "El Tiempo",
+        "medio": "Infobae",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "La Veintitrés",
         "articulos": 2,
         "ok": true
       },
       {
         "medio": "El Espectador",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "Semana",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "La FM",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "Infobae",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "The Rio Times",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "CBS News",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "CNBC",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "Axios",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "El Heraldo",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Pymenoticias",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Colombia Hoy",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Banco de la República",
         "articulos": 1,
         "ok": true
       },
@@ -942,47 +712,22 @@
         "ok": true
       },
       {
-        "medio": "La República",
+        "medio": "Moncloa.com",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Noticias RCN",
+        "medio": "IFM Noticias",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "INCP",
+        "medio": "Yahoo Noticias",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El País (Cali)",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "El Nuevo Siglo",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "El Universal",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "El Colombiano",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Cambio",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Publimetro",
+        "medio": "Actualícese",
         "articulos": 1,
         "ok": true
       },
@@ -992,67 +737,67 @@
         "ok": true
       },
       {
-        "medio": "Prensa Latina",
+        "medio": "Blu Radio",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "La Silla Vacía",
+        "medio": "El País (Cali)",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "NBC News",
+        "medio": "El Heraldo",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "U.S. News (AP)",
+        "medio": "Citytv (El Tiempo)",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Iran International",
+        "medio": "360 Radio",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Rigzone (Bloomberg)",
+        "medio": "The Rio Times",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "OilPrice",
+        "medio": "Investing.com",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Financefeeds",
+        "medio": "Noticias RCN",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Al Jazeera",
+        "medio": "Pluralidad Z",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Gulf News",
+        "medio": "Fox Business",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Al Arabiya",
+        "medio": "The Motley Fool",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Time",
+        "medio": "Gulf Business",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "TheStreet",
+        "medio": "FX Leaders",
         "articulos": 1,
         "ok": true
       },
@@ -1062,42 +807,67 @@
         "ok": true
       },
       {
-        "medio": "Investrade",
+        "medio": "Rigzone (Bloomberg)",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Tokenpost",
+        "medio": "CNBC",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Cushman & Wakefield",
+        "medio": "APAC News Network",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Deccan Herald (Reuters)",
+        "medio": "Bloomberg",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "CNN",
+        "medio": "OnTimeBrief (NYT)",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "France 24",
+        "medio": "i24NEWS",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Semafor",
+        "medio": "Business Standard",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "China Daily",
+        "medio": "Anadolu",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Standard",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Banco de Inglaterra",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Vantage Markets",
         "articulos": 1,
         "ok": true
       }

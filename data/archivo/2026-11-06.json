@@ -1,0 +1,877 @@
+{
+  "fecha": "2026-11-06",
+  "generado": "2026-11-06T10:41:01.901970Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "Wall Street sufre su peor día desde abril de 2025 por un desplome de la IA (Nasdaq −5,5 %), mientras el petróleo rebota y BanRep eleva a 7,1 % su pronóstico de inflación.",
+  "lo_esencial": [
+    "El Nasdaq cae 5,52 % y entra en corrección; el S&P 500 pierde 4,36 % y el Dow 3,44 %. Nvidia baja 9,26 % en una venta masiva de chips e IA.",
+    "El Brent rebota 3,9 % a US$98,29: Trump dice que no planea ataques inmediatos contra Irán, pero las posiciones sobre el programa nuclear siguen lejos.",
+    "BanRep sube a 7,1 % su pronóstico de inflación para 2026 por El Niño y prevé crecer solo 2,0 %; hoy se presenta el informe.",
+    "La Ley de Rescate corre contra el reloj; Davivienda dice que sin ajuste fiscal no bajarán las tasas del crédito.",
+    "La Procuraduría cita al director de la Aerocivil el 9 de noviembre por la falla de radares en El Dorado.",
+    "Trump dice que un acuerdo sobre Ucrania está 'muy cerca' tras reunirse con un enviado de Putin; habrá conversaciones en Abu Dabi el 10 y 11 de noviembre."
+  ],
+  "colombia": [
+    {
+      "titulo": "BanRep sube su pronóstico de inflación a 7,1 % por El Niño",
+      "categoria": "Economía / Política monetaria",
+      "importancia": 5,
+      "resumen": "En su Informe de Política Monetaria, publicado el 4 de noviembre, el Banco de la República elevó la inflación esperada para el cierre de 2026 a 7,1 %, desde 6,9 % en el informe anterior, y a 4,8 % para fines de 2027. Atribuye el ajuste sobre todo a El Niño, que presiona alimentos y algunos precios regulados, y menciona costos laborales altos y un gasto de los hogares por encima de la capacidad productiva. Prevé crecimiento de 2,0 % en 2026 y 1,7 % en 2027. Hoy el gerente técnico, Hernando Vargas, presenta el informe.",
+      "por_que_importa": "Con la inflación lejos de la meta de 3 % y en aumento, el margen para bajar la tasa de 12,25 % es mínimo; el mercado ya descuenta una posible subida en diciembre. Eso define el costo del crédito para empresas y hogares en 2027.",
+      "perspectivas": [
+        {
+          "medio": "El Espectador",
+          "enfoque": "Explicativo: hacia dónde van la inflación y la economía según el Emisor."
+        },
+        {
+          "medio": "Portafolio",
+          "enfoque": "Destaca las variables que vigilará el BanRep para ajustar tasas: El Niño, inflación y cuentas fiscales."
+        },
+        {
+          "medio": "Moncloa.com",
+          "enfoque": "Encuadre de mercado: el BanRep eleva la proyección y el mercado ya descuenta una subida de tasas; resalta siete años sin cumplir la meta."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Resume el doble deterioro: más inflación y menos crecimiento."
+        }
+      ],
+      "coincidencias": "Las fuentes coinciden en las cifras centrales (7,1 % en 2026, 2,0 % de crecimiento) y en que El Niño es la causa principal del ajuste.",
+      "diferencias": "Medios de mercado ponen el foco en la probable subida de tasas; otros, en el impacto sobre el costo de vida. Portafolio cita además otras proyecciones (6,83 % y 5,16 %) que parecen corresponder a otra medición o a encuestas, no al informe.",
+      "analisis": "Según el BanRep, la presión viene en parte de choques de oferta (clima), que la política monetaria controla poco, pero también de demanda y salarios. Quienes piden subir tasas argumentan que hay que evitar que se desanclen las expectativas; quienes prefieren esperar señalan el bajo crecimiento y el reciente descenso del petróleo.",
+      "implicaciones": "Planee con tasas altas al menos durante el primer semestre de 2027. Precios de alimentos y regulados seguirán presionando costos e indexaciones. El salario mínimo y la reforma fiscal serán determinantes para la trayectoria.",
+      "que_vigilar": "Mensajes de Hernando Vargas hoy, dato de inflación de octubre del DANE y decisión del 18 de diciembre.",
+      "fuentes": [
+        {
+          "medio": "El Espectador",
+          "titulo": "¿Hacia dónde va la inflación y la economía colombiana?: esto dice el Banco de la República",
+          "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/"
+        },
+        {
+          "medio": "Portafolio",
+          "titulo": "El Niño, la inflación y las cuentas fiscales: las variables que vigilará el Banrepública para ajustar las tasas",
+          "url": "https://www.portafolio.co/economia/gobierno/el-nino-la-inflacion-y-las-cuentas-fiscales-las-variables-que-vigilara-el-banrep-para-ajustar-las-tasas-505507"
+        },
+        {
+          "medio": "Moncloa.com",
+          "titulo": "Inflación Colombia 2026: el Banco de la República la eleva al 7,1% y el mercado ya descuenta subida de tipos",
+          "url": "https://www.moncloa.com/2026/11/06/inflacion-colombia-2026-tipos-3462600/"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "El Banco de la República prevé más inflación y menos crecimiento para Colombia",
+          "url": "https://ifmnoticias.com/economicas/el-banco-de-la-republica-preve-mas-inflacion-y-menos-crecimiento-para-colombia/"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: carrera contra el reloj y la banca pide ajuste fiscal",
+      "categoria": "Economía / Política fiscal",
+      "importancia": 5,
+      "resumen": "Con el mensaje de urgencia radicado el 3 de noviembre, las comisiones económicas de Senado y Cámara podrán estudiar juntas el proyecto 477 de 2026; el siguiente paso es programar ese estudio y radicar la ponencia, que un medio sugiere presentar a más tardar a mediados de noviembre. Mientras tanto, el presidente de Davivienda, Javier José Suárez, dijo que las tasas altas frenan el crédito de vivienda y la financiación empresarial y que bajar el costo de financiación del Estado mediante un ajuste fiscal permitiría créditos más baratos. Cuestionó la sobretasa al sector financiero que mantiene el proyecto, aunque la aceptó si contribuye al ajuste.",
+      "por_que_importa": "El calendario es apretado: si la ley no avanza antes de que termine el periodo legislativo, se aplaza el ajuste fiscal del que depende, según el Gobierno y la banca, la baja de tasas.",
+      "perspectivas": [
+        {
+          "medio": "Yahoo Noticias (vía medio colombiano)",
+          "enfoque": "Plantea si al Gobierno le alcanza el tiempo para aprobar la ley este año."
+        },
+        {
+          "medio": "Actualícese / Vanguardia",
+          "enfoque": "Cobertura técnica del trámite: sesiones conjuntas y plazos de la urgencia."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Recoge la advertencia de Davivienda sobre el costo del crédito."
+        },
+        {
+          "medio": "Blu Radio",
+          "enfoque": "Enfoca el impacto de las tasas en crédito y vivienda."
+        },
+        {
+          "medio": "La Veintitrés",
+          "enfoque": "Destaca la crítica de Davivienda a la sobretasa al sector financiero."
+        }
+      ],
+      "coincidencias": "Las fuentes coinciden en que la urgencia permite sesiones conjuntas y acorta plazos, y en que no hay aún fecha confirmada de primer debate.",
+      "diferencias": "Los medios difieren en el optimismo sobre los tiempos. La banca respalda el ajuste fiscal pero objeta la sobretasa que la afecta; la cobertura encontrada hoy recoge poco a los críticos del proyecto (sindicatos, oposición).",
+      "analisis": "La postura de Davivienda refleja un argumento compartido por el Gobierno: menos déficit, menos riesgo país y tasas más bajas. Los críticos sostienen que el ajuste descansa en impuestos a consumo y sectores específicos. Que la banca acepte la sobretasa con condiciones sugiere que el sector privado prioriza que la ley salga.",
+      "implicaciones": "Las empresas deben preparar escenarios tributarios 2027–2028 y vigilar cambios en comisiones. El sector financiero debe modelar el efecto de la sobretasa.",
+      "que_vigilar": "Radicación de la ponencia, fecha de sesiones conjuntas y posiciones de partidos antes del paro de la CUT del 19 de noviembre.",
+      "fuentes": [
+        {
+          "medio": "Yahoo Noticias",
+          "titulo": "Rescate Fiscal a contrarreloj: ¿le alcanza el tiempo al Gobierno para sacar adelante la ley este año?",
+          "url": "https://es-us.noticias.yahoo.com/rescate-fiscal-contrarreloj-alcanza-tiempo-173925835.html"
+        },
+        {
+          "medio": "Actualícese",
+          "titulo": "Gobierno Nacional radica mensaje de urgencia para acelerar Ley de Rescate Económico en el Congreso",
+          "url": "https://actualicese.com/gobierno-nacional-radica-mensaje-de-urgencia-para-acelerar-la-ley-de-rescate-economico-en-el-congreso/"
+        },
+        {
+          "medio": "Vanguardia",
+          "titulo": "Gobierno pide trámite de urgencia para la Ley de Rescate Económico en el Congreso",
+          "url": "https://www.vanguardia.com/politica/2026/11/03/gobierno-pide-tramite-de-urgencia-para-la-ley-de-rescate-economico-en-el-congreso/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Davivienda advierte que altas tasas dificultan crédito de vivienda y financiación empresarial",
+          "url": "https://www.infobae.com/colombia/2026/11/06/davivienda-advierte-que-altas-tasas-dificultan-credito-de-vivienda-y-financiacion-empresarial/"
+        },
+        {
+          "medio": "Blu Radio",
+          "titulo": "Davivienda advierte sobre el impacto de las altas tasas de interés en el crédito y la vivienda",
+          "url": "https://www.bluradio.com/economia/davivienda-advierte-sobre-el-impacto-de-las-altas-tasas-de-interes-en-el-credito-y-la-vivienda-rg10"
+        },
+        {
+          "medio": "La Veintitrés",
+          "titulo": "Presidente de Davivienda advierte que altas tasas encarecen créditos de vivienda",
+          "url": "https://laveintitres.com/presidente-de-davivienda-advierte-que-altas-tasas-encarecen-crditos-de-vivienda/"
+        }
+      ]
+    },
+    {
+      "titulo": "Falla de radares en El Dorado: Procuraduría cita al director de la Aerocivil",
+      "categoria": "Infraestructura / Transporte",
+      "importancia": 4,
+      "resumen": "Tras la contingencia del 4 de noviembre, cuando fallaron hacia el mediodía los sistemas de visualización radar del Centro de Control y hubo retrasos y cancelaciones en Bogotá durante unas dos horas, la Procuraduría citó al director de la Aerocivil, Arnaud Penent, a una mesa técnica el lunes 9 de noviembre a las 2:00 p. m., con asistencia personal. Deberá explicar causas, medidas y avance en mantenimiento y modernización. La Aerocivil no precisó el origen de la falla y dice que sigue la revisión técnica.",
+      "por_que_importa": "El Dorado es el principal aeropuerto de carga y pasajeros del país; fallas repetidas afectan logística, turismo y negocios, y plantean dudas de seguridad aérea, como habían advertido los controladores.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Énfasis en la Procuraduría y en problemas en diez sistemas de radar."
+        },
+        {
+          "medio": "La Veintitrés",
+          "enfoque": "Titula que fallan 8 de 14 radares del país."
+        },
+        {
+          "medio": "El País (Cali)",
+          "enfoque": "Encuadre institucional: rendición de cuentas de la Aerocivil."
+        },
+        {
+          "medio": "Citytv (El Tiempo)",
+          "enfoque": "Pone el foco en el caos y las cancelaciones para los pasajeros."
+        },
+        {
+          "medio": "360 Radio",
+          "enfoque": "Lo presenta como un 'ultimátum' por el deterioro de la red aérea."
+        }
+      ],
+      "coincidencias": "Coinciden en la falla del 4 de noviembre, la citación de la Procuraduría y la falta de una causa oficial.",
+      "diferencias": "Difieren en la magnitud: unos hablan de 8 de 14 radares fuera de servicio y otros de problemas en diez sistemas; ninguna cifra tiene confirmación oficial. Algunos medios mencionan una falla previa el 31 de agosto.",
+      "analisis": "La Procuraduría sostiene que el problema no es reciente, lo que apunta a rezagos de inversión en mantenimiento. La Aerocivil no ha dado su versión completa; la mesa del 9 de noviembre será la primera oportunidad.",
+      "implicaciones": "Empresas que dependen de carga aérea o viajes deben prever márgenes de tiempo y planes de contingencia. Posibles contrataciones urgentes de modernización.",
+      "que_vigilar": "Explicaciones en la mesa técnica del 9 de noviembre, plan de inversión en radares y nuevas contingencias.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Procuraduría cita a director de Aerocivil por fallas en radares y navegación aérea",
+          "url": "https://www.infobae.com/colombia/2026/11/06/procuraduria-cita-a-director-de-aerocivil-por-fallas-en-radares-y-navegacion-aerea/"
+        },
+        {
+          "medio": "El País (Cali)",
+          "titulo": "Procuraduría pide rendición de cuentas a la Aeronáutica Civil por fallas en sistemas de navegación",
+          "url": "https://www.elpais.com.co/colombia/procuraduria-cita-a-director-de-la-aeronautica-civil-para-que-rinda-cuentas-sobre-fallas-en-los-sistemas-de-navegacion-aerea-0542.html"
+        },
+        {
+          "medio": "El Heraldo",
+          "titulo": "Procuraduría cita al director de la Aerocivil tras fallas en los sistemas de navegación aérea",
+          "url": "https://www.elheraldo.co/colombia/2026/11/05/procuraduria-cita-al-director-de-la-aerocivil-tras-fallas-en-los-sistemas-de-navegacion-aerea/"
+        },
+        {
+          "medio": "Citytv (El Tiempo)",
+          "titulo": "Falla en los radares de El Dorado desató caos y obligó a cancelar vuelos",
+          "url": "https://citytv.eltiempo.com/programas/citynoticias-de-las-8/falla-en-los-radares-de-el-dorado-desato-caos-y-obligo-cancelar-vuelos_97057"
+        },
+        {
+          "medio": "La Veintitrés",
+          "titulo": "Citan a director de Aerocivil por fallas en 8 de 14 radares del país",
+          "url": "https://laveintitres.com/citan-a-director-de-aerocivil-por-fallas-en-8-de-14-radares-del-pas/"
+        },
+        {
+          "medio": "360 Radio",
+          "titulo": "Ultimátum a la Aerocivil: Procuraduría exige explicaciones por la falla de radares",
+          "url": "https://360radio.com.co/aerocivil-procuraduria-falla-radares/236387/"
+        }
+      ]
+    },
+    {
+      "titulo": "COLCAP pierde los 2.500 puntos; Ecopetrol vuelve a caer",
+      "categoria": "Mercados / Empresas",
+      "importancia": 3,
+      "resumen": "El MSCI COLCAP cayó por segundo día el 5 de noviembre (−0,88 % a unos 2.484 puntos, según The Rio Times; −0,86 % según Investing.com) y tocó un mínimo de un mes. Ecopetrol bajó 4,08 %, tras caer 5,19 % el día anterior, y las pérdidas se concentraron en financieras, holdings y servicios públicos. El dólar subió levemente: promedio de $3.228,19 en Set-FX, y la TRM de hoy es $3.228,26. Ecopetrol presenta resultados del tercer trimestre el 10 de noviembre.",
+      "por_que_importa": "Ecopetrol pesa en el índice, en los dividendos al Estado y en las finanzas públicas; su caída refleja la volatilidad del petróleo por la guerra con Irán.",
+      "perspectivas": [
+        {
+          "medio": "The Rio Times",
+          "enfoque": "Encuadre para inversionistas extranjeros: el índice pierde los 2.500 puntos aunque el peso gana."
+        },
+        {
+          "medio": "Investing.com",
+          "enfoque": "Nota de cierre centrada en sectores y el mínimo de un mes."
+        },
+        {
+          "medio": "Infobae / Noticias RCN",
+          "enfoque": "Cobertura del dólar: leve alza y volumen negociado."
+        }
+      ],
+      "coincidencias": "Coinciden en la caída del índice, en el peso de Ecopetrol y en un dólar estable cerca de $3.228.",
+      "diferencias": "Pequeñas diferencias en el porcentaje de caída del COLCAP por hora de corte.",
+      "analisis": "La bolsa local siente a la vez la caída del crudo del miércoles y el ambiente de aversión al riesgo global del jueves. El índice conserva una ganancia acumulada de más de 20 % en el año, según Valora Analitik.",
+      "implicaciones": "Inversionistas: alta sensibilidad de la acción de Ecopetrol al petróleo y a sus resultados del 10 de noviembre. Empresas con deuda en dólares: tipo de cambio estable en el rango previsto por Bancolombia ($3.120–$3.300 para noviembre).",
+      "que_vigilar": "Resultados de Ecopetrol (10 nov), precio del Brent y rebalanceo del COLCAP (sin cambios previstos, efectivo 1 dic).",
+      "fuentes": [
+        {
+          "medio": "The Rio Times",
+          "titulo": "Colombia Stocks Slip 0.9% as Peso Gains",
+          "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-thursday-november-5-2026/"
+        },
+        {
+          "medio": "Investing.com",
+          "titulo": "Colombia stocks lower at close of trade; COLCAP down 0.86%",
+          "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-086-5005692"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Precio del dólar hoy en Colombia: así cerró el 5 de noviembre de 2026",
+          "url": "https://www.infobae.com/colombia/2026/11/05/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-5-de-noviembre/"
+        },
+        {
+          "medio": "Noticias RCN",
+          "titulo": "Dólar en Colombia hoy, 5 de noviembre: así cerró la divisa este jueves",
+          "url": "https://www.noticiasrcn.com/economia/dolar-hoy-colombia-5-noviembre-2026-precio-cierre-1079002"
+        },
+        {
+          "medio": "Pluralidad Z",
+          "titulo": "Rebalanceo MSCI Colcap noviembre 2026 sin cambios",
+          "url": "https://pluralidadz.com/economia/rebalanceo-msci-colcap-noviembre-2026-no-tendria-cambios-en-su-canasta/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Desplome de la IA: el Nasdaq cae 5,5 % y entra en corrección",
+      "categoria": "Mercados / Tecnología",
+      "importancia": 5,
+      "resumen": "El 5 de noviembre el Nasdaq Composite cayó 5,52 % a 24.315 puntos, su peor día desde abril de 2025, y quedó más de 10 % por debajo de su máximo del 6 de octubre. El S&P 500 bajó 4,36 % a 7.353,73 y el Dow 3,44 % (−1.833 puntos) a 51.523,06, borrando la subida del día anterior. Nvidia perdió 9,26 % y el índice de semiconductores de Filadelfia más de 12 %; Qualcomm (−14 %) y Arm (−15 %) cayeron tras pronósticos cautelosos. La venta se extendió a memorias, hardware y centros de datos.",
+      "por_que_importa": "La IA ha sido el motor de las bolsas; una corrección fuerte afecta la riqueza de los inversionistas, el apetito por riesgo en emergentes y la inversión en centros de datos.",
+      "perspectivas": [
+        {
+          "medio": "Fox Business",
+          "enfoque": "Vincula la caída a lo que la victoria demócrata podría significar para la regulación de la IA y los centros de datos."
+        },
+        {
+          "medio": "The Motley Fool",
+          "enfoque": "Lo atribuye a escepticismo sobre la demanda e incertidumbre política, no a noticias de empresas puntuales."
+        },
+        {
+          "medio": "Gulf Business",
+          "enfoque": "Destaca dudas sobre la inversión en IA, valoraciones exigentes y posibles restricciones regulatorias."
+        },
+        {
+          "medio": "FX Leaders",
+          "enfoque": "Señala los pronósticos cautelosos de Qualcomm y Arm como detonante de toma de ganancias."
+        },
+        {
+          "medio": "StockTitan",
+          "enfoque": "Cobertura de cierre: la venta de chips se propagó a todo el mercado."
+        }
+      ],
+      "coincidencias": "Las fuentes coinciden en la magnitud de la caída, en que la encabezaron chips e IA y en que el Nasdaq entró en corrección.",
+      "diferencias": "Difieren en la causa principal: unas destacan el riesgo regulatorio tras la elección; otras, las valoraciones y los pronósticos de empresas.",
+      "analisis": "Tras meses de alzas, el mercado parece revisar cuánto vale el gasto en IA. La explicación electoral es una interpretación de los medios; también pesan las guías de empresas. Una sola sesión no confirma un cambio de tendencia.",
+      "implicaciones": "Más aversión al riesgo puede presionar monedas y bolsas emergentes. Empresas con planes de inversión en tecnología pueden encontrar mejores precios de proveedores, pero mercados de capital más exigentes.",
+      "que_vigilar": "Resultados de empresas de chips en las próximas semanas, flujo hacia bonos y si la caída se extiende a Asia y Europa.",
+      "fuentes": [
+        {
+          "medio": "Fox Business",
+          "titulo": "Nasdaq tumbles 5%, Dow plunges more than 1,800 points",
+          "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+        },
+        {
+          "medio": "The Motley Fool",
+          "titulo": "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nvidia-slides-on-ai-chip-selloff-as-election-uncertainty-weighs/"
+        },
+        {
+          "medio": "Gulf Business",
+          "titulo": "Global AI stock selloff wipes trillions off Wall Street as Nasdaq plunges 5.5%",
+          "url": "https://gulfbusiness.com/en/2026/world/global-ai-stock-selloff-wipes-trillions-off-wall-street-as-nasdaq-plunges-5-5/"
+        },
+        {
+          "medio": "FX Leaders",
+          "titulo": "Nvidia (NVDA) Stock Plunges Nearly 8% as Broad AI and Chip Sell-Off Erases Over 1,000 Nasdaq Points",
+          "url": "https://www.fxleaders.com/news/2026/11/05/nvidia-nvda-stock-plunges-nearly-8-as-broad-ai-and-chip-sell-off-erases-over-1000-nasdaq-points/"
+        },
+        {
+          "medio": "StockTitan",
+          "titulo": "The Stock Market Today, November 5, 2026, Closed Sharply Lower as the AI Chip Selloff Spread",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+        }
+      ]
+    },
+    {
+      "titulo": "El petróleo rebota 3,9 %: el mercado duda del fin rápido de la guerra",
+      "categoria": "Energía / Mercados",
+      "importancia": 4,
+      "resumen": "Tras el desplome del miércoles, el Brent (enero) subió 3,9 % el 5 de noviembre y cerró en US$98,29; el WTI (diciembre) ganó 2,7 % a US$90,52. Trump dijo que no tiene planes inmediatos de nuevos ataques contra Irán, aunque EE. UU. sigue preparado para escalar. The New York Times informó que Irán revisa propuestas de mediadores sobre su programa nuclear. Eurasia Group advirtió que una escalada podría llevar el Brent a US$110–125.",
+      "por_que_importa": "La volatilidad extrema del crudo complica presupuestos de empresas y del Estado colombiano, cuyos ingresos dependen del petróleo.",
+      "perspectivas": [
+        {
+          "medio": "Rigzone (Bloomberg)",
+          "enfoque": "Presenta el alza como un rebote técnico tras la venta masiva."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Enfatiza la incertidumbre sobre la guerra como motor del rebote."
+        },
+        {
+          "medio": "APAC News Network",
+          "enfoque": "Destaca que el mercado sigue mirando un posible fin de la guerra."
+        }
+      ],
+      "coincidencias": "Coinciden en que el precio sube tras la caída y en que todo depende de la diplomacia con Irán.",
+      "diferencias": "Algunos medios subrayan la esperanza de paz; otros, el riesgo de escalada y precios mucho más altos.",
+      "analisis": "El mercado oscila entre dos escenarios extremos: acuerdo (precios más bajos) o escalada (por encima de US$110). Con señales mixtas de Washington y Teherán, la volatilidad seguirá.",
+      "implicaciones": "Para Colombia, un Brent cerca de US$95–100 sigue alto frente a años anteriores; conviene usar rangos amplios en presupuestos y coberturas de combustible.",
+      "que_vigilar": "Respuestas de EE. UU. e Irán a los mediadores, incidentes en Ormuz e inventarios.",
+      "fuentes": [
+        {
+          "medio": "Rigzone (Bloomberg)",
+          "titulo": "Oil Rebounds After Sharp Iran War Selloff",
+          "url": "https://www.rigzone.com/news/wire/oil_rebounds_after_sharp_iran_war_selloff-05-nov-2026-185023-article/"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "Oil rises as investors weigh uncertainties around Iran war",
+          "url": "https://www.cnbc.com/amp/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
+        },
+        {
+          "medio": "APAC News Network",
+          "titulo": "Brent, WTI Crude Oil Prices Hold Losses as Markets Eye End to Iran War",
+          "url": "https://apacnewsnetwork.com/2026/11/brent-wti-crude-oil-prices-iran-war-peace-hopes/"
+        }
+      ]
+    },
+    {
+      "titulo": "Irán y EE. UU. revisan propuestas de mediadores, pero siguen lejos",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 4,
+      "resumen": "Catar dijo que ambos países revisan propuestas de los mediadores; cinco funcionarios dijeron a The New York Times que Teherán estudia un paquete que podría definir el futuro de su programa nuclear. Trump dijo, según Bloomberg, que no tiene planes inmediatos de atacar, aunque en Fox News renovó advertencias; funcionarios de EE. UU. dijeron a i24NEWS que podría optar por una operación limitada contra instalaciones nucleares. Un alto funcionario iraní rechazó las 'exigencias excesivas' de Washington. El nudo: Trump exige que Irán entregue su material enriquecido y Teherán dice que no saldrá del país. La Guardia Revolucionaria afirmó haber derribado dos drones estadounidenses sobre Qeshm.",
+      "por_que_importa": "Un acuerdo bajaría el riesgo en Ormuz y el precio del petróleo; un fracaso o un ataque limitado podría disparar ambos.",
+      "perspectivas": [
+        {
+          "medio": "Bloomberg",
+          "enfoque": "Lee la postura de Trump tras la derrota electoral como un freno a nuevos ataques."
+        },
+        {
+          "medio": "The New York Times (vía OnTimeBrief)",
+          "enfoque": "Pone el foco en la revisión iraní de propuestas nucleares."
+        },
+        {
+          "medio": "i24NEWS",
+          "enfoque": "Enfatiza la opción de un ataque limitado y la presión de Catar para evitarlo."
+        },
+        {
+          "medio": "Business Standard",
+          "enfoque": "Subraya que las partes siguen lejos de un acuerdo."
+        },
+        {
+          "medio": "Anadolu",
+          "enfoque": "Destaca las advertencias de Trump y el reclamo iraní sobre los drones."
+        }
+      ],
+      "coincidencias": "Las fuentes coinciden en que hay propuestas sobre la mesa y en que las posiciones sobre el material enriquecido siguen enfrentadas.",
+      "diferencias": "Unos medios ven una ventana diplomática tras las elecciones; otros resaltan la amenaza militar. El derribo de drones es una afirmación iraní no verificada.",
+      "analisis": "La derrota electoral reduce el margen político de Trump para escalar, pero él insiste en su línea dura. Irán intenta negociar desde una posición de fuerza en Ormuz.",
+      "implicaciones": "Alta volatilidad de energía, fletes y seguros marítimos en las próximas semanas.",
+      "que_vigilar": "Respuestas formales a los mediadores, posibles ataques limitados y tránsito por Ormuz.",
+      "fuentes": [
+        {
+          "medio": "Bloomberg",
+          "titulo": "Trump Plays Down Prospect of Iran Strikes After Midterm Rout",
+          "url": "https://bloomberg.com/news/articles/2026-11-04/trump-plays-down-prospect-of-strikes-on-iran-after-midterm-rout"
+        },
+        {
+          "medio": "OnTimeBrief (NYT)",
+          "titulo": "Iran reviewing mediator proposals on nuclear program, officials tell NYT",
+          "url": "https://ontimebrief.com/en/2026/11/05/the-new-york-times-iran-reviewing-mediator-proposals-on-nuclear-program-officials-tell-nyt/"
+        },
+        {
+          "medio": "i24NEWS",
+          "titulo": "Iran weighs nuclear proposals as Qatar pushes to avert renewed US strikes",
+          "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-weighs-nuclear-proposals-as-qatar-pushes-to-avert-renewed-us-strikes-report"
+        },
+        {
+          "medio": "Business Standard",
+          "titulo": "US, Iran remain far apart on deal as Trump signals no rush to strike",
+          "url": "https://www.business-standard.com/amp/world-news/us-iran-remain-far-apart-on-deal-as-trump-signals-no-rush-to-strike-126110400352_1.html"
+        },
+        {
+          "medio": "Anadolu",
+          "titulo": "Morning Briefing: Nov. 6, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+        }
+      ]
+    },
+    {
+      "titulo": "Trump se reúne con enviado de Putin y dice que un acuerdo sobre Ucrania está cerca",
+      "categoria": "Geopolítica / Europa",
+      "importancia": 4,
+      "resumen": "Trump dijo el 5 de noviembre, tras reunirse con el enviado ruso Kirill Dmitriev, que un acuerdo para terminar la guerra en Ucrania está 'muy cerca' y que 'involucrará más que a Ucrania', sin dar detalles. No se reunió con la delegación ucraniana presente en un evento de Melania Trump en la Casa Blanca. EE. UU. mediará conversaciones entre Rusia y Ucrania en Abu Dabi el 10 y 11 de noviembre; Jared Kushner habló de discusiones 'productivas' en Bruselas sobre garantías de seguridad para Ucrania.",
+      "por_que_importa": "Un acuerdo cambiaría el mapa de energía, granos y sanciones en Europa; también llega días después de un ataque ruso que dejó 42 muertos en Zaporiyia.",
+      "perspectivas": [
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Destaca que Trump no dio detalles y no recibió a los ucranianos."
+        },
+        {
+          "medio": "The Standard (Hong Kong, con agencias)",
+          "enfoque": "Informativo: Trump ve un acuerdo pronto tras la reunión."
+        },
+        {
+          "medio": "Yahoo News",
+          "enfoque": "Resalta el tono de Trump: un acuerdo 'grande y hermoso'."
+        }
+      ],
+      "coincidencias": "Coinciden en la reunión con Dmitriev, la ausencia de detalles y la cita de Abu Dabi.",
+      "diferencias": "Algunos medios recogen el optimismo de Trump; otros subrayan que no hay detalles y que el nuevo Congreso demócrata cuestionará el alivio de sanciones a Moscú.",
+      "analisis": "Trump ha anunciado acuerdos cercanos en el pasado sin resultados; la ronda de Abu Dabi será la prueba. El Congreso demócrata que asume en enero, según los reportes, presionaría por más ayuda a Ucrania.",
+      "implicaciones": "Un acuerdo podría bajar precios de gas y granos; la incertidumbre mantiene la volatilidad en materias primas.",
+      "que_vigilar": "Conversaciones en Abu Dabi (10–11 nov), posición europea y de Kiev.",
+      "fuentes": [
+        {
+          "medio": "Al Jazeera",
+          "titulo": "Trump says Russia-Ukraine deal is near after meeting Putin's envoy",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
+        },
+        {
+          "medio": "The Standard",
+          "titulo": "Trump says he met Putin envoy, sees Ukraine deal soon",
+          "url": "https://www.thestandard.com.hk/world/article/347723/Trump-says-he-met-Putin-envoy-sees-Ukraine-deal-soon"
+        },
+        {
+          "medio": "Yahoo News",
+          "titulo": "Trump touts 'big, beautiful' Ukraine deal after meeting Putin's envoy",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-touts-big-beautiful-ukraine-003322748.html"
+        }
+      ]
+    },
+    {
+      "titulo": "El Banco de Inglaterra sube su tasa a 4 % por la energía",
+      "categoria": "Economía / Europa",
+      "importancia": 3,
+      "resumen": "El Comité de Política Monetaria del Banco de Inglaterra votó 8–1 el 5 de noviembre subir la tasa 0,25 puntos, a 4 %; Catherine Mann votó por un alza de 0,5 puntos. Citó los mayores precios mundiales de la energía y presiones inflacionarias en camino.",
+      "por_que_importa": "Confirma que el choque energético por la guerra con Irán está llevando a bancos centrales a subir tasas, igual que se espera de la Fed en diciembre y como discute el BanRep.",
+      "perspectivas": [
+        {
+          "medio": "Banco de Inglaterra",
+          "enfoque": "Comunicado oficial: la energía y la inflación futura justifican el alza."
+        },
+        {
+          "medio": "Vantage Markets",
+          "enfoque": "Análisis previo de lo que cada resultado implicaba para la libra y los bonos británicos."
+        }
+      ],
+      "coincidencias": "El alza era ampliamente esperada por el mercado.",
+      "diferencias": "La división interna fue sobre el tamaño del alza, no sobre la dirección.",
+      "analisis": "Tasas más altas en economías desarrolladas encarecen el financiamiento global y reducen el atractivo relativo de los bonos emergentes.",
+      "implicaciones": "Para empresas colombianas con deuda externa: entorno de tasas altas más duradero en los mercados internacionales.",
+      "que_vigilar": "Próximas decisiones del BCE y de la Fed (9 dic).",
+      "fuentes": [
+        {
+          "medio": "Banco de Inglaterra",
+          "titulo": "Bank Rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+          "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+        },
+        {
+          "medio": "Vantage Markets",
+          "titulo": "Bank of England Base Rate Decision, 5 November 2026: What Each Outcome Would Show",
+          "url": "https://www.vantagemarkets.com/en/market-analysis/bank-of-england-base-rate-decision-gbp-gilts-ftse/"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "El optimismo del miércoles se esfumó: una venta masiva de acciones de IA y chips llevó al Nasdaq a −5,5 % y arrastró a todo Wall Street. El petróleo recuperó parte de lo perdido (Brent US$98,29) porque el fin de la guerra con Irán no está asegurado. El Banco de Inglaterra subió tasas por la energía, una señal de lo que se espera de la Fed en diciembre. En Colombia, el COLCAP perdió los 2.500 puntos por Ecopetrol y el dólar se mantuvo estable cerca de $3.228. Con BanRep previendo 7,1 % de inflación, el escenario sigue siendo de tasas altas y volatilidad.",
+  "agenda": [
+    "Hoy, 6 de noviembre: presentación del Informe de Política Monetaria del BanRep, a cargo de Hernando Vargas.",
+    "9 de noviembre, 2:00 p. m.: mesa técnica de la Procuraduría con el director de la Aerocivil.",
+    "10 de noviembre: Ecopetrol presenta resultados del tercer trimestre.",
+    "10 y 11 de noviembre: conversaciones Rusia–Ucrania en Abu Dabi, con mediación de EE. UU.",
+    "Mediados de noviembre: posible radicación de la ponencia de la Ley de Rescate Económico (fecha no oficial).",
+    "19 de noviembre: paro nacional convocado por la CUT.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "La cobertura financiera internacional atribuye el desplome tecnológico a causas distintas (riesgo regulatorio tras la elección frente a valoraciones y pronósticos de empresas); son interpretaciones, no hechos comprobados. Sobre Irán, el derribo de drones es una afirmación iraní sin verificación independiente, y las versiones sobre el estado de la diplomacia son contradictorias. En Colombia, no se encontraron las minutas del BanRep que el calendario anunciaba para el 5 de noviembre; la cobertura de la Ley de Rescate hoy recoge sobre todo a Gobierno y banca y poco a sus críticos; y las cifras de radares fuera de servicio (8 de 14 o diez sistemas) no tienen confirmación oficial. Datos no verificados con precisión: cierre exacto del oro y del COLCAP (aproximados) y precio del café (omitido por falta de fuente del día). No se incluyeron por falta de fuentes plurales del día: el proyecto de 'Ley Anticapuchos' (solo Prensa Latina) ni noticias de China y América Latina.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3228.26,
+      "variacion_pct": 0.219,
+      "variacion_mes_pct": null,
+      "vigencia": "6 nov",
+      "fuente": "Superfinanciera (vía Colombia.com / Fastway)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3228.19,
+      "variacion_pct": 0.21,
+      "variacion_mes_pct": null,
+      "vigencia": "Promedio cierre 5 nov (Set-FX)",
+      "fuente": "Infobae"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 98.29,
+      "variacion_pct": 3.9,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 5 nov",
+      "fuente": "Rigzone"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 90.52,
+      "variacion_pct": 2.7,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 5 nov",
+      "fuente": "Rigzone"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro (futuros, aprox.)",
+      "grupo": "Materias primas",
+      "unidad": "USD/oz",
+      "decimales": 0,
+      "valor": 4099,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "5 nov",
+      "fuente": "Investing.com"
+    },
+    {
+      "id": "colcap",
+      "nombre": "MSCI COLCAP (aprox.)",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 0,
+      "valor": 2484,
+      "variacion_pct": -0.88,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 5 nov",
+      "fuente": "The Rio Times"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7353.73,
+      "variacion_pct": -4.36,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 5 nov",
+      "fuente": "Fox Business"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 0,
+      "valor": 24315,
+      "variacion_pct": -5.52,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 5 nov",
+      "fuente": "Fox Business"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 51523.06,
+      "variacion_pct": -3.44,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 5 nov",
+      "fuente": "Fox Business / Yahoo Finance"
+    },
+    {
+      "id": "ust10",
+      "nombre": "Bono EE. UU. 10 años",
+      "grupo": "Tasas",
+      "unidad": "%",
+      "decimales": 2,
+      "valor": 4.9,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "5 nov (+1 pb)",
+      "fuente": "Trading Economics"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,29 %",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía Portafolio)",
+      "url": "https://www.portafolio.co/economia/finanzas/inflacion-en-colombia-sigue-subiendo-se-ubico-en-6-29-en-septiembre-de-504077",
+      "comentario": "La más alta desde julio de 2024. El dato de octubre aún no se publica."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión: 9 dic; tras la elección el mercado asigna 77 %–83 % a un alza."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 39,
+    "medios": [
+      {
+        "medio": "Infobae",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "La Veintitrés",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "El Espectador",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Moncloa.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "IFM Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Actualícese",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Vanguardia",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Blu Radio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El País (Cali)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Heraldo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Citytv (El Tiempo)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "360 Radio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Rio Times",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Investing.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Noticias RCN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Pluralidad Z",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Fox Business",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Motley Fool",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Gulf Business",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "FX Leaders",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "StockTitan",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Rigzone (Bloomberg)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "APAC News Network",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Bloomberg",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "OnTimeBrief (NYT)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "i24NEWS",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Business Standard",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Anadolu",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Standard",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Banco de Inglaterra",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Vantage Markets",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
