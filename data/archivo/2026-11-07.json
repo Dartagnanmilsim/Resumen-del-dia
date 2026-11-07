@@ -1,0 +1,874 @@
+{
+  "fecha": "2026-11-07",
+  "generado": "2026-11-07T10:40:48.046984Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "El empleo fuerte en EE. UU. acerca un alza de la Fed y el petróleo cierra su peor semana en meses, mientras Colombia reabre el debate del fracking y del gas costa afuera frente a El Niño.",
+  "lo_esencial": [
+    "EE. UU. crea 165.000 empleos en octubre (se esperaban unos 60.000) y el desempleo baja a 4,1 %; sube a cerca de 78 % la apuesta por un alza de la Fed en diciembre.",
+    "El Brent cierra en US$98,32 y pierde más de 16 % en la semana por la expectativa de un acuerdo con Irán; Trump confirma 'ataques menores' contra ese país.",
+    "BanRep eleva a 10,2 % su pronóstico de inflación de alimentos por El Niño y ve en Venezuela un posible impulso a la economía.",
+    "La industria propone perforar el primer pozo de fracking en 2027; la ANLA retira tres exigencias ambientales al pozo de gas Komodo-X1.",
+    "La Ley de Rescate tiene hasta el 16 de diciembre para aprobarse sin sesiones extraordinarias.",
+    "Embalses en torno a 76 %, por debajo de la meta de 80 % para el 30 de noviembre."
+  ],
+  "colombia": [
+    {
+      "titulo": "BanRep: inflación de alimentos de 10,2 % y Venezuela como riesgo al alza",
+      "categoria": "Economía / Política monetaria",
+      "importancia": 5,
+      "resumen": "En la presentación del Informe de Política Monetaria el 6 de noviembre, el gerente técnico Hernando Vargas dijo que una recuperación del mercado venezolano es un riesgo al alza para la actividad colombiana que no está incluido en los pronósticos ('sería muy interesante', según Semana). El Emisor elevó su proyección de inflación de alimentos para 2026 de 9 % a 10,2 % por El Niño. Se mantienen las cifras centrales: inflación total de 7,1 % al cierre de 2026, PIB de 2,0 % en 2026 y 1,7 % en 2027, y tasa en 12,25 %.",
+      "por_que_importa": "Alimentos más caros golpean a los hogares de menores ingresos y empujan los costos laborales e indexaciones; la posibilidad de un repunte comercial con Venezuela abre oportunidades para exportadores.",
+      "perspectivas": [
+        {
+          "medio": "Semana",
+          "enfoque": "Pone el foco en Venezuela como posible impulso a la economía, una variable que el BanRep aún no cuantifica."
+        },
+        {
+          "medio": "El Espectador",
+          "enfoque": "Explicativo: cuál es la visión del Banco sobre el estado de la economía."
+        },
+        {
+          "medio": "Pluralidad Z",
+          "enfoque": "Destaca que la desaceleración del tercer trimestre inclinó la decisión de mantener la tasa."
+        }
+      ],
+      "coincidencias": "Coinciden en el deterioro de la inflación por El Niño y en el bajo crecimiento previsto.",
+      "diferencias": "Semana resalta el potencial venezolano; otros medios se centran en la presión inflacionaria y la división de la Junta.",
+      "analisis": "El BanRep enfrenta un dilema: precios al alza por clima y demanda, con una economía que se desacelera. La mención de Venezuela es un riesgo identificado, no un pronóstico; su impacto depende de la evolución política y comercial de ese país.",
+      "implicaciones": "Empresas de consumo masivo y alimentos deben prever costos de insumos agrícolas más altos. Exportadores con interés en Venezuela deberían seguir la evolución de ese mercado.",
+      "que_vigilar": "Dato de inflación de octubre del DANE, evolución de El Niño y decisión del 18 de diciembre.",
+      "fuentes": [
+        {
+          "medio": "Semana",
+          "titulo": "Venezuela, ¿el riesgo al alza de la actividad económica en Colombia?",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/venezuela-el-riesgo-al-alza-de-la-actividad-economica-en-colombia/202639/"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "¿Cómo está la economía colombiana?: esta es la visión del Banco de la República",
+          "url": "https://www.elespectador.com/economia/macroeconomia/como-esta-la-economia-colombiana-esta-es-la-vision-del-banco-de-la-republica/"
+        },
+        {
+          "medio": "Pluralidad Z",
+          "titulo": "Banco de la República mantiene tasa ante desaceleración de la economía colombiana",
+          "url": "https://pluralidadz.com/economia/banco-de-la-republica-mantiene-tasa-ante-desaceleracion-de-la-economia-colombiana/"
+        }
+      ]
+    },
+    {
+      "titulo": "Vuelve el debate del fracking: la industria apunta al primer pozo en 2027",
+      "categoria": "Energía / Hidrocarburos",
+      "importancia": 4,
+      "resumen": "En la Cumbre del Petróleo, Gas y Energía, Felipe Bayón (GeoPark) propuso perforar el primer pozo de yacimientos no convencionales en 2027 e ir directo, sin pilotos; Frank Pearl, presidente del gremio de petróleo y gas, afirmó que el Consejo de Estado ya resolvió que los pilotos no son necesarios. La ANH dijo, según Portafolio, que espera lograrlo en los próximos dos años y que adelanta revisiones contractuales y regulatorias, entre ellas los contratos de Drummond en Cesar–Ranchería. Campetrol estima que el fracking podría multiplicar por cuatro las reservas de petróleo y por 97 las de gas.",
+      "por_que_importa": "Colombia enfrenta caída de reservas de gas e importaciones crecientes; el fracking es la principal apuesta del Gobierno y la industria para revertirlo, y una fuente de controversia ambiental.",
+      "perspectivas": [
+        {
+          "medio": "Portafolio",
+          "enfoque": "Centrado en el calendario: si se aplaza o no y qué falta para perforar."
+        },
+        {
+          "medio": "El Universal",
+          "enfoque": "Recoge el mensaje de la industria: 'este es el momento de los no convencionales'."
+        },
+        {
+          "medio": "El Heraldo",
+          "enfoque": "Destaca la propuesta de GeoPark de saltarse los pilotos."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Resalta las cifras de Campetrol sobre el potencial de reservas."
+        },
+        {
+          "medio": "Prensa Latina",
+          "enfoque": "Lo presenta como la apertura de Colombia al fracking, con tono crítico."
+        }
+      ],
+      "coincidencias": "Todas las fuentes coinciden en que no hay una fecha oficial y en que la meta de la industria es 2027.",
+      "diferencias": "La industria da por superado el requisito de pilotos; la cobertura recoge poco a comunidades y ambientalistas, que en el pasado se han opuesto. Los horizontes varían: ANH (dos años), Drummond (2027–2028), GeoPark (2027).",
+      "analisis": "Los defensores argumentan seguridad energética y regalías; los críticos, riesgos sobre agua y sismicidad. Las cifras de potencial de Campetrol son estimaciones gremiales, no reservas probadas.",
+      "implicaciones": "Oportunidades para proveedores de servicios petroleros en el Cesar y el Magdalena Medio; riesgo de conflictividad social y litigios.",
+      "que_vigilar": "Reglamentación de la ANH y el Ministerio de Minas, licencias ambientales y posiciones de comunidades.",
+      "fuentes": [
+        {
+          "medio": "Portafolio",
+          "titulo": "¿Se aplaza el fracking en Colombia? La ANH pone fecha para el primer pozo",
+          "url": "https://www.portafolio.co/energia/se-aplaza-el-fracking-en-colombia-la-anh-pone-fecha-para-el-primer-pozo-505793"
+        },
+        {
+          "medio": "Portafolio",
+          "titulo": "ANH busca destrabar contratos de fracking de Drummond en el Cesar-Ranchería",
+          "url": "https://www.portafolio.co/energia/anh-busca-destrabar-contratos-de-fracking-de-drummond-en-el-cesar-rancheria-que-falta-para-perforar-505778"
+        },
+        {
+          "medio": "El Universal",
+          "titulo": "Se abre paso al fracking en Colombia: 'Este es el momento de los No Convencionales': Bayón",
+          "url": "https://www.eluniversal.com.co/economica/2026/11/05/se-abre-paso-al-fracking-en-colombia-este-es-el-momento-de-los-no-convencionales-bayon/"
+        },
+        {
+          "medio": "El Heraldo",
+          "titulo": "Geopark propone avanzar de manera directa al fracking en Colombia",
+          "url": "https://www.elheraldo.co/economia/2026/11/05/geopark-propone-avanzar-de-manera-directa-al-fracking-en-colombia/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Fracking en Colombia podría multiplicar por cuatro las reservas de petróleo y por 97 las de gas, según Campetrol",
+          "url": "https://www.infobae.com/colombia/2026/11/05/fracking-en-colombia-podria-multiplicar-por-cuatro-las-reservas-de-petroleo-y-por-97-las-de-gas-segun-campetrol/"
+        },
+        {
+          "medio": "Prensa Latina",
+          "titulo": "Colombia abre puertas al fracking",
+          "url": "https://www.prensa-latina.cu/2026/11/05/colombia-abre-puertas-al-fracking/"
+        }
+      ]
+    },
+    {
+      "titulo": "ANLA retira tres exigencias ambientales para perforar el pozo de gas Komodo-X1",
+      "categoria": "Energía / Regulación",
+      "importancia": 4,
+      "resumen": "La ANLA eliminó tres exigencias ambientales impuestas a Ecopetrol (40 %) y Anadarko, filial de Oxy (60 %, operadora), para perforar el pozo exploratorio de gas Komodo-X1 en el bloque COL-1, en el Caribe. La resolución, del 29 de octubre, se conoció el 6 de noviembre. El principal cambio: los planes ambientales por pozo dejan de ser condición previa. No hay fecha de perforación. Ecopetrol había pedido revocar esas condiciones en 2025 y la ANLA lo negó entonces.",
+      "por_que_importa": "El gas costa afuera es clave para la seguridad energética ante la caída de reservas y el riesgo de El Niño; la decisión destraba un proyecto que estaba frenado.",
+      "perspectivas": [
+        {
+          "medio": "Cambio",
+          "enfoque": "Enfoca el retiro de requisitos como una flexibilización ambiental."
+        },
+        {
+          "medio": "La República",
+          "enfoque": "Cobertura económica centrada en el efecto para Ecopetrol."
+        },
+        {
+          "medio": "The Rio Times",
+          "enfoque": "Para inversionistas extranjeros: Colombia relaja reglas, sin fecha de perforación."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Sección judicial: lo presenta como flexibilización de requisitos."
+        }
+      ],
+      "coincidencias": "Coinciden en que se retiraron tres exigencias y en que no hay fecha de perforación.",
+      "diferencias": "Unos medios usan 'flexibilizó' (connotación crítica) y otros 'vía libre' (connotación favorable). Notas de 2024 mencionaban a Petrobras como socio; las de 2026 hablan de Anadarko, sin que se haya confirmado el cambio.",
+      "analisis": "Para el Gobierno y la industria, los requisitos eran trabas que impedían cumplir las ventanas de perforación; ambientalistas podrían ver un debilitamiento de controles en un ecosistema marino sensible.",
+      "implicaciones": "Si se perfora y hay hallazgo, el gas llegaría en varios años; no resuelve el déficit inmediato pero mejora expectativas de oferta.",
+      "que_vigilar": "Fecha de perforación, posibles recursos legales y otros proyectos costa afuera.",
+      "fuentes": [
+        {
+          "medio": "Cambio",
+          "titulo": "ANLA retira tres requisitos ambientales a Ecopetrol y Anadarko para perforar el pozo Komodo-X1",
+          "url": "https://cambiocolombia.com/medio-ambiente/articulo/2026/11/la-anla-elimino-tres-exigencias-ambientales-para-la-perforacion-del-pozo-komodo-x1-en-el-caribe-colombiano"
+        },
+        {
+          "medio": "La República",
+          "titulo": "Anla eliminó tres exigencias ambientales a Ecopetrol para perforar el pozo Komodo-X1",
+          "url": "https://www.larepublica.co/economia/anla-elimino-tres-exigencias-ambientales-a-ecopetrol-para-perforar-el-pozo-komodo-x1-4519379"
+        },
+        {
+          "medio": "The Rio Times",
+          "titulo": "Colombia Eases Rules for Ecopetrol Komodo Gas Well",
+          "url": "https://www.riotimesonline.com/colombia-ecopetrol-komodo-x1-anla-conditions-removed-2026"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "ANLA elimina tres exigencias ambientales para proyecto Komodo-X1 en el Caribe colombiano",
+          "url": "https://www.infobae.com/colombia/2026/11/07/anla-elimina-tres-exigencias-ambientales-para-proyecto-komodo-x1-en-el-caribe-colombiano/"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: seis semanas para pasar sin sesiones extraordinarias",
+      "categoria": "Economía / Política fiscal",
+      "importancia": 5,
+      "resumen": "Según La República, el Gobierno tiene hasta el 16 de diciembre, más eventuales sesiones extraordinarias, para que el Congreso apruebe el proyecto 477 de 2026. El mensaje de urgencia, firmado por el ministro de Hacienda, Miguel Gómez, permite sesiones conjuntas de comisiones. Aún no se conocen ponentes ni fecha de primer debate. Las cifras del ajuste fiscal que persigue varían entre medios ($40 billones según El Heraldo; $45 billones según otros).",
+      "por_que_importa": "Es la reforma que define impuestos de empresas y hogares desde 2027 y la credibilidad fiscal ante calificadoras; el calendario es muy corto para 105–106 artículos.",
+      "perspectivas": [
+        {
+          "medio": "La República",
+          "enfoque": "Énfasis en el calendario estrecho."
+        },
+        {
+          "medio": "Holland & Knight",
+          "enfoque": "Análisis legal de los principales cambios tributarios para empresas."
+        },
+        {
+          "medio": "El Heraldo",
+          "enfoque": "Cobertura del mensaje de urgencia y la magnitud del ajuste."
+        }
+      ],
+      "coincidencias": "Coinciden en que la urgencia acelera el trámite y en que el texto puede cambiar.",
+      "diferencias": "Las cifras del ajuste y del número de artículos difieren según la fuente.",
+      "analisis": "Para el Gobierno, la urgencia es necesaria para evitar un deterioro fiscal; para críticos, acelerar una reforma amplia limita el debate. Sin ponencia radicada, el primer debate difícilmente ocurrirá antes de mediados de noviembre.",
+      "implicaciones": "Planee escenarios tributarios con y sin reforma. Atención a la sobretasa financiera, el IVA a alimentos y la rebaja de renta empresarial.",
+      "que_vigilar": "Designación de ponentes, primer debate en comisiones conjuntas y paro de la CUT del 19 de noviembre.",
+      "fuentes": [
+        {
+          "medio": "La República",
+          "titulo": "Ley de Rescate tiene seis semanas para pasar el Congreso sin sesiones extraordinarias",
+          "url": "https://www.larepublica.co/economia/ley-de-rescate-tiene-seis-semanas-para-pasar-el-congreso-sin-sesiones-extraordinarias-4519482"
+        },
+        {
+          "medio": "Holland & Knight",
+          "titulo": "Proyecto de Ley de Rescate Económico en Colombia: Principales cambios tributarios",
+          "url": "https://www.hklaw.com/en/insights/publications/2026/11/proyecto-de-ley-de-rescate-economico-en-colombia"
+        },
+        {
+          "medio": "El Heraldo",
+          "titulo": "Gobierno radicó mensaje de urgencia para acelerar trámite de Ley de Rescate en el Congreso",
+          "url": "https://www.elheraldo.co/economia/2026/11/03/gobierno-radico-mensaje-de-urgencia-para-acelerar-tramite-de-ley-de-rescate-en-el-congreso/"
+        }
+      ]
+    },
+    {
+      "titulo": "Embalses por debajo de la meta a pocas semanas de El Niño",
+      "categoria": "Energía / Clima",
+      "importancia": 4,
+      "resumen": "Los embalses estaban en poco más de 76 % a finales de octubre, según Valora Analitik, frente a la meta de 80 % que XM fija para el 30 de noviembre, cuando terminan las lluvias. Los aportes hídricos iban en 60,51 % del promedio histórico al 22 de octubre. XM asigna 83 % de probabilidad a que El Niño se mantenga entre fuerte y muy fuerte hasta el primer trimestre de 2027 y estima una demanda de 484 GBTUD de gas para generación térmica. XM no ha anunciado racionamiento.",
+      "por_que_importa": "Un Niño fuerte con embalses bajos eleva el precio de la energía en bolsa, la dependencia del gas importado y el riesgo de restricciones para la industria.",
+      "perspectivas": [
+        {
+          "medio": "Valora Analitik",
+          "enfoque": "Énfasis en la cuenta regresiva: días que quedan para llenar embalses."
+        },
+        {
+          "medio": "El Nuevo Siglo",
+          "enfoque": "Destaca la combinación de El Niño y mayor demanda como alerta para el sector."
+        },
+        {
+          "medio": "Diario La Libertad",
+          "enfoque": "Titular de alerta por posible crisis, aunque aclara que no hay racionamiento anunciado."
+        }
+      ],
+      "coincidencias": "Coinciden en que los embalses están por debajo de la meta y en el riesgo de El Niño.",
+      "diferencias": "Algunos titulares son alarmistas (mínimos históricos, apagón); los datos de XM hablan de escenarios, no de racionamiento.",
+      "analisis": "El nivel final de embalses al 30 de noviembre será decisivo. Las proyecciones extremas de XM (niveles de 13 %) son escenarios de estrés, no pronósticos centrales.",
+      "implicaciones": "Industrias intensivas en energía deben revisar contratos de suministro, coberturas de precio y planes de respaldo para el primer trimestre de 2027.",
+      "que_vigilar": "Nivel de embalses semanal, precio de bolsa de energía y disponibilidad de gas importado.",
+      "fuentes": [
+        {
+          "medio": "Valora Analitik",
+          "titulo": "Quedan 38 días para que Colombia almacene suficiente agua en los embalses para enfrentar El Niño: XM",
+          "url": "https://www.valoraanalitik.com/quedan-38-dias-para-que-colombia-almacene-suficiente-agua-en-los-embalses-para-enfrentar-el-nino-xm/"
+        },
+        {
+          "medio": "El Nuevo Siglo",
+          "titulo": "El Niño y el aumento de la demanda de energía encienden las alertas del sector energético",
+          "url": "https://www.elnuevosiglo.com.co/nacion/el-nino-y-el-aumento-de-la-demanda-de-energia-encienden-las-alertas-del-sector-energetico"
+        },
+        {
+          "medio": "Diario La Libertad",
+          "titulo": "Alerta por posible crisis energética: embalses colombianos podrían caer por debajo de mínimos históricos",
+          "url": "https://diariolalibertad.com/2026/11/01/alerta-por-posible-crisis-energetica-embalses-colombianos-podrian-caer-por-debajo-de-minimos-historicos/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "EE. UU. crea 165.000 empleos en octubre y sube la apuesta por un alza de la Fed",
+      "categoria": "Economía / EE. UU.",
+      "importancia": 5,
+      "resumen": "La economía de EE. UU. sumó 165.000 empleos en octubre, muy por encima de lo esperado (59.000 según el sondeo de Dow Jones citado por CNBC; 65.000 según Reuters), y el desempleo bajó a 4,1 % desde 4,2 %. Septiembre se revisó al alza a 60.000. Los salarios crecieron 3,1 % anual. Los rendimientos de los bonos subieron tras el dato y las apuestas por un alza de tasas de la Fed en diciembre pasaron a cerca de 78 %, desde 70 %.",
+      "por_que_importa": "Un mercado laboral sólido le da margen a la Fed para subir tasas en diciembre, lo que encarece el dólar y la financiación global, incluida la de Colombia.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Énfasis en la sorpresa positiva frente a lo esperado."
+        },
+        {
+          "medio": "Reuters (vía Yahoo Finance)",
+          "enfoque": "Pone el foco en la reacción de los bonos y la Fed."
+        },
+        {
+          "medio": "The Epoch Times",
+          "enfoque": "Cobertura centrada en la baja del desempleo."
+        },
+        {
+          "medio": "Beinsure",
+          "enfoque": "Enfoque de mercado: rendimientos y probabilidades de alza."
+        }
+      ],
+      "coincidencias": "Todas las fuentes coinciden en las cifras y en que refuerzan la expectativa de alza.",
+      "diferencias": "Difieren en el pronóstico de consenso (59.000 o 65.000) y en la probabilidad de alza (76,8 % a 78 %).",
+      "analisis": "El dato contrasta con la debilidad que algunos esperaban. Algunas fuentes señalan también que el desempleo de larga duración aumentó, un matiz que modera la lectura optimista.",
+      "implicaciones": "Tasas externas altas por más tiempo: presión sobre el peso y sobre el costo de la deuda en dólares de empresas colombianas.",
+      "que_vigilar": "Inflación de EE. UU. de octubre y discursos de la Fed antes del 9 de diciembre.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+          "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+        },
+        {
+          "medio": "Yahoo Finance (Reuters)",
+          "titulo": "Strong October jobs report sends yields higher",
+          "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html"
+        },
+        {
+          "medio": "The Epoch Times",
+          "titulo": "US Economy Adds 165,000 New Jobs in October, Unemployment Rate Dips to 4.1 Percent",
+          "url": "https://www.theepochtimes.com/us/us-economy-adds-165000-new-jobs-in-october-unemployment-rate-dips-to-4-1-percent-6119487"
+        },
+        {
+          "medio": "Beinsure",
+          "titulo": "US jobs report: 165,000 payroll lift Treasury yields and Fed hike odds",
+          "url": "https://beinsure.com/news/us-jobs-report-165k-payroll-lift-treasury-yields/"
+        }
+      ]
+    },
+    {
+      "titulo": "Wall Street rebota a medias tras el desplome de la IA; semana negativa",
+      "categoria": "Mercados",
+      "importancia": 4,
+      "resumen": "El 6 de noviembre el Nasdaq subió 1,09 % a 24.579,42 y el S&P 500 0,31 % a 7.376,86, con recuperación de los chips; el Dow bajó 0,46 % a 51.285,73. En la semana, el Dow perdió 0,94 %, el S&P 500 2,68 % y el Nasdaq 3,37 %. El dato fuerte de empleo, que elevó los rendimientos, limitó las ganancias.",
+      "por_que_importa": "La volatilidad tecnológica y la expectativa de tasas más altas marcan el apetito por riesgo global y los flujos hacia mercados emergentes.",
+      "perspectivas": [
+        {
+          "medio": "Yahoo Finance",
+          "enfoque": "Lo presenta como un rebote tras la venta de la IA posterior a las elecciones."
+        },
+        {
+          "medio": "StockTitan",
+          "enfoque": "Destaca la recuperación de los chips un día después de su desplome."
+        },
+        {
+          "medio": "Investrade",
+          "enfoque": "Revisión técnica de cierres y tasas."
+        },
+        {
+          "medio": "Ad-hoc News",
+          "enfoque": "Nota de cierre centrada en la caída del Dow."
+        }
+      ],
+      "coincidencias": "Coinciden en las cifras de cierre y en que el rebote fue parcial.",
+      "diferencias": "Las fuentes atribuyen la venta del jueves a riesgos regulatorios o a valoraciones; es una interpretación, no un hecho comprobado.",
+      "analisis": "El rebote de un día no confirma que la corrección haya terminado; el mercado sigue sensible a la política en EE. UU. y a la Fed.",
+      "implicaciones": "Fondos de pensiones e inversionistas colombianos con exposición a tecnología estadounidense enfrentan mayor volatilidad.",
+      "que_vigilar": "Resultados de empresas de chips y datos de inflación de EE. UU.",
+      "fuentes": [
+        {
+          "medio": "Yahoo Finance",
+          "titulo": "Stock Market Today (Nov. 6, 2026): Nasdaq, S&P 500 rise after midterms AI rout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-6-144816072.html"
+        },
+        {
+          "medio": "StockTitan",
+          "titulo": "Chip Stocks Bounced Back in the Stock Market Today, November 6, 2026",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+        },
+        {
+          "medio": "Investrade",
+          "titulo": "Market Review: November 06, 2026",
+          "url": "https://investrade.com/market-review-november-06-2026/"
+        },
+        {
+          "medio": "Ad-hoc News",
+          "titulo": "Dow Jones Closes at 51,285.73, Down 0.46 Percent on Friday",
+          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dow-jones-closes-at-51-285-73-down-0-46-percent-on-friday/70472308"
+        }
+      ]
+    },
+    {
+      "titulo": "El Brent pierde más de 16 % en la semana por la apuesta a la paz con Irán",
+      "categoria": "Energía / Mercados",
+      "importancia": 5,
+      "resumen": "El Brent cerró el 6 de noviembre en US$98,32 (+3 centavos) y el WTI en US$90,83 (+31 centavos), según CNBC. En la semana, el Brent cayó más de 16 % y el WTI casi 13 %, impulsados por la expectativa de que el resultado electoral en EE. UU. acelere un acuerdo con Irán. Los inversionistas siguen sopesando el riesgo de una nueva escalada.",
+      "por_que_importa": "Para Colombia, la caída semanal del crudo reduce ingresos de Ecopetrol y del fisco justo cuando el Gobierno defiende su reforma, pero alivia costos de transporte e inflación importada.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Informativo: cierre del día y fuerte pérdida semanal."
+        },
+        {
+          "medio": "Benzinga",
+          "enfoque": "Destaca que las tensiones EE. UU.–Irán mantienen el temor a cortes de oferta."
+        },
+        {
+          "medio": "EnergyNow",
+          "enfoque": "Titular centrado en la esperanza de un acuerdo de paz tras las elecciones."
+        }
+      ],
+      "coincidencias": "Coinciden en las cifras y en que la causa principal es la expectativa sobre Irán.",
+      "diferencias": "Unos medios ponen el acento en la paz; otros, en el riesgo de escalada que podría revertir la caída.",
+      "analisis": "El precio quedó cerca de US$98: más bajo que la semana anterior, pero aún alto frente a niveles previos a la guerra. La dirección dependerá de hechos concretos en las negociaciones.",
+      "implicaciones": "Revise supuestos de precio para el presupuesto 2027 y coberturas: la volatilidad semanal supera el 15 %.",
+      "que_vigilar": "Respuestas de EE. UU. e Irán a los mediadores e incidentes en Ormuz.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "Oil price today: Brent, WTI",
+          "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html"
+        },
+        {
+          "medio": "Benzinga",
+          "titulo": "Oil Prices Suffer Steep Weekly Losses as US-Iran Tensions Raise Supply Fears",
+          "url": "https://www.benzinga.com/markets/commodities/26/11/63017449/oil-prices-weekly-losses-us-iran-tensions"
+        },
+        {
+          "medio": "EnergyNow",
+          "titulo": "Oil Prices Plunge 13% in One Week as U.S. Election Results Raise Hopes of Iran Peace Deal",
+          "url": "https://energynow.com/2026/11/oil-prices-plunge-13-in-one-week-as-u-s-election-results-raise-hopes-of-iran-peace-deal-wti-closes-below-91-brent-below-99/"
+        }
+      ]
+    },
+    {
+      "titulo": "Trump confirma 'ataques menores' contra Irán mientras siguen las mediaciones",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 4,
+      "resumen": "Trump dijo que EE. UU. realizó 'ataques menores' contra Irán, tras reportes de que dos misiles impactaron la isla de Qeshm, aunque no confirmó explícitamente que fueran esos (CNBC). EE. UU. ya había atacado Qeshm a inicios de semana en lo que un funcionario llamó una 'medida defensiva'. CBS informa que EE. UU. ofrece US$20 millones por información sobre el programa nuclear iraní. Mientras tanto, mediadores cataríes discuten con Irán un posible acuerdo puente para abrir negociaciones nucleares; Irán calificó de 'poco convincente' la respuesta de EE. UU. a su plan para Ormuz.",
+      "por_que_importa": "La combinación de ataques limitados y diplomacia mantiene la incertidumbre sobre Ormuz y el petróleo.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Énfasis en la confirmación de 'ataques menores' y su ambigüedad."
+        },
+        {
+          "medio": "CBS News",
+          "enfoque": "Destaca la recompensa por información nuclear y el carácter 'menor' del ataque."
+        },
+        {
+          "medio": "Ynet",
+          "enfoque": "Encuadre israelí: ataques mientras se intensifica la diplomacia."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Pone el foco en la respuesta iraní a la propuesta de EE. UU. sobre Ormuz."
+        }
+      ],
+      "coincidencias": "Coinciden en que hay ataques limitados y negociaciones simultáneas.",
+      "diferencias": "Las fuentes difieren en el estado de la diplomacia (activa o estancada) y en la atribución exacta de los ataques.",
+      "analisis": "Los ataques limitados parecen buscar presión sin volver a combates mayores; el riesgo es un error de cálculo. La postura previa de Trump de 'no atacar de inmediato' contrasta con estos hechos.",
+      "implicaciones": "Volatilidad en energía, fletes y seguros; posible rebote del crudo si hay escalada.",
+      "que_vigilar": "Respuesta iraní, avances del acuerdo puente y tránsito por Ormuz.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "Trump says U.S. carried out 'minor strikes' on Iran as missiles hit Qeshm Island",
+          "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html"
+        },
+        {
+          "medio": "CBS News",
+          "titulo": "U.S. offers $20 million for information on Iran's nuclear program, as Trump confirms 'minor' strike",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+        },
+        {
+          "medio": "Ynet",
+          "titulo": "US carries out fresh strikes on Iran as diplomatic efforts to end war intensify",
+          "url": "https://ynetnews.com/article/bkt6hz26fx"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes",
+          "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+        }
+      ]
+    },
+    {
+      "titulo": "Ucrania llega a Abu Dabi con expectativas bajas y posiciones lejanas",
+      "categoria": "Geopolítica / Europa",
+      "importancia": 4,
+      "resumen": "EE. UU., Rusia y Ucrania retomarán conversaciones en Abu Dabi el 10 y 11 de noviembre, con Steve Witkoff y Jared Kushner por Washington; es la reanudación de un esfuerzo suspendido en febrero por la guerra en Irán. Zelenski dijo a CNN que primero debe discutirse cómo terminar la guerra y luego las garantías de seguridad, y que espera que las conversaciones abran camino a una reunión con Putin. Según Axios, la única concesión aparente de Putin es aceptar volver a la mesa y las partes siguen lejos, sobre todo en territorio.",
+      "por_que_importa": "Un avance cambiaría precios de gas, granos y fertilizantes y el régimen de sanciones a Rusia.",
+      "perspectivas": [
+        {
+          "medio": "Axios",
+          "enfoque": "Escéptico: las partes siguen lejos y Putin solo concedió volver a hablar."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Destaca la esperanza de Zelenski de una cumbre a tres y la exclusión de los europeos de la mesa."
+        },
+        {
+          "medio": "UNN (Ucrania)",
+          "enfoque": "Recoge las prioridades de Kiev para las conversaciones."
+        }
+      ],
+      "coincidencias": "Coinciden en las fechas, los negociadores y la distancia entre las partes.",
+      "diferencias": "El optimismo de Trump ('muy cerca') contrasta con la cautela de Kiev y de analistas.",
+      "analisis": "Las conversaciones llegan tras un ataque ruso que dejó 42 muertos en Zaporiyia y con advertencias ucranianas de nuevos ataques a infraestructura energética.",
+      "implicaciones": "Para importadores colombianos de fertilizantes y trigo, un acuerdo podría aliviar precios; un fracaso mantendría la prima de riesgo.",
+      "que_vigilar": "Resultado de Abu Dabi (10–11 nov) y posición de Europa.",
+      "fuentes": [
+        {
+          "medio": "Axios",
+          "titulo": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
+          "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "Ukraine's Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+          "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
+        },
+        {
+          "medio": "UNN",
+          "titulo": "Zelenskyy named the priorities of the peace talks in Abu Dhabi",
+          "url": "https://unn.ua/en/news/zelenskyy-named-the-priorities-of-the-peace-talks-in-abu-dhabi"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "La semana cerró con un mercado laboral estadounidense más fuerte de lo previsto, que subió los rendimientos y la probabilidad de un alza de la Fed en diciembre. Wall Street rebotó a medias tras el desplome tecnológico del jueves y terminó la semana en rojo (Nasdaq −3,4 %). El petróleo se estabilizó cerca de US$98 tras caer más de 16 % en la semana, y el oro ganó cerca de 5 %. En Colombia, el COLCAP quedó plano cerca de 2.485 puntos y el dólar subió a unos $3.238; la TRM del fin de semana es $3.237,83. En contraste con las alzas en EE. UU. y Reino Unido, Banxico recortó su tasa a 6,25 %.",
+  "agenda": [
+    "9 de noviembre, 2:00 p. m.: mesa técnica de la Procuraduría con el director de la Aerocivil.",
+    "10 de noviembre: Ecopetrol presenta resultados del tercer trimestre.",
+    "10 y 11 de noviembre: conversaciones EE. UU.–Rusia–Ucrania en Abu Dabi.",
+    "Próximos días: DANE publica la inflación de octubre (fecha no confirmada en las fuentes).",
+    "Mediados de noviembre: posible radicación de la ponencia de la Ley de Rescate (fecha no oficial).",
+    "19 de noviembre: paro nacional convocado por la CUT.",
+    "30 de noviembre: fecha de referencia de XM para que los embalses lleguen a 80 %.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Es sábado: hubo menos notas fechadas hoy, por lo que varios temas de Colombia se apoyan en notas del 5 y 6 de noviembre, y el de embalses en datos de finales de octubre. La cobertura del fracking y de Komodo-X1 recoge sobre todo a la industria y al Gobierno, y poco a comunidades y ambientalistas. Las cifras de potencial de Campetrol son estimaciones gremiales. Sobre Irán, la atribución de los ataques a Qeshm no está confirmada y los reportes sobre la diplomacia se contradicen. No se verificaron: el cierre exacto del dólar en Set-FX del 6 de noviembre ni del COLCAP (aproximados, The Rio Times), el rendimiento exacto del bono a 10 años, el precio del café ni la fecha de publicación del IPC de octubre. Tampoco se encontraron detalles de lo que dijo Hernando Vargas sobre tasas en la presentación del informe.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3237.83,
+      "variacion_pct": 0.296,
+      "variacion_mes_pct": null,
+      "vigencia": "7–9 nov",
+      "fuente": "Superfinanciera (vía Colombia.com / Dolar Hoy)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado (aprox.)",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 0,
+      "valor": 3238,
+      "variacion_pct": 0.34,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov",
+      "fuente": "The Rio Times"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 98.32,
+      "variacion_pct": 0.03,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov (semana: −16 %)",
+      "fuente": "CNBC"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 90.83,
+      "variacion_pct": 0.34,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov (semana: −13 %)",
+      "fuente": "CNBC"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro (spot)",
+      "grupo": "Materias primas",
+      "unidad": "USD/oz",
+      "decimales": 0,
+      "valor": 4048,
+      "variacion_pct": -0.96,
+      "variacion_mes_pct": null,
+      "vigencia": "6 nov (semana: ~+5 %)",
+      "fuente": "Trading Economics"
+    },
+    {
+      "id": "colcap",
+      "nombre": "MSCI COLCAP (aprox.)",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 0,
+      "valor": 2485,
+      "variacion_pct": 0.03,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov",
+      "fuente": "The Rio Times"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7376.86,
+      "variacion_pct": 0.31,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov",
+      "fuente": "Yahoo Finance / Closing Look"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 24579.42,
+      "variacion_pct": 1.09,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov",
+      "fuente": "Yahoo Finance / Closing Look"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 51285.73,
+      "variacion_pct": -0.46,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov",
+      "fuente": "Ad-hoc News / Yahoo Finance"
+    },
+    {
+      "id": "ust10",
+      "nombre": "Bono EE. UU. 10 años (aprox.)",
+      "grupo": "Tasas",
+      "unidad": "%",
+      "decimales": 2,
+      "valor": 4.88,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "6 nov, tras dato de empleo",
+      "fuente": "Reuters (vía Yahoo Finance)"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,29 %",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía Portafolio)",
+      "url": "https://www.portafolio.co/economia/finanzas/inflacion-en-colombia-sigue-subiendo-se-ubico-en-6-29-en-septiembre-de-504077",
+      "comentario": "La más alta desde julio de 2024. El dato de octubre aún no se publica."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión: 9 dic; tras el dato de empleo, el mercado asigna cerca de 78 % a un alza."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 37,
+    "medios": [
+      {
+        "medio": "CNBC",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "El Heraldo",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Infobae",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "La República",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Espectador",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Pluralidad Z",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Universal",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Prensa Latina",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Cambio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Rio Times",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Holland & Knight",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Valora Analitik",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Nuevo Siglo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario La Libertad",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance (Reuters)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Epoch Times",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Beinsure",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "StockTitan",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Investrade",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Ad-hoc News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Benzinga",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "EnergyNow",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CBS News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Ynet",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Axios",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "UNN",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
