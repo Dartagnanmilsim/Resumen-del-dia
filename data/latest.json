@@ -1,348 +1,424 @@
 {
-  "fecha": "2026-11-07",
-  "generado": "2026-11-07T10:40:48.046984Z",
+  "fecha": "2026-11-08",
+  "generado": "2026-11-08T10:40:46.333635Z",
   "modelo": null,
   "demo": false,
-  "titular_del_dia": "El empleo fuerte en EE. UU. acerca un alza de la Fed y el petróleo cierra su peor semana en meses, mientras Colombia reabre el debate del fracking y del gas costa afuera frente a El Niño.",
+  "titular_del_dia": "Trump responde a su derrota con Stephen Miller como jefe de gabinete y EE. UU. amplía el bloqueo a Irán; en Colombia, el Centro Democrático pide más recortes y menos impuestos en la Ley de Rescate.",
   "lo_esencial": [
-    "EE. UU. crea 165.000 empleos en octubre (se esperaban unos 60.000) y el desempleo baja a 4,1 %; sube a cerca de 78 % la apuesta por un alza de la Fed en diciembre.",
-    "El Brent cierra en US$98,32 y pierde más de 16 % en la semana por la expectativa de un acuerdo con Irán; Trump confirma 'ataques menores' contra ese país.",
-    "BanRep eleva a 10,2 % su pronóstico de inflación de alimentos por El Niño y ve en Venezuela un posible impulso a la economía.",
-    "La industria propone perforar el primer pozo de fracking en 2027; la ANLA retira tres exigencias ambientales al pozo de gas Komodo-X1.",
-    "La Ley de Rescate tiene hasta el 16 de diciembre para aprobarse sin sesiones extraordinarias.",
-    "Embalses en torno a 76 %, por debajo de la meta de 80 % para el 30 de noviembre."
+    "Gobierno y Centro Democrático abren mesas técnicas sobre la Ley de Rescate; el partido propone pasar de 18 a seis ministerios, eliminar o fusionar 48 entidades y vender acciones de Ecopetrol.",
+    "Caracol Televisión evacuó su sede en Bogotá por una alerta de atentado; la Policía no halló explosivos y otros medios fueron advertidos.",
+    "Trump nombra a Stephen Miller jefe de gabinete desde el lunes y pide al Departamento de Justicia investigar a los demócratas, sin pruebas según ABC.",
+    "Irán estudia una propuesta catarí para reabrir Ormuz, mientras EE. UU. crea una fuerza de tarea para cortar las rutas terrestres iraníes.",
+    "Rusia golpea la red eléctrica de Kiev con 36 misiles a tres días de las conversaciones de Abu Dabi.",
+    "Semana en mercados: Nasdaq −3,4 %, Brent −16 %, oro +5 %; la TRM hasta el lunes es $3.237,83."
   ],
   "colombia": [
     {
-      "titulo": "BanRep: inflación de alimentos de 10,2 % y Venezuela como riesgo al alza",
-      "categoria": "Economía / Política monetaria",
-      "importancia": 5,
-      "resumen": "En la presentación del Informe de Política Monetaria el 6 de noviembre, el gerente técnico Hernando Vargas dijo que una recuperación del mercado venezolano es un riesgo al alza para la actividad colombiana que no está incluido en los pronósticos ('sería muy interesante', según Semana). El Emisor elevó su proyección de inflación de alimentos para 2026 de 9 % a 10,2 % por El Niño. Se mantienen las cifras centrales: inflación total de 7,1 % al cierre de 2026, PIB de 2,0 % en 2026 y 1,7 % en 2027, y tasa en 12,25 %.",
-      "por_que_importa": "Alimentos más caros golpean a los hogares de menores ingresos y empujan los costos laborales e indexaciones; la posibilidad de un repunte comercial con Venezuela abre oportunidades para exportadores.",
-      "perspectivas": [
-        {
-          "medio": "Semana",
-          "enfoque": "Pone el foco en Venezuela como posible impulso a la economía, una variable que el BanRep aún no cuantifica."
-        },
-        {
-          "medio": "El Espectador",
-          "enfoque": "Explicativo: cuál es la visión del Banco sobre el estado de la economía."
-        },
-        {
-          "medio": "Pluralidad Z",
-          "enfoque": "Destaca que la desaceleración del tercer trimestre inclinó la decisión de mantener la tasa."
-        }
-      ],
-      "coincidencias": "Coinciden en el deterioro de la inflación por El Niño y en el bajo crecimiento previsto.",
-      "diferencias": "Semana resalta el potencial venezolano; otros medios se centran en la presión inflacionaria y la división de la Junta.",
-      "analisis": "El BanRep enfrenta un dilema: precios al alza por clima y demanda, con una economía que se desacelera. La mención de Venezuela es un riesgo identificado, no un pronóstico; su impacto depende de la evolución política y comercial de ese país.",
-      "implicaciones": "Empresas de consumo masivo y alimentos deben prever costos de insumos agrícolas más altos. Exportadores con interés en Venezuela deberían seguir la evolución de ese mercado.",
-      "que_vigilar": "Dato de inflación de octubre del DANE, evolución de El Niño y decisión del 18 de diciembre.",
-      "fuentes": [
-        {
-          "medio": "Semana",
-          "titulo": "Venezuela, ¿el riesgo al alza de la actividad económica en Colombia?",
-          "url": "https://www.semana.com/economia/macroeconomia/articulo/venezuela-el-riesgo-al-alza-de-la-actividad-economica-en-colombia/202639/"
-        },
-        {
-          "medio": "El Espectador",
-          "titulo": "¿Cómo está la economía colombiana?: esta es la visión del Banco de la República",
-          "url": "https://www.elespectador.com/economia/macroeconomia/como-esta-la-economia-colombiana-esta-es-la-vision-del-banco-de-la-republica/"
-        },
-        {
-          "medio": "Pluralidad Z",
-          "titulo": "Banco de la República mantiene tasa ante desaceleración de la economía colombiana",
-          "url": "https://pluralidadz.com/economia/banco-de-la-republica-mantiene-tasa-ante-desaceleracion-de-la-economia-colombiana/"
-        }
-      ]
-    },
-    {
-      "titulo": "Vuelve el debate del fracking: la industria apunta al primer pozo en 2027",
-      "categoria": "Energía / Hidrocarburos",
-      "importancia": 4,
-      "resumen": "En la Cumbre del Petróleo, Gas y Energía, Felipe Bayón (GeoPark) propuso perforar el primer pozo de yacimientos no convencionales en 2027 e ir directo, sin pilotos; Frank Pearl, presidente del gremio de petróleo y gas, afirmó que el Consejo de Estado ya resolvió que los pilotos no son necesarios. La ANH dijo, según Portafolio, que espera lograrlo en los próximos dos años y que adelanta revisiones contractuales y regulatorias, entre ellas los contratos de Drummond en Cesar–Ranchería. Campetrol estima que el fracking podría multiplicar por cuatro las reservas de petróleo y por 97 las de gas.",
-      "por_que_importa": "Colombia enfrenta caída de reservas de gas e importaciones crecientes; el fracking es la principal apuesta del Gobierno y la industria para revertirlo, y una fuente de controversia ambiental.",
-      "perspectivas": [
-        {
-          "medio": "Portafolio",
-          "enfoque": "Centrado en el calendario: si se aplaza o no y qué falta para perforar."
-        },
-        {
-          "medio": "El Universal",
-          "enfoque": "Recoge el mensaje de la industria: 'este es el momento de los no convencionales'."
-        },
-        {
-          "medio": "El Heraldo",
-          "enfoque": "Destaca la propuesta de GeoPark de saltarse los pilotos."
-        },
-        {
-          "medio": "Infobae",
-          "enfoque": "Resalta las cifras de Campetrol sobre el potencial de reservas."
-        },
-        {
-          "medio": "Prensa Latina",
-          "enfoque": "Lo presenta como la apertura de Colombia al fracking, con tono crítico."
-        }
-      ],
-      "coincidencias": "Todas las fuentes coinciden en que no hay una fecha oficial y en que la meta de la industria es 2027.",
-      "diferencias": "La industria da por superado el requisito de pilotos; la cobertura recoge poco a comunidades y ambientalistas, que en el pasado se han opuesto. Los horizontes varían: ANH (dos años), Drummond (2027–2028), GeoPark (2027).",
-      "analisis": "Los defensores argumentan seguridad energética y regalías; los críticos, riesgos sobre agua y sismicidad. Las cifras de potencial de Campetrol son estimaciones gremiales, no reservas probadas.",
-      "implicaciones": "Oportunidades para proveedores de servicios petroleros en el Cesar y el Magdalena Medio; riesgo de conflictividad social y litigios.",
-      "que_vigilar": "Reglamentación de la ANH y el Ministerio de Minas, licencias ambientales y posiciones de comunidades.",
-      "fuentes": [
-        {
-          "medio": "Portafolio",
-          "titulo": "¿Se aplaza el fracking en Colombia? La ANH pone fecha para el primer pozo",
-          "url": "https://www.portafolio.co/energia/se-aplaza-el-fracking-en-colombia-la-anh-pone-fecha-para-el-primer-pozo-505793"
-        },
-        {
-          "medio": "Portafolio",
-          "titulo": "ANH busca destrabar contratos de fracking de Drummond en el Cesar-Ranchería",
-          "url": "https://www.portafolio.co/energia/anh-busca-destrabar-contratos-de-fracking-de-drummond-en-el-cesar-rancheria-que-falta-para-perforar-505778"
-        },
-        {
-          "medio": "El Universal",
-          "titulo": "Se abre paso al fracking en Colombia: 'Este es el momento de los No Convencionales': Bayón",
-          "url": "https://www.eluniversal.com.co/economica/2026/11/05/se-abre-paso-al-fracking-en-colombia-este-es-el-momento-de-los-no-convencionales-bayon/"
-        },
-        {
-          "medio": "El Heraldo",
-          "titulo": "Geopark propone avanzar de manera directa al fracking en Colombia",
-          "url": "https://www.elheraldo.co/economia/2026/11/05/geopark-propone-avanzar-de-manera-directa-al-fracking-en-colombia/"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Fracking en Colombia podría multiplicar por cuatro las reservas de petróleo y por 97 las de gas, según Campetrol",
-          "url": "https://www.infobae.com/colombia/2026/11/05/fracking-en-colombia-podria-multiplicar-por-cuatro-las-reservas-de-petroleo-y-por-97-las-de-gas-segun-campetrol/"
-        },
-        {
-          "medio": "Prensa Latina",
-          "titulo": "Colombia abre puertas al fracking",
-          "url": "https://www.prensa-latina.cu/2026/11/05/colombia-abre-puertas-al-fracking/"
-        }
-      ]
-    },
-    {
-      "titulo": "ANLA retira tres exigencias ambientales para perforar el pozo de gas Komodo-X1",
-      "categoria": "Energía / Regulación",
-      "importancia": 4,
-      "resumen": "La ANLA eliminó tres exigencias ambientales impuestas a Ecopetrol (40 %) y Anadarko, filial de Oxy (60 %, operadora), para perforar el pozo exploratorio de gas Komodo-X1 en el bloque COL-1, en el Caribe. La resolución, del 29 de octubre, se conoció el 6 de noviembre. El principal cambio: los planes ambientales por pozo dejan de ser condición previa. No hay fecha de perforación. Ecopetrol había pedido revocar esas condiciones en 2025 y la ANLA lo negó entonces.",
-      "por_que_importa": "El gas costa afuera es clave para la seguridad energética ante la caída de reservas y el riesgo de El Niño; la decisión destraba un proyecto que estaba frenado.",
-      "perspectivas": [
-        {
-          "medio": "Cambio",
-          "enfoque": "Enfoca el retiro de requisitos como una flexibilización ambiental."
-        },
-        {
-          "medio": "La República",
-          "enfoque": "Cobertura económica centrada en el efecto para Ecopetrol."
-        },
-        {
-          "medio": "The Rio Times",
-          "enfoque": "Para inversionistas extranjeros: Colombia relaja reglas, sin fecha de perforación."
-        },
-        {
-          "medio": "IFM Noticias",
-          "enfoque": "Sección judicial: lo presenta como flexibilización de requisitos."
-        }
-      ],
-      "coincidencias": "Coinciden en que se retiraron tres exigencias y en que no hay fecha de perforación.",
-      "diferencias": "Unos medios usan 'flexibilizó' (connotación crítica) y otros 'vía libre' (connotación favorable). Notas de 2024 mencionaban a Petrobras como socio; las de 2026 hablan de Anadarko, sin que se haya confirmado el cambio.",
-      "analisis": "Para el Gobierno y la industria, los requisitos eran trabas que impedían cumplir las ventanas de perforación; ambientalistas podrían ver un debilitamiento de controles en un ecosistema marino sensible.",
-      "implicaciones": "Si se perfora y hay hallazgo, el gas llegaría en varios años; no resuelve el déficit inmediato pero mejora expectativas de oferta.",
-      "que_vigilar": "Fecha de perforación, posibles recursos legales y otros proyectos costa afuera.",
-      "fuentes": [
-        {
-          "medio": "Cambio",
-          "titulo": "ANLA retira tres requisitos ambientales a Ecopetrol y Anadarko para perforar el pozo Komodo-X1",
-          "url": "https://cambiocolombia.com/medio-ambiente/articulo/2026/11/la-anla-elimino-tres-exigencias-ambientales-para-la-perforacion-del-pozo-komodo-x1-en-el-caribe-colombiano"
-        },
-        {
-          "medio": "La República",
-          "titulo": "Anla eliminó tres exigencias ambientales a Ecopetrol para perforar el pozo Komodo-X1",
-          "url": "https://www.larepublica.co/economia/anla-elimino-tres-exigencias-ambientales-a-ecopetrol-para-perforar-el-pozo-komodo-x1-4519379"
-        },
-        {
-          "medio": "The Rio Times",
-          "titulo": "Colombia Eases Rules for Ecopetrol Komodo Gas Well",
-          "url": "https://www.riotimesonline.com/colombia-ecopetrol-komodo-x1-anla-conditions-removed-2026"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "ANLA elimina tres exigencias ambientales para proyecto Komodo-X1 en el Caribe colombiano",
-          "url": "https://www.infobae.com/colombia/2026/11/07/anla-elimina-tres-exigencias-ambientales-para-proyecto-komodo-x1-en-el-caribe-colombiano/"
-        }
-      ]
-    },
-    {
-      "titulo": "Ley de Rescate: seis semanas para pasar sin sesiones extraordinarias",
+      "titulo": "Ley de Rescate: Gobierno y Centro Democrático abren mesas técnicas tras el primer cara a cara",
       "categoria": "Economía / Política fiscal",
       "importancia": 5,
-      "resumen": "Según La República, el Gobierno tiene hasta el 16 de diciembre, más eventuales sesiones extraordinarias, para que el Congreso apruebe el proyecto 477 de 2026. El mensaje de urgencia, firmado por el ministro de Hacienda, Miguel Gómez, permite sesiones conjuntas de comisiones. Aún no se conocen ponentes ni fecha de primer debate. Las cifras del ajuste fiscal que persigue varían entre medios ($40 billones según El Heraldo; $45 billones según otros).",
-      "por_que_importa": "Es la reforma que define impuestos de empresas y hogares desde 2027 y la credibilidad fiscal ante calificadoras; el calendario es muy corto para 105–106 artículos.",
+      "resumen": "El sábado 7 de noviembre, en la sede alterna de la Presidencia en Barranquilla, el Gobierno —representado por el vicepresidente José Manuel Restrepo y varios ministros; el presidente no asistió— recibió del Centro Democrático un borrador con 16 contrapropuestas a la Ley de Rescate. El partido pide un recorte de gasto más fuerte y menos impuestos: pasar de 18 a seis ministerios, reestructurar o eliminar 48 entidades y, según El Espectador, vender acciones de Ecopetrol, además de cambios en renta. Acordaron instalar mesas técnicas esta semana. El plazo de la legislatura vence el 16 de diciembre.",
+      "por_que_importa": "El Centro Democrático es un aliado clave del Gobierno en el Congreso; sus cambios pueden redefinir la mezcla entre impuestos y recortes que afectará a empresas y hogares desde 2027.",
       "perspectivas": [
         {
-          "medio": "La República",
-          "enfoque": "Énfasis en el calendario estrecho."
+          "medio": "Infobae",
+          "enfoque": "Destaca que hubo acuerdos y diferencias, según los propios congresistas."
         },
         {
-          "medio": "Holland & Knight",
-          "enfoque": "Análisis legal de los principales cambios tributarios para empresas."
+          "medio": "El Universal",
+          "enfoque": "Relata el 'primer cara a cara' y los 16 puntos con énfasis en recorte de gasto."
         },
         {
           "medio": "El Heraldo",
-          "enfoque": "Cobertura del mensaje de urgencia y la magnitud del ajuste."
+          "enfoque": "Encuadre local: el borrador entregado en Barranquilla."
+        },
+        {
+          "medio": "El Espectador",
+          "enfoque": "Lo presenta como una 'ley fiscal alternativa' con menos impuestos y más recortes, incluida la venta de acciones de Ecopetrol."
+        },
+        {
+          "medio": "Hoy Diario del Magdalena",
+          "enfoque": "Pone el foco en los reparos del Centro Democrático."
         }
       ],
-      "coincidencias": "Coinciden en que la urgencia acelera el trámite y en que el texto puede cambiar.",
-      "diferencias": "Las cifras del ajuste y del número de artículos difieren según la fuente.",
-      "analisis": "Para el Gobierno, la urgencia es necesaria para evitar un deterioro fiscal; para críticos, acelerar una reforma amplia limita el debate. Sin ponencia radicada, el primer debate difícilmente ocurrirá antes de mediados de noviembre.",
-      "implicaciones": "Planee escenarios tributarios con y sin reforma. Atención a la sobretasa financiera, el IVA a alimentos y la rebaja de renta empresarial.",
-      "que_vigilar": "Designación de ponentes, primer debate en comisiones conjuntas y paro de la CUT del 19 de noviembre.",
+      "coincidencias": "Coinciden en la fecha, el número de propuestas, el énfasis en recortar gasto y el anuncio de mesas técnicas.",
+      "diferencias": "Algunos medios lo describen como sintonía entre aliados; El Espectador lo enmarca como una propuesta alternativa que choca con el diseño tributario del Gobierno.",
+      "analisis": "Para el Centro Democrático, el ajuste debe hacerse por gasto y no por impuestos; para el Gobierno, la magnitud del hueco fiscal exige ambos. La venta de acciones de Ecopetrol sería un cambio de fondo que reabriría un debate político amplio. Cuanto más se negocie, más presión sobre el calendario.",
+      "implicaciones": "Las empresas deben esperar cambios en IVA, renta y sobretasas antes del primer debate. Contratistas y proveedores del Estado deben vigilar la propuesta de eliminar entidades.",
+      "que_vigilar": "Instalación de mesas técnicas, posición de los demás partidos y si el Gobierno convoca sesiones extraordinarias.",
       "fuentes": [
         {
-          "medio": "La República",
-          "titulo": "Ley de Rescate tiene seis semanas para pasar el Congreso sin sesiones extraordinarias",
-          "url": "https://www.larepublica.co/economia/ley-de-rescate-tiene-seis-semanas-para-pasar-el-congreso-sin-sesiones-extraordinarias-4519482"
+          "medio": "Infobae",
+          "titulo": "Así fue la primera reunión por la Ley de Rescate: congresistas revelaron acuerdos y diferencias con el Gobierno",
+          "url": "https://www.infobae.com/colombia/2026/11/08/asi-fue-la-primera-reunion-por-la-ley-de-rescate-congresistas-revelaron-acuerdos-y-diferencias-con-el-gobierno/"
         },
         {
-          "medio": "Holland & Knight",
-          "titulo": "Proyecto de Ley de Rescate Económico en Colombia: Principales cambios tributarios",
-          "url": "https://www.hklaw.com/en/insights/publications/2026/11/proyecto-de-ley-de-rescate-economico-en-colombia"
+          "medio": "El Universal",
+          "titulo": "Así fue el primer cara a cara por la Ley de Rescate Fiscal",
+          "url": "https://www.eluniversal.com.co/colombia/2026/11/07/asi-fue-el-primer-cara-a-cara-por-la-ley-de-rescate-fiscal/"
         },
         {
           "medio": "El Heraldo",
-          "titulo": "Gobierno radicó mensaje de urgencia para acelerar trámite de Ley de Rescate en el Congreso",
-          "url": "https://www.elheraldo.co/economia/2026/11/03/gobierno-radico-mensaje-de-urgencia-para-acelerar-tramite-de-ley-de-rescate-en-el-congreso/"
+          "titulo": "Centro Democrático presentó al Gobierno primer borrador de ajustes a la Ley de Rescate",
+          "url": "https://www.elheraldo.co/politica/2026/11/07/centro-democratico-presento-al-gobierno-primer-borrador-de-ajustes-a-la-ley-de-rescate-durante-reunion-en-barranquilla/"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "Centro Democrático propone ley fiscal alternativa con menos impuestos y más recortes",
+          "url": "https://www.elespectador.com/politica/centro-democratico-propone-ley-de-ajuste-fiscal-alternativa-con-menos-impuestos-y-mas-recortes/"
+        },
+        {
+          "medio": "Hoy Diario del Magdalena",
+          "titulo": "Gobierno de la Espriella socializó los alcances de la Ley de Rescate Fiscal: los reparos del Centro Democrático",
+          "url": "https://hoydiariodelmagdalena.com.co/archivos/1313444/gobierno-de-la-espriella-socializo-los-alcances-de-la-ley-de-rescate-fiscal-los-reparos-del-centro-democratico"
         }
       ]
     },
     {
-      "titulo": "Embalses por debajo de la meta a pocas semanas de El Niño",
-      "categoria": "Energía / Clima",
+      "titulo": "Alerta de atentado obliga a evacuar Caracol Televisión; otros medios advertidos",
+      "categoria": "Orden público / Libertad de prensa",
       "importancia": 4,
-      "resumen": "Los embalses estaban en poco más de 76 % a finales de octubre, según Valora Analitik, frente a la meta de 80 % que XM fija para el 30 de noviembre, cuando terminan las lluvias. Los aportes hídricos iban en 60,51 % del promedio histórico al 22 de octubre. XM asigna 83 % de probabilidad a que El Niño se mantenga entre fuerte y muy fuerte hasta el primer trimestre de 2027 y estima una demanda de 484 GBTUD de gas para generación térmica. XM no ha anunciado racionamiento.",
-      "por_que_importa": "Un Niño fuerte con embalses bajos eleva el precio de la energía en bolsa, la dependencia del gas importado y el riesgo de restricciones para la industria.",
+      "resumen": "La noche del sábado 7 de noviembre, Caracol Televisión evacuó a todo su personal de su sede principal en Bogotá tras ser informada por las autoridades de la intención de grupos ilegales de atentar contra el canal. Caracol Radio dijo que también fue alertada del riesgo para esa empresa y otros medios. La Policía de Bogotá dijo que 'al momento no hay evidencia de explosivos'. La Defensoría del Pueblo calificó la situación de 'grave y profundamente preocupante' y la Procuraduría pidió investigar. Ningún grupo ha sido identificado como responsable.",
+      "por_que_importa": "Una amenaza contra los principales medios del país es un indicador de riesgo de seguridad urbana y de presión de grupos armados en un momento de ofensiva del Gobierno contra ellos.",
       "perspectivas": [
         {
-          "medio": "Valora Analitik",
-          "enfoque": "Énfasis en la cuenta regresiva: días que quedan para llenar embalses."
+          "medio": "Infobae",
+          "enfoque": "Enfatiza la amenaza de bomba y la presencia de drones reportada en el sector."
         },
         {
-          "medio": "El Nuevo Siglo",
-          "enfoque": "Destaca la combinación de El Niño y mayor demanda como alerta para el sector."
+          "medio": "El Tiempo",
+          "enfoque": "Recoge que Caracol Radio también recibió alertas."
         },
         {
-          "medio": "Diario La Libertad",
-          "enfoque": "Titular de alerta por posible crisis, aunque aclara que no hay racionamiento anunciado."
+          "medio": "El Imparcial / Milenio (México)",
+          "enfoque": "Cobertura internacional centrada en la evacuación total y en grupos armados ilegales."
+        },
+        {
+          "medio": "Cooperativa (Chile)",
+          "enfoque": "Usa 'presunta amenaza', con tono más cauto."
         }
       ],
-      "coincidencias": "Coinciden en que los embalses están por debajo de la meta y en el riesgo de El Niño.",
-      "diferencias": "Algunos titulares son alarmistas (mínimos históricos, apagón); los datos de XM hablan de escenarios, no de racionamiento.",
-      "analisis": "El nivel final de embalses al 30 de noviembre será decisivo. Las proyecciones extremas de XM (niveles de 13 %) son escenarios de estrés, no pronósticos centrales.",
-      "implicaciones": "Industrias intensivas en energía deben revisar contratos de suministro, coberturas de precio y planes de respaldo para el primer trimestre de 2027.",
-      "que_vigilar": "Nivel de embalses semanal, precio de bolsa de energía y disponibilidad de gas importado.",
+      "coincidencias": "Coinciden en la evacuación, la alerta de las autoridades y la ausencia de explosivos confirmados.",
+      "diferencias": "Difieren en el tipo de amenaza (bomba, drones o atentado genérico). Según El Espectador, citado en reportes, la Policía negó la existencia de una amenaza de bomba en el lugar.",
+      "analisis": "La alerta sigue sin confirmarse como un explosivo real. Su origen y credibilidad son clave: una amenaza falsa también busca intimidar. Llega días después de la Ley de Sometimiento, que endurece el trato a grupos armados.",
+      "implicaciones": "Empresas en Bogotá deben revisar protocolos de seguridad y evacuación. Posible aumento de presencia policial en la ciudad.",
+      "que_vigilar": "Resultados de la investigación, nuevas alertas a medios y respuesta del Gobierno y la Alcaldía.",
       "fuentes": [
         {
-          "medio": "Valora Analitik",
-          "titulo": "Quedan 38 días para que Colombia almacene suficiente agua en los embalses para enfrentar El Niño: XM",
-          "url": "https://www.valoraanalitik.com/quedan-38-dias-para-que-colombia-almacene-suficiente-agua-en-los-embalses-para-enfrentar-el-nino-xm/"
+          "medio": "Infobae",
+          "titulo": "Evacúan sede de Caracol Televisión en Bogotá por una amenaza de bomba",
+          "url": "https://infobae.com/colombia/2026/11/08/evacuan-sede-de-caracol-television-en-bogota-por-una-alerta-de-bomba"
         },
         {
-          "medio": "El Nuevo Siglo",
-          "titulo": "El Niño y el aumento de la demanda de energía encienden las alertas del sector energético",
-          "url": "https://www.elnuevosiglo.com.co/nacion/el-nino-y-el-aumento-de-la-demanda-de-energia-encienden-las-alertas-del-sector-energetico"
+          "medio": "El Tiempo",
+          "titulo": "Caracol Radio informa que también recibió alerta de atentados contra sus instalaciones",
+          "url": "https://eltiempo.com/amp/bogota/caracol-radio-informa-que-tambien-recibio-alerta-de-atentados-contra-sus-instalaciones-3599351"
         },
         {
-          "medio": "Diario La Libertad",
-          "titulo": "Alerta por posible crisis energética: embalses colombianos podrían caer por debajo de mínimos históricos",
-          "url": "https://diariolalibertad.com/2026/11/01/alerta-por-posible-crisis-energetica-embalses-colombianos-podrian-caer-por-debajo-de-minimos-historicos/"
+          "medio": "El Imparcial",
+          "titulo": "Caracol Televisión evacúa a todos sus trabajadores en Bogotá tras recibir amenaza de atentado",
+          "url": "https://www.elimparcial.com/mundo/2026/11/07/caracol-television-uno-de-los-principales-canales-de-colombia-evacua-a-todos-sus-trabajadores-en-bogota-tras-recibir-amenaza-de-atentado-de-grupos-armados-ilegales/"
+        },
+        {
+          "medio": "Cooperativa",
+          "titulo": "Canal de televisión colombiano tuvo que evacuar su sede por presunta amenaza de atentado",
+          "url": "https://www.cooperativa.cl/noticias/mundo/colombia/canal-de-television-colombiano-tuvo-que-evacuar-su-sede-por-presunta/2026-11-08/003718.html"
+        },
+        {
+          "medio": "Milenio",
+          "titulo": "Amenaza de atentado Caracol Televisión: evacuan sede en Colombia",
+          "url": "https://www.milenio.com/internacional/amenaza-atentado-caracol-television-evacuan-sede-colombia"
+        }
+      ]
+    },
+    {
+      "titulo": "Cerca de los 100 días de De la Espriella: balance económico dividido",
+      "categoria": "Gobierno / Economía",
+      "importancia": 4,
+      "resumen": "El Gobierno, que asumió el 7 de agosto, se acerca a sus 100 días (hacia el 15 de noviembre). Según El Tiempo, lo hace con el presupuesto rehecho, gasto recortado por decreto ($13,8 billones con el Decreto 1585), $30,1 billones de deuda reprogramada, conversaciones con el FMI y la Ley de Rescate apenas en trámite; el terremoto de magnitud 7,4 tres días después de la posesión llevó a declarar emergencia económica. Bloomberg Línea describe un balance dividido entre la confianza de los inversionistas y las dudas fiscales.",
+      "por_que_importa": "La percepción de los primeros 100 días influye en calificadoras, inversión extranjera y en el capital político del Gobierno para aprobar su reforma.",
+      "perspectivas": [
+        {
+          "medio": "El Tiempo",
+          "enfoque": "Balance económico factual: presupuesto, deuda, FMI y reforma."
+        },
+        {
+          "medio": "Bloomberg Línea",
+          "enfoque": "Contraste entre confianza inversionista y dudas fiscales; recoge a un analista que no ve resultados concretos en seguridad más allá de la confianza."
+        },
+        {
+          "medio": "Moncloa.com",
+          "enfoque": "Mirada desde España: '100 días de mano dura' que ponen a prueba la inversión española; menciona salidas ministeriales."
+        }
+      ],
+      "coincidencias": "Coinciden en que el frente fiscal es el principal reto y en que la reforma es decisiva.",
+      "diferencias": "El Gobierno destaca resultados en seguridad (capturas y fin de la 'paz total'); analistas citados por Bloomberg Línea y Moncloa son más escépticos sobre resultados concretos.",
+      "analisis": "El balance depende del ángulo: el Gobierno ha movido rápido decretos y leyes de seguridad, pero la sostenibilidad fiscal aún no está resuelta. La reprogramación de deuda y el diálogo con el FMI son señales que los mercados seguirán de cerca.",
+      "implicaciones": "Inversionistas extranjeros esperan señales fiscales claras antes de comprometer capital. Atención a cualquier acuerdo con el FMI.",
+      "que_vigilar": "Balance oficial de los 100 días, avances con el FMI y la Ley de Rescate.",
+      "fuentes": [
+        {
+          "medio": "El Tiempo",
+          "titulo": "Presupuesto rehecho, deuda reprogramada y la ley de rescate: el panorama de la economía con 100 días del gobierno De La Espriella",
+          "url": "https://www.eltiempo.com/economia/presupuesto-rehecho-deuda-reprogramada-y-la-ley-de-rescate-el-panorama-de-la-economia-nacional-con-100-dias-del-gobierno-de-la-espriella-3599319"
+        },
+        {
+          "medio": "Bloomberg Línea",
+          "titulo": "Primer trimestre de De la Espriella en el poder: así avanzan la economía, la seguridad y el bienestar social",
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/primer-trimestre-de-de-la-espriella-en-el-poder-asi-avanzan-la-economia-la-seguridad-y-el-bienestar-social/"
+        },
+        {
+          "medio": "Moncloa.com",
+          "titulo": "De La Espriella Colombia: 100 días de mano dura que ponen a prueba la inversión española",
+          "url": "https://www.moncloa.com/2026/11/08/de-la-espriella-colombia-100-dias-3463835"
+        }
+      ]
+    },
+    {
+      "titulo": "Semana clave para Ecopetrol y el dólar: resultados el 10 de noviembre",
+      "categoria": "Mercados / Empresas",
+      "importancia": 3,
+      "resumen": "La TRM vigente hasta el lunes es $3.237,83. El COLCAP cerró el viernes prácticamente plano, cerca de 2.485 puntos, por debajo de los 2.500, tras dos caídas seguidas arrastradas por Ecopetrol. La petrolera presenta resultados del tercer trimestre el 10 de noviembre, en una semana en la que el Brent perdió más de 16 %. En la propuesta del Centro Democrático aparece además la venta de acciones de Ecopetrol, según El Espectador.",
+      "por_que_importa": "Ecopetrol es la mayor empresa del país y fuente de dividendos para el Estado; sus resultados y el debate sobre su propiedad afectan el COLCAP y las cuentas fiscales.",
+      "perspectivas": [
+        {
+          "medio": "The Rio Times",
+          "enfoque": "Para inversionistas extranjeros: bolsa plana y peso más débil al cierre de la semana."
+        },
+        {
+          "medio": "Colombia.com",
+          "enfoque": "Informativo: la TRM del fin de semana."
+        },
+        {
+          "medio": "El Espectador",
+          "enfoque": "Introduce el debate sobre vender acciones de Ecopetrol dentro del ajuste fiscal."
+        }
+      ],
+      "coincidencias": "Coinciden en el nivel de la TRM y en la debilidad reciente del COLCAP.",
+      "diferencias": "La venta de acciones de Ecopetrol es solo una propuesta de un partido; no es posición del Gobierno.",
+      "analisis": "Los resultados de Ecopetrol reflejarán un trimestre con petróleo alto por la guerra, pero el mercado mirará más la guía hacia adelante con un Brent que cae.",
+      "implicaciones": "Inversionistas: alta volatilidad esperada en la acción. Importadores: TRM estable en torno a $3.240.",
+      "que_vigilar": "Resultados de Ecopetrol (10 nov), Brent y la TRM del martes.",
+      "fuentes": [
+        {
+          "medio": "The Rio Times",
+          "titulo": "Colombia Stocks Flat as Peso Slips",
+          "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-friday-november-6-2026/"
+        },
+        {
+          "medio": "Colombia.com",
+          "titulo": "Precio del dólar hoy en Colombia: cotización de este sábado 7 de noviembre de 2026",
+          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-sabado-7-de-noviembre-de-2026-610596"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "Centro Democrático propone ley fiscal alternativa con menos impuestos y más recortes",
+          "url": "https://www.elespectador.com/politica/centro-democratico-propone-ley-de-ajuste-fiscal-alternativa-con-menos-impuestos-y-mas-recortes/"
         }
       ]
     }
   ],
   "mundo": [
     {
-      "titulo": "EE. UU. crea 165.000 empleos en octubre y sube la apuesta por un alza de la Fed",
-      "categoria": "Economía / EE. UU.",
+      "titulo": "Trump nombra a Stephen Miller jefe de gabinete y pide investigar a los demócratas",
+      "categoria": "EE. UU. / Política",
       "importancia": 5,
-      "resumen": "La economía de EE. UU. sumó 165.000 empleos en octubre, muy por encima de lo esperado (59.000 según el sondeo de Dow Jones citado por CNBC; 65.000 según Reuters), y el desempleo bajó a 4,1 % desde 4,2 %. Septiembre se revisó al alza a 60.000. Los salarios crecieron 3,1 % anual. Los rendimientos de los bonos subieron tras el dato y las apuestas por un alza de tasas de la Fed en diciembre pasaron a cerca de 78 %, desde 70 %.",
-      "por_que_importa": "Un mercado laboral sólido le da margen a la Fed para subir tasas en diciembre, lo que encarece el dólar y la financiación global, incluida la de Colombia.",
+      "resumen": "Trump anunció en Truth Social que Stephen Miller reemplazará a Susie Wiles como jefe de gabinete desde el lunes 9 de noviembre. También dijo que el Departamento de Justicia investigará amenazas de 'impeachment y muchas otras formas de castigo' que, según él, los demócratas lanzan contra funcionarios, empresas y donantes; ABC señala que no presentó pruebas. Chuck Schumer dijo que Trump 'no aprendió nada de su derrota histórica'. Hakeem Jeffries fijó como prioridades revertir recortes a Medicaid, extender créditos de salud, recuperar la autoridad del Congreso sobre aranceles y frenar la guerra con Irán.",
+      "por_que_importa": "Señala que la Casa Blanca elige la confrontación con el nuevo Congreso demócrata, lo que anticipa bloqueo legislativo, investigaciones y pulsos sobre aranceles e Irán.",
       "perspectivas": [
         {
-          "medio": "CNBC",
-          "enfoque": "Énfasis en la sorpresa positiva frente a lo esperado."
+          "medio": "The Washington Post",
+          "enfoque": "Lo lee como el inicio de una 'nueva era de confrontación'."
         },
         {
-          "medio": "Reuters (vía Yahoo Finance)",
-          "enfoque": "Pone el foco en la reacción de los bonos y la Fed."
+          "medio": "The Hill",
+          "enfoque": "Destaca que Trump envía un 'mensaje claro' a los demócratas."
         },
         {
-          "medio": "The Epoch Times",
-          "enfoque": "Cobertura centrada en la baja del desempleo."
+          "medio": "ABC News",
+          "enfoque": "Subraya que el pedido al Departamento de Justicia no vino acompañado de pruebas."
         },
         {
-          "medio": "Beinsure",
-          "enfoque": "Enfoque de mercado: rendimientos y probabilidades de alza."
+          "medio": "Breitbart",
+          "enfoque": "Encuadre favorable a Trump: los demócratas 'explotan' y prometen 'guerra jurídica' contra Miller."
+        },
+        {
+          "medio": "The New Republic",
+          "enfoque": "Encuadre crítico: Trump redobla una agenda 'extrema'."
         }
       ],
-      "coincidencias": "Todas las fuentes coinciden en las cifras y en que refuerzan la expectativa de alza.",
-      "diferencias": "Difieren en el pronóstico de consenso (59.000 o 65.000) y en la probabilidad de alza (76,8 % a 78 %).",
-      "analisis": "El dato contrasta con la debilidad que algunos esperaban. Algunas fuentes señalan también que el desempleo de larga duración aumentó, un matiz que modera la lectura optimista.",
-      "implicaciones": "Tasas externas altas por más tiempo: presión sobre el peso y sobre el costo de la deuda en dólares de empresas colombianas.",
-      "que_vigilar": "Inflación de EE. UU. de octubre y discursos de la Fed antes del 9 de diciembre.",
+      "coincidencias": "Todos coinciden en el nombramiento, la fecha y en que tensa la relación con los demócratas.",
+      "diferencias": "Medios conservadores presentan a los demócratas como agresores; medios progresistas, a Trump. Los medios generalistas resaltan la falta de pruebas del pedido al Departamento de Justicia.",
+      "analisis": "Con el Congreso en contra desde enero, Trump apuesta por el poder ejecutivo y el veto. Para los demócratas, las investigaciones y el presupuesto serán sus principales herramientas.",
+      "implicaciones": "Mayor riesgo de parálisis presupuestal en EE. UU. y de litigios sobre aranceles; volatilidad política que puede afectar al dólar y a los bonos.",
+      "que_vigilar": "Primeras decisiones de Miller, respuesta del Departamento de Justicia y agenda demócrata en enero.",
       "fuentes": [
         {
-          "medio": "CNBC",
-          "titulo": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-          "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+          "medio": "The Washington Post",
+          "titulo": "Stephen Miller's promotion sets the stage for a new era of confrontation",
+          "url": "https://www.washingtonpost.com/politics/2026/11/07/stephen-millers-promotion-sets-stage-new-era-confrontation/"
         },
         {
-          "medio": "Yahoo Finance (Reuters)",
-          "titulo": "Strong October jobs report sends yields higher",
-          "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html"
+          "medio": "The Hill",
+          "titulo": "Donald Trump sends 'clear message' to Democrats with Stephen Miller promotion",
+          "url": "https://thehill.com/homenews/administration/6205475-trump-miller-promotion-democrats-majority/"
         },
         {
-          "medio": "The Epoch Times",
-          "titulo": "US Economy Adds 165,000 New Jobs in October, Unemployment Rate Dips to 4.1 Percent",
-          "url": "https://www.theepochtimes.com/us/us-economy-adds-165000-new-jobs-in-october-unemployment-rate-dips-to-4-1-percent-6119487"
+          "medio": "ABC News",
+          "titulo": "Election 2026 live updates: Trump calls for DOJ probe of Dems",
+          "url": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085"
         },
         {
-          "medio": "Beinsure",
-          "titulo": "US jobs report: 165,000 payroll lift Treasury yields and Fed hike odds",
-          "url": "https://beinsure.com/news/us-jobs-report-165k-payroll-lift-treasury-yields/"
+          "medio": "CNN",
+          "titulo": "Trump signals he's ready to battle Democratic majority",
+          "url": "https://cnn.com/2026/11/07/politics/live-news/midterm-election-congress"
+        },
+        {
+          "medio": "Breitbart",
+          "titulo": "Dems Explode, Pledge Lawfare Against Stephen Miller After Promotion",
+          "url": "https://www.breitbart.com/politics/2026/11/06/democrats-explode-pledge-lawfare-against-stephen-miller-after-promotion/"
+        },
+        {
+          "medio": "The New Republic",
+          "titulo": "Trump Promotes Stephen Miller as He Doubles Down on Extreme Agenda",
+          "url": "https://newrepublic.com/post/217720/trump-promotes-stephen-miller-white-house-chief-staff"
+        },
+        {
+          "medio": "Fox News",
+          "titulo": "Trump demands DOJ probe Democrats' alleged threats after party retakes Congress",
+          "url": "https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials"
         }
       ]
     },
     {
-      "titulo": "Wall Street rebota a medias tras el desplome de la IA; semana negativa",
+      "titulo": "Irán estudia propuesta catarí mientras EE. UU. amplía el bloqueo",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 5,
+      "resumen": "Según reportes de prensa, Teherán revisa una propuesta de Catar que levantaría el bloqueo de EE. UU. a puertos iraníes, liberaría parte de activos congelados, daría acceso a inspectores nucleares a los sitios bombardeados y reabriría Ormuz con un mecanismo temporal. Irán exige además fin de sanciones, compensaciones y cese de hostilidades en la región. El sábado, el Comando Central de EE. UU. creó la 'Task Force Iron Gate' para impedir que Irán use rutas terrestres para transportar armas, ampliando el bloqueo naval. La Guardia Revolucionaria informó que dos tanqueros chocaron con minas cerca de Ormuz.",
+      "por_que_importa": "La combinación de una propuesta de acuerdo y más presión militar define si el petróleo sigue bajando o vuelve a subir.",
+      "perspectivas": [
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Destaca la nueva fuerza de tarea de EE. UU. contra rutas terrestres."
+        },
+        {
+          "medio": "CBS News",
+          "enfoque": "Cobertura en vivo de la fuerza de tarea y los 'ataques menores'."
+        },
+        {
+          "medio": "Outlook India",
+          "enfoque": "Detalla los términos de la propuesta catarí y las condiciones iraníes."
+        },
+        {
+          "medio": "Times of Israel",
+          "enfoque": "Enfatiza la acción militar: un buque inhabilitado al intentar romper el bloqueo."
+        }
+      ],
+      "coincidencias": "Coinciden en que hay una propuesta sobre la mesa y en que EE. UU. endurece el bloqueo en paralelo.",
+      "diferencias": "Los términos de la propuesta solo están reportados por medios, no confirmados por los gobiernos. El incidente de las minas es una versión iraní.",
+      "analisis": "EE. UU. combina diplomacia con presión máxima; Irán negocia exigiendo concesiones amplias. La brecha sigue siendo grande, aunque hay más movimiento diplomático que hace dos semanas.",
+      "implicaciones": "El petróleo abrirá la semana sensible a estos titulares; empresas importadoras deben esperar volatilidad en fletes y seguros.",
+      "que_vigilar": "Respuesta formal de EE. UU. a la propuesta, nuevos incidentes en Ormuz y precio del Brent el lunes.",
+      "fuentes": [
+        {
+          "medio": "Al Jazeera",
+          "titulo": "US launches task force to disrupt Iran's land-based supply routes",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+        },
+        {
+          "medio": "CBS News",
+          "titulo": "U.S. launches new task force aimed at disrupting Iranian ground shipping routes",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+        },
+        {
+          "medio": "Outlook India",
+          "titulo": "US-Iran War: Fresh US Strikes, Qatar's Push For Nuclear Deal",
+          "url": "https://www.outlookindia.com/international/us-iran-war-latest-us-strikes-qatar-nuclear-talks-strait-of-hormuz"
+        },
+        {
+          "medio": "Times of Israel",
+          "titulo": "US military says strike disabled ship trying to run blockade on Iran",
+          "url": "https://www.timesofisrael.com/us-military-says-strike-disabled-ship-trying-to-run-blockade-on-iran/amp/"
+        }
+      ]
+    },
+    {
+      "titulo": "Rusia castiga la red eléctrica de Kiev a tres días de Abu Dabi",
+      "categoria": "Geopolítica / Europa",
+      "importancia": 4,
+      "resumen": "En la madrugada del 7 de noviembre Rusia lanzó unos 36 misiles balísticos —solo cuatro interceptados, según la Fuerza Aérea ucraniana— y 172 drones (149 derribados) contra Kiev y su región. Golpeó instalaciones eléctricas y el Puente Norte sobre el Dniéper, según el alcalde Vitali Klitschko; las autoridades describen como 'muy difícil' la situación de calefacción, luz y agua. El ataque llega tres días antes de las conversaciones mediadas por EE. UU. en Abu Dabi (10–11 nov).",
+      "por_que_importa": "Debilita la posición negociadora ucraniana antes del invierno y complica las expectativas de un acuerdo rápido.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Informativo: daños a la energía y al puente."
+        },
+        {
+          "medio": "The Moscow Times",
+          "enfoque": "Medio ruso independiente: cobertura de los daños y el contexto de negociación."
+        },
+        {
+          "medio": "Al Arabiya",
+          "enfoque": "Destaca el anuncio del alcalde de Kiev sobre el ataque con misiles."
+        },
+        {
+          "medio": "Business Recorder",
+          "enfoque": "Reproduce el despacho de agencia con énfasis en infraestructura."
+        }
+      ],
+      "coincidencias": "Coinciden en la magnitud del ataque y en los daños a energía y al puente.",
+      "diferencias": "Las cifras de víctimas varían (uno o dos muertos y varios heridos).",
+      "analisis": "Moscú suele intensificar ataques antes de negociaciones para ganar presión. El resultado de Abu Dabi dirá si la estrategia mueve posiciones.",
+      "implicaciones": "Mantiene la prima de riesgo en gas europeo y granos.",
+      "que_vigilar": "Conversaciones de Abu Dabi y nuevos ataques a infraestructura.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "Russia pounds power facilities around Kyiv, damages major bridge",
+          "url": "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html"
+        },
+        {
+          "medio": "The Moscow Times",
+          "titulo": "Russia Pounds Power Facilities Around Kyiv, Damages Major Bridge",
+          "url": "https://www.themoscowtimes.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge-a94198"
+        },
+        {
+          "medio": "Al Arabiya",
+          "titulo": "Russia pounds power facilities around Kyiv, damages major bridge",
+          "url": "https://english.alarabiya.net/News/world/2026/11/07/russian-forces-launch-missile-attack-on-ukrainian-capital-kyiv-mayor-says"
+        },
+        {
+          "medio": "Business Recorder",
+          "titulo": "Russian strikes hit power facilities around Kyiv, damage major bridge",
+          "url": "https://www.brecorder.com/news/40447890/russian-strikes-hit-power-facilities-around-kyiv-damage-major-bridge"
+        }
+      ]
+    },
+    {
+      "titulo": "Balance de la semana en mercados: Nasdaq −3,4 %, Brent −16 %, oro +5 %",
       "categoria": "Mercados",
       "importancia": 4,
-      "resumen": "El 6 de noviembre el Nasdaq subió 1,09 % a 24.579,42 y el S&P 500 0,31 % a 7.376,86, con recuperación de los chips; el Dow bajó 0,46 % a 51.285,73. En la semana, el Dow perdió 0,94 %, el S&P 500 2,68 % y el Nasdaq 3,37 %. El dato fuerte de empleo, que elevó los rendimientos, limitó las ganancias.",
-      "por_que_importa": "La volatilidad tecnológica y la expectativa de tasas más altas marcan el apetito por riesgo global y los flujos hacia mercados emergentes.",
+      "resumen": "Los mercados cerraron el viernes 6 de noviembre una semana muy volátil. El Nasdaq perdió 3,37 %, el S&P 500 2,68 % y el Dow 0,94 %, tras el desplome de las acciones de IA del jueves. El Brent cayó más de 16 % y el WTI casi 13 % por la expectativa de paz con Irán; el oro ganó cerca de 5 %. El informe de empleo (165.000 puestos en octubre, desempleo de 4,1 %) elevó a cerca de 78 % la probabilidad de un alza de la Fed en diciembre.",
+      "por_que_importa": "Tasas altas y volatilidad en tecnología y energía son el telón de fondo para las decisiones de financiación e inversión de las próximas semanas.",
       "perspectivas": [
         {
           "medio": "Yahoo Finance",
-          "enfoque": "Lo presenta como un rebote tras la venta de la IA posterior a las elecciones."
+          "enfoque": "Resumen semanal: rebote parcial tras el desplome de la IA."
         },
         {
-          "medio": "StockTitan",
-          "enfoque": "Destaca la recuperación de los chips un día después de su desplome."
+          "medio": "CNBC",
+          "enfoque": "Petróleo: fuerte pérdida semanal; empleo: sorpresa positiva."
         },
         {
-          "medio": "Investrade",
-          "enfoque": "Revisión técnica de cierres y tasas."
-        },
-        {
-          "medio": "Ad-hoc News",
-          "enfoque": "Nota de cierre centrada en la caída del Dow."
+          "medio": "Vantage Markets",
+          "enfoque": "Oro: mayor alza semanal desde agosto tras las elecciones."
         }
       ],
-      "coincidencias": "Coinciden en las cifras de cierre y en que el rebote fue parcial.",
-      "diferencias": "Las fuentes atribuyen la venta del jueves a riesgos regulatorios o a valoraciones; es una interpretación, no un hecho comprobado.",
-      "analisis": "El rebote de un día no confirma que la corrección haya terminado; el mercado sigue sensible a la política en EE. UU. y a la Fed.",
-      "implicaciones": "Fondos de pensiones e inversionistas colombianos con exposición a tecnología estadounidense enfrentan mayor volatilidad.",
-      "que_vigilar": "Resultados de empresas de chips y datos de inflación de EE. UU.",
+      "coincidencias": "Coinciden en las cifras y en que la semana estuvo dominada por la elección en EE. UU.",
+      "diferencias": "Las causas de la caída tecnológica siguen siendo materia de interpretación.",
+      "analisis": "El mercado descuenta a la vez menos riesgo geopolítico (petróleo más bajo) y más riesgo político interno y de tasas en EE. UU.",
+      "implicaciones": "Empresas con deuda en dólares: el alza probable de la Fed mantiene caro el financiamiento externo.",
+      "que_vigilar": "Inflación de EE. UU. de octubre, Brent y resultados corporativos.",
       "fuentes": [
         {
           "medio": "Yahoo Finance",
@@ -350,175 +426,38 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-6-144816072.html"
         },
         {
-          "medio": "StockTitan",
-          "titulo": "Chip Stocks Bounced Back in the Stock Market Today, November 6, 2026",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
-        },
-        {
-          "medio": "Investrade",
-          "titulo": "Market Review: November 06, 2026",
-          "url": "https://investrade.com/market-review-november-06-2026/"
-        },
-        {
-          "medio": "Ad-hoc News",
-          "titulo": "Dow Jones Closes at 51,285.73, Down 0.46 Percent on Friday",
-          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dow-jones-closes-at-51-285-73-down-0-46-percent-on-friday/70472308"
-        }
-      ]
-    },
-    {
-      "titulo": "El Brent pierde más de 16 % en la semana por la apuesta a la paz con Irán",
-      "categoria": "Energía / Mercados",
-      "importancia": 5,
-      "resumen": "El Brent cerró el 6 de noviembre en US$98,32 (+3 centavos) y el WTI en US$90,83 (+31 centavos), según CNBC. En la semana, el Brent cayó más de 16 % y el WTI casi 13 %, impulsados por la expectativa de que el resultado electoral en EE. UU. acelere un acuerdo con Irán. Los inversionistas siguen sopesando el riesgo de una nueva escalada.",
-      "por_que_importa": "Para Colombia, la caída semanal del crudo reduce ingresos de Ecopetrol y del fisco justo cuando el Gobierno defiende su reforma, pero alivia costos de transporte e inflación importada.",
-      "perspectivas": [
-        {
-          "medio": "CNBC",
-          "enfoque": "Informativo: cierre del día y fuerte pérdida semanal."
-        },
-        {
-          "medio": "Benzinga",
-          "enfoque": "Destaca que las tensiones EE. UU.–Irán mantienen el temor a cortes de oferta."
-        },
-        {
-          "medio": "EnergyNow",
-          "enfoque": "Titular centrado en la esperanza de un acuerdo de paz tras las elecciones."
-        }
-      ],
-      "coincidencias": "Coinciden en las cifras y en que la causa principal es la expectativa sobre Irán.",
-      "diferencias": "Unos medios ponen el acento en la paz; otros, en el riesgo de escalada que podría revertir la caída.",
-      "analisis": "El precio quedó cerca de US$98: más bajo que la semana anterior, pero aún alto frente a niveles previos a la guerra. La dirección dependerá de hechos concretos en las negociaciones.",
-      "implicaciones": "Revise supuestos de precio para el presupuesto 2027 y coberturas: la volatilidad semanal supera el 15 %.",
-      "que_vigilar": "Respuestas de EE. UU. e Irán a los mediadores e incidentes en Ormuz.",
-      "fuentes": [
-        {
           "medio": "CNBC",
           "titulo": "Oil price today: Brent, WTI",
           "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html"
         },
         {
-          "medio": "Benzinga",
-          "titulo": "Oil Prices Suffer Steep Weekly Losses as US-Iran Tensions Raise Supply Fears",
-          "url": "https://www.benzinga.com/markets/commodities/26/11/63017449/oil-prices-weekly-losses-us-iran-tensions"
-        },
-        {
-          "medio": "EnergyNow",
-          "titulo": "Oil Prices Plunge 13% in One Week as U.S. Election Results Raise Hopes of Iran Peace Deal",
-          "url": "https://energynow.com/2026/11/oil-prices-plunge-13-in-one-week-as-u-s-election-results-raise-hopes-of-iran-peace-deal-wti-closes-below-91-brent-below-99/"
-        }
-      ]
-    },
-    {
-      "titulo": "Trump confirma 'ataques menores' contra Irán mientras siguen las mediaciones",
-      "categoria": "Geopolítica / Medio Oriente",
-      "importancia": 4,
-      "resumen": "Trump dijo que EE. UU. realizó 'ataques menores' contra Irán, tras reportes de que dos misiles impactaron la isla de Qeshm, aunque no confirmó explícitamente que fueran esos (CNBC). EE. UU. ya había atacado Qeshm a inicios de semana en lo que un funcionario llamó una 'medida defensiva'. CBS informa que EE. UU. ofrece US$20 millones por información sobre el programa nuclear iraní. Mientras tanto, mediadores cataríes discuten con Irán un posible acuerdo puente para abrir negociaciones nucleares; Irán calificó de 'poco convincente' la respuesta de EE. UU. a su plan para Ormuz.",
-      "por_que_importa": "La combinación de ataques limitados y diplomacia mantiene la incertidumbre sobre Ormuz y el petróleo.",
-      "perspectivas": [
-        {
           "medio": "CNBC",
-          "enfoque": "Énfasis en la confirmación de 'ataques menores' y su ambigüedad."
+          "titulo": "U.S. economy added 165,000 jobs in October, way more than expected",
+          "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
         },
         {
-          "medio": "CBS News",
-          "enfoque": "Destaca la recompensa por información nuclear y el carácter 'menor' del ataque."
-        },
-        {
-          "medio": "Ynet",
-          "enfoque": "Encuadre israelí: ataques mientras se intensifica la diplomacia."
-        },
-        {
-          "medio": "Al Jazeera",
-          "enfoque": "Pone el foco en la respuesta iraní a la propuesta de EE. UU. sobre Ormuz."
-        }
-      ],
-      "coincidencias": "Coinciden en que hay ataques limitados y negociaciones simultáneas.",
-      "diferencias": "Las fuentes difieren en el estado de la diplomacia (activa o estancada) y en la atribución exacta de los ataques.",
-      "analisis": "Los ataques limitados parecen buscar presión sin volver a combates mayores; el riesgo es un error de cálculo. La postura previa de Trump de 'no atacar de inmediato' contrasta con estos hechos.",
-      "implicaciones": "Volatilidad en energía, fletes y seguros; posible rebote del crudo si hay escalada.",
-      "que_vigilar": "Respuesta iraní, avances del acuerdo puente y tránsito por Ormuz.",
-      "fuentes": [
-        {
-          "medio": "CNBC",
-          "titulo": "Trump says U.S. carried out 'minor strikes' on Iran as missiles hit Qeshm Island",
-          "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html"
-        },
-        {
-          "medio": "CBS News",
-          "titulo": "U.S. offers $20 million for information on Iran's nuclear program, as Trump confirms 'minor' strike",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
-        },
-        {
-          "medio": "Ynet",
-          "titulo": "US carries out fresh strikes on Iran as diplomatic efforts to end war intensify",
-          "url": "https://ynetnews.com/article/bkt6hz26fx"
-        },
-        {
-          "medio": "Al Jazeera",
-          "titulo": "Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes",
-          "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
-        }
-      ]
-    },
-    {
-      "titulo": "Ucrania llega a Abu Dabi con expectativas bajas y posiciones lejanas",
-      "categoria": "Geopolítica / Europa",
-      "importancia": 4,
-      "resumen": "EE. UU., Rusia y Ucrania retomarán conversaciones en Abu Dabi el 10 y 11 de noviembre, con Steve Witkoff y Jared Kushner por Washington; es la reanudación de un esfuerzo suspendido en febrero por la guerra en Irán. Zelenski dijo a CNN que primero debe discutirse cómo terminar la guerra y luego las garantías de seguridad, y que espera que las conversaciones abran camino a una reunión con Putin. Según Axios, la única concesión aparente de Putin es aceptar volver a la mesa y las partes siguen lejos, sobre todo en territorio.",
-      "por_que_importa": "Un avance cambiaría precios de gas, granos y fertilizantes y el régimen de sanciones a Rusia.",
-      "perspectivas": [
-        {
-          "medio": "Axios",
-          "enfoque": "Escéptico: las partes siguen lejos y Putin solo concedió volver a hablar."
-        },
-        {
-          "medio": "Al Jazeera",
-          "enfoque": "Destaca la esperanza de Zelenski de una cumbre a tres y la exclusión de los europeos de la mesa."
-        },
-        {
-          "medio": "UNN (Ucrania)",
-          "enfoque": "Recoge las prioridades de Kiev para las conversaciones."
-        }
-      ],
-      "coincidencias": "Coinciden en las fechas, los negociadores y la distancia entre las partes.",
-      "diferencias": "El optimismo de Trump ('muy cerca') contrasta con la cautela de Kiev y de analistas.",
-      "analisis": "Las conversaciones llegan tras un ataque ruso que dejó 42 muertos en Zaporiyia y con advertencias ucranianas de nuevos ataques a infraestructura energética.",
-      "implicaciones": "Para importadores colombianos de fertilizantes y trigo, un acuerdo podría aliviar precios; un fracaso mantendría la prima de riesgo.",
-      "que_vigilar": "Resultado de Abu Dabi (10–11 nov) y posición de Europa.",
-      "fuentes": [
-        {
-          "medio": "Axios",
-          "titulo": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
-          "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner"
-        },
-        {
-          "medio": "Al Jazeera",
-          "titulo": "Ukraine's Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-          "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
-        },
-        {
-          "medio": "UNN",
-          "titulo": "Zelenskyy named the priorities of the peace talks in Abu Dhabi",
-          "url": "https://unn.ua/en/news/zelenskyy-named-the-priorities-of-the-peace-talks-in-abu-dhabi"
+          "medio": "Vantage Markets",
+          "titulo": "Gold Price Rises Most Since August After US Midterm Elections",
+          "url": "https://www.vantagemarkets.com/market-news/gold-price-weekly-gain-us-midterm-elections-november-6-2026/"
         }
       ]
     }
   ],
-  "lectura_mercados": "La semana cerró con un mercado laboral estadounidense más fuerte de lo previsto, que subió los rendimientos y la probabilidad de un alza de la Fed en diciembre. Wall Street rebotó a medias tras el desplome tecnológico del jueves y terminó la semana en rojo (Nasdaq −3,4 %). El petróleo se estabilizó cerca de US$98 tras caer más de 16 % en la semana, y el oro ganó cerca de 5 %. En Colombia, el COLCAP quedó plano cerca de 2.485 puntos y el dólar subió a unos $3.238; la TRM del fin de semana es $3.237,83. En contraste con las alzas en EE. UU. y Reino Unido, Banxico recortó su tasa a 6,25 %.",
+  "lectura_mercados": "Domingo sin mercados abiertos: los indicadores corresponden al cierre del viernes 6 de noviembre. La semana dejó un petróleo mucho más barato (Brent US$98,32, −16 %), tecnología en corrección y un dato de empleo que acerca un alza de la Fed. El lunes, el Brent reaccionará a la propuesta catarí y a la ampliación del bloqueo de EE. UU. a Irán. En Colombia, la TRM es $3.237,83 y la atención estará en los resultados de Ecopetrol del martes 10 y en las mesas técnicas de la Ley de Rescate.",
   "agenda": [
+    "9 de noviembre: Stephen Miller asume como jefe de gabinete de la Casa Blanca.",
     "9 de noviembre, 2:00 p. m.: mesa técnica de la Procuraduría con el director de la Aerocivil.",
+    "Esta semana: instalación de mesas técnicas Gobierno–Centro Democrático sobre la Ley de Rescate.",
     "10 de noviembre: Ecopetrol presenta resultados del tercer trimestre.",
     "10 y 11 de noviembre: conversaciones EE. UU.–Rusia–Ucrania en Abu Dabi.",
-    "Próximos días: DANE publica la inflación de octubre (fecha no confirmada en las fuentes).",
-    "Mediados de noviembre: posible radicación de la ponencia de la Ley de Rescate (fecha no oficial).",
+    "Hacia el 15 de noviembre: 100 días del Gobierno De la Espriella.",
+    "16 de noviembre: Colombia vs. Brasil, Eliminatorias.",
     "19 de noviembre: paro nacional convocado por la CUT.",
-    "30 de noviembre: fecha de referencia de XM para que los embalses lleguen a 80 %.",
     "9 de diciembre: decisión de tasas de la Reserva Federal.",
     "16 de diciembre: fin del periodo ordinario del Congreso.",
     "18 de diciembre: decisión de tasas del Banco de la República."
   ],
-  "balance_cobertura": "Es sábado: hubo menos notas fechadas hoy, por lo que varios temas de Colombia se apoyan en notas del 5 y 6 de noviembre, y el de embalses en datos de finales de octubre. La cobertura del fracking y de Komodo-X1 recoge sobre todo a la industria y al Gobierno, y poco a comunidades y ambientalistas. Las cifras de potencial de Campetrol son estimaciones gremiales. Sobre Irán, la atribución de los ataques a Qeshm no está confirmada y los reportes sobre la diplomacia se contradicen. No se verificaron: el cierre exacto del dólar en Set-FX del 6 de noviembre ni del COLCAP (aproximados, The Rio Times), el rendimiento exacto del bono a 10 años, el precio del café ni la fecha de publicación del IPC de octubre. Tampoco se encontraron detalles de lo que dijo Hernando Vargas sobre tasas en la presentación del informe.",
+  "balance_cobertura": "Es domingo: no hubo mercados y los indicadores son del cierre del viernes. La cobertura de la reunión sobre la Ley de Rescate recoge sobre todo al Gobierno y al Centro Democrático; faltan las voces de otros partidos y de los sindicatos. Sobre la alerta contra Caracol, el tipo de amenaza no está confirmado y la información policial contradice algunos titulares. En EE. UU., la cobertura del nombramiento de Miller está muy polarizada; se incluyeron medios de ambos lados. Los términos de la propuesta catarí a Irán solo están reportados por la prensa. No se verificaron con fuentes fechadas: el estado actual de los embalses de EPM en el Valle de Aburrá, los datos de exportaciones de China de octubre ni la fecha del IPC de octubre del DANE. Las cifras de víctimas en Kiev varían entre medios.",
   "mercados": [
     {
       "id": "trm",
@@ -716,21 +655,11 @@
     }
   ],
   "cobertura": {
-    "total_articulos": 37,
+    "total_articulos": 35,
     "medios": [
       {
         "medio": "CNBC",
         "articulos": 3,
-        "ok": true
-      },
-      {
-        "medio": "Portafolio",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "El Heraldo",
-        "articulos": 2,
         "ok": true
       },
       {
@@ -739,28 +668,13 @@
         "ok": true
       },
       {
-        "medio": "La República",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "Al Jazeera",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "Semana",
-        "articulos": 1,
-        "ok": true
-      },
-      {
         "medio": "El Espectador",
-        "articulos": 1,
+        "articulos": 2,
         "ok": true
       },
       {
-        "medio": "Pluralidad Z",
-        "articulos": 1,
+        "medio": "El Tiempo",
+        "articulos": 2,
         "ok": true
       },
       {
@@ -769,12 +683,37 @@
         "ok": true
       },
       {
-        "medio": "Prensa Latina",
+        "medio": "El Heraldo",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Cambio",
+        "medio": "Hoy Diario del Magdalena",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Imparcial",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Cooperativa",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Milenio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Bloomberg Línea",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Moncloa.com",
         "articulos": 1,
         "ok": true
       },
@@ -784,67 +723,47 @@
         "ok": true
       },
       {
-        "medio": "Holland & Knight",
+        "medio": "Colombia.com",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Valora Analitik",
+        "medio": "The Washington Post",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Nuevo Siglo",
+        "medio": "The Hill",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Diario La Libertad",
+        "medio": "ABC News",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Yahoo Finance (Reuters)",
+        "medio": "CNN",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "The Epoch Times",
+        "medio": "Breitbart",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Beinsure",
+        "medio": "The New Republic",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Yahoo Finance",
+        "medio": "Fox News",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "StockTitan",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Investrade",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Ad-hoc News",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Benzinga",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "EnergyNow",
+        "medio": "Al Jazeera",
         "articulos": 1,
         "ok": true
       },
@@ -854,17 +773,37 @@
         "ok": true
       },
       {
-        "medio": "Ynet",
+        "medio": "Outlook India",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Axios",
+        "medio": "Times of Israel",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "UNN",
+        "medio": "The Moscow Times",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al Arabiya",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Business Recorder",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Vantage Markets",
         "articulos": 1,
         "ok": true
       }
