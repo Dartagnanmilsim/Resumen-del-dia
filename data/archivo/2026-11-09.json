@@ -1,0 +1,841 @@
+{
+  "fecha": "2026-11-09",
+  "generado": "2026-11-09T10:40:11.232998Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "Fin de semana violento en Colombia: un ataque con drones atribuido al ELN mata a tres soldados y el Gobierno blinda a los grandes medios; arrancan las mesas técnicas de la Ley de Rescate y Trump recibe a Catar para negociar con Irán.",
+  "lo_esencial": [
+    "Drones con explosivos atacaron el cantón militar de Santa Rosa del Sur (Bolívar): tres soldados muertos y decenas de heridos; el Gobierno lo atribuye al ELN.",
+    "De la Espriella ordena proteger a Caracol, RCN y Semana tras alertas de inteligencia sobre atentados del ELN; la Policía no halló explosivos en Caracol.",
+    "Gobierno y comisiones económicas instalan mesas técnicas para revisar la Ley de Rescate artículo por artículo; hay diferencias en IVA, parafiscales y tamaño del Estado.",
+    "Trump recibe hoy al primer ministro de Catar; Catar ve progreso con Irán y Rubio, estancamiento.",
+    "Nvidia abre una investigación sobre su CEO, Jensen Huang, por una relación con una ejecutiva que EE. UU. vincularía con la inteligencia china.",
+    "Asia rebota con fuerza (Taiwán hasta +6,5 %); en China, los precios al productor suben 5,7 %, máximo desde 2022."
+  ],
+  "colombia": [
+    {
+      "titulo": "Ataque con drones a base militar en el sur de Bolívar: tres soldados muertos",
+      "categoria": "Orden público",
+      "importancia": 5,
+      "resumen": "El sábado 7 de noviembre, drones cargados de explosivos atacaron el cantón militar de Santa Rosa del Sur, en el sur de Bolívar. Murieron tres soldados, identificados como Jairo Lince Carvajal, Dilan Andrés Lozano León y Álvaro Pushaina. El número de heridos varía según la fuente y el momento del balance: 8 (El Tiempo), 11 (El Colombiano), 16 (Vanguardia) y hasta 46–47 (La Silla Vacía). El ministro de Defensa, general (r) Jorge Mora, atribuyó el ataque al ELN, aunque ningún grupo lo ha reivindicado; en la zona también operan disidencias de las FARC y el Clan del Golfo. El comandante del Ejército, general José Bertulfo Soto, anunció más operaciones en la región.",
+      "por_que_importa": "Es uno de los ataques más graves contra la Fuerza Pública desde el inicio del Gobierno y muestra el uso creciente de drones por grupos armados, un riesgo para infraestructura y operaciones en zonas rurales.",
+      "perspectivas": [
+        {
+          "medio": "El Tiempo",
+          "enfoque": "Destaca la hipótesis del ELN y explica por qué apunta a ese grupo."
+        },
+        {
+          "medio": "La Silla Vacía",
+          "enfoque": "Recoge el balance más alto de heridos."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Informativo con cifras de heridos graves."
+        },
+        {
+          "medio": "Vanguardia",
+          "enfoque": "Pone el foco en la región bajo máxima alerta."
+        },
+        {
+          "medio": "Diario La Libertad",
+          "enfoque": "Lo enmarca como 'escalada terrorista' y subraya que nadie ha asumido la autoría."
+        }
+      ],
+      "coincidencias": "Coinciden en los tres soldados muertos, el uso de drones y la hipótesis del ELN.",
+      "diferencias": "El número de heridos difiere mucho entre fuentes. Algunos medios presentan la autoría del ELN como un hecho; otros la tratan como hipótesis oficial.",
+      "analisis": "Según el Gobierno, el ataque sería una represalia del ELN ante la ofensiva militar y la nueva Ley de Sometimiento. Analistas han advertido que los drones abaratan los ataques y dificultan la defensa de bases e infraestructura.",
+      "implicaciones": "Empresas de minería, energía y agroindustria en el sur de Bolívar y el Magdalena Medio deben reforzar protocolos frente a drones y revisar planes de contingencia.",
+      "que_vigilar": "Balance oficial de heridos, reivindicación, respuesta militar y nuevos ataques con drones.",
+      "fuentes": [
+        {
+          "medio": "El Tiempo",
+          "titulo": "Primera hipótesis del atentado terrorista con drones contra base militar de Santa Rosa lleva al Eln: ¿por qué?",
+          "url": "https://www.eltiempo.com/amp/justicia/conflicto-y-narcotrafico/primera-hipotesis-del-atentado-terrorista-con-drones-contra-base-militar-de-santa-rosa-lleva-al-eln-por-que-3599291"
+        },
+        {
+          "medio": "La Silla Vacía",
+          "titulo": "Tres soldados muertos y 47 heridos por ataque con drones en Bolívar",
+          "url": "https://www.lasillavacia.com/en-vivo/tres-soldados-muertos-y-47-heridos-por-ataque-con-drones-en-bolivar/"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "Tres militares muertos y 11 heridos deja ataque con drones contra cantón militar en el sur de Bolívar",
+          "url": "https://www.elcolombiano.com/colombia/militares-ejercito-ataque-drones-sur-de-bolivar-PF43310719"
+        },
+        {
+          "medio": "Vanguardia",
+          "titulo": "Explosivos lanzados desde drones dejaron muertos, heridos y una región bajo máxima alerta",
+          "url": "https://www.vanguardia.com/colombia/2026/11/07/ataque-con-drones-en-el-sur-de-bolivar-deja-tres-militares-muertos-y-16-heridos/"
+        },
+        {
+          "medio": "Diario La Libertad",
+          "titulo": "Escalada terrorista en el sur de Bolívar: atentado con drones contra el Cantón Militar de Santa Rosa",
+          "url": "https://diariolalibertad.com/2026/11/08/escalada-terrorista-en-el-sur-de-bolivar-atentado-con-drones-cargados-de-explosivos-contra-el-canton-militar-de-santa-rosa-deja-tres-soldados-muertos-y-ocho-heridos/"
+        }
+      ]
+    },
+    {
+      "titulo": "Gobierno ordena proteger a Caracol, RCN y Semana ante alertas de atentados del ELN",
+      "categoria": "Orden público / Libertad de prensa",
+      "importancia": 4,
+      "resumen": "El domingo 8 de noviembre, el presidente De la Espriella ordenó en X reforzar la seguridad de Caracol Televisión, Caracol Radio, RCN y Semana, y de sus periodistas y familias, tras alertas de inteligencia sobre posibles atentados del ELN contra sus instalaciones. La víspera, Caracol Televisión había evacuado su sede en Bogotá; la Policía no encontró explosivos. El Gobierno no detalló el origen de la información ni las medidas concretas, y no se conoce un pronunciamiento del ELN. La FLIP sigue el caso.",
+      "por_que_importa": "Atribuir amenazas a los principales medios a una guerrilla eleva la tensión de seguridad en Bogotá y pone la libertad de prensa en el centro del debate.",
+      "perspectivas": [
+        {
+          "medio": "NTN24",
+          "enfoque": "Destaca la orden presidencial de reforzar la seguridad de la prensa."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Detalla los medios cubiertos por la protección."
+        },
+        {
+          "medio": "Minuto30",
+          "enfoque": "Resalta la frase presidencial 'aquí no gobierna el terrorismo'."
+        },
+        {
+          "medio": "Pulzo",
+          "enfoque": "Recoge el mensaje de que 'la libertad de prensa es sagrada'."
+        },
+        {
+          "medio": "Mundiario (España)",
+          "enfoque": "Lo encuadra como presión a la prensa e intimidación a los medios."
+        }
+      ],
+      "coincidencias": "Coinciden en la orden de protección, los medios incluidos y la atribución oficial al ELN.",
+      "diferencias": "Algunos medios presentan la amenaza como un hecho; otros subrayan que son alertas de inteligencia sin detalles públicos ni reivindicación.",
+      "analisis": "Las alertas llegan el mismo fin de semana del ataque con drones en Bolívar, que el Gobierno también atribuye al ELN. Sin información pública sobre su origen, es difícil evaluar su gravedad real.",
+      "implicaciones": "Empresas con sedes en Bogotá deben revisar protocolos de seguridad y comunicación de crisis.",
+      "que_vigilar": "Información oficial sobre el origen de la amenaza, posibles pronunciamientos del ELN y medidas de la Alcaldía.",
+      "fuentes": [
+        {
+          "medio": "NTN24",
+          "titulo": "De la Espriella ordenó reforzar seguridad de la prensa en Colombia tras alerta de atentados terroristas",
+          "url": "https://www.ntn24.com/noticias-actualidad/de-la-espriella-ordeno-reforzar-seguridad-de-la-prensa-en-colombia-tras-alerta-de-atentados-terroristas-contra-rcn-y-otros-medios-de-comunicacion-664584"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "De la Espriella ordenó reforzar la seguridad de Caracol TV, Caracol Radio, RCN y Semana tras amenazas de atentado",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-ordeno-reforzar-seguridad-caracol-tv-caracol-radio-rcn-semana-amenazas-atentado-OF43319456"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "«Aquí no gobierna el terrorismo»: De La Espriella ordena proteger a RCN, Caracol y Semana",
+          "url": "https://www.minuto30.com/aqui-no-gobierna-el-terrorismo-de-la-espriella-ordena-proteger-a-rcn-caracol-y-semana/1728322/"
+        },
+        {
+          "medio": "Pulzo",
+          "titulo": "De la Espriella ordenó reforzar seguridad de Caracol, RCN y Semana por amenazas del Eln",
+          "url": "https://www.pulzo.com/nacion/espriella-ordeno-proteger-rcn-caracol-semana-por-amenazas-PP5351712"
+        },
+        {
+          "medio": "Mundiario",
+          "titulo": "Presión a la prensa: las amenazas de bomba se mudan a Colombia e intimidan a los medios",
+          "url": "https://www.mundiario.com/sociedad/colombia-evacua-caracol-television-amenaza-atentado/20261108174435451660.html"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: arrancan mesas técnicas para revisar la reforma artículo por artículo",
+      "categoria": "Economía / Política fiscal",
+      "importancia": 5,
+      "resumen": "Tras el encuentro del sábado en Barranquilla, el Gobierno y las comisiones económicas del Congreso acordaron mesas técnicas para revisar el proyecto artículo por artículo; las fuentes las sitúan desde este lunes o desde el martes 10. Buscan un texto de consenso antes del primer debate, que será conjunto por el mensaje de urgencia. Persisten diferencias sobre impuestos, IVA, parafiscales y tamaño del Estado. El Centro Democrático ya presentó un borrador alternativo con más recortes y menos impuestos. El plazo vence el 16 de diciembre.",
+      "por_que_importa": "Lo que salga de estas mesas definirá la carga tributaria de empresas y hogares desde 2027 y la credibilidad fiscal del país.",
+      "perspectivas": [
+        {
+          "medio": "Portafolio",
+          "enfoque": "Destaca el 'cónclave' de Barranquilla y el método de trabajo acordado."
+        },
+        {
+          "medio": "El Heraldo",
+          "enfoque": "Informativo: se conforman las mesas técnicas."
+        },
+        {
+          "medio": "Publimetro",
+          "enfoque": "Pone el foco en los puntos que siguen generando diferencias."
+        },
+        {
+          "medio": "El Norte",
+          "enfoque": "Usa el apodo del presidente ('el Tigre') y llama al proyecto 'reforma tributaria'."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Detalla la revisión artículo por artículo."
+        }
+      ],
+      "coincidencias": "Todas las fuentes coinciden en las mesas técnicas, en que hay diferencias de fondo y en el plazo del 16 de diciembre.",
+      "diferencias": "El Gobierno la llama 'Ley de Rescate'; algunos medios, 'reforma tributaria', lo que refleja distintas lecturas sobre su peso en impuestos. Las fuentes no coinciden en el día de inicio.",
+      "analisis": "Las mesas pueden acelerar acuerdos, pero también abrir la puerta a cambios de fondo que reduzcan el recaudo. El Gobierno necesita al Centro Democrático y a otros partidos; cada concesión altera las cifras fiscales.",
+      "implicaciones": "Las empresas deben seguir de cerca IVA, renta, sobretasas y parafiscales; los cambios pueden llegar antes del primer debate.",
+      "que_vigilar": "Conclusiones de las mesas, radicación de la ponencia y posición de otros partidos.",
+      "fuentes": [
+        {
+          "medio": "Portafolio",
+          "titulo": "Gobierno y Congreso acuerdan trabajar en mesas técnicas sobre ley de rescate, tras 'cónclave' en Barranquilla",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-y-congreso-acuerdan-trabajar-en-mesas-tecnicas-sobre-ley-de-rescate-tras-conclave-en-barranquilla-505931"
+        },
+        {
+          "medio": "El Heraldo",
+          "titulo": "Ley de Rescate: se conforman mesas técnicas entre las Comisiones Económicas del Congreso y el Gobierno",
+          "url": "https://www.elheraldo.co/politica/2026/11/08/ley-de-rescate-se-conforman-mesas-tecnicas-entre-las-comisiones-economicas-del-congreso-y-el-gobierno/"
+        },
+        {
+          "medio": "Publimetro",
+          "titulo": "Gobierno y Congreso buscan acuerdo por Ley de Rescate Económico: estos son los puntos que siguen generando diferencias",
+          "url": "https://www.publimetro.co/noticias/2026/11/08/gobierno-y-congreso-buscan-acuerdo-por-ley-de-rescate-economico-estos-son-los-puntos-que-siguen-generando-diferencias/"
+        },
+        {
+          "medio": "El Norte",
+          "titulo": "Acuerdan mesas técnicas para discutir reforma tributaria del Tigre",
+          "url": "https://elnorte.com.co/gobierno-y-congresistas-acuerdan-mesas-tecnicas-para-discutir-la-reforma-tributaria-de-de-la-espriella/"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Ley de Rescate: Gobierno y comisiones económicas pactan mesas técnicas para revisar la reforma artículo por artículo",
+          "url": "https://ifmnoticias.com/gobierno/ley-de-rescate-gobierno-y-comisiones-economicas-del-congreso-pactan-mesas-tecnic/"
+        }
+      ]
+    },
+    {
+      "titulo": "Gasolina y ACPM congelados en noviembre pese a la presión fiscal",
+      "categoria": "Energía / Precios",
+      "importancia": 3,
+      "resumen": "El Gobierno mantuvo sin cambios en noviembre los precios de referencia de la gasolina corriente y el ACPM: en promedio, $15.886 y $11.320 por galón en las 13 principales ciudades; en Bogotá, $16.331 y $11.616. Según Infobae, la medida cuesta $15.500 millones al fisco. Los ministerios de Minas y Hacienda evaluarán qué hacer en diciembre según los mercados internacionales y los recursos disponibles.",
+      "por_que_importa": "Los combustibles pesan en la inflación y en los costos logísticos; el congelamiento ayuda a contener precios, pero suma presión a unas finanzas públicas estrechas.",
+      "perspectivas": [
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Informativo: precios por ciudad."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Destaca el costo fiscal de la medida."
+        },
+        {
+          "medio": "Cambio",
+          "enfoque": "Enfoque práctico para el consumidor."
+        },
+        {
+          "medio": "El País (Cali)",
+          "enfoque": "Pone el foco en las tarifas de Cali y la región."
+        }
+      ],
+      "coincidencias": "Las fuentes coinciden en las cifras y en que la decisión se revisará para diciembre.",
+      "diferencias": "Algunos medios destacan el alivio al consumidor; otros, el costo fiscal.",
+      "analisis": "Con el Brent cayendo más de 16 % la semana pasada, el costo del subsidio podría reducirse; si el petróleo rebota, la presión sobre el Fondo de Estabilización volvería a crecer.",
+      "implicaciones": "Empresas de transporte y logística: costos de combustible estables en noviembre; incertidumbre para diciembre.",
+      "que_vigilar": "Decisión de precios para diciembre y evolución del Brent.",
+      "fuentes": [
+        {
+          "medio": "El Colombiano",
+          "titulo": "Gobierno mantendrá sin cambios los precios de la gasolina y el ACPM en noviembre",
+          "url": "https://www.elcolombiano.com/negocios/precio-gasolina-colombia-noviembre-2026-galon-ciudades-GD43042206"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Gobierno confirmó que no subirá el precio de la gasolina ni el Acpm en noviembre",
+          "url": "https://www.infobae.com/colombia/2026/10/31/gobierno-de-abelardo-de-la-espriella-confirmo-que-no-subira-el-precio-de-la-gasolina-ni-el-acpm-en-noviembre-asi-quedo-el-precio-del-combustible-en-cada-ciudad/"
+        },
+        {
+          "medio": "Cambio",
+          "titulo": "Así quedó el precio de la gasolina y el ACPM en noviembre de 2026",
+          "url": "https://cambiocolombia.com/economia/articulo/2026/10/gasolina-y-acpm-no-suben-en-noviembre-estos-son-los-precios-por-ciudad"
+        },
+        {
+          "medio": "El País (Cali)",
+          "titulo": "Precio de gasolina y ACPM en noviembre de 2026 en Colombia: tarifas por ciudad",
+          "url": "https://www.elpais.com.co/economia/asi-quedaran-las-tarifas-de-la-gasolina-y-el-acpm-en-cali-y-las-principales-ciudades-durante-noviembre-3114.html"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Trump recibe hoy al primer ministro de Catar para destrabar la negociación con Irán",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 5,
+      "resumen": "Trump se reúne este lunes con el primer ministro catarí, Mohammed bin Abdulrahman Al-Thani, para discutir un nuevo cese al fuego y la reanudación de negociaciones nucleares con Irán. Catar dice que hay 'progreso significativo' y que un acuerdo es posible; el secretario de Estado Marco Rubio, en cambio, dijo que las negociaciones no han avanzado. El canciller iraní Abbas Araghchi dijo el domingo que Irán espera la respuesta de EE. UU. a su propuesta, que, según un alto funcionario iraní citado por Reuters, solo se discutirá si Washington cumple siete condiciones. El plan en discusión prevé en dos días levantar el bloqueo naval, liberar fondos y reabrir Ormuz.",
+      "por_que_importa": "Un avance aliviaría el petróleo y el comercio mundial; un fracaso reactivaría el riesgo de escalada.",
+      "perspectivas": [
+        {
+          "medio": "Axios",
+          "enfoque": "Informativo: la reunión de Trump con el primer ministro catarí sobre la mediación."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Explicativo: en qué está la negociación y qué busca cada parte."
+        },
+        {
+          "medio": "The Jerusalem Post",
+          "enfoque": "Recoge el optimismo catarí y las condiciones iraníes."
+        },
+        {
+          "medio": "Business Standard",
+          "enfoque": "Pone el foco en la revisión iraní de las propuestas cataríes."
+        }
+      ],
+      "coincidencias": "Coinciden en que hay propuestas sobre la mesa y en que la reunión de hoy es clave.",
+      "diferencias": "Catar habla de progreso; Rubio e Irán describen estancamiento. Ninguna fuente publica el texto de la respuesta de EE. UU.",
+      "analisis": "La reunión pone a prueba la voluntad de Trump de negociar tras la derrota electoral, mientras su Gobierno amplía el bloqueo. La secuencia de dos días busca generar confianza, pero las siete condiciones iraníes son amplias.",
+      "implicaciones": "El Brent abrió plano (cerca de US$98); su dirección esta semana dependerá en buena parte de esta reunión.",
+      "que_vigilar": "Comunicados tras la reunión, respuesta formal de EE. UU. e incidentes en Ormuz.",
+      "fuentes": [
+        {
+          "medio": "Axios",
+          "titulo": "Trump to meet Qatari prime minister about mediation efforts with Iran",
+          "url": "https://www.axios.com/2026/11/09/trump-qatar-prime-minister-iran-war-mediation"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "Qatar PM to meet Trump: What's the latest on US-Iran negotiations?",
+          "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
+        },
+        {
+          "medio": "The Jerusalem Post",
+          "titulo": "Qatar PM says US-Iran mediation making progress, deal still possible",
+          "url": "https://www.jpost.com/middle-east/article-914112"
+        },
+        {
+          "medio": "The Jerusalem Post",
+          "titulo": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+          "url": "https://www.jpost.com/middle-east/article-914025"
+        },
+        {
+          "medio": "Business Standard",
+          "titulo": "Iran reviewing Qatar's proposals on nuclear deal with US amid war",
+          "url": "https://www.business-standard.com/world-news/iran-reviewing-qatar-s-proposals-on-nuclear-deal-with-us-amid-war-126110700056_1.html"
+        }
+      ]
+    },
+    {
+      "titulo": "Nvidia investiga a su CEO, Jensen Huang, tras reportes de espionaje",
+      "categoria": "Empresas / Tecnología",
+      "importancia": 4,
+      "resumen": "La junta de Nvidia abrió el 8 de noviembre una investigación independiente sobre su CEO, Jensen Huang, después de que él admitiera ante empleados una relación extramatrimonial con Alice Huang (sin parentesco), ejecutiva de Megaspeed, uno de los mayores compradores de Nvidia (unos US$4.800 millones en equipos). Funcionarios de EE. UU., según los reportes, la vinculan con la inteligencia china. La junta dice no tener razones para creer que se comprometieron secretos de la empresa o la seguridad nacional. Huang sigue en el cargo. La senadora Elizabeth Warren pidió respuestas y legisladores republicanos lo citaron a declarar el 18 de noviembre.",
+      "por_que_importa": "Nvidia es la empresa central del auge de la IA; el caso llega tras el desplome de las tecnológicas de la semana pasada y antes de sus resultados del 17 de noviembre.",
+      "perspectivas": [
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Informativo: Nvidia investiga a su CEO por la relación."
+        },
+        {
+          "medio": "ABC News",
+          "enfoque": "Pone el foco en las acusaciones de que fue blanco de inteligencia extranjera."
+        },
+        {
+          "medio": "Yahoo Finance",
+          "enfoque": "Destaca que la junta investigará el caso de espionaje tras la confesión."
+        },
+        {
+          "medio": "The San Francisco Standard",
+          "enfoque": "Encuadre local, con énfasis en la 'presunta espía china'."
+        }
+      ],
+      "coincidencias": "Coinciden en la investigación, en que Huang sigue al frente y en la citación del Congreso.",
+      "diferencias": "Unos medios subrayan el ángulo de seguridad nacional; otros, el de gobierno corporativo. Las acusaciones de espionaje no están probadas.",
+      "analisis": "El riesgo para Nvidia es reputacional y regulatorio, en un momento de escrutinio sobre las ventas de chips a China. En Asia, los mercados subieron este lunes pese al caso.",
+      "implicaciones": "Más volatilidad en el sector tecnológico, con efecto sobre fondos e inversionistas expuestos a la IA.",
+      "que_vigilar": "Resultados del 17 de noviembre, audiencia del 18 y avances de la investigación.",
+      "fuentes": [
+        {
+          "medio": "Al Jazeera",
+          "titulo": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair"
+        },
+        {
+          "medio": "ABC News",
+          "titulo": "Nvidia announces investigation of CEO amid foreign intelligence target allegations",
+          "url": "https://abcnews.com/Technology/nvidia-announces-investigation-ceo-amid-foreign-intelligence-target/story?id=137959091"
+        },
+        {
+          "medio": "Yahoo Finance",
+          "titulo": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-board-probe-spying-case-200611558.html"
+        },
+        {
+          "medio": "The San Francisco Standard",
+          "titulo": "Nvidia launches probe as Jensen Huang admits affair with suspected Chinese spy",
+          "url": "https://sfstandard.com/2026/11/08/nvidia-jensen-huang-affair-board-investigation-chinese-spy/"
+        }
+      ]
+    },
+    {
+      "titulo": "Asia rebota con fuerza; China registra la mayor inflación de productores desde 2022",
+      "categoria": "Mercados / China",
+      "importancia": 4,
+      "resumen": "Las bolsas asiáticas subieron con fuerza este lunes: el Nikkei ganó cerca de 3,3 %, el índice de Taiwán llegó a subir 6,5 % impulsado por los chips y el Kospi 1,4 %; los futuros de Wall Street también subían. En China, los precios al productor crecieron 5,7 % anual en octubre, el ritmo más alto desde junio de 2022 y por encima del 5,3 % esperado; la inflación al consumidor bajó a 0,7 % (se esperaba 0,8 %). El martes 10 se publican las cifras de comercio exterior; Reuters espera exportaciones +33,5 %.",
+      "por_que_importa": "Un rebote en Asia sugiere que la venta de tecnológicas puede moderarse; la brecha entre precios al productor y al consumidor en China indica costos altos y demanda interna débil.",
+      "perspectivas": [
+        {
+          "medio": "Investing.com",
+          "enfoque": "Destaca el rebote de Asia pese a la investigación a Nvidia."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Pone el foco en la inflación mayorista china, la más alta en más de cuatro años."
+        },
+        {
+          "medio": "investingLive",
+          "enfoque": "Datos de mercado y de inflación con comparación frente a lo esperado."
+        },
+        {
+          "medio": "ABC News (Australia)",
+          "enfoque": "Cobertura en vivo de los mercados de la región."
+        }
+      ],
+      "coincidencias": "Coinciden en el fuerte rebote asiático y en las cifras de inflación china.",
+      "diferencias": "Unos medios atribuyen el rebote a la recuperación de la IA; otros, a la esperanza de paz en Medio Oriente.",
+      "analisis": "Precios al productor altos en China pueden encarecer las importaciones de manufacturas para el resto del mundo, incluida Colombia.",
+      "implicaciones": "Importadores colombianos de bienes chinos deben prever presiones de costos; exportadores de materias primas se benefician de la demanda china.",
+      "que_vigilar": "Comercio exterior chino (10 nov) y apertura de Wall Street.",
+      "fuentes": [
+        {
+          "medio": "Investing.com",
+          "titulo": "Asia stocks roar back as Taiwan jumps 6%, Nvidia probe rattles AI trade",
+          "url": "https://investing.com/news/stock-market-news/asia-stocks-roar-back-as-taiwan-jumps-6-nvidia-probe-rattles-ai-trade-5010437"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+          "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+        },
+        {
+          "medio": "investingLive",
+          "titulo": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
+          "url": "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/"
+        },
+        {
+          "medio": "ABC News (Australia)",
+          "titulo": "ANZ stumbles after posting $7.3b profit as Wall St lifts on AI rebound, ASX edges higher",
+          "url": "https://abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534"
+        },
+        {
+          "medio": "U.S. News (Reuters)",
+          "titulo": "China's Export Growth Expected to Have Remained Strong in October: Reuters Poll",
+          "url": "https://money.usnews.com/investing/news/articles/2026-11-09/chinas-export-growth-expected-to-have-remained-strong-in-october-reuters-poll"
+        }
+      ]
+    },
+    {
+      "titulo": "Mañana, Abu Dabi: EE. UU., Rusia y Ucrania retoman negociaciones tras ataques a Kiev",
+      "categoria": "Geopolítica / Europa",
+      "importancia": 4,
+      "resumen": "Los días 10 y 11 de noviembre, delegaciones de EE. UU. (Steve Witkoff y Jared Kushner), Rusia y Ucrania se reúnen en Abu Dabi. Llegan después de que Rusia lanzara el 7 de noviembre unos 36 misiles balísticos y 172 drones contra Kiev, dañando la red eléctrica y el Puente Norte sobre el Dniéper. Según Axios, la única concesión aparente de Putin es aceptar volver a la mesa y las partes siguen lejos en territorio; Zelenski dijo que primero debe discutirse cómo terminar la guerra y luego las garantías de seguridad.",
+      "por_que_importa": "Un avance cambiaría precios de gas, granos y fertilizantes y el régimen de sanciones; un fracaso prolongaría la incertidumbre en Europa.",
+      "perspectivas": [
+        {
+          "medio": "Axios",
+          "enfoque": "Escéptico: las posiciones siguen lejos."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Informativo: los ataques a Kiev en la víspera de las conversaciones."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Destaca que Zelenski busca una cumbre con Putin y que Europa no estará en la mesa."
+        }
+      ],
+      "coincidencias": "Coinciden en las fechas, los participantes y las bajas expectativas.",
+      "diferencias": "El optimismo de Trump contrasta con la cautela de Kiev y de los analistas.",
+      "analisis": "Moscú aumenta la presión militar antes de negociar. El nuevo Congreso demócrata, desde enero, podría presionar por más ayuda a Ucrania.",
+      "implicaciones": "Para importadores de fertilizantes y trigo, un acuerdo aliviaría precios.",
+      "que_vigilar": "Resultados de Abu Dabi y nuevos ataques a infraestructura energética.",
+      "fuentes": [
+        {
+          "medio": "Axios",
+          "titulo": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
+          "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "Russia pounds power facilities around Kyiv, damages major bridge",
+          "url": "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "Ukraine's Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+          "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "La semana arranca con un rebote en Asia, liderado por los chips, y futuros de Wall Street al alza, pese al caso Nvidia. El petróleo abrió plano (Brent cerca de US$98,33) a la espera de la reunión entre Trump y Catar sobre Irán. Los índices de EE. UU. y Colombia en la tabla son del cierre del viernes. En Colombia, la TRM de hoy es $3.237,83 y el foco estará en los resultados de Ecopetrol del martes y en las mesas técnicas de la Ley de Rescate. La inflación al productor en China, la más alta en cuatro años, sugiere presiones de costos para importadores.",
+  "agenda": [
+    "Hoy, 9 de noviembre: Trump se reúne con el primer ministro de Catar sobre Irán.",
+    "Hoy: Stephen Miller asume como jefe de gabinete de la Casa Blanca.",
+    "Hoy, 2:00 p. m.: mesa técnica de la Procuraduría con el director de la Aerocivil.",
+    "9–10 de noviembre: instalación de mesas técnicas sobre la Ley de Rescate.",
+    "10 de noviembre: Ecopetrol presenta resultados del tercer trimestre; China publica comercio exterior de octubre.",
+    "10 y 11 de noviembre: conversaciones EE. UU.–Rusia–Ucrania en Abu Dabi.",
+    "17 de noviembre: resultados trimestrales de Nvidia; 18 de noviembre: citación de Jensen Huang en la Cámara de EE. UU.",
+    "19 de noviembre: paro nacional convocado por la CUT.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Las cifras de heridos del ataque en Santa Rosa del Sur varían ampliamente (de 8 a 47) según la fuente y la hora del balance; la autoría del ELN es la hipótesis oficial, sin reivindicación. Las alertas contra medios provienen de inteligencia no detallada públicamente. En la cobertura de la Ley de Rescate predominan Gobierno y Centro Democrático; faltan sindicatos y otros partidos. Sobre Irán, las versiones de Catar, Rubio e Irán se contradicen y no se conoce el texto de la respuesta de EE. UU. Las acusaciones de espionaje en el caso Nvidia no están probadas. Los precios del petróleo son indicativos de la sesión asiática; los índices bursátiles son del cierre del viernes. El dato de gasolina es de finales de octubre, vigente para noviembre. No se verificó la fecha del IPC de octubre del DANE.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3237.83,
+      "variacion_pct": 0.296,
+      "variacion_mes_pct": null,
+      "vigencia": "9 nov",
+      "fuente": "Superfinanciera (vía Colombia.com / Dolar Hoy)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado (aprox.)",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 0,
+      "valor": 3238,
+      "variacion_pct": 0.34,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov",
+      "fuente": "The Rio Times"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 98.33,
+      "variacion_pct": 0.01,
+      "variacion_mes_pct": null,
+      "vigencia": "9 nov, sesión asiática (indicativo)",
+      "fuente": "ABC News (Australia)"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 91.33,
+      "variacion_pct": 0.5,
+      "variacion_mes_pct": null,
+      "vigencia": "9 nov, sesión asiática (indicativo)",
+      "fuente": "ABC News (Australia)"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro (spot)",
+      "grupo": "Materias primas",
+      "unidad": "USD/oz",
+      "decimales": 0,
+      "valor": 4048,
+      "variacion_pct": -0.96,
+      "variacion_mes_pct": null,
+      "vigencia": "6 nov (semana: ~+5 %)",
+      "fuente": "Trading Economics"
+    },
+    {
+      "id": "colcap",
+      "nombre": "MSCI COLCAP (aprox.)",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 0,
+      "valor": 2485,
+      "variacion_pct": 0.03,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov",
+      "fuente": "The Rio Times"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7376.86,
+      "variacion_pct": 0.31,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov",
+      "fuente": "Yahoo Finance / Closing Look"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 24579.42,
+      "variacion_pct": 1.09,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov",
+      "fuente": "Yahoo Finance / Closing Look"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 51285.73,
+      "variacion_pct": -0.46,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 6 nov",
+      "fuente": "Ad-hoc News / Yahoo Finance"
+    },
+    {
+      "id": "ust10",
+      "nombre": "Bono EE. UU. 10 años (aprox.)",
+      "grupo": "Tasas",
+      "unidad": "%",
+      "decimales": 2,
+      "valor": 4.88,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "6 nov, tras dato de empleo",
+      "fuente": "Reuters (vía Yahoo Finance)"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,29 %",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía Portafolio)",
+      "url": "https://www.portafolio.co/economia/finanzas/inflacion-en-colombia-sigue-subiendo-se-ubico-en-6-29-en-septiembre-de-504077",
+      "comentario": "La más alta desde julio de 2024. El dato de octubre aún no se publica."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión: 9 dic; tras el dato de empleo, el mercado asigna cerca de 78 % a un alza."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Gasolina corriente (referencia)",
+      "valor": "$15.886 por galón",
+      "fecha_dato": "Noviembre 2026 (promedio 13 ciudades)",
+      "fuente": "El Colombiano",
+      "url": "https://www.elcolombiano.com/negocios/precio-gasolina-colombia-noviembre-2026-galon-ciudades-GD43042206",
+      "comentario": "Sin cambios frente a octubre; ACPM en $11.320."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 36,
+    "medios": [
+      {
+        "medio": "El Colombiano",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "Axios",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "The Jerusalem Post",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "El Tiempo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La Silla Vacía",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Vanguardia",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario La Libertad",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "NTN24",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Minuto30",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Pulzo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Mundiario",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Heraldo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Publimetro",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Norte",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "IFM Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Infobae",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Cambio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El País (Cali)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Business Standard",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The San Francisco Standard",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Investing.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "investingLive",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News (Australia)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "U.S. News (Reuters)",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}

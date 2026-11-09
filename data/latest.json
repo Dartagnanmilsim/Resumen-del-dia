@@ -1,462 +1,480 @@
 {
-  "fecha": "2026-11-08",
-  "generado": "2026-11-08T10:40:46.333635Z",
+  "fecha": "2026-11-09",
+  "generado": "2026-11-09T10:40:11.232998Z",
   "modelo": null,
   "demo": false,
-  "titular_del_dia": "Trump responde a su derrota con Stephen Miller como jefe de gabinete y EE. UU. amplía el bloqueo a Irán; en Colombia, el Centro Democrático pide más recortes y menos impuestos en la Ley de Rescate.",
+  "titular_del_dia": "Fin de semana violento en Colombia: un ataque con drones atribuido al ELN mata a tres soldados y el Gobierno blinda a los grandes medios; arrancan las mesas técnicas de la Ley de Rescate y Trump recibe a Catar para negociar con Irán.",
   "lo_esencial": [
-    "Gobierno y Centro Democrático abren mesas técnicas sobre la Ley de Rescate; el partido propone pasar de 18 a seis ministerios, eliminar o fusionar 48 entidades y vender acciones de Ecopetrol.",
-    "Caracol Televisión evacuó su sede en Bogotá por una alerta de atentado; la Policía no halló explosivos y otros medios fueron advertidos.",
-    "Trump nombra a Stephen Miller jefe de gabinete desde el lunes y pide al Departamento de Justicia investigar a los demócratas, sin pruebas según ABC.",
-    "Irán estudia una propuesta catarí para reabrir Ormuz, mientras EE. UU. crea una fuerza de tarea para cortar las rutas terrestres iraníes.",
-    "Rusia golpea la red eléctrica de Kiev con 36 misiles a tres días de las conversaciones de Abu Dabi.",
-    "Semana en mercados: Nasdaq −3,4 %, Brent −16 %, oro +5 %; la TRM hasta el lunes es $3.237,83."
+    "Drones con explosivos atacaron el cantón militar de Santa Rosa del Sur (Bolívar): tres soldados muertos y decenas de heridos; el Gobierno lo atribuye al ELN.",
+    "De la Espriella ordena proteger a Caracol, RCN y Semana tras alertas de inteligencia sobre atentados del ELN; la Policía no halló explosivos en Caracol.",
+    "Gobierno y comisiones económicas instalan mesas técnicas para revisar la Ley de Rescate artículo por artículo; hay diferencias en IVA, parafiscales y tamaño del Estado.",
+    "Trump recibe hoy al primer ministro de Catar; Catar ve progreso con Irán y Rubio, estancamiento.",
+    "Nvidia abre una investigación sobre su CEO, Jensen Huang, por una relación con una ejecutiva que EE. UU. vincularía con la inteligencia china.",
+    "Asia rebota con fuerza (Taiwán hasta +6,5 %); en China, los precios al productor suben 5,7 %, máximo desde 2022."
   ],
   "colombia": [
     {
-      "titulo": "Ley de Rescate: Gobierno y Centro Democrático abren mesas técnicas tras el primer cara a cara",
-      "categoria": "Economía / Política fiscal",
+      "titulo": "Ataque con drones a base militar en el sur de Bolívar: tres soldados muertos",
+      "categoria": "Orden público",
       "importancia": 5,
-      "resumen": "El sábado 7 de noviembre, en la sede alterna de la Presidencia en Barranquilla, el Gobierno —representado por el vicepresidente José Manuel Restrepo y varios ministros; el presidente no asistió— recibió del Centro Democrático un borrador con 16 contrapropuestas a la Ley de Rescate. El partido pide un recorte de gasto más fuerte y menos impuestos: pasar de 18 a seis ministerios, reestructurar o eliminar 48 entidades y, según El Espectador, vender acciones de Ecopetrol, además de cambios en renta. Acordaron instalar mesas técnicas esta semana. El plazo de la legislatura vence el 16 de diciembre.",
-      "por_que_importa": "El Centro Democrático es un aliado clave del Gobierno en el Congreso; sus cambios pueden redefinir la mezcla entre impuestos y recortes que afectará a empresas y hogares desde 2027.",
+      "resumen": "El sábado 7 de noviembre, drones cargados de explosivos atacaron el cantón militar de Santa Rosa del Sur, en el sur de Bolívar. Murieron tres soldados, identificados como Jairo Lince Carvajal, Dilan Andrés Lozano León y Álvaro Pushaina. El número de heridos varía según la fuente y el momento del balance: 8 (El Tiempo), 11 (El Colombiano), 16 (Vanguardia) y hasta 46–47 (La Silla Vacía). El ministro de Defensa, general (r) Jorge Mora, atribuyó el ataque al ELN, aunque ningún grupo lo ha reivindicado; en la zona también operan disidencias de las FARC y el Clan del Golfo. El comandante del Ejército, general José Bertulfo Soto, anunció más operaciones en la región.",
+      "por_que_importa": "Es uno de los ataques más graves contra la Fuerza Pública desde el inicio del Gobierno y muestra el uso creciente de drones por grupos armados, un riesgo para infraestructura y operaciones en zonas rurales.",
       "perspectivas": [
         {
-          "medio": "Infobae",
-          "enfoque": "Destaca que hubo acuerdos y diferencias, según los propios congresistas."
+          "medio": "El Tiempo",
+          "enfoque": "Destaca la hipótesis del ELN y explica por qué apunta a ese grupo."
         },
         {
-          "medio": "El Universal",
-          "enfoque": "Relata el 'primer cara a cara' y los 16 puntos con énfasis en recorte de gasto."
+          "medio": "La Silla Vacía",
+          "enfoque": "Recoge el balance más alto de heridos."
         },
         {
-          "medio": "El Heraldo",
-          "enfoque": "Encuadre local: el borrador entregado en Barranquilla."
+          "medio": "El Colombiano",
+          "enfoque": "Informativo con cifras de heridos graves."
         },
         {
-          "medio": "El Espectador",
-          "enfoque": "Lo presenta como una 'ley fiscal alternativa' con menos impuestos y más recortes, incluida la venta de acciones de Ecopetrol."
+          "medio": "Vanguardia",
+          "enfoque": "Pone el foco en la región bajo máxima alerta."
         },
         {
-          "medio": "Hoy Diario del Magdalena",
-          "enfoque": "Pone el foco en los reparos del Centro Democrático."
+          "medio": "Diario La Libertad",
+          "enfoque": "Lo enmarca como 'escalada terrorista' y subraya que nadie ha asumido la autoría."
         }
       ],
-      "coincidencias": "Coinciden en la fecha, el número de propuestas, el énfasis en recortar gasto y el anuncio de mesas técnicas.",
-      "diferencias": "Algunos medios lo describen como sintonía entre aliados; El Espectador lo enmarca como una propuesta alternativa que choca con el diseño tributario del Gobierno.",
-      "analisis": "Para el Centro Democrático, el ajuste debe hacerse por gasto y no por impuestos; para el Gobierno, la magnitud del hueco fiscal exige ambos. La venta de acciones de Ecopetrol sería un cambio de fondo que reabriría un debate político amplio. Cuanto más se negocie, más presión sobre el calendario.",
-      "implicaciones": "Las empresas deben esperar cambios en IVA, renta y sobretasas antes del primer debate. Contratistas y proveedores del Estado deben vigilar la propuesta de eliminar entidades.",
-      "que_vigilar": "Instalación de mesas técnicas, posición de los demás partidos y si el Gobierno convoca sesiones extraordinarias.",
+      "coincidencias": "Coinciden en los tres soldados muertos, el uso de drones y la hipótesis del ELN.",
+      "diferencias": "El número de heridos difiere mucho entre fuentes. Algunos medios presentan la autoría del ELN como un hecho; otros la tratan como hipótesis oficial.",
+      "analisis": "Según el Gobierno, el ataque sería una represalia del ELN ante la ofensiva militar y la nueva Ley de Sometimiento. Analistas han advertido que los drones abaratan los ataques y dificultan la defensa de bases e infraestructura.",
+      "implicaciones": "Empresas de minería, energía y agroindustria en el sur de Bolívar y el Magdalena Medio deben reforzar protocolos frente a drones y revisar planes de contingencia.",
+      "que_vigilar": "Balance oficial de heridos, reivindicación, respuesta militar y nuevos ataques con drones.",
       "fuentes": [
         {
-          "medio": "Infobae",
-          "titulo": "Así fue la primera reunión por la Ley de Rescate: congresistas revelaron acuerdos y diferencias con el Gobierno",
-          "url": "https://www.infobae.com/colombia/2026/11/08/asi-fue-la-primera-reunion-por-la-ley-de-rescate-congresistas-revelaron-acuerdos-y-diferencias-con-el-gobierno/"
+          "medio": "El Tiempo",
+          "titulo": "Primera hipótesis del atentado terrorista con drones contra base militar de Santa Rosa lleva al Eln: ¿por qué?",
+          "url": "https://www.eltiempo.com/amp/justicia/conflicto-y-narcotrafico/primera-hipotesis-del-atentado-terrorista-con-drones-contra-base-militar-de-santa-rosa-lleva-al-eln-por-que-3599291"
         },
         {
-          "medio": "El Universal",
-          "titulo": "Así fue el primer cara a cara por la Ley de Rescate Fiscal",
-          "url": "https://www.eluniversal.com.co/colombia/2026/11/07/asi-fue-el-primer-cara-a-cara-por-la-ley-de-rescate-fiscal/"
+          "medio": "La Silla Vacía",
+          "titulo": "Tres soldados muertos y 47 heridos por ataque con drones en Bolívar",
+          "url": "https://www.lasillavacia.com/en-vivo/tres-soldados-muertos-y-47-heridos-por-ataque-con-drones-en-bolivar/"
         },
         {
-          "medio": "El Heraldo",
-          "titulo": "Centro Democrático presentó al Gobierno primer borrador de ajustes a la Ley de Rescate",
-          "url": "https://www.elheraldo.co/politica/2026/11/07/centro-democratico-presento-al-gobierno-primer-borrador-de-ajustes-a-la-ley-de-rescate-durante-reunion-en-barranquilla/"
+          "medio": "El Colombiano",
+          "titulo": "Tres militares muertos y 11 heridos deja ataque con drones contra cantón militar en el sur de Bolívar",
+          "url": "https://www.elcolombiano.com/colombia/militares-ejercito-ataque-drones-sur-de-bolivar-PF43310719"
         },
         {
-          "medio": "El Espectador",
-          "titulo": "Centro Democrático propone ley fiscal alternativa con menos impuestos y más recortes",
-          "url": "https://www.elespectador.com/politica/centro-democratico-propone-ley-de-ajuste-fiscal-alternativa-con-menos-impuestos-y-mas-recortes/"
+          "medio": "Vanguardia",
+          "titulo": "Explosivos lanzados desde drones dejaron muertos, heridos y una región bajo máxima alerta",
+          "url": "https://www.vanguardia.com/colombia/2026/11/07/ataque-con-drones-en-el-sur-de-bolivar-deja-tres-militares-muertos-y-16-heridos/"
         },
         {
-          "medio": "Hoy Diario del Magdalena",
-          "titulo": "Gobierno de la Espriella socializó los alcances de la Ley de Rescate Fiscal: los reparos del Centro Democrático",
-          "url": "https://hoydiariodelmagdalena.com.co/archivos/1313444/gobierno-de-la-espriella-socializo-los-alcances-de-la-ley-de-rescate-fiscal-los-reparos-del-centro-democratico"
+          "medio": "Diario La Libertad",
+          "titulo": "Escalada terrorista en el sur de Bolívar: atentado con drones contra el Cantón Militar de Santa Rosa",
+          "url": "https://diariolalibertad.com/2026/11/08/escalada-terrorista-en-el-sur-de-bolivar-atentado-con-drones-cargados-de-explosivos-contra-el-canton-militar-de-santa-rosa-deja-tres-soldados-muertos-y-ocho-heridos/"
         }
       ]
     },
     {
-      "titulo": "Alerta de atentado obliga a evacuar Caracol Televisión; otros medios advertidos",
+      "titulo": "Gobierno ordena proteger a Caracol, RCN y Semana ante alertas de atentados del ELN",
       "categoria": "Orden público / Libertad de prensa",
       "importancia": 4,
-      "resumen": "La noche del sábado 7 de noviembre, Caracol Televisión evacuó a todo su personal de su sede principal en Bogotá tras ser informada por las autoridades de la intención de grupos ilegales de atentar contra el canal. Caracol Radio dijo que también fue alertada del riesgo para esa empresa y otros medios. La Policía de Bogotá dijo que 'al momento no hay evidencia de explosivos'. La Defensoría del Pueblo calificó la situación de 'grave y profundamente preocupante' y la Procuraduría pidió investigar. Ningún grupo ha sido identificado como responsable.",
-      "por_que_importa": "Una amenaza contra los principales medios del país es un indicador de riesgo de seguridad urbana y de presión de grupos armados en un momento de ofensiva del Gobierno contra ellos.",
+      "resumen": "El domingo 8 de noviembre, el presidente De la Espriella ordenó en X reforzar la seguridad de Caracol Televisión, Caracol Radio, RCN y Semana, y de sus periodistas y familias, tras alertas de inteligencia sobre posibles atentados del ELN contra sus instalaciones. La víspera, Caracol Televisión había evacuado su sede en Bogotá; la Policía no encontró explosivos. El Gobierno no detalló el origen de la información ni las medidas concretas, y no se conoce un pronunciamiento del ELN. La FLIP sigue el caso.",
+      "por_que_importa": "Atribuir amenazas a los principales medios a una guerrilla eleva la tensión de seguridad en Bogotá y pone la libertad de prensa en el centro del debate.",
       "perspectivas": [
         {
-          "medio": "Infobae",
-          "enfoque": "Enfatiza la amenaza de bomba y la presencia de drones reportada en el sector."
+          "medio": "NTN24",
+          "enfoque": "Destaca la orden presidencial de reforzar la seguridad de la prensa."
         },
         {
-          "medio": "El Tiempo",
-          "enfoque": "Recoge que Caracol Radio también recibió alertas."
+          "medio": "El Colombiano",
+          "enfoque": "Detalla los medios cubiertos por la protección."
         },
         {
-          "medio": "El Imparcial / Milenio (México)",
-          "enfoque": "Cobertura internacional centrada en la evacuación total y en grupos armados ilegales."
+          "medio": "Minuto30",
+          "enfoque": "Resalta la frase presidencial 'aquí no gobierna el terrorismo'."
         },
         {
-          "medio": "Cooperativa (Chile)",
-          "enfoque": "Usa 'presunta amenaza', con tono más cauto."
+          "medio": "Pulzo",
+          "enfoque": "Recoge el mensaje de que 'la libertad de prensa es sagrada'."
+        },
+        {
+          "medio": "Mundiario (España)",
+          "enfoque": "Lo encuadra como presión a la prensa e intimidación a los medios."
         }
       ],
-      "coincidencias": "Coinciden en la evacuación, la alerta de las autoridades y la ausencia de explosivos confirmados.",
-      "diferencias": "Difieren en el tipo de amenaza (bomba, drones o atentado genérico). Según El Espectador, citado en reportes, la Policía negó la existencia de una amenaza de bomba en el lugar.",
-      "analisis": "La alerta sigue sin confirmarse como un explosivo real. Su origen y credibilidad son clave: una amenaza falsa también busca intimidar. Llega días después de la Ley de Sometimiento, que endurece el trato a grupos armados.",
-      "implicaciones": "Empresas en Bogotá deben revisar protocolos de seguridad y evacuación. Posible aumento de presencia policial en la ciudad.",
-      "que_vigilar": "Resultados de la investigación, nuevas alertas a medios y respuesta del Gobierno y la Alcaldía.",
+      "coincidencias": "Coinciden en la orden de protección, los medios incluidos y la atribución oficial al ELN.",
+      "diferencias": "Algunos medios presentan la amenaza como un hecho; otros subrayan que son alertas de inteligencia sin detalles públicos ni reivindicación.",
+      "analisis": "Las alertas llegan el mismo fin de semana del ataque con drones en Bolívar, que el Gobierno también atribuye al ELN. Sin información pública sobre su origen, es difícil evaluar su gravedad real.",
+      "implicaciones": "Empresas con sedes en Bogotá deben revisar protocolos de seguridad y comunicación de crisis.",
+      "que_vigilar": "Información oficial sobre el origen de la amenaza, posibles pronunciamientos del ELN y medidas de la Alcaldía.",
       "fuentes": [
         {
-          "medio": "Infobae",
-          "titulo": "Evacúan sede de Caracol Televisión en Bogotá por una amenaza de bomba",
-          "url": "https://infobae.com/colombia/2026/11/08/evacuan-sede-de-caracol-television-en-bogota-por-una-alerta-de-bomba"
+          "medio": "NTN24",
+          "titulo": "De la Espriella ordenó reforzar seguridad de la prensa en Colombia tras alerta de atentados terroristas",
+          "url": "https://www.ntn24.com/noticias-actualidad/de-la-espriella-ordeno-reforzar-seguridad-de-la-prensa-en-colombia-tras-alerta-de-atentados-terroristas-contra-rcn-y-otros-medios-de-comunicacion-664584"
         },
         {
-          "medio": "El Tiempo",
-          "titulo": "Caracol Radio informa que también recibió alerta de atentados contra sus instalaciones",
-          "url": "https://eltiempo.com/amp/bogota/caracol-radio-informa-que-tambien-recibio-alerta-de-atentados-contra-sus-instalaciones-3599351"
+          "medio": "El Colombiano",
+          "titulo": "De la Espriella ordenó reforzar la seguridad de Caracol TV, Caracol Radio, RCN y Semana tras amenazas de atentado",
+          "url": "https://www.elcolombiano.com/colombia/de-la-espriella-ordeno-reforzar-seguridad-caracol-tv-caracol-radio-rcn-semana-amenazas-atentado-OF43319456"
         },
         {
-          "medio": "El Imparcial",
-          "titulo": "Caracol Televisión evacúa a todos sus trabajadores en Bogotá tras recibir amenaza de atentado",
-          "url": "https://www.elimparcial.com/mundo/2026/11/07/caracol-television-uno-de-los-principales-canales-de-colombia-evacua-a-todos-sus-trabajadores-en-bogota-tras-recibir-amenaza-de-atentado-de-grupos-armados-ilegales/"
+          "medio": "Minuto30",
+          "titulo": "«Aquí no gobierna el terrorismo»: De La Espriella ordena proteger a RCN, Caracol y Semana",
+          "url": "https://www.minuto30.com/aqui-no-gobierna-el-terrorismo-de-la-espriella-ordena-proteger-a-rcn-caracol-y-semana/1728322/"
         },
         {
-          "medio": "Cooperativa",
-          "titulo": "Canal de televisión colombiano tuvo que evacuar su sede por presunta amenaza de atentado",
-          "url": "https://www.cooperativa.cl/noticias/mundo/colombia/canal-de-television-colombiano-tuvo-que-evacuar-su-sede-por-presunta/2026-11-08/003718.html"
+          "medio": "Pulzo",
+          "titulo": "De la Espriella ordenó reforzar seguridad de Caracol, RCN y Semana por amenazas del Eln",
+          "url": "https://www.pulzo.com/nacion/espriella-ordeno-proteger-rcn-caracol-semana-por-amenazas-PP5351712"
         },
         {
-          "medio": "Milenio",
-          "titulo": "Amenaza de atentado Caracol Televisión: evacuan sede en Colombia",
-          "url": "https://www.milenio.com/internacional/amenaza-atentado-caracol-television-evacuan-sede-colombia"
+          "medio": "Mundiario",
+          "titulo": "Presión a la prensa: las amenazas de bomba se mudan a Colombia e intimidan a los medios",
+          "url": "https://www.mundiario.com/sociedad/colombia-evacua-caracol-television-amenaza-atentado/20261108174435451660.html"
         }
       ]
     },
     {
-      "titulo": "Cerca de los 100 días de De la Espriella: balance económico dividido",
-      "categoria": "Gobierno / Economía",
-      "importancia": 4,
-      "resumen": "El Gobierno, que asumió el 7 de agosto, se acerca a sus 100 días (hacia el 15 de noviembre). Según El Tiempo, lo hace con el presupuesto rehecho, gasto recortado por decreto ($13,8 billones con el Decreto 1585), $30,1 billones de deuda reprogramada, conversaciones con el FMI y la Ley de Rescate apenas en trámite; el terremoto de magnitud 7,4 tres días después de la posesión llevó a declarar emergencia económica. Bloomberg Línea describe un balance dividido entre la confianza de los inversionistas y las dudas fiscales.",
-      "por_que_importa": "La percepción de los primeros 100 días influye en calificadoras, inversión extranjera y en el capital político del Gobierno para aprobar su reforma.",
+      "titulo": "Ley de Rescate: arrancan mesas técnicas para revisar la reforma artículo por artículo",
+      "categoria": "Economía / Política fiscal",
+      "importancia": 5,
+      "resumen": "Tras el encuentro del sábado en Barranquilla, el Gobierno y las comisiones económicas del Congreso acordaron mesas técnicas para revisar el proyecto artículo por artículo; las fuentes las sitúan desde este lunes o desde el martes 10. Buscan un texto de consenso antes del primer debate, que será conjunto por el mensaje de urgencia. Persisten diferencias sobre impuestos, IVA, parafiscales y tamaño del Estado. El Centro Democrático ya presentó un borrador alternativo con más recortes y menos impuestos. El plazo vence el 16 de diciembre.",
+      "por_que_importa": "Lo que salga de estas mesas definirá la carga tributaria de empresas y hogares desde 2027 y la credibilidad fiscal del país.",
       "perspectivas": [
         {
-          "medio": "El Tiempo",
-          "enfoque": "Balance económico factual: presupuesto, deuda, FMI y reforma."
+          "medio": "Portafolio",
+          "enfoque": "Destaca el 'cónclave' de Barranquilla y el método de trabajo acordado."
         },
         {
-          "medio": "Bloomberg Línea",
-          "enfoque": "Contraste entre confianza inversionista y dudas fiscales; recoge a un analista que no ve resultados concretos en seguridad más allá de la confianza."
+          "medio": "El Heraldo",
+          "enfoque": "Informativo: se conforman las mesas técnicas."
         },
         {
-          "medio": "Moncloa.com",
-          "enfoque": "Mirada desde España: '100 días de mano dura' que ponen a prueba la inversión española; menciona salidas ministeriales."
+          "medio": "Publimetro",
+          "enfoque": "Pone el foco en los puntos que siguen generando diferencias."
+        },
+        {
+          "medio": "El Norte",
+          "enfoque": "Usa el apodo del presidente ('el Tigre') y llama al proyecto 'reforma tributaria'."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Detalla la revisión artículo por artículo."
         }
       ],
-      "coincidencias": "Coinciden en que el frente fiscal es el principal reto y en que la reforma es decisiva.",
-      "diferencias": "El Gobierno destaca resultados en seguridad (capturas y fin de la 'paz total'); analistas citados por Bloomberg Línea y Moncloa son más escépticos sobre resultados concretos.",
-      "analisis": "El balance depende del ángulo: el Gobierno ha movido rápido decretos y leyes de seguridad, pero la sostenibilidad fiscal aún no está resuelta. La reprogramación de deuda y el diálogo con el FMI son señales que los mercados seguirán de cerca.",
-      "implicaciones": "Inversionistas extranjeros esperan señales fiscales claras antes de comprometer capital. Atención a cualquier acuerdo con el FMI.",
-      "que_vigilar": "Balance oficial de los 100 días, avances con el FMI y la Ley de Rescate.",
+      "coincidencias": "Todas las fuentes coinciden en las mesas técnicas, en que hay diferencias de fondo y en el plazo del 16 de diciembre.",
+      "diferencias": "El Gobierno la llama 'Ley de Rescate'; algunos medios, 'reforma tributaria', lo que refleja distintas lecturas sobre su peso en impuestos. Las fuentes no coinciden en el día de inicio.",
+      "analisis": "Las mesas pueden acelerar acuerdos, pero también abrir la puerta a cambios de fondo que reduzcan el recaudo. El Gobierno necesita al Centro Democrático y a otros partidos; cada concesión altera las cifras fiscales.",
+      "implicaciones": "Las empresas deben seguir de cerca IVA, renta, sobretasas y parafiscales; los cambios pueden llegar antes del primer debate.",
+      "que_vigilar": "Conclusiones de las mesas, radicación de la ponencia y posición de otros partidos.",
       "fuentes": [
         {
-          "medio": "El Tiempo",
-          "titulo": "Presupuesto rehecho, deuda reprogramada y la ley de rescate: el panorama de la economía con 100 días del gobierno De La Espriella",
-          "url": "https://www.eltiempo.com/economia/presupuesto-rehecho-deuda-reprogramada-y-la-ley-de-rescate-el-panorama-de-la-economia-nacional-con-100-dias-del-gobierno-de-la-espriella-3599319"
+          "medio": "Portafolio",
+          "titulo": "Gobierno y Congreso acuerdan trabajar en mesas técnicas sobre ley de rescate, tras 'cónclave' en Barranquilla",
+          "url": "https://www.portafolio.co/economia/gobierno/gobierno-y-congreso-acuerdan-trabajar-en-mesas-tecnicas-sobre-ley-de-rescate-tras-conclave-en-barranquilla-505931"
         },
         {
-          "medio": "Bloomberg Línea",
-          "titulo": "Primer trimestre de De la Espriella en el poder: así avanzan la economía, la seguridad y el bienestar social",
-          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/primer-trimestre-de-de-la-espriella-en-el-poder-asi-avanzan-la-economia-la-seguridad-y-el-bienestar-social/"
+          "medio": "El Heraldo",
+          "titulo": "Ley de Rescate: se conforman mesas técnicas entre las Comisiones Económicas del Congreso y el Gobierno",
+          "url": "https://www.elheraldo.co/politica/2026/11/08/ley-de-rescate-se-conforman-mesas-tecnicas-entre-las-comisiones-economicas-del-congreso-y-el-gobierno/"
         },
         {
-          "medio": "Moncloa.com",
-          "titulo": "De La Espriella Colombia: 100 días de mano dura que ponen a prueba la inversión española",
-          "url": "https://www.moncloa.com/2026/11/08/de-la-espriella-colombia-100-dias-3463835"
+          "medio": "Publimetro",
+          "titulo": "Gobierno y Congreso buscan acuerdo por Ley de Rescate Económico: estos son los puntos que siguen generando diferencias",
+          "url": "https://www.publimetro.co/noticias/2026/11/08/gobierno-y-congreso-buscan-acuerdo-por-ley-de-rescate-economico-estos-son-los-puntos-que-siguen-generando-diferencias/"
+        },
+        {
+          "medio": "El Norte",
+          "titulo": "Acuerdan mesas técnicas para discutir reforma tributaria del Tigre",
+          "url": "https://elnorte.com.co/gobierno-y-congresistas-acuerdan-mesas-tecnicas-para-discutir-la-reforma-tributaria-de-de-la-espriella/"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Ley de Rescate: Gobierno y comisiones económicas pactan mesas técnicas para revisar la reforma artículo por artículo",
+          "url": "https://ifmnoticias.com/gobierno/ley-de-rescate-gobierno-y-comisiones-economicas-del-congreso-pactan-mesas-tecnic/"
         }
       ]
     },
     {
-      "titulo": "Semana clave para Ecopetrol y el dólar: resultados el 10 de noviembre",
-      "categoria": "Mercados / Empresas",
+      "titulo": "Gasolina y ACPM congelados en noviembre pese a la presión fiscal",
+      "categoria": "Energía / Precios",
       "importancia": 3,
-      "resumen": "La TRM vigente hasta el lunes es $3.237,83. El COLCAP cerró el viernes prácticamente plano, cerca de 2.485 puntos, por debajo de los 2.500, tras dos caídas seguidas arrastradas por Ecopetrol. La petrolera presenta resultados del tercer trimestre el 10 de noviembre, en una semana en la que el Brent perdió más de 16 %. En la propuesta del Centro Democrático aparece además la venta de acciones de Ecopetrol, según El Espectador.",
-      "por_que_importa": "Ecopetrol es la mayor empresa del país y fuente de dividendos para el Estado; sus resultados y el debate sobre su propiedad afectan el COLCAP y las cuentas fiscales.",
+      "resumen": "El Gobierno mantuvo sin cambios en noviembre los precios de referencia de la gasolina corriente y el ACPM: en promedio, $15.886 y $11.320 por galón en las 13 principales ciudades; en Bogotá, $16.331 y $11.616. Según Infobae, la medida cuesta $15.500 millones al fisco. Los ministerios de Minas y Hacienda evaluarán qué hacer en diciembre según los mercados internacionales y los recursos disponibles.",
+      "por_que_importa": "Los combustibles pesan en la inflación y en los costos logísticos; el congelamiento ayuda a contener precios, pero suma presión a unas finanzas públicas estrechas.",
       "perspectivas": [
         {
-          "medio": "The Rio Times",
-          "enfoque": "Para inversionistas extranjeros: bolsa plana y peso más débil al cierre de la semana."
+          "medio": "El Colombiano",
+          "enfoque": "Informativo: precios por ciudad."
         },
         {
-          "medio": "Colombia.com",
-          "enfoque": "Informativo: la TRM del fin de semana."
+          "medio": "Infobae",
+          "enfoque": "Destaca el costo fiscal de la medida."
         },
         {
-          "medio": "El Espectador",
-          "enfoque": "Introduce el debate sobre vender acciones de Ecopetrol dentro del ajuste fiscal."
+          "medio": "Cambio",
+          "enfoque": "Enfoque práctico para el consumidor."
+        },
+        {
+          "medio": "El País (Cali)",
+          "enfoque": "Pone el foco en las tarifas de Cali y la región."
         }
       ],
-      "coincidencias": "Coinciden en el nivel de la TRM y en la debilidad reciente del COLCAP.",
-      "diferencias": "La venta de acciones de Ecopetrol es solo una propuesta de un partido; no es posición del Gobierno.",
-      "analisis": "Los resultados de Ecopetrol reflejarán un trimestre con petróleo alto por la guerra, pero el mercado mirará más la guía hacia adelante con un Brent que cae.",
-      "implicaciones": "Inversionistas: alta volatilidad esperada en la acción. Importadores: TRM estable en torno a $3.240.",
-      "que_vigilar": "Resultados de Ecopetrol (10 nov), Brent y la TRM del martes.",
+      "coincidencias": "Las fuentes coinciden en las cifras y en que la decisión se revisará para diciembre.",
+      "diferencias": "Algunos medios destacan el alivio al consumidor; otros, el costo fiscal.",
+      "analisis": "Con el Brent cayendo más de 16 % la semana pasada, el costo del subsidio podría reducirse; si el petróleo rebota, la presión sobre el Fondo de Estabilización volvería a crecer.",
+      "implicaciones": "Empresas de transporte y logística: costos de combustible estables en noviembre; incertidumbre para diciembre.",
+      "que_vigilar": "Decisión de precios para diciembre y evolución del Brent.",
       "fuentes": [
         {
-          "medio": "The Rio Times",
-          "titulo": "Colombia Stocks Flat as Peso Slips",
-          "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-friday-november-6-2026/"
+          "medio": "El Colombiano",
+          "titulo": "Gobierno mantendrá sin cambios los precios de la gasolina y el ACPM en noviembre",
+          "url": "https://www.elcolombiano.com/negocios/precio-gasolina-colombia-noviembre-2026-galon-ciudades-GD43042206"
         },
         {
-          "medio": "Colombia.com",
-          "titulo": "Precio del dólar hoy en Colombia: cotización de este sábado 7 de noviembre de 2026",
-          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-sabado-7-de-noviembre-de-2026-610596"
+          "medio": "Infobae",
+          "titulo": "Gobierno confirmó que no subirá el precio de la gasolina ni el Acpm en noviembre",
+          "url": "https://www.infobae.com/colombia/2026/10/31/gobierno-de-abelardo-de-la-espriella-confirmo-que-no-subira-el-precio-de-la-gasolina-ni-el-acpm-en-noviembre-asi-quedo-el-precio-del-combustible-en-cada-ciudad/"
         },
         {
-          "medio": "El Espectador",
-          "titulo": "Centro Democrático propone ley fiscal alternativa con menos impuestos y más recortes",
-          "url": "https://www.elespectador.com/politica/centro-democratico-propone-ley-de-ajuste-fiscal-alternativa-con-menos-impuestos-y-mas-recortes/"
+          "medio": "Cambio",
+          "titulo": "Así quedó el precio de la gasolina y el ACPM en noviembre de 2026",
+          "url": "https://cambiocolombia.com/economia/articulo/2026/10/gasolina-y-acpm-no-suben-en-noviembre-estos-son-los-precios-por-ciudad"
+        },
+        {
+          "medio": "El País (Cali)",
+          "titulo": "Precio de gasolina y ACPM en noviembre de 2026 en Colombia: tarifas por ciudad",
+          "url": "https://www.elpais.com.co/economia/asi-quedaran-las-tarifas-de-la-gasolina-y-el-acpm-en-cali-y-las-principales-ciudades-durante-noviembre-3114.html"
         }
       ]
     }
   ],
   "mundo": [
     {
-      "titulo": "Trump nombra a Stephen Miller jefe de gabinete y pide investigar a los demócratas",
-      "categoria": "EE. UU. / Política",
-      "importancia": 5,
-      "resumen": "Trump anunció en Truth Social que Stephen Miller reemplazará a Susie Wiles como jefe de gabinete desde el lunes 9 de noviembre. También dijo que el Departamento de Justicia investigará amenazas de 'impeachment y muchas otras formas de castigo' que, según él, los demócratas lanzan contra funcionarios, empresas y donantes; ABC señala que no presentó pruebas. Chuck Schumer dijo que Trump 'no aprendió nada de su derrota histórica'. Hakeem Jeffries fijó como prioridades revertir recortes a Medicaid, extender créditos de salud, recuperar la autoridad del Congreso sobre aranceles y frenar la guerra con Irán.",
-      "por_que_importa": "Señala que la Casa Blanca elige la confrontación con el nuevo Congreso demócrata, lo que anticipa bloqueo legislativo, investigaciones y pulsos sobre aranceles e Irán.",
-      "perspectivas": [
-        {
-          "medio": "The Washington Post",
-          "enfoque": "Lo lee como el inicio de una 'nueva era de confrontación'."
-        },
-        {
-          "medio": "The Hill",
-          "enfoque": "Destaca que Trump envía un 'mensaje claro' a los demócratas."
-        },
-        {
-          "medio": "ABC News",
-          "enfoque": "Subraya que el pedido al Departamento de Justicia no vino acompañado de pruebas."
-        },
-        {
-          "medio": "Breitbart",
-          "enfoque": "Encuadre favorable a Trump: los demócratas 'explotan' y prometen 'guerra jurídica' contra Miller."
-        },
-        {
-          "medio": "The New Republic",
-          "enfoque": "Encuadre crítico: Trump redobla una agenda 'extrema'."
-        }
-      ],
-      "coincidencias": "Todos coinciden en el nombramiento, la fecha y en que tensa la relación con los demócratas.",
-      "diferencias": "Medios conservadores presentan a los demócratas como agresores; medios progresistas, a Trump. Los medios generalistas resaltan la falta de pruebas del pedido al Departamento de Justicia.",
-      "analisis": "Con el Congreso en contra desde enero, Trump apuesta por el poder ejecutivo y el veto. Para los demócratas, las investigaciones y el presupuesto serán sus principales herramientas.",
-      "implicaciones": "Mayor riesgo de parálisis presupuestal en EE. UU. y de litigios sobre aranceles; volatilidad política que puede afectar al dólar y a los bonos.",
-      "que_vigilar": "Primeras decisiones de Miller, respuesta del Departamento de Justicia y agenda demócrata en enero.",
-      "fuentes": [
-        {
-          "medio": "The Washington Post",
-          "titulo": "Stephen Miller's promotion sets the stage for a new era of confrontation",
-          "url": "https://www.washingtonpost.com/politics/2026/11/07/stephen-millers-promotion-sets-stage-new-era-confrontation/"
-        },
-        {
-          "medio": "The Hill",
-          "titulo": "Donald Trump sends 'clear message' to Democrats with Stephen Miller promotion",
-          "url": "https://thehill.com/homenews/administration/6205475-trump-miller-promotion-democrats-majority/"
-        },
-        {
-          "medio": "ABC News",
-          "titulo": "Election 2026 live updates: Trump calls for DOJ probe of Dems",
-          "url": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085"
-        },
-        {
-          "medio": "CNN",
-          "titulo": "Trump signals he's ready to battle Democratic majority",
-          "url": "https://cnn.com/2026/11/07/politics/live-news/midterm-election-congress"
-        },
-        {
-          "medio": "Breitbart",
-          "titulo": "Dems Explode, Pledge Lawfare Against Stephen Miller After Promotion",
-          "url": "https://www.breitbart.com/politics/2026/11/06/democrats-explode-pledge-lawfare-against-stephen-miller-after-promotion/"
-        },
-        {
-          "medio": "The New Republic",
-          "titulo": "Trump Promotes Stephen Miller as He Doubles Down on Extreme Agenda",
-          "url": "https://newrepublic.com/post/217720/trump-promotes-stephen-miller-white-house-chief-staff"
-        },
-        {
-          "medio": "Fox News",
-          "titulo": "Trump demands DOJ probe Democrats' alleged threats after party retakes Congress",
-          "url": "https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials"
-        }
-      ]
-    },
-    {
-      "titulo": "Irán estudia propuesta catarí mientras EE. UU. amplía el bloqueo",
+      "titulo": "Trump recibe hoy al primer ministro de Catar para destrabar la negociación con Irán",
       "categoria": "Geopolítica / Medio Oriente",
       "importancia": 5,
-      "resumen": "Según reportes de prensa, Teherán revisa una propuesta de Catar que levantaría el bloqueo de EE. UU. a puertos iraníes, liberaría parte de activos congelados, daría acceso a inspectores nucleares a los sitios bombardeados y reabriría Ormuz con un mecanismo temporal. Irán exige además fin de sanciones, compensaciones y cese de hostilidades en la región. El sábado, el Comando Central de EE. UU. creó la 'Task Force Iron Gate' para impedir que Irán use rutas terrestres para transportar armas, ampliando el bloqueo naval. La Guardia Revolucionaria informó que dos tanqueros chocaron con minas cerca de Ormuz.",
-      "por_que_importa": "La combinación de una propuesta de acuerdo y más presión militar define si el petróleo sigue bajando o vuelve a subir.",
+      "resumen": "Trump se reúne este lunes con el primer ministro catarí, Mohammed bin Abdulrahman Al-Thani, para discutir un nuevo cese al fuego y la reanudación de negociaciones nucleares con Irán. Catar dice que hay 'progreso significativo' y que un acuerdo es posible; el secretario de Estado Marco Rubio, en cambio, dijo que las negociaciones no han avanzado. El canciller iraní Abbas Araghchi dijo el domingo que Irán espera la respuesta de EE. UU. a su propuesta, que, según un alto funcionario iraní citado por Reuters, solo se discutirá si Washington cumple siete condiciones. El plan en discusión prevé en dos días levantar el bloqueo naval, liberar fondos y reabrir Ormuz.",
+      "por_que_importa": "Un avance aliviaría el petróleo y el comercio mundial; un fracaso reactivaría el riesgo de escalada.",
       "perspectivas": [
         {
+          "medio": "Axios",
+          "enfoque": "Informativo: la reunión de Trump con el primer ministro catarí sobre la mediación."
+        },
+        {
           "medio": "Al Jazeera",
-          "enfoque": "Destaca la nueva fuerza de tarea de EE. UU. contra rutas terrestres."
+          "enfoque": "Explicativo: en qué está la negociación y qué busca cada parte."
         },
         {
-          "medio": "CBS News",
-          "enfoque": "Cobertura en vivo de la fuerza de tarea y los 'ataques menores'."
+          "medio": "The Jerusalem Post",
+          "enfoque": "Recoge el optimismo catarí y las condiciones iraníes."
         },
         {
-          "medio": "Outlook India",
-          "enfoque": "Detalla los términos de la propuesta catarí y las condiciones iraníes."
-        },
-        {
-          "medio": "Times of Israel",
-          "enfoque": "Enfatiza la acción militar: un buque inhabilitado al intentar romper el bloqueo."
+          "medio": "Business Standard",
+          "enfoque": "Pone el foco en la revisión iraní de las propuestas cataríes."
         }
       ],
-      "coincidencias": "Coinciden en que hay una propuesta sobre la mesa y en que EE. UU. endurece el bloqueo en paralelo.",
-      "diferencias": "Los términos de la propuesta solo están reportados por medios, no confirmados por los gobiernos. El incidente de las minas es una versión iraní.",
-      "analisis": "EE. UU. combina diplomacia con presión máxima; Irán negocia exigiendo concesiones amplias. La brecha sigue siendo grande, aunque hay más movimiento diplomático que hace dos semanas.",
-      "implicaciones": "El petróleo abrirá la semana sensible a estos titulares; empresas importadoras deben esperar volatilidad en fletes y seguros.",
-      "que_vigilar": "Respuesta formal de EE. UU. a la propuesta, nuevos incidentes en Ormuz y precio del Brent el lunes.",
+      "coincidencias": "Coinciden en que hay propuestas sobre la mesa y en que la reunión de hoy es clave.",
+      "diferencias": "Catar habla de progreso; Rubio e Irán describen estancamiento. Ninguna fuente publica el texto de la respuesta de EE. UU.",
+      "analisis": "La reunión pone a prueba la voluntad de Trump de negociar tras la derrota electoral, mientras su Gobierno amplía el bloqueo. La secuencia de dos días busca generar confianza, pero las siete condiciones iraníes son amplias.",
+      "implicaciones": "El Brent abrió plano (cerca de US$98); su dirección esta semana dependerá en buena parte de esta reunión.",
+      "que_vigilar": "Comunicados tras la reunión, respuesta formal de EE. UU. e incidentes en Ormuz.",
       "fuentes": [
         {
+          "medio": "Axios",
+          "titulo": "Trump to meet Qatari prime minister about mediation efforts with Iran",
+          "url": "https://www.axios.com/2026/11/09/trump-qatar-prime-minister-iran-war-mediation"
+        },
+        {
           "medio": "Al Jazeera",
-          "titulo": "US launches task force to disrupt Iran's land-based supply routes",
-          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+          "titulo": "Qatar PM to meet Trump: What's the latest on US-Iran negotiations?",
+          "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
         },
         {
-          "medio": "CBS News",
-          "titulo": "U.S. launches new task force aimed at disrupting Iranian ground shipping routes",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+          "medio": "The Jerusalem Post",
+          "titulo": "Qatar PM says US-Iran mediation making progress, deal still possible",
+          "url": "https://www.jpost.com/middle-east/article-914112"
         },
         {
-          "medio": "Outlook India",
-          "titulo": "US-Iran War: Fresh US Strikes, Qatar's Push For Nuclear Deal",
-          "url": "https://www.outlookindia.com/international/us-iran-war-latest-us-strikes-qatar-nuclear-talks-strait-of-hormuz"
+          "medio": "The Jerusalem Post",
+          "titulo": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+          "url": "https://www.jpost.com/middle-east/article-914025"
         },
         {
-          "medio": "Times of Israel",
-          "titulo": "US military says strike disabled ship trying to run blockade on Iran",
-          "url": "https://www.timesofisrael.com/us-military-says-strike-disabled-ship-trying-to-run-blockade-on-iran/amp/"
+          "medio": "Business Standard",
+          "titulo": "Iran reviewing Qatar's proposals on nuclear deal with US amid war",
+          "url": "https://www.business-standard.com/world-news/iran-reviewing-qatar-s-proposals-on-nuclear-deal-with-us-amid-war-126110700056_1.html"
         }
       ]
     },
     {
-      "titulo": "Rusia castiga la red eléctrica de Kiev a tres días de Abu Dabi",
-      "categoria": "Geopolítica / Europa",
+      "titulo": "Nvidia investiga a su CEO, Jensen Huang, tras reportes de espionaje",
+      "categoria": "Empresas / Tecnología",
       "importancia": 4,
-      "resumen": "En la madrugada del 7 de noviembre Rusia lanzó unos 36 misiles balísticos —solo cuatro interceptados, según la Fuerza Aérea ucraniana— y 172 drones (149 derribados) contra Kiev y su región. Golpeó instalaciones eléctricas y el Puente Norte sobre el Dniéper, según el alcalde Vitali Klitschko; las autoridades describen como 'muy difícil' la situación de calefacción, luz y agua. El ataque llega tres días antes de las conversaciones mediadas por EE. UU. en Abu Dabi (10–11 nov).",
-      "por_que_importa": "Debilita la posición negociadora ucraniana antes del invierno y complica las expectativas de un acuerdo rápido.",
+      "resumen": "La junta de Nvidia abrió el 8 de noviembre una investigación independiente sobre su CEO, Jensen Huang, después de que él admitiera ante empleados una relación extramatrimonial con Alice Huang (sin parentesco), ejecutiva de Megaspeed, uno de los mayores compradores de Nvidia (unos US$4.800 millones en equipos). Funcionarios de EE. UU., según los reportes, la vinculan con la inteligencia china. La junta dice no tener razones para creer que se comprometieron secretos de la empresa o la seguridad nacional. Huang sigue en el cargo. La senadora Elizabeth Warren pidió respuestas y legisladores republicanos lo citaron a declarar el 18 de noviembre.",
+      "por_que_importa": "Nvidia es la empresa central del auge de la IA; el caso llega tras el desplome de las tecnológicas de la semana pasada y antes de sus resultados del 17 de noviembre.",
       "perspectivas": [
         {
-          "medio": "CNBC",
-          "enfoque": "Informativo: daños a la energía y al puente."
+          "medio": "Al Jazeera",
+          "enfoque": "Informativo: Nvidia investiga a su CEO por la relación."
         },
         {
-          "medio": "The Moscow Times",
-          "enfoque": "Medio ruso independiente: cobertura de los daños y el contexto de negociación."
+          "medio": "ABC News",
+          "enfoque": "Pone el foco en las acusaciones de que fue blanco de inteligencia extranjera."
         },
         {
-          "medio": "Al Arabiya",
-          "enfoque": "Destaca el anuncio del alcalde de Kiev sobre el ataque con misiles."
+          "medio": "Yahoo Finance",
+          "enfoque": "Destaca que la junta investigará el caso de espionaje tras la confesión."
         },
         {
-          "medio": "Business Recorder",
-          "enfoque": "Reproduce el despacho de agencia con énfasis en infraestructura."
+          "medio": "The San Francisco Standard",
+          "enfoque": "Encuadre local, con énfasis en la 'presunta espía china'."
         }
       ],
-      "coincidencias": "Coinciden en la magnitud del ataque y en los daños a energía y al puente.",
-      "diferencias": "Las cifras de víctimas varían (uno o dos muertos y varios heridos).",
-      "analisis": "Moscú suele intensificar ataques antes de negociaciones para ganar presión. El resultado de Abu Dabi dirá si la estrategia mueve posiciones.",
-      "implicaciones": "Mantiene la prima de riesgo en gas europeo y granos.",
-      "que_vigilar": "Conversaciones de Abu Dabi y nuevos ataques a infraestructura.",
+      "coincidencias": "Coinciden en la investigación, en que Huang sigue al frente y en la citación del Congreso.",
+      "diferencias": "Unos medios subrayan el ángulo de seguridad nacional; otros, el de gobierno corporativo. Las acusaciones de espionaje no están probadas.",
+      "analisis": "El riesgo para Nvidia es reputacional y regulatorio, en un momento de escrutinio sobre las ventas de chips a China. En Asia, los mercados subieron este lunes pese al caso.",
+      "implicaciones": "Más volatilidad en el sector tecnológico, con efecto sobre fondos e inversionistas expuestos a la IA.",
+      "que_vigilar": "Resultados del 17 de noviembre, audiencia del 18 y avances de la investigación.",
       "fuentes": [
+        {
+          "medio": "Al Jazeera",
+          "titulo": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair"
+        },
+        {
+          "medio": "ABC News",
+          "titulo": "Nvidia announces investigation of CEO amid foreign intelligence target allegations",
+          "url": "https://abcnews.com/Technology/nvidia-announces-investigation-ceo-amid-foreign-intelligence-target/story?id=137959091"
+        },
+        {
+          "medio": "Yahoo Finance",
+          "titulo": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-board-probe-spying-case-200611558.html"
+        },
+        {
+          "medio": "The San Francisco Standard",
+          "titulo": "Nvidia launches probe as Jensen Huang admits affair with suspected Chinese spy",
+          "url": "https://sfstandard.com/2026/11/08/nvidia-jensen-huang-affair-board-investigation-chinese-spy/"
+        }
+      ]
+    },
+    {
+      "titulo": "Asia rebota con fuerza; China registra la mayor inflación de productores desde 2022",
+      "categoria": "Mercados / China",
+      "importancia": 4,
+      "resumen": "Las bolsas asiáticas subieron con fuerza este lunes: el Nikkei ganó cerca de 3,3 %, el índice de Taiwán llegó a subir 6,5 % impulsado por los chips y el Kospi 1,4 %; los futuros de Wall Street también subían. En China, los precios al productor crecieron 5,7 % anual en octubre, el ritmo más alto desde junio de 2022 y por encima del 5,3 % esperado; la inflación al consumidor bajó a 0,7 % (se esperaba 0,8 %). El martes 10 se publican las cifras de comercio exterior; Reuters espera exportaciones +33,5 %.",
+      "por_que_importa": "Un rebote en Asia sugiere que la venta de tecnológicas puede moderarse; la brecha entre precios al productor y al consumidor en China indica costos altos y demanda interna débil.",
+      "perspectivas": [
+        {
+          "medio": "Investing.com",
+          "enfoque": "Destaca el rebote de Asia pese a la investigación a Nvidia."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Pone el foco en la inflación mayorista china, la más alta en más de cuatro años."
+        },
+        {
+          "medio": "investingLive",
+          "enfoque": "Datos de mercado y de inflación con comparación frente a lo esperado."
+        },
+        {
+          "medio": "ABC News (Australia)",
+          "enfoque": "Cobertura en vivo de los mercados de la región."
+        }
+      ],
+      "coincidencias": "Coinciden en el fuerte rebote asiático y en las cifras de inflación china.",
+      "diferencias": "Unos medios atribuyen el rebote a la recuperación de la IA; otros, a la esperanza de paz en Medio Oriente.",
+      "analisis": "Precios al productor altos en China pueden encarecer las importaciones de manufacturas para el resto del mundo, incluida Colombia.",
+      "implicaciones": "Importadores colombianos de bienes chinos deben prever presiones de costos; exportadores de materias primas se benefician de la demanda china.",
+      "que_vigilar": "Comercio exterior chino (10 nov) y apertura de Wall Street.",
+      "fuentes": [
+        {
+          "medio": "Investing.com",
+          "titulo": "Asia stocks roar back as Taiwan jumps 6%, Nvidia probe rattles AI trade",
+          "url": "https://investing.com/news/stock-market-news/asia-stocks-roar-back-as-taiwan-jumps-6-nvidia-probe-rattles-ai-trade-5010437"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+          "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+        },
+        {
+          "medio": "investingLive",
+          "titulo": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
+          "url": "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/"
+        },
+        {
+          "medio": "ABC News (Australia)",
+          "titulo": "ANZ stumbles after posting $7.3b profit as Wall St lifts on AI rebound, ASX edges higher",
+          "url": "https://abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534"
+        },
+        {
+          "medio": "U.S. News (Reuters)",
+          "titulo": "China's Export Growth Expected to Have Remained Strong in October: Reuters Poll",
+          "url": "https://money.usnews.com/investing/news/articles/2026-11-09/chinas-export-growth-expected-to-have-remained-strong-in-october-reuters-poll"
+        }
+      ]
+    },
+    {
+      "titulo": "Mañana, Abu Dabi: EE. UU., Rusia y Ucrania retoman negociaciones tras ataques a Kiev",
+      "categoria": "Geopolítica / Europa",
+      "importancia": 4,
+      "resumen": "Los días 10 y 11 de noviembre, delegaciones de EE. UU. (Steve Witkoff y Jared Kushner), Rusia y Ucrania se reúnen en Abu Dabi. Llegan después de que Rusia lanzara el 7 de noviembre unos 36 misiles balísticos y 172 drones contra Kiev, dañando la red eléctrica y el Puente Norte sobre el Dniéper. Según Axios, la única concesión aparente de Putin es aceptar volver a la mesa y las partes siguen lejos en territorio; Zelenski dijo que primero debe discutirse cómo terminar la guerra y luego las garantías de seguridad.",
+      "por_que_importa": "Un avance cambiaría precios de gas, granos y fertilizantes y el régimen de sanciones; un fracaso prolongaría la incertidumbre en Europa.",
+      "perspectivas": [
+        {
+          "medio": "Axios",
+          "enfoque": "Escéptico: las posiciones siguen lejos."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Informativo: los ataques a Kiev en la víspera de las conversaciones."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Destaca que Zelenski busca una cumbre con Putin y que Europa no estará en la mesa."
+        }
+      ],
+      "coincidencias": "Coinciden en las fechas, los participantes y las bajas expectativas.",
+      "diferencias": "El optimismo de Trump contrasta con la cautela de Kiev y de los analistas.",
+      "analisis": "Moscú aumenta la presión militar antes de negociar. El nuevo Congreso demócrata, desde enero, podría presionar por más ayuda a Ucrania.",
+      "implicaciones": "Para importadores de fertilizantes y trigo, un acuerdo aliviaría precios.",
+      "que_vigilar": "Resultados de Abu Dabi y nuevos ataques a infraestructura energética.",
+      "fuentes": [
+        {
+          "medio": "Axios",
+          "titulo": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
+          "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner"
+        },
         {
           "medio": "CNBC",
           "titulo": "Russia pounds power facilities around Kyiv, damages major bridge",
           "url": "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html"
         },
         {
-          "medio": "The Moscow Times",
-          "titulo": "Russia Pounds Power Facilities Around Kyiv, Damages Major Bridge",
-          "url": "https://www.themoscowtimes.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge-a94198"
-        },
-        {
-          "medio": "Al Arabiya",
-          "titulo": "Russia pounds power facilities around Kyiv, damages major bridge",
-          "url": "https://english.alarabiya.net/News/world/2026/11/07/russian-forces-launch-missile-attack-on-ukrainian-capital-kyiv-mayor-says"
-        },
-        {
-          "medio": "Business Recorder",
-          "titulo": "Russian strikes hit power facilities around Kyiv, damage major bridge",
-          "url": "https://www.brecorder.com/news/40447890/russian-strikes-hit-power-facilities-around-kyiv-damage-major-bridge"
-        }
-      ]
-    },
-    {
-      "titulo": "Balance de la semana en mercados: Nasdaq −3,4 %, Brent −16 %, oro +5 %",
-      "categoria": "Mercados",
-      "importancia": 4,
-      "resumen": "Los mercados cerraron el viernes 6 de noviembre una semana muy volátil. El Nasdaq perdió 3,37 %, el S&P 500 2,68 % y el Dow 0,94 %, tras el desplome de las acciones de IA del jueves. El Brent cayó más de 16 % y el WTI casi 13 % por la expectativa de paz con Irán; el oro ganó cerca de 5 %. El informe de empleo (165.000 puestos en octubre, desempleo de 4,1 %) elevó a cerca de 78 % la probabilidad de un alza de la Fed en diciembre.",
-      "por_que_importa": "Tasas altas y volatilidad en tecnología y energía son el telón de fondo para las decisiones de financiación e inversión de las próximas semanas.",
-      "perspectivas": [
-        {
-          "medio": "Yahoo Finance",
-          "enfoque": "Resumen semanal: rebote parcial tras el desplome de la IA."
-        },
-        {
-          "medio": "CNBC",
-          "enfoque": "Petróleo: fuerte pérdida semanal; empleo: sorpresa positiva."
-        },
-        {
-          "medio": "Vantage Markets",
-          "enfoque": "Oro: mayor alza semanal desde agosto tras las elecciones."
-        }
-      ],
-      "coincidencias": "Coinciden en las cifras y en que la semana estuvo dominada por la elección en EE. UU.",
-      "diferencias": "Las causas de la caída tecnológica siguen siendo materia de interpretación.",
-      "analisis": "El mercado descuenta a la vez menos riesgo geopolítico (petróleo más bajo) y más riesgo político interno y de tasas en EE. UU.",
-      "implicaciones": "Empresas con deuda en dólares: el alza probable de la Fed mantiene caro el financiamiento externo.",
-      "que_vigilar": "Inflación de EE. UU. de octubre, Brent y resultados corporativos.",
-      "fuentes": [
-        {
-          "medio": "Yahoo Finance",
-          "titulo": "Stock Market Today (Nov. 6, 2026): Nasdaq, S&P 500 rise after midterms AI rout",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-6-144816072.html"
-        },
-        {
-          "medio": "CNBC",
-          "titulo": "Oil price today: Brent, WTI",
-          "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html"
-        },
-        {
-          "medio": "CNBC",
-          "titulo": "U.S. economy added 165,000 jobs in October, way more than expected",
-          "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
-        },
-        {
-          "medio": "Vantage Markets",
-          "titulo": "Gold Price Rises Most Since August After US Midterm Elections",
-          "url": "https://www.vantagemarkets.com/market-news/gold-price-weekly-gain-us-midterm-elections-november-6-2026/"
+          "medio": "Al Jazeera",
+          "titulo": "Ukraine's Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+          "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin"
         }
       ]
     }
   ],
-  "lectura_mercados": "Domingo sin mercados abiertos: los indicadores corresponden al cierre del viernes 6 de noviembre. La semana dejó un petróleo mucho más barato (Brent US$98,32, −16 %), tecnología en corrección y un dato de empleo que acerca un alza de la Fed. El lunes, el Brent reaccionará a la propuesta catarí y a la ampliación del bloqueo de EE. UU. a Irán. En Colombia, la TRM es $3.237,83 y la atención estará en los resultados de Ecopetrol del martes 10 y en las mesas técnicas de la Ley de Rescate.",
+  "lectura_mercados": "La semana arranca con un rebote en Asia, liderado por los chips, y futuros de Wall Street al alza, pese al caso Nvidia. El petróleo abrió plano (Brent cerca de US$98,33) a la espera de la reunión entre Trump y Catar sobre Irán. Los índices de EE. UU. y Colombia en la tabla son del cierre del viernes. En Colombia, la TRM de hoy es $3.237,83 y el foco estará en los resultados de Ecopetrol del martes y en las mesas técnicas de la Ley de Rescate. La inflación al productor en China, la más alta en cuatro años, sugiere presiones de costos para importadores.",
   "agenda": [
-    "9 de noviembre: Stephen Miller asume como jefe de gabinete de la Casa Blanca.",
-    "9 de noviembre, 2:00 p. m.: mesa técnica de la Procuraduría con el director de la Aerocivil.",
-    "Esta semana: instalación de mesas técnicas Gobierno–Centro Democrático sobre la Ley de Rescate.",
-    "10 de noviembre: Ecopetrol presenta resultados del tercer trimestre.",
+    "Hoy, 9 de noviembre: Trump se reúne con el primer ministro de Catar sobre Irán.",
+    "Hoy: Stephen Miller asume como jefe de gabinete de la Casa Blanca.",
+    "Hoy, 2:00 p. m.: mesa técnica de la Procuraduría con el director de la Aerocivil.",
+    "9–10 de noviembre: instalación de mesas técnicas sobre la Ley de Rescate.",
+    "10 de noviembre: Ecopetrol presenta resultados del tercer trimestre; China publica comercio exterior de octubre.",
     "10 y 11 de noviembre: conversaciones EE. UU.–Rusia–Ucrania en Abu Dabi.",
-    "Hacia el 15 de noviembre: 100 días del Gobierno De la Espriella.",
+    "17 de noviembre: resultados trimestrales de Nvidia; 18 de noviembre: citación de Jensen Huang en la Cámara de EE. UU.",
     "19 de noviembre: paro nacional convocado por la CUT.",
     "9 de diciembre: decisión de tasas de la Reserva Federal.",
     "16 de diciembre: fin del periodo ordinario del Congreso.",
     "18 de diciembre: decisión de tasas del Banco de la República."
   ],
-  "balance_cobertura": "Es domingo: no hubo mercados y los indicadores son del cierre del viernes. La cobertura de la reunión sobre la Ley de Rescate recoge sobre todo al Gobierno y al Centro Democrático; faltan las voces de otros partidos y de los sindicatos. Sobre la alerta contra Caracol, el tipo de amenaza no está confirmado y la información policial contradice algunos titulares. En EE. UU., la cobertura del nombramiento de Miller está muy polarizada; se incluyeron medios de ambos lados. Los términos de la propuesta catarí a Irán solo están reportados por la prensa. No se verificaron con fuentes fechadas: el estado actual de los embalses de EPM en el Valle de Aburrá, los datos de exportaciones de China de octubre ni la fecha del IPC de octubre del DANE. Las cifras de víctimas en Kiev varían entre medios.",
+  "balance_cobertura": "Las cifras de heridos del ataque en Santa Rosa del Sur varían ampliamente (de 8 a 47) según la fuente y la hora del balance; la autoría del ELN es la hipótesis oficial, sin reivindicación. Las alertas contra medios provienen de inteligencia no detallada públicamente. En la cobertura de la Ley de Rescate predominan Gobierno y Centro Democrático; faltan sindicatos y otros partidos. Sobre Irán, las versiones de Catar, Rubio e Irán se contradicen y no se conoce el texto de la respuesta de EE. UU. Las acusaciones de espionaje en el caso Nvidia no están probadas. Los precios del petróleo son indicativos de la sesión asiática; los índices bursátiles son del cierre del viernes. El dato de gasolina es de finales de octubre, vigente para noviembre. No se verificó la fecha del IPC de octubre del DANE.",
   "mercados": [
     {
       "id": "trm",
@@ -467,7 +485,7 @@
       "valor": 3237.83,
       "variacion_pct": 0.296,
       "variacion_mes_pct": null,
-      "vigencia": "7–9 nov",
+      "vigencia": "9 nov",
       "fuente": "Superfinanciera (vía Colombia.com / Dolar Hoy)"
     },
     {
@@ -488,11 +506,11 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 98.32,
-      "variacion_pct": 0.03,
+      "valor": 98.33,
+      "variacion_pct": 0.01,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 6 nov (semana: −16 %)",
-      "fuente": "CNBC"
+      "vigencia": "9 nov, sesión asiática (indicativo)",
+      "fuente": "ABC News (Australia)"
     },
     {
       "id": "wti",
@@ -500,11 +518,11 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 90.83,
-      "variacion_pct": 0.34,
+      "valor": 91.33,
+      "variacion_pct": 0.5,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 6 nov (semana: −13 %)",
-      "fuente": "CNBC"
+      "vigencia": "9 nov, sesión asiática (indicativo)",
+      "fuente": "ABC News (Australia)"
     },
     {
       "id": "oro",
@@ -651,33 +669,94 @@
       "fuente": "El Financiero",
       "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
       "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Gasolina corriente (referencia)",
+      "valor": "$15.886 por galón",
+      "fecha_dato": "Noviembre 2026 (promedio 13 ciudades)",
+      "fuente": "El Colombiano",
+      "url": "https://www.elcolombiano.com/negocios/precio-gasolina-colombia-noviembre-2026-galon-ciudades-GD43042206",
+      "comentario": "Sin cambios frente a octubre; ACPM en $11.320."
     }
   ],
   "cobertura": {
-    "total_articulos": 35,
+    "total_articulos": 36,
     "medios": [
       {
-        "medio": "CNBC",
+        "medio": "El Colombiano",
         "articulos": 3,
         "ok": true
       },
       {
-        "medio": "Infobae",
+        "medio": "Al Jazeera",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "Axios",
         "articulos": 2,
         "ok": true
       },
       {
-        "medio": "El Espectador",
+        "medio": "The Jerusalem Post",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
         "articulos": 2,
         "ok": true
       },
       {
         "medio": "El Tiempo",
-        "articulos": 2,
+        "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Universal",
+        "medio": "La Silla Vacía",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Vanguardia",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario La Libertad",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "NTN24",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Minuto30",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Pulzo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Mundiario",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
         "articulos": 1,
         "ok": true
       },
@@ -687,52 +766,37 @@
         "ok": true
       },
       {
-        "medio": "Hoy Diario del Magdalena",
+        "medio": "Publimetro",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Imparcial",
+        "medio": "El Norte",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Cooperativa",
+        "medio": "IFM Noticias",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Milenio",
+        "medio": "Infobae",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Bloomberg Línea",
+        "medio": "Cambio",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Moncloa.com",
+        "medio": "El País (Cali)",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "The Rio Times",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Colombia.com",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "The Washington Post",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "The Hill",
+        "medio": "Business Standard",
         "articulos": 1,
         "ok": true
       },
@@ -742,67 +806,32 @@
         "ok": true
       },
       {
-        "medio": "CNN",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Breitbart",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "The New Republic",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Fox News",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Al Jazeera",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "CBS News",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Outlook India",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Times of Israel",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "The Moscow Times",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Al Arabiya",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Business Recorder",
-        "articulos": 1,
-        "ok": true
-      },
-      {
         "medio": "Yahoo Finance",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Vantage Markets",
+        "medio": "The San Francisco Standard",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Investing.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "investingLive",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News (Australia)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "U.S. News (Reuters)",
         "articulos": 1,
         "ok": true
       }
