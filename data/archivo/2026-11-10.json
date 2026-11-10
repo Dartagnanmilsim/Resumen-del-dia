@@ -1,0 +1,952 @@
+{
+  "fecha": "2026-11-10",
+  "generado": "2026-11-10T10:40:47.132430Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "Trump da por 'efectivamente terminada' la guerra con Irán, el Brent se hunde a US$92 y Wall Street vuela; en Colombia el dólar salta a $3.270 mientras arrancan las mesas técnicas de la Ley de Rescate.",
+  "lo_esencial": [
+    "Trump dice que la guerra con Irán está 'efectivamente terminada' tras recibir a Catar, pero mantiene el bloqueo naval; Irán lo llama 'noticias falsas'.",
+    "El Brent cae 5,85 % a US$92,57 y sigue cerca de US$91 hoy; Wall Street sube con fuerza (S&P 500 +2,35 %).",
+    "El dólar sube por cuarto día y cierra cerca de $3.269; la TRM de hoy es $3.269,88, la más alta en más de un mes.",
+    "Arrancan las mesas técnicas de la Ley de Rescate: el IVA, 29 % de la reforma (unos $23,7 billones), es el punto más disputado.",
+    "Ecopetrol aplaza sus resultados al jueves 12; proyecta utilidad de $4 a $5 billones.",
+    "Comienzan en Abu Dabi las conversaciones EE. UU.–Rusia–Ucrania; el superávit comercial de China supera otra vez el billón de dólares."
+  ],
+  "colombia": [
+    {
+      "titulo": "El dólar salta a $3.270 y la TRM toca su nivel más alto en más de un mes",
+      "categoria": "Economía / Divisas",
+      "importancia": 4,
+      "resumen": "El dólar cerró el lunes 9 de noviembre cerca de $3.269, según el Banco de la República citado por Noticias RCN, tras abrir en $3.245; El Espectador reporta un rango de $3.235 a $3.288,50 y un alza de 0,91 %. Es el cuarto día de subida, según Infobae. La TRM para hoy quedó en $3.269,88, la más alta en más de un mes según Colombia.com. Ninguna fuente atribuye el alza a una causa concreta; Wilkinson señala que el mercado esperaba el dato de inflación de octubre.",
+      "por_que_importa": "Un peso más débil encarece importaciones y deuda en dólares, y puede sumar presión a una inflación que el BanRep ya ve en 7,1 %.",
+      "perspectivas": [
+        {
+          "medio": "Noticias RCN",
+          "enfoque": "Lo titula como un 'nuevo repunte' del dólar."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Habla de un precio que 'se dispara', con fuertes fluctuaciones intradía."
+        },
+        {
+          "medio": "El Espectador",
+          "enfoque": "Seguimiento técnico del rango y la variación."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Destaca la racha alcista de cuatro días."
+        }
+      ],
+      "coincidencias": "Coinciden en un cierre cercano a $3.270 y en una racha alcista.",
+      "diferencias": "Las cifras de cierre varían levemente según la fuente; ninguna da una explicación clara del movimiento.",
+      "analisis": "El alza ocurre pese a la caída del petróleo, que suele debilitar al peso, y a la mejora del apetito por riesgo global; podría reflejar factores locales como la incertidumbre fiscal, aunque las fuentes no lo confirman.",
+      "implicaciones": "Importadores: revisar coberturas. Exportadores: mejora transitoria en ingresos en pesos.",
+      "que_vigilar": "Dato de inflación de octubre del DANE, avance de la Ley de Rescate y precio del Brent.",
+      "fuentes": [
+        {
+          "medio": "Noticias RCN",
+          "titulo": "Nuevo repunte en el precio del dólar: así cerró HOY 9 de noviembre de 2026",
+          "url": "https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-en-el-cierre-de-hoy-9-de-noviembre-de-2026-1080168"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Precio del dólar se dispara; la moneda cierra más cara la jornada del lunes",
+          "url": "https://www.semana.com/amp/economia/macroeconomia/articulo/precio-del-dolar-se-dispara-la-moneda-cierra-mas-cara-la-jornada-del-lunes/202636/"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "Dólar hoy en Colombia: así se mueve el precio este 9 de noviembre",
+          "url": "https://www.elespectador.com/economia/dolar-hoy-en-colombia-la-divisa-arranco-al-alza-este-lunes-9-de-noviembre/?outputType=amp"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Dólar hoy en Colombia: cotización de cierre del 9 de noviembre",
+          "url": "https://www.infobae.com/colombia/2026/11/09/dolar-hoy-en-colombia-cotizacion-de-cierre-del-9-de-noviembre/"
+        },
+        {
+          "medio": "Colombia.com",
+          "titulo": "Precio del dólar hoy en Colombia: cotización de este martes 10 de noviembre de 2026",
+          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-martes-10-de-noviembre-de-2026-611938"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: arrancan las mesas técnicas con el IVA en el centro de la pelea",
+      "categoria": "Economía / Política fiscal",
+      "importancia": 5,
+      "resumen": "Gobierno y comisiones económicas instalan desde hoy, 10 de noviembre, mesas técnicas para revisar el proyecto 477 de 2026 artículo por artículo y buscar un texto concertado antes del primer debate conjunto. El IVA es el punto central: el aumento del IVA representa el 29 % de la reforma, unos $23,7 billones, y se discute reconsiderar el IVA a internet y a seguros privados de salud. Según la prensa, si la ley no se aprueba en 2026, varios cambios tributarios no podrían aplicarse hasta 2028, salvo el IVA. La Silla Vacía describe un arranque 'con resistencias' en el Congreso.",
+      "por_que_importa": "El resultado define precios al consumidor, carga de empresas y la meta fiscal; el calendario hasta el 16 de diciembre es estrecho.",
+      "perspectivas": [
+        {
+          "medio": "La Silla Vacía",
+          "enfoque": "Enfatiza las resistencias que encuentra el proyecto en el Congreso."
+        },
+        {
+          "medio": "El Diario",
+          "enfoque": "Resume acuerdos, reparos y propuestas de modificación."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Detalla el método: revisión artículo por artículo."
+        },
+        {
+          "medio": "Diario La Libertad",
+          "enfoque": "Lo presenta como un intento de 'destrabar' la ley."
+        }
+      ],
+      "coincidencias": "Coinciden en el inicio de las mesas, en el peso del IVA y en el plazo del 16 de diciembre.",
+      "diferencias": "Unos medios resaltan el diálogo cordial; La Silla Vacía, las resistencias políticas.",
+      "analisis": "El Gobierno necesita el IVA para cuadrar las cuentas; aliados como el Centro Democrático y la oposición prefieren más recortes. Cualquier rebaja del IVA obliga a buscar recaudo o recortes alternativos.",
+      "implicaciones": "Sectores de telecomunicaciones, salud privada y consumo masivo deben seguir de cerca las mesas: allí se juega el IVA que les aplicaría.",
+      "que_vigilar": "Acuerdos sobre IVA, ponencia y posible convocatoria a sesiones extraordinarias.",
+      "fuentes": [
+        {
+          "medio": "La Silla Vacía",
+          "titulo": "La Ley de Rescate Fiscal arranca con resistencias en el Congreso",
+          "url": "https://www.lasillavacia.com/silla-nacional/la-ley-de-rescate-fiscal-arranca-con-resistencias-en-el-congreso/"
+        },
+        {
+          "medio": "El Diario",
+          "titulo": "Ley de Rescate: primera reunión entre el Gobierno y el Congreso dejó acuerdos, reparos y propuestas",
+          "url": "https://www.eldiario.com.co/noticias/ley-de-rescate-primera-reunion-entre-el-gobierno-y-el-congreso-dejo-acuerdos-reparos-y-propuestas-para-modificar-la-reforma/"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Ley de Rescate: Gobierno y comisiones económicas pactan mesas técnicas para revisar la reforma artículo por artículo",
+          "url": "https://ifmnoticias.com/gobierno/ley-de-rescate-gobierno-y-comisiones-economicas-del-congreso-pactan-mesas-tecnic/"
+        },
+        {
+          "medio": "Diario La Libertad",
+          "titulo": "Gobierno y Congreso abren mesas técnicas para destrabar la Ley de Rescate",
+          "url": "https://diariolalibertad.com/2026/11/08/gobierno-y-congreso-abren-mesas-tecnicas-para-destrabar-la-ley-de-rescate/"
+        }
+      ]
+    },
+    {
+      "titulo": "Ecopetrol aplaza al jueves sus resultados; proyecta utilidad de $4 a $5 billones",
+      "categoria": "Empresas / Energía",
+      "importancia": 4,
+      "resumen": "Ecopetrol cambió la fecha de entrega de sus resultados del tercer trimestre, previstos para hoy, al jueves 12 de noviembre después del cierre del mercado. La empresa estima una utilidad neta de $4 a $5 billones, frente a $2,56 billones un año antes (hasta +95 %), con ingresos de $33 a $36 billones y producción de 740.000 a 750.000 barriles equivalentes por día. Analistas atribuyen el repunte en parte a la compra de la brasileña Brava. Sería menor que el segundo trimestre ($6,06 billones).",
+      "por_que_importa": "Ecopetrol aporta dividendos e impuestos clave para el fisco; sus cifras son un termómetro de las finanzas públicas y del COLCAP.",
+      "perspectivas": [
+        {
+          "medio": "La República",
+          "enfoque": "Informa el aplazamiento y la proyección de utilidades."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Destaca el alza esperada de 95 % gracias a Brava."
+        },
+        {
+          "medio": "Portafolio",
+          "enfoque": "Pone el foco en ingresos de hasta $36 billones."
+        },
+        {
+          "medio": "El Espectador",
+          "enfoque": "Informa las nuevas fechas de entrega."
+        }
+      ],
+      "coincidencias": "Coinciden en el aplazamiento y en el rango de utilidad proyectado.",
+      "diferencias": "Las fuentes no explican el motivo del aplazamiento. Algunas cifras de El Espectador parecen corresponder al segundo trimestre, por lo que no se usaron.",
+      "analisis": "Un trimestre con petróleo alto por la guerra favorece las cifras, pero el mercado mirará la guía con un Brent que ya cayó a cerca de US$92.",
+      "implicaciones": "Volatilidad esperada en la acción y posible impacto en el COLCAP el viernes.",
+      "que_vigilar": "Resultados del 12 de noviembre, dividendos y guía de inversión 2027.",
+      "fuentes": [
+        {
+          "medio": "La República",
+          "titulo": "Ecopetrol aplazó entrega de resultados financieros del tercer trimestre para el jueves",
+          "url": "https://www.larepublica.co/economia/ecopetrol-aplazo-entrega-de-resultados-financieros-del-tercer-trimestre-para-el-jueves-4520572"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "Ecopetrol espera subir sus utilidades 95% para el tercer trimestre, tras adquirir la petrolera brasileña Brava",
+          "url": "https://www.elcolombiano.com/negocios/ecopetrol-utilidades-tercer-trimestre-2026-KH43333009"
+        },
+        {
+          "medio": "Portafolio",
+          "titulo": "Ecopetrol proyecta ingresos de hasta $36 billones y ganancias de $5 billones para el tercer trimestre",
+          "url": "https://www.portafolio.co/negocios/empresas/ecopetrol-proyecta-ingresos-de-hasta-36-billones-y-ganancias-de-5-billones-para-el-tercer-trimestre-505851"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "Resultados de Ecopetrol del tercer trimestre 2026: estas son las nuevas fechas",
+          "url": "https://www.elespectador.com/economia/empresas/ecopetrol-aplaza-entrega-de-resultados-del-tercer-trimestre-estas-son-las-nuevas-fechas/"
+        }
+      ]
+    },
+    {
+      "titulo": "A tres meses del terremoto: juez ordena a la fundación de la primera dama rendir cuentas",
+      "categoria": "Gobierno / Reconstrucción",
+      "importancia": 4,
+      "resumen": "Un juzgado de Bogotá, al fallar una tutela del congresista Alejandro Ocampo (Pacto Histórico), ordenó a la Fundación Colombia Luz y Sonrisas, presidida por la primera dama Ana Lucía Pineda, entregar un informe detallado sobre las donaciones recibidas tras el terremoto del 10 de agosto ($54.589 millones). La fundación argumentó que es privada; el juez consideró que asumió un rol oficial como canal del Gobierno. Pineda dijo que 'no tiene nada que ocultar'. Según Prensa Latina, la mayoría de los más de 400.000 damnificados en Chocó, Risaralda, Valle y Caldas sigue sin solución de vivienda; el Gobierno estima la reconstrucción en $54 billones.",
+      "por_que_importa": "La transparencia en el uso de donaciones y la velocidad de la reconstrucción afectan la confianza en el Gobierno y la ejecución de recursos como el Fondo Milagro.",
+      "perspectivas": [
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Informativo: el juez ordena rendir cuentas completas."
+        },
+        {
+          "medio": "France 24",
+          "enfoque": "Cobertura internacional del fallo."
+        },
+        {
+          "medio": "La Tercera (Chile)",
+          "enfoque": "Pone a la fundación 'bajo la lupa' y pregunta qué pasó con las donaciones."
+        },
+        {
+          "medio": "Prensa Latina",
+          "enfoque": "Enfoca la incertidumbre de los damnificados, con tono crítico al Gobierno."
+        }
+      ],
+      "coincidencias": "Coinciden en el fallo, el monto recaudado y la respuesta de la primera dama.",
+      "diferencias": "La oposición (Ocampo, María José Pizarro) afirma que el 88 % está sin ejecutar, dato no verificado de forma independiente; la fundación dice que el dinero se usará en una segunda fase de reconstrucción.",
+      "analisis": "El caso mezcla un debate jurídico (si una fundación privada debe rendir cuentas públicas) con uno político sobre la reconstrucción. El cumplimiento del fallo y la ejecución real serán la prueba.",
+      "implicaciones": "Contratistas de reconstrucción y aseguradoras: atención a la ejecución de recursos y a posibles controles adicionales.",
+      "que_vigilar": "Informe de la fundación, ejecución del Fondo Milagro y avance de soluciones de vivienda.",
+      "fuentes": [
+        {
+          "medio": "El Colombiano",
+          "titulo": "Juez ordenó a fundación de la primera dama rendir cuentas completas sobre donaciones para reconstrucción tras el terremoto",
+          "url": "https://www.elcolombiano.com/colombia/fundacion-de-la-primera-dama-debe-entregar-detalles-sobre-donaciones-para-atender-el-terremoto-PH43229413"
+        },
+        {
+          "medio": "France 24",
+          "titulo": "La justicia de Colombia ordena a la primera dama rendir cuentas sobre las donaciones por el terremoto",
+          "url": "https://www.france24.com/es/minuto-a-minuto/20261106-la-justicia-de-colombia-ordena-a-la-primera-dama-rendir-cuentas-sobre-las-donaciones-por-el-terremoto"
+        },
+        {
+          "medio": "La Tercera",
+          "titulo": "¿Qué pasó con las donaciones del terremoto en Colombia? La fundación de la primera dama, bajo la lupa",
+          "url": "https://www.latercera.com/mundo/noticia/que-paso-con-las-donaciones-del-terremoto-en-colombia-la-fundacion-de-la-primera-dama-bajo-la-lupa/"
+        },
+        {
+          "medio": "Prensa Latina",
+          "titulo": "Damnificados en la incertidumbre a tres meses del sismo en Colombia",
+          "url": "https://prensa-latina.cu/2026/11/10/damnificados-en-la-incertidumbre-a-tres-meses-del-sismo-en-colombia"
+        }
+      ]
+    },
+    {
+      "titulo": "EE. UU. y la SIP rechazan las amenazas contra Caracol y RCN",
+      "categoria": "Libertad de prensa",
+      "importancia": 3,
+      "resumen": "La Embajada de Estados Unidos rechazó el 9 de noviembre las amenazas de violencia contra medios colombianos y expresó solidaridad con los periodistas ('merecen vivir sin miedo', según Semana). La Sociedad Interamericana de Prensa también condenó las amenazas contra Caracol Televisión, Caracol Radio y RCN. La embajada no identificó responsables; el Gobierno colombiano las atribuye a alertas de inteligencia sobre el ELN.",
+      "por_que_importa": "El respaldo internacional sube el perfil del caso y la presión para esclarecer el origen de las amenazas.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Destaca el mensaje sobre libertad de prensa."
+        },
+        {
+          "medio": "El Tiempo",
+          "enfoque": "Subraya la solidaridad con los periodistas de los medios amenazados."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Recoge la frase 'merecen vivir sin miedo'."
+        },
+        {
+          "medio": "Pulzo",
+          "enfoque": "Cobertura breve de la reacción diplomática."
+        }
+      ],
+      "coincidencias": "Coinciden en el contenido del mensaje y en que no se identificaron responsables.",
+      "diferencias": "Ninguna diferencia relevante; la cobertura es mayormente informativa.",
+      "analisis": "El pronunciamiento estadounidense se alinea con la postura del Gobierno colombiano, que ha hecho de la seguridad su bandera.",
+      "implicaciones": "Mayor atención internacional a la seguridad en Bogotá.",
+      "que_vigilar": "Avances de la investigación y pronunciamiento de la FLIP.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Embajada de Estados Unidos rechazó amenazas contra medios colombianos y lanzó mensaje sobre la libertad de prensa",
+          "url": "https://www.infobae.com/colombia/2026/11/10/embajada-de-estados-unidos-rechazo-amenazas-contra-medios-colombianos-y-lanzo-mensaje-sobre-la-libertad-de-prensa/"
+        },
+        {
+          "medio": "El Tiempo",
+          "titulo": "Embajada de Estados Unidos rechazó amenazas de atentados contra Caracol Televisión, Caracol Radio y RCN",
+          "url": "https://www.eltiempo.com/amp/bogota/embajada-de-estados-unidos-rechazo-amenazas-de-atentados-contra-caracol-television-caracol-radio-y-rcn-y-expreso-su-solidaridad-con-los-periodistas-3599783"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Embajada de Estados Unidos se manifiesta por amenazas contra medios de comunicación",
+          "url": "https://www.semana.com/mundo/articulo/embajada-de-estados-unidos-se-manifiesta-por-amenazas-contra-medios-de-comunicacion-merecen-vivir-sin-miedo/202649/"
+        },
+        {
+          "medio": "Pulzo",
+          "titulo": "Embajada de Estados Unidos reaccionó a amenazas contra Caracol y RCN",
+          "url": "https://www.pulzo.com/nacion/embajada-estados-unidos-reacciono-amenazas-contra-caracol-rcn-PP5352926"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Trump da la guerra con Irán por 'efectivamente terminada' tras recibir a Catar",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 5,
+      "resumen": "Tras reunirse el 9 de noviembre con el primer ministro catarí, Mohammed bin Abdulrahman Al-Thani, con el vicepresidente Vance presente, Trump dijo que Irán está militarmente acabado y que la guerra está 'efectivamente' terminada, y que EE. UU. mantendrá el statu quo. Calificó de 'bastante improbable' reanudar ataques, aunque dijo estar listo si es necesario. No anunció retiro de tropas y mantuvo el bloqueo naval. El primer ministro catarí calificó la reunión de positiva y, según los reportes, le presentó una propuesta iraní de dos días para terminar la guerra. Funcionarios iraníes calificaron las palabras de Trump de 'noticias falsas' y Mohsen Rezaei pidió a EE. UU. aceptar las condiciones de Teherán.",
+      "por_que_importa": "Es la señal más clara hasta ahora de desescalada, con efecto directo sobre el petróleo, aunque no hay acuerdo firmado y el bloqueo sigue.",
+      "perspectivas": [
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Destaca la declaración de Trump y recuerda que ha amenazado y retrocedido varias veces."
+        },
+        {
+          "medio": "The Hill",
+          "enfoque": "Pone el foco en la valoración positiva del primer ministro catarí."
+        },
+        {
+          "medio": "The New Arab",
+          "enfoque": "Contrasta la versión de Trump con las condiciones que Irán sigue exigiendo."
+        },
+        {
+          "medio": "The Globe and Mail",
+          "enfoque": "Informativo: la guerra 'efectivamente terminada' según Trump."
+        },
+        {
+          "medio": "The Print (India)",
+          "enfoque": "Enfatiza que Trump ve innecesarios nuevos ataques."
+        }
+      ],
+      "coincidencias": "Coinciden en las palabras de Trump, en que el bloqueo sigue y en que no hay acuerdo formal.",
+      "diferencias": "Medios occidentales destacan la desescalada; medios árabes e Irán subrayan que las condiciones iraníes siguen sin respuesta.",
+      "analisis": "Trump busca cerrar un conflicto impopular tras la derrota electoral sin ceder en el bloqueo, que funciona como palanca. Irán quiere convertir la pausa en concesiones concretas.",
+      "implicaciones": "Menor prima de riesgo en energía y fletes; un incidente en Ormuz podría revertirla rápido.",
+      "que_vigilar": "Respuesta formal a la propuesta iraní, situación del bloqueo y tránsito por Ormuz.",
+      "fuentes": [
+        {
+          "medio": "Al Jazeera",
+          "titulo": "After meeting Qatar PM, Trump calls Iran war 'effectively over' militarily",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+        },
+        {
+          "medio": "The Hill",
+          "titulo": "Qatar prime minister calls US-Iran talks positive after meeting with Donald Trump",
+          "url": "https://thehill.com/policy/international/6209663-us-middle-east-war-midterms/"
+        },
+        {
+          "medio": "The New Arab",
+          "titulo": "Trump claims war 'effectively over', Iran presses on conditions",
+          "url": "https://www.newarab.com/news/trump-claims-war-effectively-over-iran-presses-conditions"
+        },
+        {
+          "medio": "The Globe and Mail",
+          "titulo": "Iran war 'effectively over,' Trump says after meeting with Qatari PM",
+          "url": "https://www.theglobeandmail.com/world/article-iran-war-trump-qatar/"
+        },
+        {
+          "medio": "ThePrint",
+          "titulo": "Trump signals new Iran strikes are unnecessary after Qatar meeting",
+          "url": "https://theprint.in/world/trump-signals-new-iran-strikes-are-unnecessary-after-qatar-meeting/3095029/"
+        }
+      ]
+    },
+    {
+      "titulo": "El Brent se hunde 5,9 % a US$92,57 y sigue bajando",
+      "categoria": "Energía / Mercados",
+      "importancia": 5,
+      "resumen": "El Brent cerró el 9 de noviembre en US$92,57 (−5,85 %) y el WTI en US$86,85 (−4,38 %), después de que Trump dijera que era muy improbable ordenar nuevos ataques mientras avancen las conversaciones. Este martes siguen cayendo: el Brent cotizaba cerca de US$91 en la mañana europea. Pesan también una mayor producción de la OPEP, aunque el bloqueo de EE. UU. en Ormuz y los ataques a buques siguen. Un analista citado por Business Standard cree difícil que el Brent baje de US$90 sin un acuerdo firme.",
+      "por_que_importa": "El petróleo acumula una caída de más de 20 % desde el día de las elecciones en EE. UU.; para Colombia implica menos ingresos fiscales y de Ecopetrol, pero alivio en inflación importada.",
+      "perspectivas": [
+        {
+          "medio": "Free Press Journal",
+          "enfoque": "Vincula la caída directamente al 'fin efectivo' de la guerra según Trump."
+        },
+        {
+          "medio": "Gulf News",
+          "enfoque": "Destaca la reducción del temor a nuevos ataques."
+        },
+        {
+          "medio": "OilPrice",
+          "enfoque": "Enfatiza la contención de Trump como motor de la caída."
+        },
+        {
+          "medio": "Business Standard",
+          "enfoque": "Matiza: sin acuerdo duradero, el piso de US$90 es difícil de romper."
+        }
+      ],
+      "coincidencias": "Coinciden en la magnitud de la caída y en su causa principal.",
+      "diferencias": "Difieren en el margen de caída adicional: unos ven más espacio, otros un piso cerca de US$90.",
+      "analisis": "La caída descuenta un fin de la guerra que aún no está firmado. El bloqueo sigue vigente, lo que mantiene un riesgo de rebote.",
+      "implicaciones": "Revise supuestos de precio del crudo para 2027 y la exposición fiscal; el Gobierno podría revisar el subsidio a combustibles.",
+      "que_vigilar": "Decisiones de la OPEP+, acuerdo con Irán e inventarios de EE. UU.",
+      "fuentes": [
+        {
+          "medio": "Free Press Journal",
+          "titulo": "Brent Slips To $91 As Trump Says Iran War 'Effectively Over'",
+          "url": "https://www.freepressjournal.in/business/brent-slips-to-91-as-trump-says-iran-war-effectively-over"
+        },
+        {
+          "medio": "Gulf News",
+          "titulo": "Oil Prices Drop as US-Iran Tensions Ease, Brent Crude Falls to $92.25",
+          "url": "https://gulfnews.com/business/energy/oil-slides-as-iran-strike-fears-ease-brent-falls-1.500741822"
+        },
+        {
+          "medio": "OilPrice",
+          "titulo": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-92-as-Trump-Signals-Restraint-on-Iran.html"
+        },
+        {
+          "medio": "Business Standard",
+          "titulo": "Oil prices fall as Trump signals pause in military action against Iran",
+          "url": "https://www.business-standard.com/amp/markets/commodities/oil-prices-fall-as-trump-signals-pause-in-military-action-against-iran-126111000067_1.html"
+        }
+      ]
+    },
+    {
+      "titulo": "Wall Street vuela: S&P 500 +2,35 %, su mejor día desde abril",
+      "categoria": "Mercados",
+      "importancia": 4,
+      "resumen": "El 9 de noviembre el Dow subió 2,15 % (+1.104 puntos) a 52.389,75, el S&P 500 2,35 % a 7.549,94 —su mejor día desde el 8 de abril— y el Nasdaq 2,74 % a 25.253,14, impulsados por los semiconductores y la caída del petróleo, que enfrió temores de inflación. Nvidia, en cambio, bajó tras abrir una investigación sobre su CEO. El VIX cayó a 19,92.",
+      "por_que_importa": "El rebote recupera buena parte de la peor semana del S&P 500 desde abril de 2025 y mejora el apetito por riesgo global.",
+      "perspectivas": [
+        {
+          "medio": "TheStreet",
+          "enfoque": "Lo atribuye al retroceso del petróleo y al regreso de la tecnología."
+        },
+        {
+          "medio": "The Motley Fool",
+          "enfoque": "Destaca los semiconductores como motor."
+        },
+        {
+          "medio": "StockTitan",
+          "enfoque": "Subraya el contraste: el mercado sube mientras Nvidia cae por la investigación."
+        }
+      ],
+      "coincidencias": "Coinciden en las cifras de cierre y en el papel del petróleo.",
+      "diferencias": "Difieren en el peso que dan a la tecnología frente a la energía como motor.",
+      "analisis": "Un petróleo más barato reduce la presión inflacionaria y podría moderar las expectativas de alza de la Fed, aunque el dato fuerte de empleo sigue pesando.",
+      "implicaciones": "Mejor entorno para emisiones y financiación externa si persiste.",
+      "que_vigilar": "Datos de inflación de EE. UU. y resultados de Nvidia (17 nov).",
+      "fuentes": [
+        {
+          "medio": "TheStreet",
+          "titulo": "Stock Market Today (Nov. 9, 2026): Nasdaq, S&P 500 rise over 2% amid oil backslide, tech comeback",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202"
+        },
+        {
+          "medio": "The Motley Fool",
+          "titulo": "Stock Market Today, Nov. 9: Markets Rally as Semiconductor Gains Lift Nasdaq",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-markets-rally-as-semiconductor-gains-lift-nasdaq/"
+        },
+        {
+          "medio": "StockTitan",
+          "titulo": "The Stock Market Today, November 9, 2026, Closed Higher as Nvidia Fell on Its Board's Investigation",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
+        }
+      ]
+    },
+    {
+      "titulo": "Arrancan en Abu Dabi las conversaciones EE. UU.–Rusia–Ucrania",
+      "categoria": "Geopolítica / Europa",
+      "importancia": 4,
+      "resumen": "Hoy, 10 de noviembre, comenzó en Abu Dabi la primera ronda trilateral desde febrero, de dos días. Steve Witkoff y Jared Kushner encabezan la delegación de EE. UU.; Vladimir Medinsky la rusa y Rustem Umerov la ucraniana. Las garantías de seguridad para Ucrania son el eje: un funcionario de EE. UU. dijo que se discute un compromiso inspirado en el artículo 5 de la OTAN y que ambas partes han mostrado en privado algo de flexibilidad sobre el territorio ocupado. Trump habló de una 'muy buena conversación'.",
+      "por_que_importa": "Un avance cambiaría precios de gas, granos y fertilizantes y el régimen de sanciones a Rusia.",
+      "perspectivas": [
+        {
+          "medio": "CBS News",
+          "enfoque": "Informativo: inicio de las conversaciones y su objetivo."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Contexto de ataques continuos y reclamos de avances de Zelenski en el frente."
+        },
+        {
+          "medio": "NBC News",
+          "enfoque": "Destaca la mediación estadounidense."
+        },
+        {
+          "medio": "France 24",
+          "enfoque": "Cobertura en vivo: el enviado de EE. UU. pide un nuevo marco de seguridad."
+        },
+        {
+          "medio": "ABC News",
+          "enfoque": "Recoge escepticismo ucraniano: 'ninguna esperanza' más allá de canjes de prisioneros."
+        }
+      ],
+      "coincidencias": "Coinciden en participantes, agenda y que el territorio sigue siendo el principal obstáculo.",
+      "diferencias": "El optimismo de Trump contrasta con el escepticismo de voces ucranianas citadas por ABC.",
+      "analisis": "La propuesta de garantías tipo artículo 5 sería un cambio de fondo; Rusia ha rechazado antes la presencia de garantías occidentales. Los ataques continúan durante la negociación.",
+      "implicaciones": "Importadores de fertilizantes y trigo: un acuerdo aliviaría precios.",
+      "que_vigilar": "Comunicados al cierre del 11 de noviembre y posibles canjes de prisioneros.",
+      "fuentes": [
+        {
+          "medio": "CBS News",
+          "titulo": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
+          "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "Russia, Ukraine and US officials hold talks in Abu Dhabi",
+          "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+        },
+        {
+          "medio": "NBC News",
+          "titulo": "U.S.-mediated talks on ending the war between Russia and Ukraine begin in Abu Dhabi",
+          "url": "https://www.nbcnews.com/world/ukraine/us-mediated-talks-ending-war-russia-ukraine-begin-abu-dhabi-rcna608499"
+        },
+        {
+          "medio": "France 24",
+          "titulo": "Live: US envoy urges new security framework to secure peace in Ukraine amid trilateral talks",
+          "url": "https://www.france24.com/en/europe/20261110-live-ukraine-russia-and-us-to-resume-peace-talks-in-abu-dhabi"
+        },
+        {
+          "medio": "ABC News",
+          "titulo": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon'",
+          "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621"
+        }
+      ]
+    },
+    {
+      "titulo": "El superávit comercial de China supera otra vez el billón de dólares",
+      "categoria": "Comercio / China",
+      "importancia": 4,
+      "resumen": "Las exportaciones chinas crecieron 35,2 % anual en octubre, por encima del 33,5 % esperado, y las importaciones 41,6 % (se esperaba ~32 %). El superávit del mes bajó a unos US$105.000 millones, pero el acumulado enero–octubre llegó a US$1,04 billones, el segundo año seguido por encima del billón. Las exportaciones de circuitos integrados subieron 137 %; las ventas a la UE, 24,4 %.",
+      "por_que_importa": "El auge exportador ligado a la IA y el superávit récord alimentan tensiones comerciales con Europa y EE. UU., que pueden desviar mercancía china hacia América Latina.",
+      "perspectivas": [
+        {
+          "medio": "RTÉ (Irlanda)",
+          "enfoque": "Destaca que la IA impulsa el superávit por encima del billón."
+        },
+        {
+          "medio": "ABC News (AP)",
+          "enfoque": "Informativo: cifras de exportación y superávit."
+        },
+        {
+          "medio": "Nikkei Asia",
+          "enfoque": "Pone el foco en exportaciones dinámicas."
+        },
+        {
+          "medio": "investingLive",
+          "enfoque": "Datos frente a lo esperado: importaciones muy por encima."
+        }
+      ],
+      "coincidencias": "Coinciden en las cifras centrales.",
+      "diferencias": "El alza de importaciones varía levemente (41,6 % o 42 %).",
+      "analisis": "Las importaciones fuertes sugieren demanda de insumos para la cadena de IA; la brecha comercial con Europa puede traer nuevas medidas de Bruselas.",
+      "implicaciones": "Industrias colombianas que compiten con importaciones chinas deben vigilar desvíos de comercio y posibles medidas antidumping.",
+      "que_vigilar": "Respuesta de la UE y negociaciones comerciales EE. UU.–China.",
+      "fuentes": [
+        {
+          "medio": "RTÉ",
+          "titulo": "China's trade surplus soars past $1 trillion on AI boom",
+          "url": "https://www.rte.ie/news/business/2026/1110/1598625-chinas-trade-figures/"
+        },
+        {
+          "medio": "ABC News (AP)",
+          "titulo": "China says its trade surplus exceeded $1 trillion for a 2nd straight year, as exports in October surged 35%",
+          "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886"
+        },
+        {
+          "medio": "Nikkei Asia",
+          "titulo": "China exports stay brisk as annual trade surplus tops $1tn",
+          "url": "https://asia.nikkei.com/economy/trade/china-exports-stay-brisk-as-annual-trade-surplus-tops-1tn"
+        },
+        {
+          "medio": "investingLive",
+          "titulo": "China October exports beat forecasts, imports surge 41.6% as trade surplus narrows",
+          "url": "https://investinglive.com/news/china-october-exports-beat-forecasts-imports-surge-41-6-as-trade-surplus-narrows/"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "La señal de Trump sobre Irán hundió el petróleo (Brent −5,85 %) y disparó a Wall Street, con el S&P 500 en su mejor día desde abril. El dato curioso es local: el peso se debilitó (dólar cerca de $3.270) pese al mejor apetito por riesgo, lo que apunta a factores internos que las fuentes no precisan; un petróleo más barato también resta ingresos al país. La TRM de hoy es $3.269,88. Atención a la inflación de octubre del DANE, a las mesas de la Ley de Rescate y a los resultados de Ecopetrol del jueves. El oro y el COLCAP en la tabla son del viernes, sin dato verificado del lunes.",
+  "agenda": [
+    "Hoy, 10 de noviembre: instalación de mesas técnicas de la Ley de Rescate.",
+    "10 y 11 de noviembre: conversaciones EE. UU.–Rusia–Ucrania en Abu Dabi.",
+    "12 de noviembre, después del cierre: Ecopetrol publica resultados del tercer trimestre.",
+    "Próximos días: DANE publica la inflación de octubre (fecha no confirmada en las fuentes).",
+    "17 de noviembre: resultados de Nvidia; 18 de noviembre: citación de Jensen Huang en la Cámara de EE. UU.",
+    "19 de noviembre: paro nacional convocado por la CUT.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Ninguna fuente explica con claridad por qué subió el dólar en Colombia el lunes. La afirmación de Trump de que la guerra está 'efectivamente terminada' es una valoración suya: no hay acuerdo firmado y el bloqueo sigue; medios árabes e Irán la contradicen. El dato de que el 88 % de las donaciones a la fundación de la primera dama está sin ejecutar proviene de congresistas de oposición y no está verificado de forma independiente; la cifra de 400.000 damnificados sin solución proviene de Prensa Latina. No se verificaron con fuentes del día: el cierre del COLCAP y del oro del 9 de noviembre (se muestran los del viernes), el rendimiento del bono a 10 años de EE. UU. (retirado de la tabla) ni la fecha del IPC de octubre del DANE. El motivo del aplazamiento de los resultados de Ecopetrol no fue explicado.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3269.88,
+      "variacion_pct": 0.99,
+      "variacion_mes_pct": null,
+      "vigencia": "10 nov",
+      "fuente": "Superfinanciera (vía Colombia.com)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado (aprox.)",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 0,
+      "valor": 3269,
+      "variacion_pct": 0.91,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 9 nov",
+      "fuente": "Noticias RCN / El Espectador"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 92.57,
+      "variacion_pct": -5.85,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 9 nov",
+      "fuente": "Free Press Journal / Business Standard"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 86.85,
+      "variacion_pct": -4.38,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 9 nov",
+      "fuente": "Free Press Journal / Business Standard"
+    },
+    {
+      "id": "oro",
+      "nombre": "Oro (spot)",
+      "grupo": "Materias primas",
+      "unidad": "USD/oz",
+      "decimales": 0,
+      "valor": 4048,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "6 nov (sin dato verificado del 9)",
+      "fuente": "Trading Economics"
+    },
+    {
+      "id": "colcap",
+      "nombre": "MSCI COLCAP (aprox.)",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 0,
+      "valor": 2485,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "6 nov (sin dato verificado del 9)",
+      "fuente": "The Rio Times"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7549.94,
+      "variacion_pct": 2.35,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 9 nov",
+      "fuente": "TheStreet / Closing Look"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 25253.14,
+      "variacion_pct": 2.74,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 9 nov",
+      "fuente": "TheStreet / Closing Look"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 52389.75,
+      "variacion_pct": 2.15,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 9 nov",
+      "fuente": "TheStreet / Closing Look"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,29 %",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía Portafolio)",
+      "url": "https://www.portafolio.co/economia/finanzas/inflacion-en-colombia-sigue-subiendo-se-ubico-en-6-29-en-septiembre-de-504077",
+      "comentario": "La más alta desde julio de 2024. El dato de octubre aún no se publica."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión: 9 dic; tras el dato de empleo, el mercado asigna cerca de 78 % a un alza."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 42,
+    "medios": [
+      {
+        "medio": "Semana",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "El Espectador",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Infobae",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "El Colombiano",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "France 24",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Noticias RCN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Colombia.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La Silla Vacía",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Diario",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "IFM Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario La Libertad",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La República",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La Tercera",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Prensa Latina",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Tiempo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Pulzo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Hill",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The New Arab",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Globe and Mail",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ThePrint",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Free Press Journal",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Gulf News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "OilPrice",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Business Standard",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "TheStreet",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Motley Fool",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "StockTitan",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CBS News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "NBC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "RTÉ",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News (AP)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Nikkei Asia",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "investingLive",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
