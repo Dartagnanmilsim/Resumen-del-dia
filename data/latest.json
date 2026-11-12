@@ -1,467 +1,457 @@
 {
-  "fecha": "2026-11-11",
-  "generado": "2026-11-11T10:39:56.974680Z",
+  "fecha": "2026-11-12",
+  "generado": "2026-11-12T10:40:16.472692Z",
   "modelo": null,
   "demo": false,
-  "titular_del_dia": "La inflación sube a 6,30 % y el dólar roza los $3.300 mientras se multiplican los ataques en el Valle; afuera, la inflación de EE. UU. sorprende al alza e Irán mantiene Ormuz cerrado.",
+  "titular_del_dia": "Bombardeo en Tarazá golpea al Clan del Golfo y el Gobierno cede ponentes para salvar la Ley de Rescate; afuera, Abu Dabi termina solo con un canje de prisioneros y Ormuz espera un acuerdo de US$8.000 millones.",
   "lo_esencial": [
-    "El DANE reporta inflación de 6,30 % en octubre, tercer mes al alza; hogares vulnerables en 6,39 %. Es la base del salario mínimo 2027.",
-    "Explosivos dañan la hidroeléctrica de Amaime (Celsia) en Palmira y una granada explota frente a RCN en Cali; no hubo víctimas.",
-    "De la Espriella ordena el octavo bombardeo de su Gobierno, 48 horas después de la operación Noah en Tibú.",
-    "El dólar cierra cerca de $3.298, máximo en más de un mes; quinto día de alza.",
-    "La inflación de EE. UU. sube 0,4 % en octubre, por encima de lo esperado; Wall Street cae y el bono a 10 años sube a ~4,98 %.",
-    "Irán niega negociar y dice que Ormuz seguirá cerrado hasta que EE. UU. acepte siete condiciones; el Brent perfora brevemente los US$90."
+    "Un bombardeo en Tarazá (Antioquia) deja ocho muertos del Clan del Golfo; entre ellos estaría alias Negro Perea, según el balance preliminar del presidente.",
+    "El Gobierno amplía los ponentes de la Ley de Rescate para destrabarla; el IVA a la canasta familiar podría no sobrevivir.",
+    "Ecopetrol publica hoy sus resultados del tercer trimestre; proyecta utilidad de $4 a $5 billones.",
+    "La TRM sube a $3.297,07, la más alta desde el 2 de octubre; el dólar cerró cerca de $3.295.",
+    "Abu Dabi termina con el mayor canje de prisioneros desde 2022, pero sin cese al fuego.",
+    "Irán y EE. UU. sopesan un plan catarí de US$8.000 millones para reabrir Ormuz, no confirmado; Wall Street sube por CoreWeave y Nvidia cae después del cierre."
   ],
   "colombia": [
     {
-      "titulo": "La inflación sube a 6,30 % en octubre, tercer mes al alza",
-      "categoria": "Economía / Precios",
-      "importancia": 5,
-      "resumen": "El DANE informó que la inflación anual de octubre fue 6,30 %, frente a 6,29 % en septiembre y 5,51 % un año antes; es el tercer mes seguido al alza. La variación mensual fue 0,20 % y la del año corrido, 5,94 %. Los hogares vulnerables registraron la mayor inflación (6,39 %). Según Infobae, el dato estuvo en línea con lo esperado por el mercado y el BanRep. Sigue lejos del rango meta de 2 % a 4 %.",
-      "por_que_importa": "Es la base de la negociación del salario mínimo 2027 y de la próxima decisión de tasas del BanRep (18 de diciembre), que ve la inflación cerrando el año en 7,1 %.",
-      "perspectivas": [
-        {
-          "medio": "El Tiempo",
-          "enfoque": "Titula que la inflación 'no da tregua' y detalla las ciudades más afectadas."
-        },
-        {
-          "medio": "Semana",
-          "enfoque": "Lo presenta como una 'nueva subida' de la inflación."
-        },
-        {
-          "medio": "Infobae",
-          "enfoque": "Enfoca el impacto en el salario mínimo de 2027."
-        },
-        {
-          "medio": "El Universal",
-          "enfoque": "Informativo sobre el dato del DANE."
-        },
-        {
-          "medio": "Minuto30",
-          "enfoque": "Cobertura breve del dato anual."
-        }
-      ],
-      "coincidencias": "Todas las fuentes coinciden en las cifras del DANE y en la tendencia al alza.",
-      "diferencias": "Difieren en el énfasis: unas en la presión sobre los hogares; otras en el salario mínimo. Hay una discrepancia menor sobre si Cartagena lideró la variación mensual o la anual.",
-      "analisis": "El alza es leve frente a septiembre, pero confirma que la inflación no cede. Defensores de subir tasas lo verán como argumento; quienes prefieren esperar dirán que el dato estuvo en línea con lo previsto y que el petróleo más barato puede aliviar.",
-      "implicaciones": "Planee indexaciones y negociaciones salariales con inflación por encima de 6 %. El crédito seguirá caro.",
-      "que_vigilar": "Negociación del salario mínimo (plazo 15 de diciembre) y decisión del BanRep del 18 de diciembre.",
-      "fuentes": [
-        {
-          "medio": "El Tiempo",
-          "titulo": "Inflación en Colombia no da tregua y llegó al 6,30 % en octubre: los detalles que reveló el Dane",
-          "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737"
-        },
-        {
-          "medio": "Semana",
-          "titulo": "Nueva subida de la inflación en Colombia: en octubre de 2026 fue de 6,30 %",
-          "url": "https://www.semana.com/economia/macroeconomia/articulo/nueva-subida-de-la-inflacion-en-colombia-en-octubre-de-2026-fue-de-630/202618/"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Así sería el aumento del salario mínimo de 2027 con la cifra de inflación de octubre",
-          "url": "https://www.infobae.com/colombia/2026/11/10/asi-seria-el-aumento-del-salario-minimo-de-2027-en-colombia-con-la-cifra-de-inflacion-de-octubre-de-2026-que-revelo-el-dane/"
-        },
-        {
-          "medio": "El Universal",
-          "titulo": "Dane reveló cuánto subió la inflación en Colombia durante octubre de 2026",
-          "url": "https://www.eluniversal.com.co/economica/2026/11/09/dane-revelo-cuanto-subio-la-inflacion-en-colombia-durante-octubre-de-2026/"
-        },
-        {
-          "medio": "Minuto30",
-          "titulo": "Inflación en Colombia llegó al 6,30 % anual en octubre, según el DANE",
-          "url": "https://www.minuto30.com/inflacion-en-colombia-llego-al-630-anual-en-octubre-segun-el-dane/1728856/"
-        }
-      ]
-    },
-    {
-      "titulo": "Ataques en el Valle: explosivos contra la hidroeléctrica de Amaime y granada frente a RCN en Cali",
-      "categoria": "Orden público / Infraestructura",
-      "importancia": 5,
-      "resumen": "El martes 10 de noviembre, un ataque con explosivos dañó la casa de máquinas de la central hidroeléctrica de Amaime, en zona rural de Palmira, operada por Celsia; la empresa confirmó daños materiales sin víctimas. Semana y El Espectador hablan de drones; Celsia dijo que dos hombres armados ingresaron al lugar. El Tiempo señala como responsable al grupo 'Adán Izquierdo' (disidencias). En la madrugada del miércoles 11, una granada lanzada desde una motocicleta explotó frente a la sede de RCN en Cali, sin heridos; la Policía tiene dos personas individualizadas. Ocurre días después de las alertas de atentados contra medios.",
-      "por_que_importa": "Los ataques a infraestructura eléctrica en plena amenaza de El Niño y a medios de comunicación elevan el riesgo para empresas y servicios en el suroccidente.",
-      "perspectivas": [
-        {
-          "medio": "Semana",
-          "enfoque": "Destaca el uso de drones y recoge el rechazo de Celsia al 'ataque terrorista'."
-        },
-        {
-          "medio": "El Tiempo",
-          "enfoque": "Informa la atribución preliminar al grupo Adán Izquierdo y los avances en el caso RCN."
-        },
-        {
-          "medio": "El Espectador",
-          "enfoque": "Sección judicial: central atacada con drones cargados de explosivos."
-        },
-        {
-          "medio": "Infobae",
-          "enfoque": "Pone el foco en el atentado contra RCN y la ausencia de heridos."
-        }
-      ],
-      "coincidencias": "Coinciden en los daños materiales sin víctimas en ambos hechos.",
-      "diferencias": "Difieren en el método del ataque a Amaime (drones o ingreso de hombres armados). La autoría es preliminar.",
-      "analisis": "El patrón de ataques con drones y explosivos contra objetivos de alto impacto se repite tras la ofensiva militar del Gobierno. Atacar infraestructura eléctrica tiene un efecto económico desproporcionado en época de estrechez energética.",
-      "implicaciones": "Empresas de energía e industriales del Valle y Cauca deben reforzar seguridad física y planes de continuidad. Posibles efectos en la oferta eléctrica local mientras se repara Amaime.",
-      "que_vigilar": "Tiempo de reparación de Amaime, capturas en el caso RCN y nuevos ataques a infraestructura.",
-      "fuentes": [
-        {
-          "medio": "Semana",
-          "titulo": "Hidroeléctrica de Amaime, en Palmira, blanco de un ataque con explosivos lanzados con drones",
-          "url": "https://www.semana.com/nacion/cali/articulo/hidroelectrica-de-amaime-en-palmira-blanco-de-un-ataque-con-explosivos-lanzados-con-drones/202611/"
-        },
-        {
-          "medio": "Semana",
-          "titulo": "Celsia rechaza el ataque terrorista con explosivos contra la hidroeléctrica en Amaime, Palmira",
-          "url": "https://www.semana.com/nacion/cali/articulo/celsia-rechaza-el-ataque-terrorista-con-explosivos-contra-la-hidroelectrica-en-amaine-palmira/202640/"
-        },
-        {
-          "medio": "El Espectador",
-          "titulo": "Central Hidroeléctrica de Amaime fue atacada con explosivos",
-          "url": "https://www.elespectador.com/judicial/central-hidroelectrica-de-amaime-fue-atacada-con-drones-cargados-con-explosivos/"
-        },
-        {
-          "medio": "El Tiempo",
-          "titulo": "Reportan ataque con granada frente a instalaciones de RCN en Cali",
-          "url": "https://www.eltiempo.com/colombia/cali/reportan-ataque-con-granada-frente-a-instalaciones-de-rcn-en-cali-explosivo-habria-sido-lanzado-por-personas-en-moto-esto-se-sabe-3600088"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Atentado contra la sede de RCN en Cali: lanzaron una granada desde una motocicleta",
-          "url": "https://www.infobae.com/colombia/2026/11/11/atentado-contra-la-sede-de-rcn-en-cali-lanzaron-una-granada-desde-una-motocicleta/"
-        }
-      ]
-    },
-    {
-      "titulo": "Octavo bombardeo en tres meses, tras la operación Noah en Tibú",
+      "titulo": "Bombardeo en Tarazá: ocho muertos del Clan del Golfo, entre ellos alias Negro Perea",
       "categoria": "Orden público / Defensa",
-      "importancia": 4,
-      "resumen": "El presidente De la Espriella autorizó la noche del 10 de noviembre (10:17 p. m.) el octavo bombardeo de su Gobierno desde el 7 de agosto. No reveló el lugar ni el grupo atacado y dijo que informará cuando los resultados estén verificados. Menos de 48 horas antes, la operación Noah contra disidencias en Tibú (Catatumbo) dejó cuatro muertos y seis capturados, según el Gobierno; el presidente dijo que es 'el primer cabecilla que sobrevive a uno de mis bombardeos'.",
-      "por_que_importa": "Muestra el giro hacia la ofensiva militar como eje de la política de seguridad, con efectos en zonas petroleras y fronterizas como el Catatumbo.",
+      "importancia": 5,
+      "resumen": "El octavo bombardeo del Gobierno, la operación Nehemías, ejecutada la noche del 10 de noviembre en zona rural de Tarazá (Antioquia) con apoyo de inteligencia de EE. UU., dejó al menos ocho presuntos integrantes del Clan del Golfo muertos, según el balance preliminar del presidente De la Espriella. Entre ellos estaría Haminton Mosquera, alias Negro Perea, cabecilla de la subestructura Manuel Alexander Ariza Gutiérrez, por quien se ofrecían $2.018 millones. Se incautaron cinco fusiles, dos pistolas y cuatro minas antipersona. Los cuerpos fueron llevados a Montería para su identificación. El presidente dijo que seguirán las acciones contra los mandos del Clan del Golfo.",
+      "por_que_importa": "Es el golpe más relevante contra el Clan del Golfo en este Gobierno y confirma la estrategia de bombardeos, en medio de una ola de ataques de grupos armados contra la Fuerza Pública, medios e infraestructura.",
       "perspectivas": [
         {
-          "medio": "El Tiempo",
-          "enfoque": "Informativo: cuenta los bombardeos y relaciona la operación con la de Tibú."
+          "medio": "Cambio",
+          "enfoque": "Titular directo: 'cayó alias Negro Perea'."
         },
         {
-          "medio": "Infobae",
-          "enfoque": "Destaca el número de bombardeos en tres meses."
-        },
-        {
-          "medio": "Publimetro",
-          "enfoque": "Recoge las frases del presidente sobre el cabecilla capturado."
+          "medio": "El Heraldo",
+          "enfoque": "Informativo con el balance oficial."
         },
         {
           "medio": "El Colombiano",
-          "enfoque": "Pone el foco en el estilo del presidente, que apareció vestido de militar y confrontó a alias Barba Chivo."
+          "enfoque": "Recoge testimonios locales: 'no supieron si fue un rayo'."
+        },
+        {
+          "medio": "Minuto30",
+          "enfoque": "Usa el condicional: 'estaría' alias Negro Perea."
+        },
+        {
+          "medio": "Colombia.com",
+          "enfoque": "Perfil del cabecilla y la recompensa ofrecida."
         }
       ],
-      "coincidencias": "Coinciden en la cifra de ocho bombardeos y en la falta de detalles sobre el último.",
-      "diferencias": "Algunos medios privilegian el balance oficial; El Colombiano subraya el componente de comunicación del presidente. La cobertura recoge poco las críticas de organizaciones de derechos humanos.",
-      "analisis": "El Gobierno argumenta que los bombardeos debilitan a las estructuras armadas; críticos, en debates previos, han cuestionado riesgos para civiles y reclutados menores. Los ataques con drones contra la Fuerza Pública sugieren una respuesta de los grupos armados.",
-      "implicaciones": "Empresas en el Catatumbo y zonas de conflicto: posible aumento de represalias contra infraestructura en el corto plazo.",
-      "que_vigilar": "Balance oficial del octavo bombardeo y reacción de los grupos armados.",
+      "coincidencias": "Coinciden en los ocho muertos, el nombre de la operación y el apoyo de inteligencia de EE. UU.",
+      "diferencias": "Algunos medios dan por confirmada la muerte de Negro Perea; otros la presentan en condicional porque falta la identificación plena. La cobertura recoge poco las críticas de organizaciones de derechos humanos.",
+      "analisis": "Para el Gobierno, los bombardeos son la vía para desarticular a las estructuras; sus críticos han advertido en el pasado riesgos para menores reclutados y civiles. Los ataques recientes con drones y explosivos sugieren que los grupos armados responden con represalias.",
+      "implicaciones": "Posibles represalias en el Bajo Cauca y el norte de Antioquia, zonas mineras y de infraestructura vial; revise protocolos de seguridad.",
+      "que_vigilar": "Identificación oficial de los cuerpos, reacción del Clan del Golfo y nuevos bombardeos.",
       "fuentes": [
         {
-          "medio": "El Tiempo",
-          "titulo": "Presidente De La Espriella reporta el octavo bombardeo de su gobierno, 48 horas después de operación en el Catatumbo",
-          "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-de-la-espriella-reporta-el-octavo-bombardeo-de-su-gobierno-48-horas-despues-de-operacion-en-el-catatumbo-3600078"
+          "medio": "Cambio",
+          "titulo": "Bombardeo contra el Clan del Golfo en Tarazá deja ocho muertos: cayó alias Negro Perea",
+          "url": "https://cambiocolombia.com/conflicto-armado-en-colombia/articulo/2026/11/bombardeo-contra-el-clan-del-golfo-en-taraza-deja-ocho-muertos-entre-ellos-alias-negro-perea"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Abelardo de la Espriella autorizó nuevo bombardeo en Colombia: es el octavo de su Gobierno en tres meses",
-          "url": "https://www.infobae.com/colombia/2026/11/11/abelardo-de-la-espriella-autorizo-nuevo-bombardeo-en-colombia-es-el-octavo-de-su-gobierno-en-tres-meses/"
-        },
-        {
-          "medio": "Publimetro",
-          "titulo": "Abelardo de la Espriella autorizó bombardeo en Tibú contra disidencias: cuatro muertos y seis capturados",
-          "url": "https://www.publimetro.co/noticias/2026/11/10/es-el-primer-cabecilla-que-sobrevive-a-uno-de-mis-bombardeos-abelardo-de-la-espriella-tras-captura-en-tibu/"
-        },
-        {
-          "medio": "El Tiempo",
-          "titulo": "Presidente entregó balance de la operación Noah contra disidencias en Tibú",
-          "url": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrego-balance-de-la-operacion-noah-contra-disidencias-en-tibu-y-anuncio-capturados-no-tendran-escondite-3599791"
+          "medio": "El Heraldo",
+          "titulo": "Bombardeo contra el Clan del Golfo en Antioquia deja ocho muertos, entre ellos 'Negro Perea'",
+          "url": "https://www.elheraldo.co/colombia/2026/11/11/bombardeo-contra-el-clan-del-golfo-en-antioquia-deja-ocho-muertos-entre-ellos-negro-perea/"
         },
         {
           "medio": "El Colombiano",
-          "titulo": "Vestido de militar, con boina y armado, Abelardo encaró a alias Barba Chivo",
-          "url": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-vestido-de-militar-confronta-a-alias-barba-chivo-FN43394144"
+          "titulo": "'No supieron si fue un rayo': Bombardeo en Tarazá dejó 8 miembros del Clan del Golfo muertos",
+          "url": "https://www.elcolombiano.com/antioquia/bombardeo-en-taraza-dejo-8-miembros-del-clan-del-golfo-muertos-CE43472541"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "Bombardeo en Tarazá deja ocho presuntos integrantes del Clan del Golfo muertos; estaría alias Negro Perea",
+          "url": "https://www.minuto30.com/bombardeo-en-taraza-deja-ocho-presuntos-integrantes-del-clan-del-golfo-muertos-estaria-alias-negro-perea/1729420/"
+        },
+        {
+          "medio": "Colombia.com",
+          "titulo": "Cayó alias Negro Perea: el cabecilla del Clan del Golfo por quien ofrecían $2.018 millones",
+          "url": "https://www.colombia.com/actualidad/nacionales/cayo-alias-negro-perea-el-cabecilla-del-clan-del-golfo-612180"
         }
       ]
     },
     {
-      "titulo": "El dólar roza los $3.300, máximo en más de un mes",
+      "titulo": "Ley de Rescate: el Gobierno cede y amplía ponentes; el IVA a la canasta familiar, en duda",
+      "categoria": "Economía / Política fiscal",
+      "importancia": 5,
+      "resumen": "Tras una reunión del vicepresidente José Manuel Restrepo y el ministro de Hacienda Miguel Gómez con bancadas de varios partidos, el Gobierno aceptó ampliar el número de ponentes de la Ley de Rescate para destrabar su trámite. Los ponentes iniciales en el Senado eran David Barguil y Carlos Mario Farelo. Según Headtopics, el proyecto tendrá ponentes de varios partidos y se tramitará en comisiones terceras y cuartas. La oposición había denunciado exclusión. Según Infobae, el Congreso podría no aprobar el aumento del IVA a alimentos de la canasta familiar; el ministro dijo que las conversaciones van bien.",
+      "por_que_importa": "Abre la puerta a un acuerdo más amplio, pero el IVA a alimentos es una de las principales fuentes de recaudo del proyecto; si cae, el Gobierno debe buscar alternativas.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Destaca la ampliación de ponentes como forma de destrabar el debate y el riesgo para el IVA."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Contrasta las 'esperanzas' del ministro del Interior con la realidad del Congreso."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Llama al proyecto 'reforma tributaria' y habla del inicio del pulso."
+        },
+        {
+          "medio": "Diario La Libertad",
+          "enfoque": "Recoge la denuncia de exclusión de la oposición."
+        },
+        {
+          "medio": "La Veintitrés",
+          "enfoque": "Informativo sobre el acuerdo de ampliación."
+        }
+      ],
+      "coincidencias": "Coinciden en la ampliación de ponentes y en que el IVA es el punto más sensible.",
+      "diferencias": "Difieren en el alcance de la ampliación y la ruta del trámite. Semana subraya las dificultades del Gobierno en el Congreso; otros medios ven avance.",
+      "analisis": "El Gobierno prioriza aprobar la ley a tiempo, aun a costa de ceder en su diseño. Quitar el IVA a la canasta reduciría el impacto en hogares, pero también el recaudo; críticos fiscales advertirán sobre el hueco resultante.",
+      "implicaciones": "Sectores de alimentos y consumo masivo: el escenario de IVA a la canasta desde 2028 pierde probabilidad. Atención a medidas compensatorias.",
+      "que_vigilar": "Lista final de ponentes, ponencia y posición sobre IVA a alimentos.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Gobierno amplía ponentes de la ley de rescate fiscal para destrabar debate en el Congreso",
+          "url": "https://www.infobae.com/colombia/2026/11/12/gobierno-amplia-ponentes-de-la-ley-de-rescate-fiscal-para-destrabar-debate-en-el-congreso/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Estos serán los ponentes que se encargarán de impulsar la Ley de Rescate Fiscal",
+          "url": "https://www.infobae.com/colombia/2026/11/10/estos-seran-los-ponentes-que-se-encargaran-de-impulsar-la-ley-de-rescate-fiscal-de-abelardo-de-la-espriella-en-el-congreso/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "El Gobierno de Abelardo De La Espriella, entre las 'esperanzas' de Alejandro Ordóñez y la realidad del Congreso",
+          "url": "https://www.semana.com/politica/articulo/el-gobierno-de-abelardo-de-la-espriella-entre-las-esperanzas-de-alejandro-ordonez-y-la-realidad-del-congreso/202638/"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Inicia el trámite legislativo de la reforma tributaria del gobierno De la Espriella con la designación de ponentes",
+          "url": "https://ifmnoticias.com/economicas/el-congreso-designa-ponentes-y-arranca-el-pulso-por-la-reforma-tributaria-de-de-/"
+        },
+        {
+          "medio": "Diario La Libertad",
+          "titulo": "Polémica en el Congreso por ponentes de la ley de rescate fiscal: oposición denuncia exclusión del debate",
+          "url": "https://diariolalibertad.com/2026/11/11/polemica-en-el-congreso-por-ponentes-de-la-ley-de-rescate-fiscal-oposicion-denuncia-exclusion-del-debate/"
+        },
+        {
+          "medio": "La Veintitrés",
+          "titulo": "Gobierno y Congreso amplían ponentes para destrabar rescate fiscal",
+          "url": "https://laveintitres.com/gobierno-y-congreso-amplan-ponentes-para-destrabar-rescate-fiscal/"
+        }
+      ]
+    },
+    {
+      "titulo": "El dólar se estabiliza cerca de $3.295; la TRM sube a $3.297",
       "categoria": "Economía / Divisas",
-      "importancia": 4,
-      "resumen": "El dólar cerró el martes 10 de noviembre cerca de $3.297–$3.299 (Semana y El Espectador), unos $30 por encima del lunes, con un máximo intradía de $3.309,99. La TRM del 10 fue $3.269,88, $32 más que la del lunes, y Dolarhoy señala que es el nivel más alto desde el 5 de octubre. Es el quinto día de alza. Las fuentes no atribuyen el movimiento a una causa concreta.",
-      "por_que_importa": "Un peso más débil encarece importaciones y deuda en dólares y se suma a una inflación que no cede.",
+      "importancia": 3,
+      "resumen": "El dólar cerró el 11 de noviembre cerca de $3.295 (Semana; $3.295,68 según RTA Noticias), con un máximo de $3.311 y un mínimo de $3.271, unos $2 por debajo de la TRM, que fue $3.297,07, la más alta desde el 2 de octubre según Dolarhoy. Fue la primera jornada sin alza tras varios días de subidas. En lo corrido del año, el dólar acumula una caída cercana a 12 %.",
+      "por_que_importa": "El peso se ha debilitado cerca de 3,6 % en noviembre, encareciendo importaciones justo cuando la inflación sigue en 6,30 %.",
       "perspectivas": [
         {
           "medio": "Semana",
-          "enfoque": "Titula que el dólar 'roza la barrera de los 3.300'."
+          "enfoque": "Lo presenta como un cierre 'a la baja' tras la racha alcista."
         },
         {
-          "medio": "El Espectador",
-          "enfoque": "Seguimiento del rango intradía."
+          "medio": "Portafolio",
+          "enfoque": "Destaca que el dólar 'roza los $3.300'."
         },
         {
-          "medio": "Noticias RCN",
-          "enfoque": "Destaca que la TRM 'volvió a subir'."
-        },
-        {
-          "medio": "Noticias Caracol",
-          "enfoque": "Cobertura de la TRM al alza."
+          "medio": "RTA Noticias",
+          "enfoque": "Nota de cierre con la cifra exacta."
         }
       ],
-      "coincidencias": "Coinciden en la tendencia alcista y en niveles cercanos a $3.300.",
-      "diferencias": "Pequeñas diferencias en el cierre por fuente de referencia.",
-      "analisis": "El alza ocurre pese a la caída del petróleo, que suele debilitar al peso, y coincide con un dato de inflación de EE. UU. más alto, que fortalece al dólar global. Factores locales, como la incertidumbre fiscal, podrían pesar, aunque no está confirmado.",
-      "implicaciones": "Importadores: revisar coberturas; el rango de Bancolombia para noviembre ($3.120–$3.300) está en su techo.",
-      "que_vigilar": "TRM del día, Ley de Rescate y expectativas de la Fed.",
+      "coincidencias": "Coinciden en niveles cercanos a $3.295–$3.300.",
+      "diferencias": "Unos titulares resaltan la pausa; otros, el nivel alto.",
+      "analisis": "El dólar global se fortaleció tras la inflación de EE. UU.; localmente, el petróleo en la zona de US$90 y la incertidumbre fiscal pesan sobre el peso, aunque las fuentes no confirman las causas.",
+      "implicaciones": "Importadores: mantener coberturas; el techo del rango de Bancolombia para noviembre ($3.300) está a prueba.",
+      "que_vigilar": "Resultados de Ecopetrol, avances de la Ley de Rescate y la Fed.",
       "fuentes": [
         {
           "medio": "Semana",
-          "titulo": "Dólar roza la barrera de los 3.300 pesos y cierra la jornada más caro",
-          "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-roza-la-barrera-de-los-3300-pesos-y-cierra-la-jornada-mas-caro/202659/"
+          "titulo": "Dólar cerró a la baja y finalizó la jornada del miércoles 11 de noviembre más barato",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-cerro-a-la-baja-y-finalizo-la-jornada-del-miercoles-11-de-noviembre-mas-barato/202606/"
         },
         {
-          "medio": "El Espectador",
-          "titulo": "Dólar hoy en Colombia: así se mueve el precio de la divisa este 10 de noviembre de 2026",
-          "url": "https://www.elespectador.com/economia/precio-del-dolar-hoy-en-colombia-asi-arranco-la-divisa-este-martes-10-de-noviembre/"
+          "medio": "Portafolio",
+          "titulo": "Precio del dólar en Colombia continúa subiendo y ya roza los $3.300",
+          "url": "https://www.portafolio.co/amp/economia/finanzas/precio-del-dolar-en-colombia-continua-subiendo-y-ya-roza-los-3-300-asi-cotiza-este-11-de-noviembre-506113"
         },
         {
-          "medio": "Noticias RCN",
-          "titulo": "Dólar en Colombia volvió a subir: así quedó la TRM este martes 10 de noviembre",
-          "url": "https://www.noticiasrcn.com/economia/dolar-en-colombia-hoy-martes-10-de-noviembre-de-2026-1080463"
+          "medio": "RTA Noticias",
+          "titulo": "Dólar Hoy 11 De Noviembre De 2026: Así Cerró En Colombia",
+          "url": "https://www.rtanoticias.com/dolar-hoy-11-de-noviembre-de-2026/"
+        }
+      ]
+    },
+    {
+      "titulo": "Ecopetrol presenta hoy resultados del tercer trimestre",
+      "categoria": "Empresas / Energía",
+      "importancia": 4,
+      "resumen": "Ecopetrol publica hoy, 12 de noviembre, después del cierre del mercado, sus resultados del tercer trimestre, los primeros bajo el Gobierno De la Espriella y con nueva junta directiva. La empresa proyecta una utilidad neta de $4 a $5 billones (frente a $2,56 billones un año antes) e ingresos de $33 a $36 billones, impulsados en parte por la compra de la brasileña Brava. El Brent ha caído cerca de 21 % en noviembre, lo que pesará en la guía hacia adelante.",
+      "por_que_importa": "Ecopetrol aporta dividendos e impuestos clave para el fisco, en plena discusión de la Ley de Rescate.",
+      "perspectivas": [
+        {
+          "medio": "Infobae (agencias)",
+          "enfoque": "Destaca que son los primeros resultados del nuevo Gobierno y la nueva junta."
         },
         {
-          "medio": "Noticias Caracol",
-          "titulo": "Precio del dólar hoy, 10 de noviembre de 2026, en Colombia: subió la TRM este martes",
-          "url": "https://www.noticiascaracol.com/economia/precio-del-dolar-hoy-10-de-noviembre-de-2026-en-colombia-subio-la-trm-este-martes-so35"
+          "medio": "La República",
+          "enfoque": "Informa el aplazamiento a hoy y la proyección de utilidades."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Pone el foco en el alza de 95 % gracias a Brava."
+        }
+      ],
+      "coincidencias": "Coinciden en la fecha y en el rango de utilidad esperado.",
+      "diferencias": "No se explicó el motivo del aplazamiento desde el 10 de noviembre.",
+      "analisis": "El trimestre se benefició de precios altos por la guerra; el mercado mirará la guía con un Brent cerca de US$92.",
+      "implicaciones": "Volatilidad esperada en la acción el viernes; atención a dividendos y plan de inversión 2027.",
+      "que_vigilar": "Utilidad, EBITDA, producción y guía para 2027.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Jueves, 12 de noviembre 2026 (02:00 GMT)",
+          "url": "https://infobae.com/america/agencias/2026/11/12/jueves-12-de-noviembre-2026-0200-gmt"
+        },
+        {
+          "medio": "La República",
+          "titulo": "Ecopetrol aplazó entrega de resultados financieros del tercer trimestre para el jueves",
+          "url": "https://www.larepublica.co/economia/ecopetrol-aplazo-entrega-de-resultados-financieros-del-tercer-trimestre-para-el-jueves-4520572"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "Ecopetrol espera subir sus utilidades 95% para el tercer trimestre, tras adquirir la petrolera brasileña Brava",
+          "url": "https://www.elcolombiano.com/negocios/ecopetrol-utilidades-tercer-trimestre-2026-KH43333009"
         }
       ]
     }
   ],
   "mundo": [
     {
-      "titulo": "Inflación de EE. UU. más alta de lo esperado; Wall Street retrocede",
-      "categoria": "Economía / EE. UU.",
+      "titulo": "Abu Dabi termina con un gran canje de prisioneros, sin avance en el cese al fuego",
+      "categoria": "Geopolítica / Europa",
       "importancia": 5,
-      "resumen": "El índice de precios al consumidor de EE. UU. subió 0,4 % en octubre (se esperaba 0,3 %) y el subyacente 0,3 % (se esperaba 0,2 %), según el BLS. El BLS no publicó la tasa anual por el cierre de gobierno de octubre de 2025. El rendimiento a 10 años subió a cerca de 4,98 %. El 10 de noviembre el Dow cayó 0,30 % a 52.231,89, el S&P 500 0,38 % a 7.520,93 y el Nasdaq 0,74 % a 25.065,87; Nvidia perdió cerca de 5,5 % por la investigación sobre su CEO.",
-      "por_que_importa": "Refuerza la expectativa de un alza de la Fed en diciembre, lo que fortalece al dólar y encarece el financiamiento global, incluido el de Colombia.",
+      "resumen": "Las conversaciones EE. UU.–Rusia–Ucrania en Abu Dabi terminaron el 11 de noviembre con un acuerdo para un gran canje de prisioneros —el mayor intercambio humanitario desde 2022, según los reportes—, que podría darse en dos o tres semanas; el número se definiría después. No hubo acuerdo sobre cese al fuego, territorio ni garantías de seguridad. No hay fecha para la próxima ronda: el negociador ucraniano David Arakhamia dijo que dependerá de las visitas de los enviados de EE. UU. a Putin y Zelenski, y espera una solución antes de Año Nuevo. Alemania pide que Europa participe.",
+      "por_que_importa": "Un cese al fuego sigue lejos; los precios de energía, granos y fertilizantes seguirán sujetos a la guerra.",
       "perspectivas": [
         {
-          "medio": "CNBC",
-          "enfoque": "Desglose de la inflación por componentes."
-        },
-        {
-          "medio": "TheStreet",
-          "enfoque": "Lo presenta como el dato que 'descarriló' el buen inicio de semana."
-        },
-        {
-          "medio": "StockTitan",
-          "enfoque": "Destaca que los precios subyacentes vuelven a subir."
+          "medio": "NPR",
+          "enfoque": "Canje de prisioneros pero 'sin gran avance'."
         },
         {
           "medio": "The Washington Post",
+          "enfoque": "Subraya que se acordó el canje 'y poco más'."
+        },
+        {
+          "medio": "Euronews",
+          "enfoque": "Pone el foco en las próximas reuniones de los enviados de EE. UU. con Putin."
+        },
+        {
+          "medio": "ABC (Australia)",
+          "enfoque": "Destaca el tamaño del canje."
+        },
+        {
+          "medio": "RT (medio estatal ruso)",
+          "enfoque": "Resumen desde la óptica rusa sobre seguridad y los encuentros paralelos."
+        }
+      ],
+      "coincidencias": "Todas las fuentes coinciden en el canje y en la falta de acuerdo sobre lo sustancial.",
+      "diferencias": "Medios occidentales subrayan la falta de avances; RT resalta los contactos y la agenda de seguridad desde la perspectiva rusa.",
+      "analisis": "El canje es un gesto de confianza que permite mantener abierto el canal. Los temas de fondo quedan para los líderes.",
+      "implicaciones": "Sin cambios inmediatos para los mercados de energía y granos.",
+      "que_vigilar": "Visitas de Witkoff y Kushner a Moscú y Kiev, fecha del canje y nueva ronda.",
+      "fuentes": [
+        {
+          "medio": "NPR",
+          "titulo": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
+        },
+        {
+          "medio": "The Washington Post",
+          "titulo": "Russia and Ukraine agree to prisoner swap, but little else, in U.S.-mediated talks",
+          "url": "https://www.washingtonpost.com/world/2026/11/11/russia-ukraine-agree-prisoner-swap-little-else-us-mediated-talks/"
+        },
+        {
+          "medio": "Euronews",
+          "titulo": "Abu Dhabi peace talks end with prisoner exchange agreement as US envoys prepare to meet Putin",
+          "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
+        },
+        {
+          "medio": "ABC News (Australia)",
+          "titulo": "Ukraine and Russia agree to large prisoner swap after two days of talks in Abu Dhabi",
+          "url": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462"
+        },
+        {
+          "medio": "RT",
+          "titulo": "Prisoner swap, security, and the sidelines: What came out of the Abu Dhabi talks?",
+          "url": "https://rt-english.com/russia/648714-russia-ukraine-us-talks-recap/"
+        }
+      ]
+    },
+    {
+      "titulo": "Irán y EE. UU. sopesan un acuerdo de US$8.000 millones para reabrir Ormuz",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 5,
+      "resumen": "Según Israel Hayom, citado por Iran International, Catar presentó a Trump un plan aprobado por Irán: Irán dejaría de atacar barcos vinculados al Golfo y EE. UU. levantaría el bloqueo y liberaría US$8.000 millones en activos iraníes retenidos en Catar; el programa nuclear no formaría parte. Ningún Gobierno ha confirmado el componente financiero. Según los reportes, el vicepresidente Vance impulsa el acuerdo y el secretario de Estado Rubio y otros miembros del gabinete se oponen. Trump dijo a CNN que nuevos ataques son 'muy improbables' si hay un acuerdo nuclear sólido y se reabre Ormuz. El jefe de seguridad iraní, Mohsen Rezaei, negó que haya conversaciones.",
+      "por_que_importa": "Reabrir Ormuz bajaría aún más el petróleo y los costos de transporte; un fracaso podría reactivar el conflicto.",
+      "perspectivas": [
+        {
+          "medio": "Iran International",
+          "enfoque": "Difunde el reporte sobre el plan de US$8.000 millones."
+        },
+        {
+          "medio": "Latin Times",
+          "enfoque": "Subraya que el programa nuclear sigue siendo el principal obstáculo."
+        },
+        {
+          "medio": "National Security Journal",
+          "enfoque": "Explica que Ormuz podría abrir en dos días si ambas partes apoyan el plan catarí."
+        },
+        {
+          "medio": "Syz Group",
+          "enfoque": "Enfoque de mercado: el reporte del acuerdo movió el petróleo."
+        }
+      ],
+      "coincidencias": "Coinciden en que hay un plan sobre la mesa y en que no está confirmado.",
+      "diferencias": "Irán niega oficialmente negociar; los reportes hablan de un plan avanzado. Hay divisiones dentro del Gobierno de EE. UU.",
+      "analisis": "Un acuerdo limitado a Ormuz, sin el tema nuclear, sería un alivio comercial pero dejaría abierto el conflicto de fondo. Un acuerdo similar firmado en Suiza en mayo colapsó tras un ataque a un tanquero, según Israel Hayom.",
+      "implicaciones": "Alta sensibilidad del petróleo y los fletes a cualquier anuncio.",
+      "que_vigilar": "Decisión de Trump, posición de Rubio y Vance, e incidentes en Ormuz.",
+      "fuentes": [
+        {
+          "medio": "Iran International",
+          "titulo": "Qatar to present Trump with $8 billion Hormuz deal: report",
+          "url": "https://www.iranintl.com/en/202611094583"
+        },
+        {
+          "medio": "Latin Times",
+          "titulo": "Iran proposes reopening the Strait of Hormuz after US concessions, but nuclear talks remain the key sticking point",
+          "url": "https://www.latintimes.com/iran-qatar-strait-hormuz-reopening-nuclear-talks-601047"
+        },
+        {
+          "medio": "National Security Journal",
+          "titulo": "The Strait of Hormuz Could Open in 2 Days if Trump and Iran Would Support a New Deal",
+          "url": "https://nationalsecurityjournal.org/the-strait-of-hormuz-could-open-in-2-days-if-donald-trump-and-iran-would-support-a-new-deal-to-end-the-war-by-qatar/"
+        },
+        {
+          "medio": "Syz Group",
+          "titulo": "US and Iran were said to be considering an $8 billion deal to reopen the Strait of Hormuz",
+          "url": "https://blog.syzgroup.com/syz-the-moment/yesterday-evening-the-us-and-iran-were-said-to-be-considering-an-8-billion-deal-to-reopen-the-strait-of-hormuz"
+        }
+      ]
+    },
+    {
+      "titulo": "El petróleo rebota 1,4 % por los ataques a barcos en Ormuz",
+      "categoria": "Energía / Mercados",
+      "importancia": 4,
+      "resumen": "Según MLQ.ai, el Brent subió 1,39 % el 11 de noviembre y cerró en US$92,76, y el WTI en US$86,53, después de que el jefe de seguridad iraní negara conversaciones con Washington y de nuevos ataques a barcos comerciales en Ormuz. Un día antes, el Brent había tocado US$89,16, su primer paso por debajo de US$90 desde agosto. Desde inicios de noviembre, el Brent cae cerca de 21 % y el WTI 17 %.",
+      "por_que_importa": "El rango de US$90–93 es clave para las cuentas fiscales de Colombia y los resultados de Ecopetrol.",
+      "perspectivas": [
+        {
+          "medio": "MLQ.ai",
+          "enfoque": "Vincula el rebote a la negación iraní de las conversaciones."
+        },
+        {
+          "medio": "EnergyNow",
+          "enfoque": "Destaca el rechazo iraní a una exigencia nuclear clave de EE. UU."
+        },
+        {
+          "medio": "Le Private Banker",
+          "enfoque": "Enfoca los ataques a barcos que frenan la esperanza de tregua."
+        },
+        {
+          "medio": "Finimize",
+          "enfoque": "Contrasta el riesgo en Ormuz con el aumento de la producción."
+        }
+      ],
+      "coincidencias": "Coinciden en el rebote moderado tras la fuerte caída.",
+      "diferencias": "Las cifras de cierre del 11 de noviembre provienen principalmente de una sola fuente.",
+      "analisis": "El mercado oscila entre la esperanza de acuerdo y el riesgo de nuevos ataques; la mayor producción de la OPEP limita los rebotes.",
+      "implicaciones": "Planee con rangos amplios para el crudo en 2027.",
+      "que_vigilar": "Inventarios de EE. UU., OPEP+ y novedades sobre el acuerdo de Ormuz.",
+      "fuentes": [
+        {
+          "medio": "MLQ.ai",
+          "titulo": "Brent rises as Iran denies talks, and the EIA sees oil near $100 through year-end",
+          "url": "https://mlq.ai/news/brent-rises-as-iran-denies-talks-and-the-eia-sees-oil-near-100-through-year-end"
+        },
+        {
+          "medio": "EnergyNow",
+          "titulo": "Oil Prices Rebound as Iran Rejects Key U.S. Nuclear Demand and Strait of Hormuz Shipping Attacks Renew Supply Concerns",
+          "url": "https://energynow.com/2026/11/oil-prices-rebound-as-iran-rejects-key-u-s-nuclear-demand-and-strait-of-hormuz-shipping-attacks-renew-supply-concerns/"
+        },
+        {
+          "medio": "Le Private Banker",
+          "titulo": "Oil Rebounds From Two-Month Lows as Hormuz Shipping Attacks Cut Across Iran Truce Hopes",
+          "url": "https://leprivatebanker.com/2026/11/11/oil-rebounds-from-two-month-lows-as-hormuz-shipping-attacks-cut-across-iran-truce-hopes/"
+        },
+        {
+          "medio": "Finimize",
+          "titulo": "Oil Prices Slip As Hormuz Risks Clash With Rising Output",
+          "url": "https://finimize.com/content/oil-prices-slip-as-hormuz-risks-clash-with-rising-output"
+        }
+      ]
+    },
+    {
+      "titulo": "CoreWeave reaviva la IA en Wall Street; Nvidia cae después del cierre por nuevo reporte sobre Huang",
+      "categoria": "Mercados / Tecnología",
+      "importancia": 4,
+      "resumen": "El 11 de noviembre el S&P 500 subió 1,31 % a 7.619,38, el Nasdaq 1,6 % a 25.466,19 y el Dow 0,49 % a 52.486,49, impulsados por CoreWeave, que subió 24,7 % tras reportar ingresos de US$3.660 millones (+168 %) y elevar su guía de 2026. Apple marcó otro récord. Nvidia subió 2,87 % en la sesión, pero después del cierre cayó entre 5 % y 8 %, según la fuente, tras un reporte de The New York Times sobre la relación de Jensen Huang con una ejecutiva que le reporta.",
+      "por_que_importa": "Los resultados de CoreWeave alivian dudas sobre el gasto en IA, pero el caso Nvidia mantiene la volatilidad en el sector que más pesa en los índices.",
+      "perspectivas": [
+        {
+          "medio": "TheStreet",
+          "enfoque": "Destaca CoreWeave y el récord de Apple."
+        },
+        {
+          "medio": "The Motley Fool",
+          "enfoque": "Lo presenta como el regreso del 'trade' de la IA."
+        },
+        {
+          "medio": "Cboe",
+          "enfoque": "Análisis: los resultados de CoreWeave alivian temores sobre el gasto en IA."
+        },
+        {
+          "medio": "Yahoo Finance",
           "enfoque": "Resumen de cómo cerraron los índices."
         }
       ],
-      "coincidencias": "Coinciden en que el dato superó lo esperado y elevó la probabilidad de un alza de tasas.",
-      "diferencias": "Algunos análisis hablan de un alza de 50 puntos básicos en juego; la mayoría espera 25.",
-      "analisis": "Con empleo fuerte e inflación por encima de lo previsto, la Fed tiene argumentos para subir. El petróleo más barato podría aliviar los próximos datos.",
-      "implicaciones": "Mayor presión sobre el peso colombiano y sobre la deuda en dólares; el costo de financiamiento externo seguirá alto.",
-      "que_vigilar": "Discursos de la Fed, precios al productor y decisión del 9 de diciembre.",
+      "coincidencias": "Coinciden en las cifras de cierre y en el papel de CoreWeave.",
+      "diferencias": "La magnitud de la caída de Nvidia después del cierre varía entre 5 % y 8 % según la fuente.",
+      "analisis": "El mercado separa la demanda de IA, que sigue fuerte, del riesgo de gobierno corporativo en Nvidia. Los resultados de Nvidia del 17 de noviembre serán decisivos.",
+      "implicaciones": "Fondos con exposición a tecnología estadounidense: esperar apertura volátil hoy.",
+      "que_vigilar": "Apertura de Nvidia, resultados del 17 de noviembre y audiencia del 18.",
       "fuentes": [
-        {
-          "medio": "CNBC",
-          "titulo": "Here's the inflation breakdown for October 2026 — in one chart",
-          "url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html"
-        },
-        {
-          "medio": "BLS",
-          "titulo": "Consumer Price Index News Release - 2026 M10 Results",
-          "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
-        },
         {
           "medio": "TheStreet",
-          "titulo": "Stock Market Today (Nov. 10, 2026): Nasdaq falls after key inflation report derails strong start to week",
-          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+          "titulo": "Stock Market Today (Nov. 11, 2026): Nasdaq, S&P 500 gain after CoreWeave earnings beat; Apple hits new record",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
         },
         {
-          "medio": "StockTitan",
-          "titulo": "The Stock Market Today, November 10, 2026, Closed Lower on the Day BLS Data Show Core Prices Rising Again",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+          "medio": "The Motley Fool",
+          "titulo": "Stock Market Today, Nov. 11: Nvidia Rebounds as CoreWeave Earnings Reignite the AI Trade",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-nvidia-rebounds-as-coreweave-earnings-reignite-the-ai-trade/"
         },
         {
-          "medio": "The Washington Post",
-          "titulo": "How major US stock indexes fared Tuesday 11/10/2026",
-          "url": "https://www.washingtonpost.com/business/2026/11/10/wall-street-stocks-dow-nasdaq/a8f8d958-dd4c-11f1-912c-4fbb80d73f7f_story.html"
-        }
-      ]
-    },
-    {
-      "titulo": "Irán niega negociar y mantiene Ormuz cerrado hasta que EE. UU. acepte sus condiciones",
-      "categoria": "Geopolítica / Medio Oriente",
-      "importancia": 5,
-      "resumen": "El jefe de seguridad iraní, Mohsen Rezaei, dijo que Ormuz no reabrirá hasta que EE. UU. cumpla siete condiciones —entre ellas levantar sanciones y el bloqueo naval y poner fin a los combates en todos los frentes— y calificó de 'mentira' los reportes de negociaciones. El canciller Araghchi, en cambio, dijo que la propuesta de dos días sigue sobre la mesa. Trump mantiene el 'statu quo': bloqueo de puertos y despliegue de otro portaaviones, aunque considera 'muy improbable' volver a atacar si hay avances. CNN informa que ambos países negocian discretamente un acuerdo. La Guardia Revolucionaria dijo que al menos tres buques chocaron con minas.",
-      "por_que_importa": "Ormuz sigue cerrado; el desenlace define el precio del petróleo y del transporte marítimo en las próximas semanas.",
-      "perspectivas": [
-        {
-          "medio": "Dawn (Pakistán)",
-          "enfoque": "Destaca la exigencia iraní de condiciones para reabrir Ormuz."
+          "medio": "Cboe",
+          "titulo": "CoreWeave Earnings Alleviate Some AI Spending Fears",
+          "url": "https://www.cboe.com/insights/posts/core-weave-earnings-alleviate-some-ai-spending-fears"
         },
         {
-          "medio": "Yahoo News",
-          "enfoque": "Pone el foco en que Irán niega las conversaciones."
-        },
-        {
-          "medio": "Fox News",
-          "enfoque": "Enfatiza que EE. UU. sigue 'listo y cargado' con un nuevo portaaviones."
-        },
-        {
-          "medio": "CNN",
-          "enfoque": "Explica que hay negociaciones discretas en curso."
-        }
-      ],
-      "coincidencias": "Coinciden en que el bloqueo sigue y en que Ormuz permanece cerrado.",
-      "diferencias": "Irán niega negociar; CNN y Catar describen diplomacia activa. Las cifras de buques afectados provienen de Irán.",
-      "analisis": "Los mensajes contradictorios dentro de Irán pueden reflejar divisiones internas o tácticas de negociación. Mientras no haya acuerdo, el mercado petrolero seguirá sensible a cada titular.",
-      "implicaciones": "Volatilidad en fletes, seguros y petróleo; importadores deben mantener inventarios de seguridad.",
-      "que_vigilar": "Respuesta formal de EE. UU., incidentes en Ormuz y movimientos navales.",
-      "fuentes": [
-        {
-          "medio": "Dawn",
-          "titulo": "Iran urges US to meet terms for Hormuz opening",
-          "url": "https://www.dawn.com/news/2043645/iran-urges-us-to-meet-terms-for-hormuz-opening"
-        },
-        {
-          "medio": "Yahoo News",
-          "titulo": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-          "url": "https://www.yahoo.com/news/politics/articles/iran-denies-talks-us-says-082156247.html"
-        },
-        {
-          "medio": "Fox News",
-          "titulo": "Trump keeps US 'locked and loaded' against Iran as new aircraft carrier, blockade maintain pressure",
-          "url": "https://www.foxnews.com/live-news/trump-says-he-s-unlikely-to-escalate-iran-conflict-amid-talks-responds-to-vance-assessment"
-        },
-        {
-          "medio": "CNN",
-          "titulo": "US and Iran are quietly negotiating as Middle East remains on edge. Here's what to know",
-          "url": "https://www.cnn.com/2026/11/09/middleeast/iran-us-talks-explainer-intl"
-        }
-      ]
-    },
-    {
-      "titulo": "El Brent perfora brevemente los US$90 por primera vez desde agosto",
-      "categoria": "Energía / Mercados",
-      "importancia": 4,
-      "resumen": "El Brent cayó brevemente por debajo de US$90 el 10 de noviembre, por primera vez desde agosto, y cerró en US$91,49 (−1,17 %); el WTI terminó en US$86,04 (−0,93 %), según CNBC. La caída sigue a las señales de contención de Trump sobre Irán, pese a que Ormuz permanece cerrado y el bloqueo continúa.",
-      "por_que_importa": "El petróleo acumula una caída de más de 20 % desde el día de las elecciones en EE. UU., con efecto directo en los ingresos de Colombia y de Ecopetrol, que publica resultados mañana.",
-      "perspectivas": [
-        {
-          "medio": "CNBC",
-          "enfoque": "Destaca el quiebre momentáneo de los US$90 y lo liga a la esperanza sobre Irán."
-        },
-        {
-          "medio": "EnergyNow",
-          "enfoque": "Pone el foco en la contención de Trump."
-        },
-        {
-          "medio": "Trading Economics",
-          "enfoque": "Datos de mercado diarios."
-        }
-      ],
-      "coincidencias": "Coinciden en la dirección bajista y en el motor geopolítico.",
-      "diferencias": "Las cifras de cierre varían levemente según la hora y el contrato.",
-      "analisis": "El mercado descuenta un acuerdo que aún no existe; Ormuz cerrado es un riesgo de rebote abrupto.",
-      "implicaciones": "El Gobierno colombiano podría revisar el subsidio a combustibles y los supuestos fiscales de 2027.",
-      "que_vigilar": "Inventarios de EE. UU., OPEP+ y novedades de Irán.",
-      "fuentes": [
-        {
-          "medio": "CNBC",
-          "titulo": "Brent crude briefly dips below $90 for first time since August on Iran hopes",
-          "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
-        },
-        {
-          "medio": "EnergyNow",
-          "titulo": "Oil Prices Fall Again as Trump Signals Restraint on Iran - WTI Near $85, Brent Approaches $90",
-          "url": "https://energynow.com/2026/11/oil-prices-fall-again-as-trump-signals-restraint-on-iran-wti-near-85-brent-approaches-90/"
-        },
-        {
-          "medio": "Trading Economics",
-          "titulo": "Brent oil - Price - Chart - Historical Data - News",
-          "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
-        }
-      ]
-    },
-    {
-      "titulo": "Abu Dabi: segundo día de conversaciones sin avances anunciados",
-      "categoria": "Geopolítica / Europa",
-      "importancia": 4,
-      "resumen": "Rusia y Ucrania retomaron este miércoles el segundo día de conversaciones mediadas por EE. UU. en Abu Dabi, tras casi cuatro horas el primer día, según NPR. La agenda incluye un posible cese al fuego, energía y seguridad en el mar Negro. Zelenski calificó la primera jornada de 'constructiva', aunque dijo que el territorio deberá decidirse entre líderes; Rubio la llamó 'muy productiva' y pidió paciencia. AP informa que ninguna de las partes muestra disposición a ceder en sus demandas.",
-      "por_que_importa": "Un cese al fuego cambiaría los precios de energía y granos y el régimen de sanciones a Rusia.",
-      "perspectivas": [
-        {
-          "medio": "Kyiv Post",
-          "enfoque": "Destaca la agenda de la segunda jornada."
-        },
-        {
-          "medio": "France 24",
-          "enfoque": "Cobertura en vivo de las conversaciones."
-        },
-        {
-          "medio": "NPR",
-          "enfoque": "Informa la duración y el tono del primer día."
-        },
-        {
-          "medio": "The Washington Post",
-          "enfoque": "Contexto del inicio de las conversaciones."
-        },
-        {
-          "medio": "HuffPost (AP)",
-          "enfoque": "Subraya la falta de disposición a ceder."
-        }
-      ],
-      "coincidencias": "Coinciden en la agenda y en que no hay avances anunciados.",
-      "diferencias": "Las valoraciones oficiales (constructiva, productiva) contrastan con la evaluación de AP sobre posiciones rígidas.",
-      "analisis": "Las conversaciones técnicas pueden lograr acuerdos parciales (energía, mar Negro, prisioneros) antes que uno territorial.",
-      "implicaciones": "Un acuerdo parcial en el mar Negro aliviaría costos de granos y fertilizantes.",
-      "que_vigilar": "Comunicado final, posibles canjes de prisioneros y una próxima ronda.",
-      "fuentes": [
-        {
-          "medio": "Kyiv Post",
-          "titulo": "Ukraine, US, Russia Begin Second Day of Abu Dhabi Talks",
-          "url": "https://www.kyivpost.com/post/89761"
-        },
-        {
-          "medio": "France 24",
-          "titulo": "Live: Ukraine, Russia begin second day of US-mediated talks in Abu Dhabi",
-          "url": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi"
-        },
-        {
-          "medio": "NPR",
-          "titulo": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
-          "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
-        },
-        {
-          "medio": "The Washington Post",
-          "titulo": "Russia and Ukraine begin U.S.-backed peace talks in Abu Dhabi",
-          "url": "https://www.washingtonpost.com/world/2026/11/10/russia-ukraine-begin-us-backed-peace-talks-abu-dhabi/"
-        },
-        {
-          "medio": "HuffPost",
-          "titulo": "Russia And Ukraine Hold Second Day Of U.S.-Brokered Talks In Abu Dhabi",
-          "url": "https://www.huffpost.com/entry/us-brokered-russia-ukraine-talks-abu-dhabi_n_6af43d31e4b09e0b5c534308"
+          "medio": "Yahoo Finance",
+          "titulo": "How major US stock indexes fared Wednesday 11/11/2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-211834867.html"
         }
       ]
     }
   ],
-  "lectura_mercados": "La inflación de EE. UU. por encima de lo esperado pesó en Wall Street (S&P 500 −0,38 %) y subió el bono a 10 años a cerca de 4,98 %, lo que fortalece al dólar global. En Colombia, el dólar se acercó a $3.300 pese a que el Brent cayó a US$91,49 —brevemente por debajo de US$90—, una combinación desfavorable: peso débil y menos ingresos petroleros. Con la inflación local en 6,30 % y probables alzas de la Fed, el escenario de tasas altas se prolonga. Mañana, resultados de Ecopetrol. No se verificó la TRM del 11 de noviembre ni el cierre del COLCAP y del oro.",
+  "lectura_mercados": "Wall Street recuperó terreno (S&P 500 +1,31 %) gracias a los resultados de CoreWeave, aunque Nvidia cayó después del cierre por un nuevo reporte sobre su CEO. El petróleo rebotó levemente (Brent US$92,76) tras tocar mínimos de dos meses, en medio de reportes de un posible acuerdo para reabrir Ormuz. En Colombia, el dólar hizo una pausa cerca de $3.295 y la TRM subió a $3.297,07; el peso acumula una depreciación de cerca de 3,6 % en noviembre. Hoy, resultados de Ecopetrol después del cierre. No se verificaron la TRM del 12 de noviembre, el COLCAP, el oro ni el bono a 10 años de EE. UU.",
   "agenda": [
-    "Hoy, 11 de noviembre: segundo día de conversaciones EE. UU.–Rusia–Ucrania en Abu Dabi.",
-    "Hoy: el Gobierno anunciaría el balance del octavo bombardeo.",
-    "12 de noviembre, después del cierre: Ecopetrol publica resultados del tercer trimestre.",
-    "Esta semana: mesas técnicas de la Ley de Rescate.",
+    "Hoy, 12 de noviembre, después del cierre: Ecopetrol publica resultados del tercer trimestre.",
+    "Próximos días: identificación oficial de los muertos en el bombardeo de Tarazá.",
+    "Próximas semanas: canje de prisioneros Rusia–Ucrania (dos o tres semanas, según reportes) y visitas de enviados de EE. UU. a Putin y Zelenski.",
+    "Mediados de noviembre: ponencia de la Ley de Rescate con la nueva lista ampliada.",
     "17 de noviembre: resultados de Nvidia; 18 de noviembre: citación de Jensen Huang en la Cámara de EE. UU.",
     "19 de noviembre: paro nacional convocado por la CUT.",
     "9 de diciembre: decisión de tasas de la Reserva Federal.",
@@ -469,7 +459,7 @@
     "16 de diciembre: fin del periodo ordinario del Congreso.",
     "18 de diciembre: decisión de tasas del Banco de la República."
   ],
-  "balance_cobertura": "Las versiones sobre el ataque a Amaime difieren (drones o ingreso de hombres armados) y la autoría es preliminar. La cobertura de los bombardeos recoge sobre todo la versión oficial y poco las críticas de organizaciones de derechos humanos. Sobre Irán, sus propios voceros se contradicen y las cifras de buques afectados no están verificadas. El BLS no publicó la tasa anual de inflación de EE. UU. No se verificaron: la TRM del 11 de noviembre (se muestra la del 10), los cierres del COLCAP y del oro (retirados de la tabla) y la fuente primaria exacta del rendimiento del bono a 10 años (aproximado). No se encontró el resultado de la segunda jornada en Abu Dabi al cierre de esta edición.",
+  "balance_cobertura": "El balance del bombardeo de Tarazá es preliminar y proviene del Gobierno; la identidad de alias Negro Perea no tiene confirmación independiente y la cobertura recoge poco las críticas de organizaciones de derechos humanos. El plan de US$8.000 millones para Ormuz viene de un reporte de Israel Hayom difundido por Iran International y no está confirmado por ningún Gobierno; Irán niega negociar. Los cierres del petróleo del 11 de noviembre provienen principalmente de una sola fuente (MLQ.ai). La caída de Nvidia después del cierre varía entre 5 % y 8 % según el medio. No se verificaron: la TRM del 12 de noviembre (se muestra la del 11), el COLCAP, el oro y el bono a 10 años de EE. UU. (fuera de la tabla). Los resultados de Ecopetrol se conocerán después de esta edición.",
   "mercados": [
     {
       "id": "trm",
@@ -477,11 +467,11 @@
       "grupo": "Divisas",
       "unidad": "COP",
       "decimales": 2,
-      "valor": 3269.88,
-      "variacion_pct": 0.99,
+      "valor": 3297.07,
+      "variacion_pct": 0.83,
       "variacion_mes_pct": null,
-      "vigencia": "10 nov (TRM del 11 no verificada)",
-      "fuente": "Superfinanciera (vía Noticias RCN)"
+      "vigencia": "11 nov (TRM del 12 no confirmada)",
+      "fuente": "Superfinanciera (vía Semana / Capital Colombia)"
     },
     {
       "id": "usdcop",
@@ -489,11 +479,11 @@
       "grupo": "Divisas",
       "unidad": "COP",
       "decimales": 0,
-      "valor": 3298,
-      "variacion_pct": 0.9,
+      "valor": 3295,
+      "variacion_pct": -0.1,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 10 nov",
-      "fuente": "Semana / El Espectador"
+      "vigencia": "Cierre 11 nov",
+      "fuente": "Semana / RTA Noticias"
     },
     {
       "id": "brent",
@@ -501,11 +491,11 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 91.49,
-      "variacion_pct": -1.17,
+      "valor": 92.76,
+      "variacion_pct": 1.39,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 10 nov",
-      "fuente": "CNBC"
+      "vigencia": "Cierre 11 nov",
+      "fuente": "MLQ.ai"
     },
     {
       "id": "wti",
@@ -513,11 +503,11 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 86.04,
-      "variacion_pct": -0.93,
+      "valor": 86.53,
+      "variacion_pct": 0.57,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 10 nov",
-      "fuente": "CNBC"
+      "vigencia": "Cierre 11 nov",
+      "fuente": "MLQ.ai"
     },
     {
       "id": "sp500",
@@ -525,11 +515,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 7520.93,
-      "variacion_pct": -0.38,
+      "valor": 7619.38,
+      "variacion_pct": 1.31,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 10 nov",
-      "fuente": "CNBC / The Washington Post"
+      "vigencia": "Cierre 11 nov",
+      "fuente": "CNBC / Yahoo Finance"
     },
     {
       "id": "nasdaq",
@@ -537,11 +527,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 25065.87,
-      "variacion_pct": -0.74,
+      "valor": 25466.19,
+      "variacion_pct": 1.6,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 10 nov",
-      "fuente": "CNBC / The Washington Post"
+      "vigencia": "Cierre 11 nov",
+      "fuente": "CNBC / Yahoo Finance"
     },
     {
       "id": "dow",
@@ -549,23 +539,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 52231.89,
-      "variacion_pct": -0.3,
+      "valor": 52486.49,
+      "variacion_pct": 0.49,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 10 nov",
-      "fuente": "CNBC / The Washington Post"
-    },
-    {
-      "id": "ust10",
-      "nombre": "Bono EE. UU. 10 años (aprox.)",
-      "grupo": "Tasas",
-      "unidad": "%",
-      "decimales": 2,
-      "valor": 4.98,
-      "variacion_pct": null,
-      "variacion_mes_pct": null,
-      "vigencia": "10 nov, tras el dato de inflación",
-      "fuente": "Resúmenes de cierre de mercado"
+      "vigencia": "Cierre 11 nov",
+      "fuente": "CNBC / Yahoo Finance"
     }
   ],
   "macro": [
@@ -667,40 +645,30 @@
     }
   ],
   "cobertura": {
-    "total_articulos": 36,
+    "total_articulos": 34,
     "medios": [
-      {
-        "medio": "El Tiempo",
-        "articulos": 4,
-        "ok": true
-      },
-      {
-        "medio": "Semana",
-        "articulos": 4,
-        "ok": true
-      },
       {
         "medio": "Infobae",
         "articulos": 3,
         "ok": true
       },
       {
-        "medio": "El Espectador",
+        "medio": "El Colombiano",
         "articulos": 2,
         "ok": true
       },
       {
-        "medio": "CNBC",
+        "medio": "Semana",
         "articulos": 2,
         "ok": true
       },
       {
-        "medio": "The Washington Post",
-        "articulos": 2,
+        "medio": "Cambio",
+        "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Universal",
+        "medio": "El Heraldo",
         "articulos": 1,
         "ok": true
       },
@@ -710,77 +678,37 @@
         "ok": true
       },
       {
-        "medio": "Publimetro",
+        "medio": "Colombia.com",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Colombiano",
+        "medio": "IFM Noticias",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Noticias RCN",
+        "medio": "Diario La Libertad",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Noticias Caracol",
+        "medio": "La Veintitrés",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "BLS",
+        "medio": "Portafolio",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "TheStreet",
+        "medio": "RTA Noticias",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "StockTitan",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Dawn",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Yahoo News",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Fox News",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "CNN",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "EnergyNow",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Trading Economics",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Kyiv Post",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "France 24",
+        "medio": "La República",
         "articulos": 1,
         "ok": true
       },
@@ -790,7 +718,82 @@
         "ok": true
       },
       {
-        "medio": "HuffPost",
+        "medio": "The Washington Post",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Euronews",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News (Australia)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "RT",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Iran International",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Latin Times",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "National Security Journal",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Syz Group",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "MLQ.ai",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "EnergyNow",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Le Private Banker",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Finimize",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "TheStreet",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Motley Fool",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Cboe",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance",
         "articulos": 1,
         "ok": true
       }
