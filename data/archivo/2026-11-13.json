@@ -1,0 +1,798 @@
+{
+  "fecha": "2026-11-13",
+  "generado": "2026-11-13T10:41:10.368035Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "Ecopetrol dispara sus ganancias mientras el dólar supera los $3.300; afuera, Jensen Huang deja Nvidia y Trump dice que ya no necesita un acuerdo con Irán, lo que hace rebotar el petróleo.",
+  "lo_esencial": [
+    "Ecopetrol gana $4,76 billones en el tercer trimestre (+85,6 %) por precios altos y Brava, pero su producción cae 3 % sin Brava.",
+    "El IVA a los alimentos de la canasta familiar es el 'innegociable' del Congreso en la Ley de Rescate; el Gobierno cedió ponentes.",
+    "La TRM sube a $3.301,91, la más alta en más de un mes; el peso pierde cerca de 3,7 % en noviembre.",
+    "A punto de cumplir 100 días, el Gobierno muestra golpes contra cabecillas; analistas y algunos medios señalan alzas en la violencia.",
+    "Jensen Huang renuncia a Nvidia; Colette Kress queda como CEO interina a cinco días de los resultados.",
+    "Trump dice que 'no necesita' un acuerdo con Irán y aparta a Vance de la negociación; el Brent sube 3,3 % a US$95,82."
+  ],
+  "colombia": [
+    {
+      "titulo": "Ecopetrol gana $4,76 billones en el tercer trimestre (+85,6 %), pero su producción cae",
+      "categoria": "Empresas / Energía",
+      "importancia": 5,
+      "resumen": "En sus primeros resultados con Joaquín Gutiérrez como presidente, Ecopetrol reportó una utilidad neta de $4,76 billones en el tercer trimestre, 85,6 % más que los $2,56 billones de un año antes, con ingresos de unos $35 billones (+17,5 %). En enero–septiembre la utilidad suma $13,7 billones (+82,7 %). La empresa lo atribuye a mayores precios del crudo, mejores márgenes de refinación y la incorporación de Brava Energía. La producción del grupo fue de 747.300 barriles equivalentes por día (−0,5 %); sin Brava, 728.400 (−3 %), por menor perforación en el Permian, declinación en el Piedemonte y La Guajira y restricciones de agua en los Llanos. La entrega se había aplazado por primera vez en su historia, sin explicación.",
+      "por_que_importa": "Mejores utilidades significan más dividendos e impuestos para el Estado en plena discusión fiscal; la caída de producción es un riesgo de mediano plazo, sobre todo con el petróleo bajando en noviembre.",
+      "perspectivas": [
+        {
+          "medio": "Bloomberg Línea",
+          "enfoque": "Destaca el salto de 85,6 % y el acumulado de $13,7 billones."
+        },
+        {
+          "medio": "Portafolio",
+          "enfoque": "Pone el foco en el contraste: el precio dispara utilidades pero 'la producción no reacciona'."
+        },
+        {
+          "medio": "Cambio",
+          "enfoque": "Lo presenta como el estreno de Joaquín Gutiérrez al frente de la empresa."
+        },
+        {
+          "medio": "El Espectador",
+          "enfoque": "Lo encuadra como continuidad de la recuperación."
+        },
+        {
+          "medio": "Infobae (EFE)",
+          "enfoque": "Informativo sobre el acumulado de nueve meses."
+        }
+      ],
+      "coincidencias": "Las fuentes coinciden en las cifras de utilidad e ingresos y en el papel de los precios del crudo.",
+      "diferencias": "Portafolio y Yahoo subrayan la caída de producción; otros medios priorizan el récord de utilidades. El motivo del aplazamiento no fue explicado.",
+      "analisis": "El trimestre se benefició de precios altos por la guerra con Irán, que ya están cediendo (Brent −20 % en noviembre). Con producción a la baja, el cuarto trimestre podría ser más débil. La compra de Brava compensa parcialmente la declinación local.",
+      "implicaciones": "Inversionistas: buena cifra, pero guía incierta. Para el fisco, más ingresos en 2027 por dividendos, aunque dependientes del precio.",
+      "que_vigilar": "Reacción de la acción hoy, guía de producción para 2027 y dividendos.",
+      "fuentes": [
+        {
+          "medio": "Bloomberg Línea",
+          "titulo": "Ecopetrol disparó sus ganancias 85,6% en el tercer trimestre de 2026 y acumuló COP$13,7 billones a septiembre",
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/ecopetrol-disparo-sus-ganancias-856-en-el-tercer-trimestre-de-2026-y-acumulo-cop137-billones-a-septiembre/"
+        },
+        {
+          "medio": "Portafolio",
+          "titulo": "Precio del petróleo dispara utilidades de Ecopetrol pero su producción de crudo y gas no reacciona",
+          "url": "https://www.portafolio.co/negocios/empresas/precio-del-petroleo-dispara-utilidades-de-ecopetrol-pero-su-produccion-de-crudo-y-gas-no-reacciona-506266"
+        },
+        {
+          "medio": "Cambio",
+          "titulo": "Ecopetrol presenta sus primeros resultados con Joaquín Gutiérrez: ganó $4,7 billones y aumentó sus utilidades 85,6 %",
+          "url": "https://cambiocolombia.com/empresas/articulo/2026/11/los-primeros-resultados-de-ecopetrol-con-joaquin-gutierrez-como-presidente-asi-le-fue-a-la-petrolera-en-el-tercer-trimestre-de-2026"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "Resultados de Ecopetrol: ganó COP 4,75 billones en el tercer trimestre",
+          "url": "https://www.elespectador.com/economia/empresas/ecopetrol-mantiene-la-recuperacion-gano-cop-475-billones-en-el-tercer-trimestre/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Ecopetrol incrementa un 82,7 % su utilidad neta entre enero y septiembre",
+          "url": "https://www.infobae.com/america/agencias/2026/11/12/ecopetrol-incrementa-un-827-su-utilidad-neta-entre-enero-y-septiembre/"
+        },
+        {
+          "medio": "El Tiempo",
+          "titulo": "Ecopetrol aplaza por primera vez en su historia la entrega de resultados financieros",
+          "url": "https://www.eltiempo.com/amp/economia/sectores/ecopetrol-aplaza-por-primera-vez-en-su-historia-la-entrega-de-resultados-financieros-su-accion-cae-1-73-en-la-bvc-3599704"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: el IVA a la canasta familiar, 'innegociable' para el Congreso",
+      "categoria": "Economía / Política fiscal",
+      "importancia": 5,
+      "resumen": "Según Infobae y Radio Hoy, el rechazo a subir el IVA de los alimentos de la canasta familiar es el punto en que más coinciden los congresistas; también se discute el IVA a medicina prepagada e internet. El Gobierno aceptó ampliar ponentes de varios partidos, pero persisten dudas sobre si el proyecto se debatirá en comisiones terceras, cuartas o ambas. En el Senado fueron designados David Barguil (Conservador, Comisión Tercera) y Carlos Mario Farelo (Cambio Radical, Comisión Cuarta); faltan los de la Cámara. Una bancada anunció ponencia de archivo, según Diario La Libertad. Moncloa.com advierte que la sobretasa financiera presiona a bancos españoles como BBVA y Santander.",
+      "por_que_importa": "Si se cae el IVA a alimentos, el Gobierno pierde una parte importante del recaudo previsto y deberá compensar con recortes u otros impuestos.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Mapea las posiciones de los partidos: el IVA a alimentos 'no pasaría'."
+        },
+        {
+          "medio": "Radio Hoy",
+          "enfoque": "Lo describe como el 'innegociable' del Congreso."
+        },
+        {
+          "medio": "Yahoo Noticias",
+          "enfoque": "Destaca que el Gobierno cedió en ponentes pero hay dudas sobre las comisiones."
+        },
+        {
+          "medio": "Moncloa.com",
+          "enfoque": "Mirada desde España: impacto de la sobretasa en BBVA y Santander."
+        },
+        {
+          "medio": "Diario La Libertad",
+          "enfoque": "Recoge la apertura de mesas técnicas y la ponencia de archivo anunciada por una bancada."
+        }
+      ],
+      "coincidencias": "Coinciden en que el IVA a alimentos tiene amplio rechazo y en que el trámite sigue sin primer debate.",
+      "diferencias": "Unas fuentes ven al Gobierno ganando apoyos al ampliar ponentes; otras subrayan las dudas procedimentales y la oposición abierta.",
+      "analisis": "Sin el IVA a alimentos, la reforma se inclinaría más hacia la rebaja de renta empresarial y los recortes, lo que puede debilitar el ajuste fiscal neto. El Gobierno argumenta que la devolución de IVA compensaría a los hogares vulnerables; sus críticos dicen que no alcanza a la clase media.",
+      "implicaciones": "Consumo masivo y alimentos: menor probabilidad de IVA de 19 % a la canasta desde 2028. Sector financiero: atención a la sobretasa.",
+      "que_vigilar": "Definición de comisiones, ponentes de la Cámara y propuestas para compensar el recaudo.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "IVA a los alimentos de la canasta familiar no pasaría en el Congreso: así están las posiciones",
+          "url": "https://www.infobae.com/colombia/2026/11/10/ley-de-rescate-congreso-podria-excluir-el-iva-a-los-alimentos-de-la-canasta-familiar/"
+        },
+        {
+          "medio": "Radio Hoy",
+          "titulo": "Ley de Rescate Fiscal: que no haya más IVA a los alimentos, el innegociable del Congreso",
+          "url": "https://www.radiohoy.com/2026/11/09/ley-de-rescate-fiscal-que-no-haya-mas-iva-a-los-alimentos-el-innegociable-del-congreso/831769/"
+        },
+        {
+          "medio": "Yahoo Noticias",
+          "titulo": "Gobierno cede y amplía ponentes para la Ley Fiscal, pero ahora hay dudas sobre las comisiones para debatirla",
+          "url": "https://es-us.noticias.yahoo.com/gobierno-cede-ampl%C3%ADa-ponentes-ley-120745928.html"
+        },
+        {
+          "medio": "Moncloa.com",
+          "titulo": "La ley de rescate fiscal de Colombia que amenaza los resultados de BBVA y Santander",
+          "url": "https://www.moncloa.com/2026/11/11/ley-rescate-fiscal-colombia-banca-espanola-3465811/"
+        },
+        {
+          "medio": "Diario La Libertad",
+          "titulo": "Gobierno y Congreso abren mesas técnicas para destrabar la Ley de Rescate",
+          "url": "https://diariolalibertad.com/2026/11/08/gobierno-y-congreso-abren-mesas-tecnicas-para-destrabar-la-ley-de-rescate/"
+        }
+      ]
+    },
+    {
+      "titulo": "Seguridad a los 100 días: el Gobierno muestra golpes; analistas piden estrategia integral",
+      "categoria": "Orden público / Gobierno",
+      "importancia": 4,
+      "resumen": "A punto de cumplir 100 días, el Gobierno destaca la Ley de Sometimiento, ocho bombardeos y operaciones como la de Tarazá. Portafolio recoge a analistas que advierten que la gestión se ha concentrado en acciones puntuales y que falta una estrategia integral. Colombia Reports, con datos de la Defensoría y la Policía, sostiene que extorsión, homicidios, terrorismo, secuestros y ataques a la Fuerza Pública han subido desde agosto y que la militarización de Santa Marta y Cúcuta ha tenido poco efecto. El ministro del Interior, Alejandro Ordóñez, anunció el 'fin de la feria' de los esquemas de protección: la UNP hará estudios de riesgo para decidir quién los mantiene.",
+      "por_que_importa": "La percepción de seguridad influye en la inversión y en el capital político del Gobierno para aprobar su reforma fiscal.",
+      "perspectivas": [
+        {
+          "medio": "Portafolio",
+          "enfoque": "Reconoce que la seguridad volvió al centro de la agenda, pero recoge críticas por falta de estrategia integral."
+        },
+        {
+          "medio": "Colombia Reports",
+          "enfoque": "Crítico: el Gobierno 'no logró' la seguridad en 90 días; cita alzas en los indicadores de violencia."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Destaca el anuncio oficial del 'fin de la feria' de los esquemas de protección."
+        },
+        {
+          "medio": "teleSUR",
+          "enfoque": "Medio de línea crítica a gobiernos de derecha; hace un balance de los 100 días en la 'Patria Milagro'."
+        }
+      ],
+      "coincidencias": "Las fuentes coinciden en que la seguridad es el eje de la agenda del Gobierno.",
+      "diferencias": "El Gobierno y medios afines resaltan los golpes a cabecillas; Colombia Reports y teleSUR resaltan el aumento de la violencia. Las cifras de Colombia Reports no fueron contrastadas con un informe oficial completo.",
+      "analisis": "La ofensiva militar produce resultados visibles (cabecillas abatidos), mientras los grupos armados responden con ataques con drones y explosivos. La evaluación de fondo exigirá series oficiales de varios meses.",
+      "implicaciones": "Empresas en regiones de conflicto deben esperar más volatilidad en el corto plazo; el recorte de esquemas de protección puede afectar a líderes y funcionarios regionales.",
+      "que_vigilar": "Balance oficial de los 100 días, cifras de la Policía y la Defensoría, y nuevos ataques.",
+      "fuentes": [
+        {
+          "medio": "Portafolio",
+          "titulo": "Seguridad vuelve al centro de la agenda en Colombia, pero advierten que hace falta una estrategia integral",
+          "url": "https://portafolio.co/economia/regiones/seguridad-vuelve-al-centro-de-la-agenda-en-colombia-pero-advierten-que-hace-falta-una-estrategia-integral-506275"
+        },
+        {
+          "medio": "Colombia Reports",
+          "titulo": "De la Espriella failed to make Colombia secure in 90 days",
+          "url": "https://colombiareports.com/de-la-espriella-failed-to-make-colombia-secure-in-90-days/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Gobierno de Abelardo De La Espriella anunció el 'fin de la feria' de los esquemas de protección y seguridad",
+          "url": "https://www.semana.com/nacion/articulo/gobierno-de-abelardo-de-la-espriella-anuncio-el-fin-de-la-feria-de-los-esquemas-de-proteccion-y-seguridad/202630/"
+        },
+        {
+          "medio": "teleSUR",
+          "titulo": "Colombia: Los primeros 100 días en la 'Patria Milagro'",
+          "url": "https://telesurtv.net/colombia-los-primeros-100-dias-en-la-patria-milagro"
+        }
+      ]
+    },
+    {
+      "titulo": "El dólar supera los $3.300: TRM de $3.301,91, la más alta en más de un mes",
+      "categoria": "Economía / Divisas",
+      "importancia": 4,
+      "resumen": "El dólar cerró el 12 de noviembre en $3.301, según RTA Noticias, y la TRM para hoy quedó en $3.301,91, el nivel más alto en más de un mes, según Colombia.com. Noviembre empezó con una TRM de $3.182,99: el peso se ha depreciado cerca de 3,7 % en el mes. Infobae habla de 'malas noticias' para quienes compran dólares.",
+      "por_que_importa": "El techo del rango previsto por Bancolombia para noviembre ($3.300) ya se superó; encarece importaciones y deuda en dólares.",
+      "perspectivas": [
+        {
+          "medio": "RTA Noticias",
+          "enfoque": "Informativo: cierre por encima de la TRM."
+        },
+        {
+          "medio": "Colombia.com",
+          "enfoque": "Destaca que es la TRM más alta en más de un mes."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Encuadre de consumidor: el dólar 'se sigue poniendo caro'."
+        }
+      ],
+      "coincidencias": "Coinciden en la tendencia alcista y en niveles cercanos a $3.300.",
+      "diferencias": "Ninguna diferencia relevante en cifras.",
+      "analisis": "El alza coincide con un dólar global fuerte por la inflación de EE. UU. y con incertidumbre fiscal local. El rebote del petróleo del jueves podría dar algún alivio.",
+      "implicaciones": "Importadores: revisar coberturas y precios. Exportadores: mejora en ingresos en pesos.",
+      "que_vigilar": "TRM del lunes, petróleo y avance de la Ley de Rescate.",
+      "fuentes": [
+        {
+          "medio": "RTA Noticias",
+          "titulo": "Así Cerró El Dólar En Colombia: El Dato Del 12 De Noviembre De 2026",
+          "url": "https://www.rtanoticias.com/asi-cerro-el-dolar-en-colombia-12-de-noviembre/"
+        },
+        {
+          "medio": "Colombia.com",
+          "titulo": "Precio del dólar hoy en Colombia: cotización de este viernes 13 de noviembre de 2026",
+          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-viernes-13-de-noviembre-de-2026-612424"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Precio del dólar hoy en Colombia: hay malas noticias, se sigue poniendo caro",
+          "url": "https://www.infobae.com/colombia/2026/11/11/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-11-de-noviembre/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Jensen Huang renuncia a Nvidia; Colette Kress, CEO interina",
+      "categoria": "Empresas / Tecnología",
+      "importancia": 5,
+      "resumen": "Nvidia anunció el 12 de noviembre que Jensen Huang renunció como presidente, CEO y miembro de la junta, con efecto inmediato, tras 33 años. La directora financiera, Colette Kress, será CEO interina sin dejar su cargo, y Harvey C. Jones fue nombrado el primer presidente de la junta. La empresa no dio razones; la salida sigue a la admisión de Huang de una relación extramatrimonial con una ejecutiva que funcionarios de EE. UU. vincularían con la inteligencia china y a nuevos reportes sobre otras relaciones. Huang fue citado a declarar ante el Congreso. La acción llegó a caer 14 % y cerró en US$166,19 (−4,34 %); Broadcom y AMD subieron.",
+      "por_que_importa": "Nvidia es la empresa más importante del auge de la IA; el cambio de liderazgo cinco días antes de sus resultados (17 de noviembre) añade incertidumbre al sector que más pesa en los índices.",
+      "perspectivas": [
+        {
+          "medio": "Nvidia",
+          "enfoque": "Comunicado oficial: transición de CEO, sin explicar motivos."
+        },
+        {
+          "medio": "TechCrunch",
+          "enfoque": "Informativo: renuncia y nombramiento interino."
+        },
+        {
+          "medio": "CNN",
+          "enfoque": "Pone el foco en la citación de Huang ante el Congreso."
+        },
+        {
+          "medio": "Yahoo Finance",
+          "enfoque": "Cobertura en vivo; recoge acusaciones de una tercera relación."
+        },
+        {
+          "medio": "PC Gamer",
+          "enfoque": "Repaso de todo lo ocurrido desde el escándalo."
+        }
+      ],
+      "coincidencias": "Coinciden en la renuncia, la CEO interina y la caída de la acción.",
+      "diferencias": "Los detalles personales varían entre medios y no están confirmados por la empresa; las acusaciones de espionaje no están probadas.",
+      "analisis": "El mercado separa la empresa de su fundador: la caída fue fuerte al inicio pero se moderó, y competidores como AMD y Broadcom subieron. La gestión de Kress en los resultados será la primera prueba.",
+      "implicaciones": "Fondos de pensiones e inversionistas con exposición a tecnología estadounidense: más volatilidad hasta el 17 de noviembre.",
+      "que_vigilar": "Resultados del 17 de noviembre, audiencia del 18 y búsqueda de un CEO permanente.",
+      "fuentes": [
+        {
+          "medio": "Nvidia",
+          "titulo": "NVIDIA Announces CEO Transition",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/"
+        },
+        {
+          "medio": "TechCrunch",
+          "titulo": "Nvidia's Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+          "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+        },
+        {
+          "medio": "CNN",
+          "titulo": "Jensen Huang summoned to testify before Congress after resigning as Nvidia CEO",
+          "url": "https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout"
+        },
+        {
+          "medio": "Yahoo Finance",
+          "titulo": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge",
+          "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-jensen-huang-resigns-cfo-colette-kress-to-serve-as-interim-ceo-140341430.html"
+        },
+        {
+          "medio": "PC Gamer",
+          "titulo": "The resignation of Jensen Huang from Nvidia and everything that has followed",
+          "url": "https://www.pcgamer.com/hardware/live/news/nvidia-jen-hsun-scandal/"
+        }
+      ]
+    },
+    {
+      "titulo": "Trump: 'No necesitamos un acuerdo con Irán'; aparta a Vance de la negociación",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 5,
+      "resumen": "Trump escribió el 12 de noviembre en Truth Social que 'no necesitamos un acuerdo con Irán, esos días ya pasaron' y que EE. UU. 'tiene su Estrecho'. También ordenó al vicepresidente JD Vance, que lideraba la diplomacia con Irán, enfocarse en la supuesta corrupción y criminalidad en estados y ciudades gobernados por demócratas. La Casa Blanca no aclaró si las conversaciones terminaron. Los hutíes de Yemen dijeron haber atacado una estación de bombeo del oleoducto Este-Oeste de Arabia Saudita, una instalación en Yanbu y otra de Aramco en Riad; Arabia Saudita no comentó.",
+      "por_que_importa": "El giro de Trump enfría las esperanzas de un acuerdo para reabrir Ormuz y elevó de inmediato el petróleo; los ataques a infraestructura saudí amplían el riesgo regional.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Enfoca la reacción del petróleo a la declaración de Trump."
+        },
+        {
+          "medio": "Haaretz",
+          "enfoque": "Destaca la afirmación de que EE. UU. controla el Estrecho."
+        },
+        {
+          "medio": "The National (EAU)",
+          "enfoque": "Informativo: Trump dice que ya no necesita un acuerdo."
+        },
+        {
+          "medio": "ABC News",
+          "enfoque": "Cobertura en vivo, con la respuesta del canciller iraní Araghchi."
+        },
+        {
+          "medio": "The Jerusalem Post",
+          "enfoque": "Recoge que los aliados del Golfo pidieron moderación y que Trump admitió el costo electoral de la guerra."
+        }
+      ],
+      "coincidencias": "Coinciden en la frase de Trump y en el efecto sobre el petróleo.",
+      "diferencias": "Unos medios lo leen como fin de la vía diplomática; otros, como táctica de presión. Los ataques hutíes no han sido confirmados por Arabia Saudita.",
+      "analisis": "Analistas citados advierten que afirmar el control de Ormuz puede provocar más ataques iraníes a buques. Apartar a Vance, que impulsaba el acuerdo de US$8.000 millones, sugiere que ganó la línea dura en el gabinete.",
+      "implicaciones": "Más volatilidad en petróleo, fletes y seguros; posible rebote adicional del Brent.",
+      "que_vigilar": "Reacción de Irán, incidentes en Ormuz, ataques hutíes y posición del Golfo.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "Trump says 'we don't need a deal with Iran'",
+          "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
+        },
+        {
+          "medio": "Haaretz",
+          "titulo": "Trump Says Iran Deal Is No Longer Needed, Claims U.S. Has 'Got Their Strait'",
+          "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-12/ty-article/.premium/trump-says-iran-deal-is-no-longer-needed-claims-u-s-has-got-their-strait/000001a1-cff5-d1ce-a9a3-eff730720000"
+        },
+        {
+          "medio": "The National",
+          "titulo": "Trump says US no longer needs Iran deal",
+          "url": "https://www.thenationalnews.com/news/us/2026/11/12/iran-deal-trump/"
+        },
+        {
+          "medio": "ABC News",
+          "titulo": "Iran live updates: 'We don't need a deal with Iran,' Trump says",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256"
+        },
+        {
+          "medio": "The Jerusalem Post",
+          "titulo": "Donald Trump says Gulf allies urged Iran restraint, war hurt GOP in midterms",
+          "url": "https://www.jpost.com/international/article-914787"
+        }
+      ]
+    },
+    {
+      "titulo": "El Brent rebota 3,3 % a US$95,82 tras el giro de Trump",
+      "categoria": "Energía / Mercados",
+      "importancia": 4,
+      "resumen": "El Brent cerró el 12 de noviembre en US$95,82 (+3,3 %) y el WTI en US$88,74 (+2,6 %), según CNBC, tras la declaración de Trump y los ataques a infraestructura energética saudí y a tanqueros en el Golfo. Aun así, el Brent va camino de una segunda semana de caídas (−2,3 %) después de perder 16 % la anterior, según RTÉ; en noviembre acumula −20 %. Reuters informa que Trump mantendrá el bloqueo.",
+      "por_que_importa": "El rebote mejora levemente las perspectivas fiscales de Colombia, pero confirma una volatilidad muy alta.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Liga el alza a la frase 'tenemos su Estrecho'."
+        },
+        {
+          "medio": "RTÉ (Irlanda)",
+          "enfoque": "Subraya que pese al rebote se encamina a la segunda semana de pérdidas."
+        },
+        {
+          "medio": "Reuters (vía Investing.com)",
+          "enfoque": "Pone el foco en que se mantiene el bloqueo a Irán."
+        }
+      ],
+      "coincidencias": "Coinciden en el rebote y en la tendencia semanal negativa.",
+      "diferencias": "Algunas cifras de WTI difieren según la hora del reporte.",
+      "analisis": "El mercado pasó de descontar un acuerdo a dudar de él en tres días; la dirección dependerá de la reacción iraní.",
+      "implicaciones": "Mantenga rangos amplios en presupuestos de combustible y supuestos fiscales.",
+      "que_vigilar": "Incidentes en Ormuz y el mar Rojo, inventarios y OPEP+.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+          "url": "https://cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+        },
+        {
+          "medio": "RTÉ",
+          "titulo": "Oil prices set for second weekly decline in a row",
+          "url": "https://www.rte.ie/news/business/2026/1113/1599081-world-oil-prices/"
+        },
+        {
+          "medio": "Investing.com (Reuters)",
+          "titulo": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
+          "url": "https://au.investing.com/news/commodities-news/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade-4767542"
+        }
+      ]
+    },
+    {
+      "titulo": "Wall Street cede levemente por Nvidia; Broadcom y AMD suben",
+      "categoria": "Mercados",
+      "importancia": 3,
+      "resumen": "El 12 de noviembre el S&P 500 cayó 0,35 % a 7.592,40, el Nasdaq 0,39 % a 25.366,09 y el Dow 0,36 % a 52.297,09; el Russell 2000 perdió 1,66 %. Nvidia, que llegó a caer 14 % tras la renuncia de su CEO, cerró −4,34 %; Broadcom subió 5,54 % y AMD también avanzó.",
+      "por_que_importa": "El mercado absorbió el golpe a Nvidia sin pánico, lo que sugiere que la demanda de IA sigue sostenida.",
+      "perspectivas": [
+        {
+          "medio": "Yahoo Finance",
+          "enfoque": "Destaca la salida de Huang y el alza de AMD y Broadcom."
+        },
+        {
+          "medio": "StockTitan",
+          "enfoque": "Cierre levemente negativo en un día dominado por Nvidia."
+        },
+        {
+          "medio": "KRMG (AP)",
+          "enfoque": "Resumen de cómo cerraron los índices."
+        }
+      ],
+      "coincidencias": "Coinciden en los cierres y en el papel de Nvidia.",
+      "diferencias": "Algunas cifras intradía difieren de los cierres.",
+      "analisis": "La rotación hacia otros fabricantes de chips muestra que los inversionistas siguen apostando a la IA, no necesariamente a Nvidia.",
+      "implicaciones": "Volatilidad sectorial sin contagio amplio por ahora.",
+      "que_vigilar": "Apertura del viernes y resultados de Nvidia (17 nov).",
+      "fuentes": [
+        {
+          "medio": "Yahoo Finance",
+          "titulo": "Markets News, Nov. 12, 2026: Major Stock Indexes Fall as Investors Digest News of Nvidia CEO Jensen Huang's Exit",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-131805045.html"
+        },
+        {
+          "medio": "StockTitan",
+          "titulo": "Stocks Closed Slightly Lower in the Stock Market Today, November 12, 2026, and Nvidia Said CEO Jensen Huang Resigned",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
+        },
+        {
+          "medio": "KRMG (AP)",
+          "titulo": "How major US stock indexes fared Thursday 11/12/2026",
+          "url": "https://krmg.com/2026/11/12/how-major-us-stock-indexes-fared-thursday-11-12-2026/"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "El giro de Trump sobre Irán revirtió parte de la caída del petróleo (Brent +3,3 % a US$95,82), aunque noviembre acumula −20 %. Wall Street absorbió la salida de Jensen Huang con caídas leves y rotación hacia otros fabricantes de chips. En Colombia, el dólar rompió los $3.300 y la TRM de hoy es $3.301,91; Ecopetrol presentó utilidades altas, pero con producción a la baja. El rebote del crudo podría aliviar al peso, pero la incertidumbre fiscal y un dólar global fuerte siguen pesando. No se verificaron COLCAP, oro ni el bono a 10 años de EE. UU.",
+  "agenda": [
+    "Hoy, 13 de noviembre: reacción de la acción de Ecopetrol a sus resultados.",
+    "Esta semana y la próxima: definición de comisiones y ponentes de la Cámara para la Ley de Rescate.",
+    "Hacia el 15 de noviembre: 100 días del Gobierno De la Espriella.",
+    "16 de noviembre: festivo en Colombia (Independencia de Cartagena).",
+    "17 de noviembre: resultados de Nvidia; 18 de noviembre: citación de Jensen Huang ante el Congreso de EE. UU.",
+    "19 de noviembre: paro nacional convocado por la CUT.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "La cobertura de Ecopetrol se centra en el salto de utilidades; menos medios subrayan la caída de producción, y la empresa no explicó por qué aplazó la entrega. En seguridad, el balance de los 100 días está polarizado: el Gobierno muestra golpes y Colombia Reports y teleSUR, medios críticos, señalan alzas en la violencia con cifras que no se contrastaron con un informe oficial completo. Los motivos de la renuncia de Jensen Huang no fueron explicados por Nvidia y las acusaciones de espionaje no están probadas. Los ataques hutíes a Arabia Saudita no fueron confirmados por Riad. No se verificaron: COLCAP, oro y bono a 10 años de EE. UU. (fuera de la tabla). La variación mensual de la TRM se calculó frente a la TRM del 3 de noviembre ($3.182,99); la del petróleo es la reportada por CNBC.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3301.91,
+      "variacion_pct": 0.15,
+      "variacion_mes_pct": 3.7,
+      "vigencia": "13 nov",
+      "fuente": "Superfinanciera (vía Colombia.com)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado (aprox.)",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 0,
+      "valor": 3301,
+      "variacion_pct": 0.18,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 12 nov",
+      "fuente": "RTA Noticias"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 95.82,
+      "variacion_pct": 3.3,
+      "variacion_mes_pct": -20.0,
+      "vigencia": "Cierre 12 nov",
+      "fuente": "CNBC"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 88.74,
+      "variacion_pct": 2.6,
+      "variacion_mes_pct": -16.0,
+      "vigencia": "Cierre 12 nov",
+      "fuente": "CNBC"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7592.4,
+      "variacion_pct": -0.35,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 12 nov",
+      "fuente": "Yahoo Finance / AP"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 25366.09,
+      "variacion_pct": -0.39,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 12 nov",
+      "fuente": "Yahoo Finance / AP"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 52297.09,
+      "variacion_pct": -0.36,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 12 nov",
+      "fuente": "Yahoo Finance / AP"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión: 9 dic; tras el dato de empleo, el mercado asigna cerca de 78 % a un alza."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 34,
+    "medios": [
+      {
+        "medio": "Infobae",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Bloomberg Línea",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Cambio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Espectador",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Tiempo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Radio Hoy",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Moncloa.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario La Libertad",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Colombia Reports",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "teleSUR",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "RTA Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Colombia.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Nvidia",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "TechCrunch",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "PC Gamer",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Haaretz",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The National",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Jerusalem Post",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "RTÉ",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Investing.com (Reuters)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "StockTitan",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "KRMG (AP)",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
