@@ -1,465 +1,442 @@
 {
-  "fecha": "2026-11-13",
-  "generado": "2026-11-13T10:41:10.368035Z",
+  "fecha": "2026-11-14",
+  "generado": "2026-11-14T10:40:34.739757Z",
   "modelo": null,
   "demo": false,
-  "titular_del_dia": "Ecopetrol dispara sus ganancias mientras el dólar supera los $3.300; afuera, Jensen Huang deja Nvidia y Trump dice que ya no necesita un acuerdo con Irán, lo que hace rebotar el petróleo.",
+  "titular_del_dia": "Renuncia el gerente del Fondo Milagro y la Corte blinda los recursos del terremoto; el dólar cierra la semana sobre $3.300 y la AIE anticipa un mercado petrolero con superávit.",
   "lo_esencial": [
-    "Ecopetrol gana $4,76 billones en el tercer trimestre (+85,6 %) por precios altos y Brava, pero su producción cae 3 % sin Brava.",
-    "El IVA a los alimentos de la canasta familiar es el 'innegociable' del Congreso en la Ley de Rescate; el Gobierno cedió ponentes.",
-    "La TRM sube a $3.301,91, la más alta en más de un mes; el peso pierde cerca de 3,7 % en noviembre.",
-    "A punto de cumplir 100 días, el Gobierno muestra golpes contra cabecillas; analistas y algunos medios señalan alzas en la violencia.",
-    "Jensen Huang renuncia a Nvidia; Colette Kress queda como CEO interina a cinco días de los resultados.",
-    "Trump dice que 'no necesita' un acuerdo con Irán y aparta a Vance de la negociación; el Brent sube 3,3 % a US$95,82."
+    "Renuncia Jaime Uribe, gerente del Fondo Milagro, tras la polémica por salarios; el presidente ordena reversar la nómina.",
+    "La Corte Constitucional avala la emergencia económica por el terremoto, pero prohíbe usar sus recursos para cubrir el déficit.",
+    "Los gremios respaldan el ajuste fiscal, pero piden más recorte del gasto y menos IVA.",
+    "La TRM del puente festivo es $3.316,70; el peso pierde más de 4 % en noviembre.",
+    "La AIE prevé superávit petrolero en el cuarto trimestre, por primera vez desde la guerra; el Brent cierra su segunda semana de pérdidas (US$95,84).",
+    "Wall Street gana más de 2 % en la semana pese a Nvidia; Anthropic prevé salir a bolsa el 19 de noviembre."
   ],
   "colombia": [
     {
-      "titulo": "Ecopetrol gana $4,76 billones en el tercer trimestre (+85,6 %), pero su producción cae",
-      "categoria": "Empresas / Energía",
+      "titulo": "Renuncia el gerente del Fondo Milagro tras la polémica por salarios",
+      "categoria": "Gobierno / Reconstrucción",
       "importancia": 5,
-      "resumen": "En sus primeros resultados con Joaquín Gutiérrez como presidente, Ecopetrol reportó una utilidad neta de $4,76 billones en el tercer trimestre, 85,6 % más que los $2,56 billones de un año antes, con ingresos de unos $35 billones (+17,5 %). En enero–septiembre la utilidad suma $13,7 billones (+82,7 %). La empresa lo atribuye a mayores precios del crudo, mejores márgenes de refinación y la incorporación de Brava Energía. La producción del grupo fue de 747.300 barriles equivalentes por día (−0,5 %); sin Brava, 728.400 (−3 %), por menor perforación en el Permian, declinación en el Piedemonte y La Guajira y restricciones de agua en los Llanos. La entrega se había aplazado por primera vez en su historia, sin explicación.",
-      "por_que_importa": "Mejores utilidades significan más dividendos e impuestos para el Estado en plena discusión fiscal; la caída de producción es un riesgo de mediano plazo, sobre todo con el petróleo bajando en noviembre.",
+      "resumen": "Jaime Andrés Uribe Tamayo, gerente del Fondo Milagro, encargado de la reconstrucción tras el terremoto del 10 de agosto, renunció y el presidente De la Espriella aceptó su salida el 13 de noviembre; según Cambio, el presidente dijo que él se la pidió. La presión vino por los altos salarios —Uribe ganaba más que un ministro—, cuestionamientos a la contratación y baja ejecución. Las cifras de la nómina difieren entre fuentes (unos $765 millones mensuales para 27 funcionarios, según AVN). El presidente ordenó reversar la nómina y dijo que anunciaría al reemplazo. Según el informe al Congreso citado por Cambio, el fondo no ha recibido donaciones.",
+      "por_que_importa": "El Fondo Milagro maneja los recursos de la reconstrucción (incluidos $2,7 billones de la adición presupuestal); su credibilidad es clave para los más de 400.000 damnificados y para el control fiscal.",
       "perspectivas": [
-        {
-          "medio": "Bloomberg Línea",
-          "enfoque": "Destaca el salto de 85,6 % y el acumulado de $13,7 billones."
-        },
-        {
-          "medio": "Portafolio",
-          "enfoque": "Pone el foco en el contraste: el precio dispara utilidades pero 'la producción no reacciona'."
-        },
-        {
-          "medio": "Cambio",
-          "enfoque": "Lo presenta como el estreno de Joaquín Gutiérrez al frente de la empresa."
-        },
-        {
-          "medio": "El Espectador",
-          "enfoque": "Lo encuadra como continuidad de la recuperación."
-        },
-        {
-          "medio": "Infobae (EFE)",
-          "enfoque": "Informativo sobre el acumulado de nueve meses."
-        }
-      ],
-      "coincidencias": "Las fuentes coinciden en las cifras de utilidad e ingresos y en el papel de los precios del crudo.",
-      "diferencias": "Portafolio y Yahoo subrayan la caída de producción; otros medios priorizan el récord de utilidades. El motivo del aplazamiento no fue explicado.",
-      "analisis": "El trimestre se benefició de precios altos por la guerra con Irán, que ya están cediendo (Brent −20 % en noviembre). Con producción a la baja, el cuarto trimestre podría ser más débil. La compra de Brava compensa parcialmente la declinación local.",
-      "implicaciones": "Inversionistas: buena cifra, pero guía incierta. Para el fisco, más ingresos en 2027 por dividendos, aunque dependientes del precio.",
-      "que_vigilar": "Reacción de la acción hoy, guía de producción para 2027 y dividendos.",
-      "fuentes": [
-        {
-          "medio": "Bloomberg Línea",
-          "titulo": "Ecopetrol disparó sus ganancias 85,6% en el tercer trimestre de 2026 y acumuló COP$13,7 billones a septiembre",
-          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/ecopetrol-disparo-sus-ganancias-856-en-el-tercer-trimestre-de-2026-y-acumulo-cop137-billones-a-septiembre/"
-        },
-        {
-          "medio": "Portafolio",
-          "titulo": "Precio del petróleo dispara utilidades de Ecopetrol pero su producción de crudo y gas no reacciona",
-          "url": "https://www.portafolio.co/negocios/empresas/precio-del-petroleo-dispara-utilidades-de-ecopetrol-pero-su-produccion-de-crudo-y-gas-no-reacciona-506266"
-        },
-        {
-          "medio": "Cambio",
-          "titulo": "Ecopetrol presenta sus primeros resultados con Joaquín Gutiérrez: ganó $4,7 billones y aumentó sus utilidades 85,6 %",
-          "url": "https://cambiocolombia.com/empresas/articulo/2026/11/los-primeros-resultados-de-ecopetrol-con-joaquin-gutierrez-como-presidente-asi-le-fue-a-la-petrolera-en-el-tercer-trimestre-de-2026"
-        },
-        {
-          "medio": "El Espectador",
-          "titulo": "Resultados de Ecopetrol: ganó COP 4,75 billones en el tercer trimestre",
-          "url": "https://www.elespectador.com/economia/empresas/ecopetrol-mantiene-la-recuperacion-gano-cop-475-billones-en-el-tercer-trimestre/"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Ecopetrol incrementa un 82,7 % su utilidad neta entre enero y septiembre",
-          "url": "https://www.infobae.com/america/agencias/2026/11/12/ecopetrol-incrementa-un-827-su-utilidad-neta-entre-enero-y-septiembre/"
-        },
         {
           "medio": "El Tiempo",
-          "titulo": "Ecopetrol aplaza por primera vez en su historia la entrega de resultados financieros",
-          "url": "https://www.eltiempo.com/amp/economia/sectores/ecopetrol-aplaza-por-primera-vez-en-su-historia-la-entrega-de-resultados-financieros-su-accion-cae-1-73-en-la-bvc-3599704"
+          "enfoque": "Recoge la frase del presidente: 'en este Gobierno hacemos lo correcto'."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Pone el foco en los altos costos de la nómina."
+        },
+        {
+          "medio": "Cambio",
+          "enfoque": "Destaca que el presidente dice haber pedido la renuncia y que el fondo no ha recibido donaciones."
+        },
+        {
+          "medio": "El País (Cali)",
+          "enfoque": "Recoge reacciones de apoyo y reclamos por la reconstrucción en el suroccidente."
+        },
+        {
+          "medio": "Prensa Latina",
+          "enfoque": "Cobertura breve con tono crítico al Gobierno."
+        }
+      ],
+      "coincidencias": "Coinciden en la renuncia, la polémica por salarios y la orden de reversar la nómina.",
+      "diferencias": "Difieren en el monto de la nómina. El Gobierno presenta la salida como una corrección; la oposición (Duvalier Sánchez, Alejandro Ocampo) la ve como prueba de una mala gestión.",
+      "analisis": "La salida rápida busca contener el daño político, pero la baja ejecución es el problema de fondo. Con la Corte limitando el uso de recursos de la emergencia, el nuevo gerente tendrá más controles.",
+      "implicaciones": "Contratistas de reconstrucción: posibles retrasos por el relevo y mayor escrutinio en contrataciones.",
+      "que_vigilar": "Nombramiento del nuevo gerente, nueva nómina y ritmo de ejecución.",
+      "fuentes": [
+        {
+          "medio": "El Tiempo",
+          "titulo": "Renunció el gerente del Fondo Milagro, Jaime Uribe, tras polémica por sueldos de funcionarios",
+          "url": "https://www.eltiempo.com/politica/gobierno/renuncio-el-gerente-del-fondo-milagro-jaime-uribe-presidente-abelardo-de-la-espriella-se-pronuncio-en-este-gobierno-hacemos-lo-correcto-3600898"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Renunció el gerente del Fondo Milagro Jaime Uribe tras cuestionamientos por altos costos en la nómina",
+          "url": "https://www.semana.com/politica/articulo/renuncio-el-gerente-del-fondo-milagro-jaime-uribe-tras-cuestionamientos-por-altos-costos-en-la-nomina/202620/"
+        },
+        {
+          "medio": "Cambio",
+          "titulo": "Renuncia Jaime Uribe, gerente del Fondo Milagro, tras polémica por salarios",
+          "url": "https://cambiocolombia.com/poder/articulo/2026/11/renuncio-el-gerente-del-fondo-milagro-abelardo-de-la-espriella-asegura-que-el-se-la-solicito"
+        },
+        {
+          "medio": "El País (Cali)",
+          "titulo": "Renuncia de Jaime Uribe al Fondo Milagro genera reacciones de apoyo y reclamos al Gobierno por la reconstrucción",
+          "url": "https://www.elpais.com.co/politica/renuncia-de-jaime-uribe-al-fondo-milagro-genera-reacciones-de-apoyo-y-reclamos-al-gobierno-por-la-reconstruccion-1311.html"
+        },
+        {
+          "medio": "Prensa Latina",
+          "titulo": "Colombia: renunció gerente de Fondo para reconstrucción tras sismo",
+          "url": "https://prensa-latina.cu/2026/11/13/colombia-renuncio-gerente-de-fondo-para-reconstruccion-tras-sismo"
         }
       ]
     },
     {
-      "titulo": "Ley de Rescate: el IVA a la canasta familiar, 'innegociable' para el Congreso",
+      "titulo": "La Corte avala la emergencia económica por el terremoto, pero blinda los recursos",
+      "categoria": "Justicia / Política fiscal",
+      "importancia": 4,
+      "resumen": "La Corte Constitucional declaró exequible, con condiciones, la emergencia económica, social y ecológica decretada tras el terremoto del 10 de agosto (sentencia C-366 de 2026, ponencia de Juan Carlos Cortés). La emergencia solo aplica a los municipios afectados según la UNGRD; los recursos no pueden usarse para gastos ajenos a la tragedia ni para cubrir el déficit fiscal, deben manejarse en una cuenta separada y no sirven para resolver problemas previos, como los del sistema carcelario. Hacienda debe recalcular en 20 días hábiles el costo de la emergencia y las adiciones necesarias.",
+      "por_que_importa": "Confirma la base legal del recaudo extraordinario y del Fondo Milagro, pero limita al Gobierno usar esos recursos para aliviar sus cuentas generales.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Destaca los límites al uso de recursos."
+        },
+        {
+          "medio": "Blu Radio",
+          "enfoque": "Enfatiza el plazo de 20 días para recalcular costos y la exclusión de problemas previos."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Pone el foco en que los recursos no podrán 'tapar el déficit'."
+        },
+        {
+          "medio": "Minuto30",
+          "enfoque": "Informativo: aval con límites."
+        }
+      ],
+      "coincidencias": "Las fuentes coinciden en el aval condicionado y en sus límites centrales.",
+      "diferencias": "No hay diferencias de fondo; varían en el detalle de los mecanismos de seguimiento.",
+      "analisis": "El fallo da seguridad jurídica a lo actuado, pero obliga a separar las cuentas de la reconstrucción del ajuste fiscal general que busca la Ley de Rescate.",
+      "implicaciones": "Contribuyentes del recaudo extraordinario: la medida se mantiene. El Gobierno deberá financiar el déficit general por otras vías.",
+      "que_vigilar": "Recálculo de Hacienda en 20 días hábiles y efecto en la segunda adición presupuestal.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Corte Constitucional avaló la emergencia económica por el terremoto del 10 de agosto, pero con límites al uso de recursos",
+          "url": "https://www.infobae.com/colombia/2026/11/11/corte-constitucional-avalo-la-emergencia-economica-por-el-terremoto-del-10-de-agosto-pero-con-limites-al-uso-de-recursos/"
+        },
+        {
+          "medio": "Blu Radio",
+          "titulo": "Corte Constitucional avala emergencia por terremoto, pero impone límites al Gobierno",
+          "url": "https://www.bluradio.com/nacion/corte-constitucional-avala-emergencia-por-terremoto-pero-impone-limites-al-gobierno-rg10"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Corte Constitucional avaló la emergencia económica por el terremoto, pero blindó los recursos",
+          "url": "https://ifmnoticias.com/judicial/corte-constitucional-avala-la-emergencia-economica-por-el-terremoto-pero-blinda-/"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "Corte Constitucional avala emergencia económica por el terremoto, pero le pone límites al Gobierno",
+          "url": "https://www.minuto30.com/corte-constitucional-avala-emergencia-economica-por-el-terremoto-pero-le-pone-limites-al-gobierno/1729623/"
+        }
+      ]
+    },
+    {
+      "titulo": "Los gremios respaldan el ajuste fiscal, pero piden más recorte del gasto",
       "categoria": "Economía / Política fiscal",
-      "importancia": 5,
-      "resumen": "Según Infobae y Radio Hoy, el rechazo a subir el IVA de los alimentos de la canasta familiar es el punto en que más coinciden los congresistas; también se discute el IVA a medicina prepagada e internet. El Gobierno aceptó ampliar ponentes de varios partidos, pero persisten dudas sobre si el proyecto se debatirá en comisiones terceras, cuartas o ambas. En el Senado fueron designados David Barguil (Conservador, Comisión Tercera) y Carlos Mario Farelo (Cambio Radical, Comisión Cuarta); faltan los de la Cámara. Una bancada anunció ponencia de archivo, según Diario La Libertad. Moncloa.com advierte que la sobretasa financiera presiona a bancos españoles como BBVA y Santander.",
-      "por_que_importa": "Si se cae el IVA a alimentos, el Gobierno pierde una parte importante del recaudo previsto y deberá compensar con recortes u otros impuestos.",
-      "perspectivas": [
-        {
-          "medio": "Infobae",
-          "enfoque": "Mapea las posiciones de los partidos: el IVA a alimentos 'no pasaría'."
-        },
-        {
-          "medio": "Radio Hoy",
-          "enfoque": "Lo describe como el 'innegociable' del Congreso."
-        },
-        {
-          "medio": "Yahoo Noticias",
-          "enfoque": "Destaca que el Gobierno cedió en ponentes pero hay dudas sobre las comisiones."
-        },
-        {
-          "medio": "Moncloa.com",
-          "enfoque": "Mirada desde España: impacto de la sobretasa en BBVA y Santander."
-        },
-        {
-          "medio": "Diario La Libertad",
-          "enfoque": "Recoge la apertura de mesas técnicas y la ponencia de archivo anunciada por una bancada."
-        }
-      ],
-      "coincidencias": "Coinciden en que el IVA a alimentos tiene amplio rechazo y en que el trámite sigue sin primer debate.",
-      "diferencias": "Unas fuentes ven al Gobierno ganando apoyos al ampliar ponentes; otras subrayan las dudas procedimentales y la oposición abierta.",
-      "analisis": "Sin el IVA a alimentos, la reforma se inclinaría más hacia la rebaja de renta empresarial y los recortes, lo que puede debilitar el ajuste fiscal neto. El Gobierno argumenta que la devolución de IVA compensaría a los hogares vulnerables; sus críticos dicen que no alcanza a la clase media.",
-      "implicaciones": "Consumo masivo y alimentos: menor probabilidad de IVA de 19 % a la canasta desde 2028. Sector financiero: atención a la sobretasa.",
-      "que_vigilar": "Definición de comisiones, ponentes de la Cámara y propuestas para compensar el recaudo.",
-      "fuentes": [
-        {
-          "medio": "Infobae",
-          "titulo": "IVA a los alimentos de la canasta familiar no pasaría en el Congreso: así están las posiciones",
-          "url": "https://www.infobae.com/colombia/2026/11/10/ley-de-rescate-congreso-podria-excluir-el-iva-a-los-alimentos-de-la-canasta-familiar/"
-        },
-        {
-          "medio": "Radio Hoy",
-          "titulo": "Ley de Rescate Fiscal: que no haya más IVA a los alimentos, el innegociable del Congreso",
-          "url": "https://www.radiohoy.com/2026/11/09/ley-de-rescate-fiscal-que-no-haya-mas-iva-a-los-alimentos-el-innegociable-del-congreso/831769/"
-        },
-        {
-          "medio": "Yahoo Noticias",
-          "titulo": "Gobierno cede y amplía ponentes para la Ley Fiscal, pero ahora hay dudas sobre las comisiones para debatirla",
-          "url": "https://es-us.noticias.yahoo.com/gobierno-cede-ampl%C3%ADa-ponentes-ley-120745928.html"
-        },
-        {
-          "medio": "Moncloa.com",
-          "titulo": "La ley de rescate fiscal de Colombia que amenaza los resultados de BBVA y Santander",
-          "url": "https://www.moncloa.com/2026/11/11/ley-rescate-fiscal-colombia-banca-espanola-3465811/"
-        },
-        {
-          "medio": "Diario La Libertad",
-          "titulo": "Gobierno y Congreso abren mesas técnicas para destrabar la Ley de Rescate",
-          "url": "https://diariolalibertad.com/2026/11/08/gobierno-y-congreso-abren-mesas-tecnicas-para-destrabar-la-ley-de-rescate/"
-        }
-      ]
-    },
-    {
-      "titulo": "Seguridad a los 100 días: el Gobierno muestra golpes; analistas piden estrategia integral",
-      "categoria": "Orden público / Gobierno",
       "importancia": 4,
-      "resumen": "A punto de cumplir 100 días, el Gobierno destaca la Ley de Sometimiento, ocho bombardeos y operaciones como la de Tarazá. Portafolio recoge a analistas que advierten que la gestión se ha concentrado en acciones puntuales y que falta una estrategia integral. Colombia Reports, con datos de la Defensoría y la Policía, sostiene que extorsión, homicidios, terrorismo, secuestros y ataques a la Fuerza Pública han subido desde agosto y que la militarización de Santa Marta y Cúcuta ha tenido poco efecto. El ministro del Interior, Alejandro Ordóñez, anunció el 'fin de la feria' de los esquemas de protección: la UNP hará estudios de riesgo para decidir quién los mantiene.",
-      "por_que_importa": "La percepción de seguridad influye en la inversión y en el capital político del Gobierno para aprobar su reforma fiscal.",
+      "resumen": "El ministro de Hacienda, Miguel Gómez, se reunió el 12 de noviembre con el Consejo Gremial Nacional y dijo estar 'abierto a evaluar alternativas'. Los gremios comparten el diagnóstico fiscal, pero mantienen reparos al IVA y pidieron 'meterle más tijera' al gasto: según una fuente, 35 % del ajuste vendría de menores gastos y 54 % de mayores contribuciones de hogares y empresas. La reforma busca recaudar unos $40 billones (2,2 % del PIB). El Gobierno abrió mesas de diálogo con gremios y congresistas.",
+      "por_que_importa": "El respaldo del sector privado a la necesidad de ajuste es un activo político para el Gobierno, pero su pedido de más recortes coincide con el del Centro Democrático y presiona el diseño tributario.",
       "perspectivas": [
         {
-          "medio": "Portafolio",
-          "enfoque": "Reconoce que la seguridad volvió al centro de la agenda, pero recoge críticas por falta de estrategia integral."
-        },
-        {
-          "medio": "Colombia Reports",
-          "enfoque": "Crítico: el Gobierno 'no logró' la seguridad en 90 días; cita alzas en los indicadores de violencia."
+          "medio": "La República",
+          "enfoque": "Informa la apertura de mesas con gremios y congresistas."
         },
         {
           "medio": "Semana",
-          "enfoque": "Destaca el anuncio oficial del 'fin de la feria' de los esquemas de protección."
+          "enfoque": "Destaca la disposición del ministro a 'evaluar alternativas'."
         },
         {
-          "medio": "teleSUR",
-          "enfoque": "Medio de línea crítica a gobiernos de derecha; hace un balance de los 100 días en la 'Patria Milagro'."
+          "medio": "Yahoo Noticias",
+          "enfoque": "Subraya el pedido gremial de más recorte de gasto."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Coincidencia en el diagnóstico, reparos al IVA."
         }
       ],
-      "coincidencias": "Las fuentes coinciden en que la seguridad es el eje de la agenda del Gobierno.",
-      "diferencias": "El Gobierno y medios afines resaltan los golpes a cabecillas; Colombia Reports y teleSUR resaltan el aumento de la violencia. Las cifras de Colombia Reports no fueron contrastadas con un informe oficial completo.",
-      "analisis": "La ofensiva militar produce resultados visibles (cabecillas abatidos), mientras los grupos armados responden con ataques con drones y explosivos. La evaluación de fondo exigirá series oficiales de varios meses.",
-      "implicaciones": "Empresas en regiones de conflicto deben esperar más volatilidad en el corto plazo; el recorte de esquemas de protección puede afectar a líderes y funcionarios regionales.",
-      "que_vigilar": "Balance oficial de los 100 días, cifras de la Policía y la Defensoría, y nuevos ataques.",
+      "coincidencias": "Coinciden en que los gremios apoyan el ajuste pero cuestionan el IVA.",
+      "diferencias": "Las cifras del tamaño del ajuste varían entre fuentes ($40 billones o más).",
+      "analisis": "Gobierno, gremios y buena parte del Congreso coinciden en la necesidad del ajuste; la disputa es quién lo paga. Más recortes implican presión sobre inversión y programas sociales; más impuestos, sobre consumo y empresas.",
+      "implicaciones": "Empresas: mantener escenarios con y sin IVA a alimentos y con distintas tarifas de renta.",
+      "que_vigilar": "Propuestas formales de los gremios y ponencia.",
       "fuentes": [
         {
-          "medio": "Portafolio",
-          "titulo": "Seguridad vuelve al centro de la agenda en Colombia, pero advierten que hace falta una estrategia integral",
-          "url": "https://portafolio.co/economia/regiones/seguridad-vuelve-al-centro-de-la-agenda-en-colombia-pero-advierten-que-hace-falta-una-estrategia-integral-506275"
-        },
-        {
-          "medio": "Colombia Reports",
-          "titulo": "De la Espriella failed to make Colombia secure in 90 days",
-          "url": "https://colombiareports.com/de-la-espriella-failed-to-make-colombia-secure-in-90-days/"
+          "medio": "La República",
+          "titulo": "Gobierno abre mesas de diálogo con gremios y congresistas para discutir la Ley de Rescate",
+          "url": "https://www.larepublica.co/economia/gobierno-abre-mesas-de-dialogo-con-gremios-y-congresistas-para-discutir-la-ley-de-rescate-4524961"
         },
         {
           "medio": "Semana",
-          "titulo": "Gobierno de Abelardo De La Espriella anunció el 'fin de la feria' de los esquemas de protección y seguridad",
-          "url": "https://www.semana.com/nacion/articulo/gobierno-de-abelardo-de-la-espriella-anuncio-el-fin-de-la-feria-de-los-esquemas-de-proteccion-y-seguridad/202630/"
+          "titulo": "'Estamos abiertos a evaluar alternativas': Miguel Gómez se reúne con los gremios",
+          "url": "https://www.semana.com/amp/economia/macroeconomia/articulo/estamos-abiertos-a-evaluar-alternativas-miguel-gomez-se-reune-con-los-gremios-para-escuchar-propuestas-sobre-la-ley-de-rescate/202636/"
         },
         {
-          "medio": "teleSUR",
-          "titulo": "Colombia: Los primeros 100 días en la 'Patria Milagro'",
-          "url": "https://telesurtv.net/colombia-los-primeros-100-dias-en-la-patria-milagro"
+          "medio": "Yahoo Noticias",
+          "titulo": "Consejo Gremial se reunió con MinHacienda: le pidió meterle más tijera al gasto",
+          "url": "https://es-us.noticias.yahoo.com/consejo-gremial-reuni%C3%B3-minhacienda-pidi%C3%B3-174542920.html"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Ley de Rescate: MinHacienda abre la puerta a propuestas de los gremios",
+          "url": "https://ifmnoticias.com/gobierno/ley-de-rescate-minhacienda-abre-la-puerta-a-propuestas-de-los-gremios-que-compar/"
         }
       ]
     },
     {
-      "titulo": "El dólar supera los $3.300: TRM de $3.301,91, la más alta en más de un mes",
+      "titulo": "El dólar cierra la semana sobre $3.300; TRM de $3.316,70 para el puente",
       "categoria": "Economía / Divisas",
-      "importancia": 4,
-      "resumen": "El dólar cerró el 12 de noviembre en $3.301, según RTA Noticias, y la TRM para hoy quedó en $3.301,91, el nivel más alto en más de un mes, según Colombia.com. Noviembre empezó con una TRM de $3.182,99: el peso se ha depreciado cerca de 3,7 % en el mes. Infobae habla de 'malas noticias' para quienes compran dólares.",
-      "por_que_importa": "El techo del rango previsto por Bancolombia para noviembre ($3.300) ya se superó; encarece importaciones y deuda en dólares.",
+      "importancia": 3,
+      "resumen": "La TRM que rige de sábado 14 a lunes 16 de noviembre (festivo) quedó en $3.316,70, $14,79 más (+0,45 %) que la del viernes ($3.301,91), según Colombia.com. El dólar cerró la semana por encima de $3.300, según Diario del Cauca. En noviembre el peso se ha depreciado más de 4 %: el mes empezó con una TRM de $3.182,99.",
+      "por_que_importa": "El peso más débil encarece importaciones y deuda en dólares en un momento de inflación de 6,30 %.",
       "perspectivas": [
         {
-          "medio": "RTA Noticias",
-          "enfoque": "Informativo: cierre por encima de la TRM."
-        },
-        {
           "medio": "Colombia.com",
-          "enfoque": "Destaca que es la TRM más alta en más de un mes."
+          "enfoque": "Informativo: TRM del fin de semana."
         },
         {
-          "medio": "Infobae",
-          "enfoque": "Encuadre de consumidor: el dólar 'se sigue poniendo caro'."
+          "medio": "Diario del Cauca",
+          "enfoque": "Destaca el cierre semanal sobre $3.300."
+        },
+        {
+          "medio": "Noticias Caracol",
+          "enfoque": "Cobertura de la TRM al alza del viernes."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Pone el foco en las casas de cambio y las ciudades que más pagan."
         }
       ],
-      "coincidencias": "Coinciden en la tendencia alcista y en niveles cercanos a $3.300.",
-      "diferencias": "Ninguna diferencia relevante en cifras.",
-      "analisis": "El alza coincide con un dólar global fuerte por la inflación de EE. UU. y con incertidumbre fiscal local. El rebote del petróleo del jueves podría dar algún alivio.",
-      "implicaciones": "Importadores: revisar coberturas y precios. Exportadores: mejora en ingresos en pesos.",
-      "que_vigilar": "TRM del lunes, petróleo y avance de la Ley de Rescate.",
+      "coincidencias": "Coinciden en la tendencia alcista y en el nivel de la TRM.",
+      "diferencias": "Ninguna diferencia relevante.",
+      "analisis": "El alza combina un dólar global fuerte (inflación de EE. UU.), la caída del petróleo en el mes e incertidumbre fiscal local, aunque las fuentes no atribuyen causas precisas.",
+      "implicaciones": "Importadores: el rango previsto para noviembre ya se superó; revisar coberturas.",
+      "que_vigilar": "TRM del martes 17 y evolución del petróleo.",
       "fuentes": [
         {
-          "medio": "RTA Noticias",
-          "titulo": "Así Cerró El Dólar En Colombia: El Dato Del 12 De Noviembre De 2026",
-          "url": "https://www.rtanoticias.com/asi-cerro-el-dolar-en-colombia-12-de-noviembre/"
-        },
-        {
           "medio": "Colombia.com",
-          "titulo": "Precio del dólar hoy en Colombia: cotización de este viernes 13 de noviembre de 2026",
-          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-viernes-13-de-noviembre-de-2026-612424"
+          "titulo": "Precio del dólar hoy en Colombia: cotización de este sábado 14 de noviembre de 2026",
+          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-sabado-14-de-noviembre-de-2026-612606"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Precio del dólar hoy en Colombia: hay malas noticias, se sigue poniendo caro",
-          "url": "https://www.infobae.com/colombia/2026/11/11/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-11-de-noviembre/"
+          "medio": "Diario del Cauca",
+          "titulo": "El dólar en Colombia sube y cierra la semana por encima de los 3.300",
+          "url": "https://www.diariodelcauca.com.co/noticias/el-dolar-en-colombia-sube-y-cierra-la-semana-por-encima-de-los-3-300"
+        },
+        {
+          "medio": "Noticias Caracol",
+          "titulo": "Subió el precio del dólar este 13 de noviembre de 2026 en Colombia: TRM para este viernes",
+          "url": "https://www.noticiascaracol.com/economia/subio-el-precio-del-dolar-este-13-de-noviembre-de-2026-en-colombia-trm-para-este-viernes-so35"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Dólar en Colombia hoy, 13 de noviembre: sube la TRM y estas son las ciudades donde más pagan por cada dólar",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-en-casas-de-cambio-en-colombia-hoy-13-de-noviembre-sube-la-trm-y-estas-son-las-ciudades-donde-mas-pagan/202609/"
         }
       ]
     }
   ],
   "mundo": [
     {
-      "titulo": "Jensen Huang renuncia a Nvidia; Colette Kress, CEO interina",
-      "categoria": "Empresas / Tecnología",
+      "titulo": "La AIE: el mercado petrolero vuelve al superávit por primera vez desde la guerra",
+      "categoria": "Energía",
       "importancia": 5,
-      "resumen": "Nvidia anunció el 12 de noviembre que Jensen Huang renunció como presidente, CEO y miembro de la junta, con efecto inmediato, tras 33 años. La directora financiera, Colette Kress, será CEO interina sin dejar su cargo, y Harvey C. Jones fue nombrado el primer presidente de la junta. La empresa no dio razones; la salida sigue a la admisión de Huang de una relación extramatrimonial con una ejecutiva que funcionarios de EE. UU. vincularían con la inteligencia china y a nuevos reportes sobre otras relaciones. Huang fue citado a declarar ante el Congreso. La acción llegó a caer 14 % y cerró en US$166,19 (−4,34 %); Broadcom y AMD subieron.",
-      "por_que_importa": "Nvidia es la empresa más importante del auge de la IA; el cambio de liderazgo cinco días antes de sus resultados (17 de noviembre) añade incertidumbre al sector que más pesa en los índices.",
+      "resumen": "En su informe de noviembre, la Agencia Internacional de Energía dijo que el mercado petrolero volverá a tener superávit en el cuarto trimestre de 2026, por primera vez desde el inicio de la guerra con Irán, y que el excedente será mayor en 2027. Los inventarios de crudo subieron cerca de 1,7 millones de barriles diarios en octubre, porque las exportaciones del Golfo se recuperan más rápido que la demanda; aun así, en octubre seguían 26 % por debajo de los niveles previos a la guerra. La AIE espera que la demanda caiga 2,7 millones de barriles diarios en 2026 y repunte 2 millones en 2027.",
+      "por_que_importa": "Un mercado con superávit presiona los precios a la baja en 2027, lo que afecta los ingresos de Colombia y de Ecopetrol y el supuesto de precio del presupuesto.",
       "perspectivas": [
         {
-          "medio": "Nvidia",
-          "enfoque": "Comunicado oficial: transición de CEO, sin explicar motivos."
+          "medio": "AIE",
+          "enfoque": "Informe oficial: superávit en el cuarto trimestre y mayor en 2027."
         },
         {
-          "medio": "TechCrunch",
-          "enfoque": "Informativo: renuncia y nombramiento interino."
-        },
-        {
-          "medio": "CNN",
-          "enfoque": "Pone el foco en la citación de Huang ante el Congreso."
-        },
-        {
-          "medio": "Yahoo Finance",
-          "enfoque": "Cobertura en vivo; recoge acusaciones de una tercera relación."
-        },
-        {
-          "medio": "PC Gamer",
-          "enfoque": "Repaso de todo lo ocurrido desde el escándalo."
-        }
-      ],
-      "coincidencias": "Coinciden en la renuncia, la CEO interina y la caída de la acción.",
-      "diferencias": "Los detalles personales varían entre medios y no están confirmados por la empresa; las acusaciones de espionaje no están probadas.",
-      "analisis": "El mercado separa la empresa de su fundador: la caída fue fuerte al inicio pero se moderó, y competidores como AMD y Broadcom subieron. La gestión de Kress en los resultados será la primera prueba.",
-      "implicaciones": "Fondos de pensiones e inversionistas con exposición a tecnología estadounidense: más volatilidad hasta el 17 de noviembre.",
-      "que_vigilar": "Resultados del 17 de noviembre, audiencia del 18 y búsqueda de un CEO permanente.",
-      "fuentes": [
-        {
-          "medio": "Nvidia",
-          "titulo": "NVIDIA Announces CEO Transition",
-          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/"
-        },
-        {
-          "medio": "TechCrunch",
-          "titulo": "Nvidia's Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-          "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
-        },
-        {
-          "medio": "CNN",
-          "titulo": "Jensen Huang summoned to testify before Congress after resigning as Nvidia CEO",
-          "url": "https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout"
-        },
-        {
-          "medio": "Yahoo Finance",
-          "titulo": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge",
-          "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-jensen-huang-resigns-cfo-colette-kress-to-serve-as-interim-ceo-140341430.html"
-        },
-        {
-          "medio": "PC Gamer",
-          "titulo": "The resignation of Jensen Huang from Nvidia and everything that has followed",
-          "url": "https://www.pcgamer.com/hardware/live/news/nvidia-jen-hsun-scandal/"
-        }
-      ]
-    },
-    {
-      "titulo": "Trump: 'No necesitamos un acuerdo con Irán'; aparta a Vance de la negociación",
-      "categoria": "Geopolítica / Medio Oriente",
-      "importancia": 5,
-      "resumen": "Trump escribió el 12 de noviembre en Truth Social que 'no necesitamos un acuerdo con Irán, esos días ya pasaron' y que EE. UU. 'tiene su Estrecho'. También ordenó al vicepresidente JD Vance, que lideraba la diplomacia con Irán, enfocarse en la supuesta corrupción y criminalidad en estados y ciudades gobernados por demócratas. La Casa Blanca no aclaró si las conversaciones terminaron. Los hutíes de Yemen dijeron haber atacado una estación de bombeo del oleoducto Este-Oeste de Arabia Saudita, una instalación en Yanbu y otra de Aramco en Riad; Arabia Saudita no comentó.",
-      "por_que_importa": "El giro de Trump enfría las esperanzas de un acuerdo para reabrir Ormuz y elevó de inmediato el petróleo; los ataques a infraestructura saudí amplían el riesgo regional.",
-      "perspectivas": [
-        {
-          "medio": "CNBC",
-          "enfoque": "Enfoca la reacción del petróleo a la declaración de Trump."
-        },
-        {
-          "medio": "Haaretz",
-          "enfoque": "Destaca la afirmación de que EE. UU. controla el Estrecho."
+          "medio": "BNN Bloomberg",
+          "enfoque": "Subraya la recuperación de las exportaciones del Golfo."
         },
         {
           "medio": "The National (EAU)",
-          "enfoque": "Informativo: Trump dice que ya no necesita un acuerdo."
+          "enfoque": "Destaca que es el primer superávit desde la guerra."
         },
         {
-          "medio": "ABC News",
-          "enfoque": "Cobertura en vivo, con la respuesta del canciller iraní Araghchi."
-        },
-        {
-          "medio": "The Jerusalem Post",
-          "enfoque": "Recoge que los aliados del Golfo pidieron moderación y que Trump admitió el costo electoral de la guerra."
+          "medio": "The Tribune (India)",
+          "enfoque": "Enfoca el aumento esperado de la oferta en 2027."
         }
       ],
-      "coincidencias": "Coinciden en la frase de Trump y en el efecto sobre el petróleo.",
-      "diferencias": "Unos medios lo leen como fin de la vía diplomática; otros, como táctica de presión. Los ataques hutíes no han sido confirmados por Arabia Saudita.",
-      "analisis": "Analistas citados advierten que afirmar el control de Ormuz puede provocar más ataques iraníes a buques. Apartar a Vance, que impulsaba el acuerdo de US$8.000 millones, sugiere que ganó la línea dura en el gabinete.",
-      "implicaciones": "Más volatilidad en petróleo, fletes y seguros; posible rebote adicional del Brent.",
-      "que_vigilar": "Reacción de Irán, incidentes en Ormuz, ataques hutíes y posición del Golfo.",
+      "coincidencias": "Coinciden en el diagnóstico de superávit y la recuperación del Golfo.",
+      "diferencias": "Las cifras de demanda varían levemente entre medios. La AIE advierte que el diésel sigue escaso.",
+      "analisis": "Si se confirma, el precio de equilibrio del petróleo en 2027 podría ser bastante menor que el de 2026, aunque Ormuz sigue siendo un riesgo.",
+      "implicaciones": "Planee el presupuesto 2027 con un Brent más bajo; sectores consumidores de energía se beneficiarían.",
+      "que_vigilar": "Informes de la OPEP y EIA, y situación de Ormuz.",
       "fuentes": [
         {
-          "medio": "CNBC",
-          "titulo": "Trump says 'we don't need a deal with Iran'",
-          "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
+          "medio": "AIE",
+          "titulo": "Oil Market Report - November 2026",
+          "url": "https://www.iea.org/reports/oil-market-report-november-2026"
         },
         {
-          "medio": "Haaretz",
-          "titulo": "Trump Says Iran Deal Is No Longer Needed, Claims U.S. Has 'Got Their Strait'",
-          "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-12/ty-article/.premium/trump-says-iran-deal-is-no-longer-needed-claims-u-s-has-got-their-strait/000001a1-cff5-d1ce-a9a3-eff730720000"
+          "medio": "BNN Bloomberg",
+          "titulo": "World oil market is returning to surplus as Gulf exports recover, IEA says",
+          "url": "https://www.bnnbloomberg.ca/markets/oil/2026/11/13/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says/"
         },
         {
           "medio": "The National",
-          "titulo": "Trump says US no longer needs Iran deal",
-          "url": "https://www.thenationalnews.com/news/us/2026/11/12/iran-deal-trump/"
+          "titulo": "Oil market to return to surplus for first time since start of Iran war, IEA says",
+          "url": "https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-iea-says/"
         },
         {
-          "medio": "ABC News",
-          "titulo": "Iran live updates: 'We don't need a deal with Iran,' Trump says",
-          "url": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256"
-        },
-        {
-          "medio": "The Jerusalem Post",
-          "titulo": "Donald Trump says Gulf allies urged Iran restraint, war hurt GOP in midterms",
-          "url": "https://www.jpost.com/international/article-914787"
+          "medio": "The Tribune",
+          "titulo": "Global oil market to return to surplus in Q4 2026, larger supply build expected in 2027: IEA",
+          "url": "https://www.tribuneindia.com/news/crude-prices/global-oil-market-to-return-to-surplus-in-q4-2026-larger-supply-build-expected-in-2027-iea"
         }
       ]
     },
     {
-      "titulo": "El Brent rebota 3,3 % a US$95,82 tras el giro de Trump",
+      "titulo": "El petróleo cierra su segunda semana de pérdidas",
       "categoria": "Energía / Mercados",
       "importancia": 4,
-      "resumen": "El Brent cerró el 12 de noviembre en US$95,82 (+3,3 %) y el WTI en US$88,74 (+2,6 %), según CNBC, tras la declaración de Trump y los ataques a infraestructura energética saudí y a tanqueros en el Golfo. Aun así, el Brent va camino de una segunda semana de caídas (−2,3 %) después de perder 16 % la anterior, según RTÉ; en noviembre acumula −20 %. Reuters informa que Trump mantendrá el bloqueo.",
-      "por_que_importa": "El rebote mejora levemente las perspectivas fiscales de Colombia, pero confirma una volatilidad muy alta.",
+      "resumen": "El Brent cerró el 13 de noviembre en US$95,84 y el WTI en US$88,56, según Rigzone; el Brent perdió cerca de 2,5 % en la semana, tras caer 16 % la anterior. El rebote del jueves por los ataques hutíes a instalaciones saudíes y los incidentes con tanqueros en Ormuz no compensó las señales de superávit y la sensación de que el bloqueo de EE. UU. reduce el riesgo de una guerra directa.",
+      "por_que_importa": "El crudo se estabiliza cerca de US$96, un nivel aún alto frente a antes de la guerra, pero muy por debajo del inicio de noviembre.",
       "perspectivas": [
         {
+          "medio": "Rigzone",
+          "enfoque": "Informa los cierres y el informe de la AIE."
+        },
+        {
           "medio": "CNBC",
-          "enfoque": "Liga el alza a la frase 'tenemos su Estrecho'."
+          "enfoque": "Liga la caída semanal a que Trump mantiene el bloqueo."
         },
         {
-          "medio": "RTÉ (Irlanda)",
-          "enfoque": "Subraya que pese al rebote se encamina a la segunda semana de pérdidas."
-        },
-        {
-          "medio": "Reuters (vía Investing.com)",
-          "enfoque": "Pone el foco en que se mantiene el bloqueo a Irán."
+          "medio": "Financefeeds",
+          "enfoque": "Perspectiva técnica para la semana: rango US$91–98."
         }
       ],
-      "coincidencias": "Coinciden en el rebote y en la tendencia semanal negativa.",
-      "diferencias": "Algunas cifras de WTI difieren según la hora del reporte.",
-      "analisis": "El mercado pasó de descontar un acuerdo a dudar de él en tres días; la dirección dependerá de la reacción iraní.",
-      "implicaciones": "Mantenga rangos amplios en presupuestos de combustible y supuestos fiscales.",
-      "que_vigilar": "Incidentes en Ormuz y el mar Rojo, inventarios y OPEP+.",
+      "coincidencias": "Coinciden en la segunda pérdida semanal.",
+      "diferencias": "La magnitud semanal varía entre 2,4 % y 2,9 % según la hora del cálculo.",
+      "analisis": "El mercado equilibra un riesgo geopolítico persistente con una oferta que vuelve; la volatilidad diaria sigue siendo alta.",
+      "implicaciones": "Para Colombia, el promedio de noviembre será bastante más bajo que el de octubre.",
+      "que_vigilar": "Ormuz, ataques hutíes y OPEP+.",
       "fuentes": [
         {
+          "medio": "Rigzone",
+          "titulo": "Crude Fluctuates as Iran Tensions Persist",
+          "url": "https://www.rigzone.com/news/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article"
+        },
+        {
           "medio": "CNBC",
-          "titulo": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-          "url": "https://cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
-        },
-        {
-          "medio": "RTÉ",
-          "titulo": "Oil prices set for second weekly decline in a row",
-          "url": "https://www.rte.ie/news/business/2026/1113/1599081-world-oil-prices/"
-        },
-        {
-          "medio": "Investing.com (Reuters)",
           "titulo": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
-          "url": "https://au.investing.com/news/commodities-news/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade-4767542"
+          "url": "https://www.cnbc.com/amp/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html"
+        },
+        {
+          "medio": "Financefeeds",
+          "titulo": "Brent Crude $95.84: Week Ahead After a 2nd Weekly Loss",
+          "url": "https://financefeeds.com/brent-crude-oil-price-95-84-saturday-week-ahead-second-weekly-loss-bull-98-bear-91/"
         }
       ]
     },
     {
-      "titulo": "Wall Street cede levemente por Nvidia; Broadcom y AMD suben",
+      "titulo": "Wall Street gana en la semana pese al drama de Nvidia; se acerca la salida a bolsa de Anthropic",
       "categoria": "Mercados",
-      "importancia": 3,
-      "resumen": "El 12 de noviembre el S&P 500 cayó 0,35 % a 7.592,40, el Nasdaq 0,39 % a 25.366,09 y el Dow 0,36 % a 52.297,09; el Russell 2000 perdió 1,66 %. Nvidia, que llegó a caer 14 % tras la renuncia de su CEO, cerró −4,34 %; Broadcom subió 5,54 % y AMD también avanzó.",
-      "por_que_importa": "El mercado absorbió el golpe a Nvidia sin pánico, lo que sugiere que la demanda de IA sigue sostenida.",
+      "importancia": 4,
+      "resumen": "El viernes 13 de noviembre el S&P 500 bajó 0,4 % a 7.561,67 y el Nasdaq 0,91 % a 25.136,27, mientras el Dow subió 0,1 % a 52.347,55, con la tecnología a la baja por Nvidia y rotación hacia consumo básico, comunicaciones y energía. En la semana, el S&P 500 ganó 2,51 %, el Nasdaq 2,27 % y el Dow 2,07%, cortando cuatro semanas de caídas del S&P 500 y el Nasdaq. Anthropic fijó un rango de US$70 a US$78 por acción para su salida a bolsa, con inicio de cotización previsto para el 19 de noviembre, según CNBC.",
+      "por_que_importa": "La semana que viene trae resultados de Nvidia (17) y una de las mayores salidas a bolsa de la historia, que pondrán a prueba el apetito por la IA.",
       "perspectivas": [
         {
-          "medio": "Yahoo Finance",
-          "enfoque": "Destaca la salida de Huang y el alza de AMD y Broadcom."
+          "medio": "TheStreet",
+          "enfoque": "Destaca que el drama de Nvidia sigue sacudiendo la tecnología."
         },
         {
-          "medio": "StockTitan",
-          "enfoque": "Cierre levemente negativo en un día dominado por Nvidia."
+          "medio": "The Washington Post",
+          "enfoque": "Resumen de cierres."
         },
         {
-          "medio": "KRMG (AP)",
-          "enfoque": "Resumen de cómo cerraron los índices."
+          "medio": "CappNotes",
+          "enfoque": "Cierre y balance semanal."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Informa el rango de precio de Anthropic y la fecha prevista."
         }
       ],
-      "coincidencias": "Coinciden en los cierres y en el papel de Nvidia.",
-      "diferencias": "Algunas cifras intradía difieren de los cierres.",
-      "analisis": "La rotación hacia otros fabricantes de chips muestra que los inversionistas siguen apostando a la IA, no necesariamente a Nvidia.",
-      "implicaciones": "Volatilidad sectorial sin contagio amplio por ahora.",
-      "que_vigilar": "Apertura del viernes y resultados de Nvidia (17 nov).",
+      "coincidencias": "Coinciden en cierres y en la ganancia semanal.",
+      "diferencias": "Algunas cifras intradía difieren de los cierres. Las fechas de la salida a bolsa son esperadas, no definitivas.",
+      "analisis": "El mercado se recuperó de la caída tecnológica de inicios de mes, pero la concentración en pocas empresas de IA sigue siendo un riesgo.",
+      "implicaciones": "Fondos de pensiones con exposición a EE. UU.: volatilidad esperada en torno a Nvidia y Anthropic.",
+      "que_vigilar": "Resultados de Nvidia (17 nov) y precio de la salida a bolsa de Anthropic (18 nov).",
       "fuentes": [
         {
-          "medio": "Yahoo Finance",
-          "titulo": "Markets News, Nov. 12, 2026: Major Stock Indexes Fall as Investors Digest News of Nvidia CEO Jensen Huang's Exit",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-131805045.html"
+          "medio": "TheStreet",
+          "titulo": "Stock Market Today (Nov. 13, 2026): Nasdaq, S&P 500 end lower as Nvidia drama continues to roil tech",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
         },
         {
-          "medio": "StockTitan",
-          "titulo": "Stocks Closed Slightly Lower in the Stock Market Today, November 12, 2026, and Nvidia Said CEO Jensen Huang Resigned",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
+          "medio": "The Washington Post",
+          "titulo": "How major US stock indexes fared Friday 11/13/2026",
+          "url": "https://www.washingtonpost.com/business/2026/11/13/wall-street-stocks-dow-nasdaq/f15a10e2-dfa7-11f1-912c-4fbb80d73f7f_story.html"
         },
         {
-          "medio": "KRMG (AP)",
-          "titulo": "How major US stock indexes fared Thursday 11/12/2026",
-          "url": "https://krmg.com/2026/11/12/how-major-us-stock-indexes-fared-thursday-11-12-2026/"
+          "medio": "CappNotes",
+          "titulo": "Closing Look — Friday, November 13, 2026",
+          "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        }
+      ]
+    },
+    {
+      "titulo": "Irán reporta más tanqueros dañados por minas en Ormuz y mantiene sus condiciones",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 4,
+      "resumen": "La Armada y la Guardia Revolucionaria de Irán dijeron que tres tanqueros se incendiaron tras chocar con minas en el estrecho de Ormuz, donde Teherán restringe la navegación, y que el jueves otros dos ardieron al este del estrecho. Irán atribuye los incidentes a buques que usan rutas 'no autorizadas'; las causas no han sido confirmadas de forma independiente. Teherán mantiene sus condiciones, mientras Trump dice que 'no necesita' un acuerdo y sostiene el bloqueo de puertos iraníes y de rutas terrestres.",
+      "por_que_importa": "Los incidentes mantienen alto el costo del transporte marítimo y los seguros, aun con el petróleo a la baja.",
+      "perspectivas": [
+        {
+          "medio": "CBS News",
+          "enfoque": "Cobertura en vivo: Trump descarta un acuerdo y Teherán insiste en sus exigencias."
+        },
+        {
+          "medio": "Oman Observer",
+          "enfoque": "Informa los tres incidentes según la versión iraní."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Contexto: la fuerza de tarea de EE. UU. contra rutas terrestres."
+        }
+      ],
+      "coincidencias": "Coinciden en que la tensión en Ormuz continúa sin acuerdo.",
+      "diferencias": "Las cifras y causas de los incidentes provienen de fuentes militares iraníes y no están verificadas.",
+      "analisis": "Sin canal diplomático activo tras el giro de Trump, el riesgo de incidentes sigue alto; los mediadores cataríes siguen en contacto con Irán.",
+      "implicaciones": "Importadores colombianos: fletes y seguros seguirán caros en rutas del Golfo.",
+      "que_vigilar": "Nuevos incidentes, movimientos de la Armada de EE. UU. y la mediación catarí.",
+      "fuentes": [
+        {
+          "medio": "CBS News",
+          "titulo": "Trump says 'we don't need a deal with Iran,' as Tehran sticks to its demands",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/"
+        },
+        {
+          "medio": "Oman Observer",
+          "titulo": "Iran reports three incidents of oil tankers hit by mines in Hormuz",
+          "url": "https://www.omanobserver.om/article/1199638/world/region/iran-reports-three-incidents-of-oil-tankers-hit-by-mines-in-hormuz"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "US launches task force to disrupt Iran's land-based supply routes",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
         }
       ]
     }
   ],
-  "lectura_mercados": "El giro de Trump sobre Irán revirtió parte de la caída del petróleo (Brent +3,3 % a US$95,82), aunque noviembre acumula −20 %. Wall Street absorbió la salida de Jensen Huang con caídas leves y rotación hacia otros fabricantes de chips. En Colombia, el dólar rompió los $3.300 y la TRM de hoy es $3.301,91; Ecopetrol presentó utilidades altas, pero con producción a la baja. El rebote del crudo podría aliviar al peso, pero la incertidumbre fiscal y un dólar global fuerte siguen pesando. No se verificaron COLCAP, oro ni el bono a 10 años de EE. UU.",
+  "lectura_mercados": "La semana cerró con Wall Street en alza (S&P 500 +2,51 %) pese a la salida de Jensen Huang de Nvidia, y con el petróleo en su segunda semana de pérdidas tras el informe de la AIE que anticipa superávit. En Colombia, el dólar cerró por encima de $3.300 y la TRM del puente es $3.316,70: el peso pierde más de 4 % en noviembre, pese a que el petróleo se estabilizó. Lunes festivo en Colombia; la semana trae resultados de Nvidia, la salida a bolsa de Anthropic y el paro de la CUT. No se verificaron COLCAP, oro, bono a 10 años ni el cierre exacto del dólar del viernes.",
   "agenda": [
-    "Hoy, 13 de noviembre: reacción de la acción de Ecopetrol a sus resultados.",
-    "Esta semana y la próxima: definición de comisiones y ponentes de la Cámara para la Ley de Rescate.",
-    "Hacia el 15 de noviembre: 100 días del Gobierno De la Espriella.",
-    "16 de noviembre: festivo en Colombia (Independencia de Cartagena).",
-    "17 de noviembre: resultados de Nvidia; 18 de noviembre: citación de Jensen Huang ante el Congreso de EE. UU.",
-    "19 de noviembre: paro nacional convocado por la CUT.",
+    "Lunes 16 de noviembre: festivo en Colombia (Independencia de Cartagena).",
+    "Próximos días: nombramiento del nuevo gerente del Fondo Milagro.",
+    "17 de noviembre: resultados de Nvidia.",
+    "18 de noviembre: precio de la salida a bolsa de Anthropic (esperado) y citación de Jensen Huang ante el Congreso de EE. UU.",
+    "19 de noviembre: paro nacional convocado por la CUT; inicio esperado de cotización de Anthropic.",
+    "Hacia el 9 de diciembre: Hacienda debe recalcular el costo de la emergencia (20 días hábiles tras el fallo).",
     "9 de diciembre: decisión de tasas de la Reserva Federal.",
     "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
     "16 de diciembre: fin del periodo ordinario del Congreso.",
     "18 de diciembre: decisión de tasas del Banco de la República."
   ],
-  "balance_cobertura": "La cobertura de Ecopetrol se centra en el salto de utilidades; menos medios subrayan la caída de producción, y la empresa no explicó por qué aplazó la entrega. En seguridad, el balance de los 100 días está polarizado: el Gobierno muestra golpes y Colombia Reports y teleSUR, medios críticos, señalan alzas en la violencia con cifras que no se contrastaron con un informe oficial completo. Los motivos de la renuncia de Jensen Huang no fueron explicados por Nvidia y las acusaciones de espionaje no están probadas. Los ataques hutíes a Arabia Saudita no fueron confirmados por Riad. No se verificaron: COLCAP, oro y bono a 10 años de EE. UU. (fuera de la tabla). La variación mensual de la TRM se calculó frente a la TRM del 3 de noviembre ($3.182,99); la del petróleo es la reportada por CNBC.",
+  "balance_cobertura": "Es sábado de puente festivo: hubo pocas notas fechadas hoy, por lo que varios temas se apoyan en notas del 11 al 13 de noviembre. Las cifras de la nómina del Fondo Milagro difieren entre fuentes. Los incidentes con tanqueros en Ormuz provienen de fuentes militares iraníes y no están verificados. Las fechas de la salida a bolsa de Anthropic son esperadas, no confirmadas; Anthropic es la empresa que desarrolla el modelo con el que se elabora este informe, por lo que se incluye solo como dato de mercado. No se verificaron: el cierre exacto del dólar del 13 de noviembre (fuera de la tabla), COLCAP, oro y bono a 10 años de EE. UU. La variación mensual de la TRM se calculó frente a la TRM del 3 de noviembre ($3.182,99).",
   "mercados": [
     {
       "id": "trm",
@@ -467,23 +444,11 @@
       "grupo": "Divisas",
       "unidad": "COP",
       "decimales": 2,
-      "valor": 3301.91,
-      "variacion_pct": 0.15,
-      "variacion_mes_pct": 3.7,
-      "vigencia": "13 nov",
+      "valor": 3316.7,
+      "variacion_pct": 0.45,
+      "variacion_mes_pct": 4.2,
+      "vigencia": "14–16 nov",
       "fuente": "Superfinanciera (vía Colombia.com)"
-    },
-    {
-      "id": "usdcop",
-      "nombre": "Dólar en el mercado (aprox.)",
-      "grupo": "Divisas",
-      "unidad": "COP",
-      "decimales": 0,
-      "valor": 3301,
-      "variacion_pct": 0.18,
-      "variacion_mes_pct": null,
-      "vigencia": "Cierre 12 nov",
-      "fuente": "RTA Noticias"
     },
     {
       "id": "brent",
@@ -491,11 +456,11 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 95.82,
-      "variacion_pct": 3.3,
-      "variacion_mes_pct": -20.0,
-      "vigencia": "Cierre 12 nov",
-      "fuente": "CNBC"
+      "valor": 95.84,
+      "variacion_pct": 0.02,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov (semana ≈ −2,5 %)",
+      "fuente": "Rigzone"
     },
     {
       "id": "wti",
@@ -503,11 +468,11 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 88.74,
-      "variacion_pct": 2.6,
-      "variacion_mes_pct": -16.0,
-      "vigencia": "Cierre 12 nov",
-      "fuente": "CNBC"
+      "valor": 88.56,
+      "variacion_pct": -0.2,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov",
+      "fuente": "Rigzone"
     },
     {
       "id": "sp500",
@@ -515,11 +480,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 7592.4,
-      "variacion_pct": -0.35,
+      "valor": 7561.67,
+      "variacion_pct": -0.4,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 12 nov",
-      "fuente": "Yahoo Finance / AP"
+      "vigencia": "Cierre 13 nov (semana +2,51 %)",
+      "fuente": "TheStreet / CNBC"
     },
     {
       "id": "nasdaq",
@@ -527,11 +492,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 25366.09,
-      "variacion_pct": -0.39,
+      "valor": 25136.27,
+      "variacion_pct": -0.91,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 12 nov",
-      "fuente": "Yahoo Finance / AP"
+      "vigencia": "Cierre 13 nov (semana +2,27 %)",
+      "fuente": "CappNotes / CNBC"
     },
     {
       "id": "dow",
@@ -539,11 +504,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 52297.09,
-      "variacion_pct": -0.36,
+      "valor": 52347.55,
+      "variacion_pct": 0.1,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 12 nov",
-      "fuente": "Yahoo Finance / AP"
+      "vigencia": "Cierre 13 nov (semana +2,07 %)",
+      "fuente": "CNBC"
     }
   ],
   "macro": [
@@ -645,20 +610,15 @@
     }
   ],
   "cobertura": {
-    "total_articulos": 34,
+    "total_articulos": 31,
     "medios": [
       {
-        "medio": "Infobae",
+        "medio": "Semana",
         "articulos": 3,
         "ok": true
       },
       {
-        "medio": "Portafolio",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "Yahoo Finance",
+        "medio": "IFM Noticias",
         "articulos": 2,
         "ok": true
       },
@@ -668,7 +628,7 @@
         "ok": true
       },
       {
-        "medio": "Bloomberg Línea",
+        "medio": "El Tiempo",
         "articulos": 1,
         "ok": true
       },
@@ -678,17 +638,32 @@
         "ok": true
       },
       {
-        "medio": "El Espectador",
+        "medio": "El País (Cali)",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Tiempo",
+        "medio": "Prensa Latina",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Radio Hoy",
+        "medio": "Infobae",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Blu Radio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Minuto30",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La República",
         "articulos": 1,
         "ok": true
       },
@@ -698,62 +673,27 @@
         "ok": true
       },
       {
-        "medio": "Moncloa.com",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Diario La Libertad",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Colombia Reports",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Semana",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "teleSUR",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "RTA Noticias",
-        "articulos": 1,
-        "ok": true
-      },
-      {
         "medio": "Colombia.com",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Nvidia",
+        "medio": "Diario del Cauca",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "TechCrunch",
+        "medio": "Noticias Caracol",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "CNN",
+        "medio": "AIE",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "PC Gamer",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Haaretz",
+        "medio": "BNN Bloomberg",
         "articulos": 1,
         "ok": true
       },
@@ -763,32 +703,47 @@
         "ok": true
       },
       {
-        "medio": "ABC News",
+        "medio": "The Tribune",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "The Jerusalem Post",
+        "medio": "Rigzone",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "RTÉ",
+        "medio": "Financefeeds",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Investing.com (Reuters)",
+        "medio": "TheStreet",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "StockTitan",
+        "medio": "The Washington Post",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "KRMG (AP)",
+        "medio": "CappNotes",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CBS News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Oman Observer",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
         "articulos": 1,
         "ok": true
       }

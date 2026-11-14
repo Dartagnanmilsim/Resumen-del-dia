@@ -1,0 +1,753 @@
+{
+  "fecha": "2026-11-14",
+  "generado": "2026-11-14T10:40:34.739757Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "Renuncia el gerente del Fondo Milagro y la Corte blinda los recursos del terremoto; el dólar cierra la semana sobre $3.300 y la AIE anticipa un mercado petrolero con superávit.",
+  "lo_esencial": [
+    "Renuncia Jaime Uribe, gerente del Fondo Milagro, tras la polémica por salarios; el presidente ordena reversar la nómina.",
+    "La Corte Constitucional avala la emergencia económica por el terremoto, pero prohíbe usar sus recursos para cubrir el déficit.",
+    "Los gremios respaldan el ajuste fiscal, pero piden más recorte del gasto y menos IVA.",
+    "La TRM del puente festivo es $3.316,70; el peso pierde más de 4 % en noviembre.",
+    "La AIE prevé superávit petrolero en el cuarto trimestre, por primera vez desde la guerra; el Brent cierra su segunda semana de pérdidas (US$95,84).",
+    "Wall Street gana más de 2 % en la semana pese a Nvidia; Anthropic prevé salir a bolsa el 19 de noviembre."
+  ],
+  "colombia": [
+    {
+      "titulo": "Renuncia el gerente del Fondo Milagro tras la polémica por salarios",
+      "categoria": "Gobierno / Reconstrucción",
+      "importancia": 5,
+      "resumen": "Jaime Andrés Uribe Tamayo, gerente del Fondo Milagro, encargado de la reconstrucción tras el terremoto del 10 de agosto, renunció y el presidente De la Espriella aceptó su salida el 13 de noviembre; según Cambio, el presidente dijo que él se la pidió. La presión vino por los altos salarios —Uribe ganaba más que un ministro—, cuestionamientos a la contratación y baja ejecución. Las cifras de la nómina difieren entre fuentes (unos $765 millones mensuales para 27 funcionarios, según AVN). El presidente ordenó reversar la nómina y dijo que anunciaría al reemplazo. Según el informe al Congreso citado por Cambio, el fondo no ha recibido donaciones.",
+      "por_que_importa": "El Fondo Milagro maneja los recursos de la reconstrucción (incluidos $2,7 billones de la adición presupuestal); su credibilidad es clave para los más de 400.000 damnificados y para el control fiscal.",
+      "perspectivas": [
+        {
+          "medio": "El Tiempo",
+          "enfoque": "Recoge la frase del presidente: 'en este Gobierno hacemos lo correcto'."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Pone el foco en los altos costos de la nómina."
+        },
+        {
+          "medio": "Cambio",
+          "enfoque": "Destaca que el presidente dice haber pedido la renuncia y que el fondo no ha recibido donaciones."
+        },
+        {
+          "medio": "El País (Cali)",
+          "enfoque": "Recoge reacciones de apoyo y reclamos por la reconstrucción en el suroccidente."
+        },
+        {
+          "medio": "Prensa Latina",
+          "enfoque": "Cobertura breve con tono crítico al Gobierno."
+        }
+      ],
+      "coincidencias": "Coinciden en la renuncia, la polémica por salarios y la orden de reversar la nómina.",
+      "diferencias": "Difieren en el monto de la nómina. El Gobierno presenta la salida como una corrección; la oposición (Duvalier Sánchez, Alejandro Ocampo) la ve como prueba de una mala gestión.",
+      "analisis": "La salida rápida busca contener el daño político, pero la baja ejecución es el problema de fondo. Con la Corte limitando el uso de recursos de la emergencia, el nuevo gerente tendrá más controles.",
+      "implicaciones": "Contratistas de reconstrucción: posibles retrasos por el relevo y mayor escrutinio en contrataciones.",
+      "que_vigilar": "Nombramiento del nuevo gerente, nueva nómina y ritmo de ejecución.",
+      "fuentes": [
+        {
+          "medio": "El Tiempo",
+          "titulo": "Renunció el gerente del Fondo Milagro, Jaime Uribe, tras polémica por sueldos de funcionarios",
+          "url": "https://www.eltiempo.com/politica/gobierno/renuncio-el-gerente-del-fondo-milagro-jaime-uribe-presidente-abelardo-de-la-espriella-se-pronuncio-en-este-gobierno-hacemos-lo-correcto-3600898"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Renunció el gerente del Fondo Milagro Jaime Uribe tras cuestionamientos por altos costos en la nómina",
+          "url": "https://www.semana.com/politica/articulo/renuncio-el-gerente-del-fondo-milagro-jaime-uribe-tras-cuestionamientos-por-altos-costos-en-la-nomina/202620/"
+        },
+        {
+          "medio": "Cambio",
+          "titulo": "Renuncia Jaime Uribe, gerente del Fondo Milagro, tras polémica por salarios",
+          "url": "https://cambiocolombia.com/poder/articulo/2026/11/renuncio-el-gerente-del-fondo-milagro-abelardo-de-la-espriella-asegura-que-el-se-la-solicito"
+        },
+        {
+          "medio": "El País (Cali)",
+          "titulo": "Renuncia de Jaime Uribe al Fondo Milagro genera reacciones de apoyo y reclamos al Gobierno por la reconstrucción",
+          "url": "https://www.elpais.com.co/politica/renuncia-de-jaime-uribe-al-fondo-milagro-genera-reacciones-de-apoyo-y-reclamos-al-gobierno-por-la-reconstruccion-1311.html"
+        },
+        {
+          "medio": "Prensa Latina",
+          "titulo": "Colombia: renunció gerente de Fondo para reconstrucción tras sismo",
+          "url": "https://prensa-latina.cu/2026/11/13/colombia-renuncio-gerente-de-fondo-para-reconstruccion-tras-sismo"
+        }
+      ]
+    },
+    {
+      "titulo": "La Corte avala la emergencia económica por el terremoto, pero blinda los recursos",
+      "categoria": "Justicia / Política fiscal",
+      "importancia": 4,
+      "resumen": "La Corte Constitucional declaró exequible, con condiciones, la emergencia económica, social y ecológica decretada tras el terremoto del 10 de agosto (sentencia C-366 de 2026, ponencia de Juan Carlos Cortés). La emergencia solo aplica a los municipios afectados según la UNGRD; los recursos no pueden usarse para gastos ajenos a la tragedia ni para cubrir el déficit fiscal, deben manejarse en una cuenta separada y no sirven para resolver problemas previos, como los del sistema carcelario. Hacienda debe recalcular en 20 días hábiles el costo de la emergencia y las adiciones necesarias.",
+      "por_que_importa": "Confirma la base legal del recaudo extraordinario y del Fondo Milagro, pero limita al Gobierno usar esos recursos para aliviar sus cuentas generales.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Destaca los límites al uso de recursos."
+        },
+        {
+          "medio": "Blu Radio",
+          "enfoque": "Enfatiza el plazo de 20 días para recalcular costos y la exclusión de problemas previos."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Pone el foco en que los recursos no podrán 'tapar el déficit'."
+        },
+        {
+          "medio": "Minuto30",
+          "enfoque": "Informativo: aval con límites."
+        }
+      ],
+      "coincidencias": "Las fuentes coinciden en el aval condicionado y en sus límites centrales.",
+      "diferencias": "No hay diferencias de fondo; varían en el detalle de los mecanismos de seguimiento.",
+      "analisis": "El fallo da seguridad jurídica a lo actuado, pero obliga a separar las cuentas de la reconstrucción del ajuste fiscal general que busca la Ley de Rescate.",
+      "implicaciones": "Contribuyentes del recaudo extraordinario: la medida se mantiene. El Gobierno deberá financiar el déficit general por otras vías.",
+      "que_vigilar": "Recálculo de Hacienda en 20 días hábiles y efecto en la segunda adición presupuestal.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Corte Constitucional avaló la emergencia económica por el terremoto del 10 de agosto, pero con límites al uso de recursos",
+          "url": "https://www.infobae.com/colombia/2026/11/11/corte-constitucional-avalo-la-emergencia-economica-por-el-terremoto-del-10-de-agosto-pero-con-limites-al-uso-de-recursos/"
+        },
+        {
+          "medio": "Blu Radio",
+          "titulo": "Corte Constitucional avala emergencia por terremoto, pero impone límites al Gobierno",
+          "url": "https://www.bluradio.com/nacion/corte-constitucional-avala-emergencia-por-terremoto-pero-impone-limites-al-gobierno-rg10"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Corte Constitucional avaló la emergencia económica por el terremoto, pero blindó los recursos",
+          "url": "https://ifmnoticias.com/judicial/corte-constitucional-avala-la-emergencia-economica-por-el-terremoto-pero-blinda-/"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "Corte Constitucional avala emergencia económica por el terremoto, pero le pone límites al Gobierno",
+          "url": "https://www.minuto30.com/corte-constitucional-avala-emergencia-economica-por-el-terremoto-pero-le-pone-limites-al-gobierno/1729623/"
+        }
+      ]
+    },
+    {
+      "titulo": "Los gremios respaldan el ajuste fiscal, pero piden más recorte del gasto",
+      "categoria": "Economía / Política fiscal",
+      "importancia": 4,
+      "resumen": "El ministro de Hacienda, Miguel Gómez, se reunió el 12 de noviembre con el Consejo Gremial Nacional y dijo estar 'abierto a evaluar alternativas'. Los gremios comparten el diagnóstico fiscal, pero mantienen reparos al IVA y pidieron 'meterle más tijera' al gasto: según una fuente, 35 % del ajuste vendría de menores gastos y 54 % de mayores contribuciones de hogares y empresas. La reforma busca recaudar unos $40 billones (2,2 % del PIB). El Gobierno abrió mesas de diálogo con gremios y congresistas.",
+      "por_que_importa": "El respaldo del sector privado a la necesidad de ajuste es un activo político para el Gobierno, pero su pedido de más recortes coincide con el del Centro Democrático y presiona el diseño tributario.",
+      "perspectivas": [
+        {
+          "medio": "La República",
+          "enfoque": "Informa la apertura de mesas con gremios y congresistas."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Destaca la disposición del ministro a 'evaluar alternativas'."
+        },
+        {
+          "medio": "Yahoo Noticias",
+          "enfoque": "Subraya el pedido gremial de más recorte de gasto."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Coincidencia en el diagnóstico, reparos al IVA."
+        }
+      ],
+      "coincidencias": "Coinciden en que los gremios apoyan el ajuste pero cuestionan el IVA.",
+      "diferencias": "Las cifras del tamaño del ajuste varían entre fuentes ($40 billones o más).",
+      "analisis": "Gobierno, gremios y buena parte del Congreso coinciden en la necesidad del ajuste; la disputa es quién lo paga. Más recortes implican presión sobre inversión y programas sociales; más impuestos, sobre consumo y empresas.",
+      "implicaciones": "Empresas: mantener escenarios con y sin IVA a alimentos y con distintas tarifas de renta.",
+      "que_vigilar": "Propuestas formales de los gremios y ponencia.",
+      "fuentes": [
+        {
+          "medio": "La República",
+          "titulo": "Gobierno abre mesas de diálogo con gremios y congresistas para discutir la Ley de Rescate",
+          "url": "https://www.larepublica.co/economia/gobierno-abre-mesas-de-dialogo-con-gremios-y-congresistas-para-discutir-la-ley-de-rescate-4524961"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "'Estamos abiertos a evaluar alternativas': Miguel Gómez se reúne con los gremios",
+          "url": "https://www.semana.com/amp/economia/macroeconomia/articulo/estamos-abiertos-a-evaluar-alternativas-miguel-gomez-se-reune-con-los-gremios-para-escuchar-propuestas-sobre-la-ley-de-rescate/202636/"
+        },
+        {
+          "medio": "Yahoo Noticias",
+          "titulo": "Consejo Gremial se reunió con MinHacienda: le pidió meterle más tijera al gasto",
+          "url": "https://es-us.noticias.yahoo.com/consejo-gremial-reuni%C3%B3-minhacienda-pidi%C3%B3-174542920.html"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Ley de Rescate: MinHacienda abre la puerta a propuestas de los gremios",
+          "url": "https://ifmnoticias.com/gobierno/ley-de-rescate-minhacienda-abre-la-puerta-a-propuestas-de-los-gremios-que-compar/"
+        }
+      ]
+    },
+    {
+      "titulo": "El dólar cierra la semana sobre $3.300; TRM de $3.316,70 para el puente",
+      "categoria": "Economía / Divisas",
+      "importancia": 3,
+      "resumen": "La TRM que rige de sábado 14 a lunes 16 de noviembre (festivo) quedó en $3.316,70, $14,79 más (+0,45 %) que la del viernes ($3.301,91), según Colombia.com. El dólar cerró la semana por encima de $3.300, según Diario del Cauca. En noviembre el peso se ha depreciado más de 4 %: el mes empezó con una TRM de $3.182,99.",
+      "por_que_importa": "El peso más débil encarece importaciones y deuda en dólares en un momento de inflación de 6,30 %.",
+      "perspectivas": [
+        {
+          "medio": "Colombia.com",
+          "enfoque": "Informativo: TRM del fin de semana."
+        },
+        {
+          "medio": "Diario del Cauca",
+          "enfoque": "Destaca el cierre semanal sobre $3.300."
+        },
+        {
+          "medio": "Noticias Caracol",
+          "enfoque": "Cobertura de la TRM al alza del viernes."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Pone el foco en las casas de cambio y las ciudades que más pagan."
+        }
+      ],
+      "coincidencias": "Coinciden en la tendencia alcista y en el nivel de la TRM.",
+      "diferencias": "Ninguna diferencia relevante.",
+      "analisis": "El alza combina un dólar global fuerte (inflación de EE. UU.), la caída del petróleo en el mes e incertidumbre fiscal local, aunque las fuentes no atribuyen causas precisas.",
+      "implicaciones": "Importadores: el rango previsto para noviembre ya se superó; revisar coberturas.",
+      "que_vigilar": "TRM del martes 17 y evolución del petróleo.",
+      "fuentes": [
+        {
+          "medio": "Colombia.com",
+          "titulo": "Precio del dólar hoy en Colombia: cotización de este sábado 14 de noviembre de 2026",
+          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-sabado-14-de-noviembre-de-2026-612606"
+        },
+        {
+          "medio": "Diario del Cauca",
+          "titulo": "El dólar en Colombia sube y cierra la semana por encima de los 3.300",
+          "url": "https://www.diariodelcauca.com.co/noticias/el-dolar-en-colombia-sube-y-cierra-la-semana-por-encima-de-los-3-300"
+        },
+        {
+          "medio": "Noticias Caracol",
+          "titulo": "Subió el precio del dólar este 13 de noviembre de 2026 en Colombia: TRM para este viernes",
+          "url": "https://www.noticiascaracol.com/economia/subio-el-precio-del-dolar-este-13-de-noviembre-de-2026-en-colombia-trm-para-este-viernes-so35"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Dólar en Colombia hoy, 13 de noviembre: sube la TRM y estas son las ciudades donde más pagan por cada dólar",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-en-casas-de-cambio-en-colombia-hoy-13-de-noviembre-sube-la-trm-y-estas-son-las-ciudades-donde-mas-pagan/202609/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "La AIE: el mercado petrolero vuelve al superávit por primera vez desde la guerra",
+      "categoria": "Energía",
+      "importancia": 5,
+      "resumen": "En su informe de noviembre, la Agencia Internacional de Energía dijo que el mercado petrolero volverá a tener superávit en el cuarto trimestre de 2026, por primera vez desde el inicio de la guerra con Irán, y que el excedente será mayor en 2027. Los inventarios de crudo subieron cerca de 1,7 millones de barriles diarios en octubre, porque las exportaciones del Golfo se recuperan más rápido que la demanda; aun así, en octubre seguían 26 % por debajo de los niveles previos a la guerra. La AIE espera que la demanda caiga 2,7 millones de barriles diarios en 2026 y repunte 2 millones en 2027.",
+      "por_que_importa": "Un mercado con superávit presiona los precios a la baja en 2027, lo que afecta los ingresos de Colombia y de Ecopetrol y el supuesto de precio del presupuesto.",
+      "perspectivas": [
+        {
+          "medio": "AIE",
+          "enfoque": "Informe oficial: superávit en el cuarto trimestre y mayor en 2027."
+        },
+        {
+          "medio": "BNN Bloomberg",
+          "enfoque": "Subraya la recuperación de las exportaciones del Golfo."
+        },
+        {
+          "medio": "The National (EAU)",
+          "enfoque": "Destaca que es el primer superávit desde la guerra."
+        },
+        {
+          "medio": "The Tribune (India)",
+          "enfoque": "Enfoca el aumento esperado de la oferta en 2027."
+        }
+      ],
+      "coincidencias": "Coinciden en el diagnóstico de superávit y la recuperación del Golfo.",
+      "diferencias": "Las cifras de demanda varían levemente entre medios. La AIE advierte que el diésel sigue escaso.",
+      "analisis": "Si se confirma, el precio de equilibrio del petróleo en 2027 podría ser bastante menor que el de 2026, aunque Ormuz sigue siendo un riesgo.",
+      "implicaciones": "Planee el presupuesto 2027 con un Brent más bajo; sectores consumidores de energía se beneficiarían.",
+      "que_vigilar": "Informes de la OPEP y EIA, y situación de Ormuz.",
+      "fuentes": [
+        {
+          "medio": "AIE",
+          "titulo": "Oil Market Report - November 2026",
+          "url": "https://www.iea.org/reports/oil-market-report-november-2026"
+        },
+        {
+          "medio": "BNN Bloomberg",
+          "titulo": "World oil market is returning to surplus as Gulf exports recover, IEA says",
+          "url": "https://www.bnnbloomberg.ca/markets/oil/2026/11/13/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says/"
+        },
+        {
+          "medio": "The National",
+          "titulo": "Oil market to return to surplus for first time since start of Iran war, IEA says",
+          "url": "https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-iea-says/"
+        },
+        {
+          "medio": "The Tribune",
+          "titulo": "Global oil market to return to surplus in Q4 2026, larger supply build expected in 2027: IEA",
+          "url": "https://www.tribuneindia.com/news/crude-prices/global-oil-market-to-return-to-surplus-in-q4-2026-larger-supply-build-expected-in-2027-iea"
+        }
+      ]
+    },
+    {
+      "titulo": "El petróleo cierra su segunda semana de pérdidas",
+      "categoria": "Energía / Mercados",
+      "importancia": 4,
+      "resumen": "El Brent cerró el 13 de noviembre en US$95,84 y el WTI en US$88,56, según Rigzone; el Brent perdió cerca de 2,5 % en la semana, tras caer 16 % la anterior. El rebote del jueves por los ataques hutíes a instalaciones saudíes y los incidentes con tanqueros en Ormuz no compensó las señales de superávit y la sensación de que el bloqueo de EE. UU. reduce el riesgo de una guerra directa.",
+      "por_que_importa": "El crudo se estabiliza cerca de US$96, un nivel aún alto frente a antes de la guerra, pero muy por debajo del inicio de noviembre.",
+      "perspectivas": [
+        {
+          "medio": "Rigzone",
+          "enfoque": "Informa los cierres y el informe de la AIE."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Liga la caída semanal a que Trump mantiene el bloqueo."
+        },
+        {
+          "medio": "Financefeeds",
+          "enfoque": "Perspectiva técnica para la semana: rango US$91–98."
+        }
+      ],
+      "coincidencias": "Coinciden en la segunda pérdida semanal.",
+      "diferencias": "La magnitud semanal varía entre 2,4 % y 2,9 % según la hora del cálculo.",
+      "analisis": "El mercado equilibra un riesgo geopolítico persistente con una oferta que vuelve; la volatilidad diaria sigue siendo alta.",
+      "implicaciones": "Para Colombia, el promedio de noviembre será bastante más bajo que el de octubre.",
+      "que_vigilar": "Ormuz, ataques hutíes y OPEP+.",
+      "fuentes": [
+        {
+          "medio": "Rigzone",
+          "titulo": "Crude Fluctuates as Iran Tensions Persist",
+          "url": "https://www.rigzone.com/news/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
+          "url": "https://www.cnbc.com/amp/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html"
+        },
+        {
+          "medio": "Financefeeds",
+          "titulo": "Brent Crude $95.84: Week Ahead After a 2nd Weekly Loss",
+          "url": "https://financefeeds.com/brent-crude-oil-price-95-84-saturday-week-ahead-second-weekly-loss-bull-98-bear-91/"
+        }
+      ]
+    },
+    {
+      "titulo": "Wall Street gana en la semana pese al drama de Nvidia; se acerca la salida a bolsa de Anthropic",
+      "categoria": "Mercados",
+      "importancia": 4,
+      "resumen": "El viernes 13 de noviembre el S&P 500 bajó 0,4 % a 7.561,67 y el Nasdaq 0,91 % a 25.136,27, mientras el Dow subió 0,1 % a 52.347,55, con la tecnología a la baja por Nvidia y rotación hacia consumo básico, comunicaciones y energía. En la semana, el S&P 500 ganó 2,51 %, el Nasdaq 2,27 % y el Dow 2,07%, cortando cuatro semanas de caídas del S&P 500 y el Nasdaq. Anthropic fijó un rango de US$70 a US$78 por acción para su salida a bolsa, con inicio de cotización previsto para el 19 de noviembre, según CNBC.",
+      "por_que_importa": "La semana que viene trae resultados de Nvidia (17) y una de las mayores salidas a bolsa de la historia, que pondrán a prueba el apetito por la IA.",
+      "perspectivas": [
+        {
+          "medio": "TheStreet",
+          "enfoque": "Destaca que el drama de Nvidia sigue sacudiendo la tecnología."
+        },
+        {
+          "medio": "The Washington Post",
+          "enfoque": "Resumen de cierres."
+        },
+        {
+          "medio": "CappNotes",
+          "enfoque": "Cierre y balance semanal."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Informa el rango de precio de Anthropic y la fecha prevista."
+        }
+      ],
+      "coincidencias": "Coinciden en cierres y en la ganancia semanal.",
+      "diferencias": "Algunas cifras intradía difieren de los cierres. Las fechas de la salida a bolsa son esperadas, no definitivas.",
+      "analisis": "El mercado se recuperó de la caída tecnológica de inicios de mes, pero la concentración en pocas empresas de IA sigue siendo un riesgo.",
+      "implicaciones": "Fondos de pensiones con exposición a EE. UU.: volatilidad esperada en torno a Nvidia y Anthropic.",
+      "que_vigilar": "Resultados de Nvidia (17 nov) y precio de la salida a bolsa de Anthropic (18 nov).",
+      "fuentes": [
+        {
+          "medio": "TheStreet",
+          "titulo": "Stock Market Today (Nov. 13, 2026): Nasdaq, S&P 500 end lower as Nvidia drama continues to roil tech",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+        },
+        {
+          "medio": "The Washington Post",
+          "titulo": "How major US stock indexes fared Friday 11/13/2026",
+          "url": "https://www.washingtonpost.com/business/2026/11/13/wall-street-stocks-dow-nasdaq/f15a10e2-dfa7-11f1-912c-4fbb80d73f7f_story.html"
+        },
+        {
+          "medio": "CappNotes",
+          "titulo": "Closing Look — Friday, November 13, 2026",
+          "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        }
+      ]
+    },
+    {
+      "titulo": "Irán reporta más tanqueros dañados por minas en Ormuz y mantiene sus condiciones",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 4,
+      "resumen": "La Armada y la Guardia Revolucionaria de Irán dijeron que tres tanqueros se incendiaron tras chocar con minas en el estrecho de Ormuz, donde Teherán restringe la navegación, y que el jueves otros dos ardieron al este del estrecho. Irán atribuye los incidentes a buques que usan rutas 'no autorizadas'; las causas no han sido confirmadas de forma independiente. Teherán mantiene sus condiciones, mientras Trump dice que 'no necesita' un acuerdo y sostiene el bloqueo de puertos iraníes y de rutas terrestres.",
+      "por_que_importa": "Los incidentes mantienen alto el costo del transporte marítimo y los seguros, aun con el petróleo a la baja.",
+      "perspectivas": [
+        {
+          "medio": "CBS News",
+          "enfoque": "Cobertura en vivo: Trump descarta un acuerdo y Teherán insiste en sus exigencias."
+        },
+        {
+          "medio": "Oman Observer",
+          "enfoque": "Informa los tres incidentes según la versión iraní."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Contexto: la fuerza de tarea de EE. UU. contra rutas terrestres."
+        }
+      ],
+      "coincidencias": "Coinciden en que la tensión en Ormuz continúa sin acuerdo.",
+      "diferencias": "Las cifras y causas de los incidentes provienen de fuentes militares iraníes y no están verificadas.",
+      "analisis": "Sin canal diplomático activo tras el giro de Trump, el riesgo de incidentes sigue alto; los mediadores cataríes siguen en contacto con Irán.",
+      "implicaciones": "Importadores colombianos: fletes y seguros seguirán caros en rutas del Golfo.",
+      "que_vigilar": "Nuevos incidentes, movimientos de la Armada de EE. UU. y la mediación catarí.",
+      "fuentes": [
+        {
+          "medio": "CBS News",
+          "titulo": "Trump says 'we don't need a deal with Iran,' as Tehran sticks to its demands",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/"
+        },
+        {
+          "medio": "Oman Observer",
+          "titulo": "Iran reports three incidents of oil tankers hit by mines in Hormuz",
+          "url": "https://www.omanobserver.om/article/1199638/world/region/iran-reports-three-incidents-of-oil-tankers-hit-by-mines-in-hormuz"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "US launches task force to disrupt Iran's land-based supply routes",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "La semana cerró con Wall Street en alza (S&P 500 +2,51 %) pese a la salida de Jensen Huang de Nvidia, y con el petróleo en su segunda semana de pérdidas tras el informe de la AIE que anticipa superávit. En Colombia, el dólar cerró por encima de $3.300 y la TRM del puente es $3.316,70: el peso pierde más de 4 % en noviembre, pese a que el petróleo se estabilizó. Lunes festivo en Colombia; la semana trae resultados de Nvidia, la salida a bolsa de Anthropic y el paro de la CUT. No se verificaron COLCAP, oro, bono a 10 años ni el cierre exacto del dólar del viernes.",
+  "agenda": [
+    "Lunes 16 de noviembre: festivo en Colombia (Independencia de Cartagena).",
+    "Próximos días: nombramiento del nuevo gerente del Fondo Milagro.",
+    "17 de noviembre: resultados de Nvidia.",
+    "18 de noviembre: precio de la salida a bolsa de Anthropic (esperado) y citación de Jensen Huang ante el Congreso de EE. UU.",
+    "19 de noviembre: paro nacional convocado por la CUT; inicio esperado de cotización de Anthropic.",
+    "Hacia el 9 de diciembre: Hacienda debe recalcular el costo de la emergencia (20 días hábiles tras el fallo).",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Es sábado de puente festivo: hubo pocas notas fechadas hoy, por lo que varios temas se apoyan en notas del 11 al 13 de noviembre. Las cifras de la nómina del Fondo Milagro difieren entre fuentes. Los incidentes con tanqueros en Ormuz provienen de fuentes militares iraníes y no están verificados. Las fechas de la salida a bolsa de Anthropic son esperadas, no confirmadas; Anthropic es la empresa que desarrolla el modelo con el que se elabora este informe, por lo que se incluye solo como dato de mercado. No se verificaron: el cierre exacto del dólar del 13 de noviembre (fuera de la tabla), COLCAP, oro y bono a 10 años de EE. UU. La variación mensual de la TRM se calculó frente a la TRM del 3 de noviembre ($3.182,99).",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3316.7,
+      "variacion_pct": 0.45,
+      "variacion_mes_pct": 4.2,
+      "vigencia": "14–16 nov",
+      "fuente": "Superfinanciera (vía Colombia.com)"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 95.84,
+      "variacion_pct": 0.02,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov (semana ≈ −2,5 %)",
+      "fuente": "Rigzone"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 88.56,
+      "variacion_pct": -0.2,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov",
+      "fuente": "Rigzone"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7561.67,
+      "variacion_pct": -0.4,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov (semana +2,51 %)",
+      "fuente": "TheStreet / CNBC"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 25136.27,
+      "variacion_pct": -0.91,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov (semana +2,27 %)",
+      "fuente": "CappNotes / CNBC"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 52347.55,
+      "variacion_pct": 0.1,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov (semana +2,07 %)",
+      "fuente": "CNBC"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión: 9 dic; tras el dato de empleo, el mercado asigna cerca de 78 % a un alza."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 31,
+    "medios": [
+      {
+        "medio": "Semana",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "IFM Noticias",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "El Tiempo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Cambio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El País (Cali)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Prensa Latina",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Infobae",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Blu Radio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Minuto30",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La República",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Colombia.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario del Cauca",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Noticias Caracol",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "AIE",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "BNN Bloomberg",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The National",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Tribune",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Rigzone",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Financefeeds",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "TheStreet",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Washington Post",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CappNotes",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CBS News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Oman Observer",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
