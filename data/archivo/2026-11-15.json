@@ -1,0 +1,698 @@
+{
+  "fecha": "2026-11-15",
+  "generado": "2026-11-15T10:41:17.009014Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "De la Espriella cumple 100 días con 48 % de aprobación y nuevos ataques con drones; afuera, Trump, Xi y Putin preparan una cumbre inédita e Irán ataca una base de EE. UU. en Baréin.",
+  "lo_esencial": [
+    "El Gobierno De la Espriella cumple 100 días; AtlasIntel le da 48,3 % de aprobación, levemente a la baja.",
+    "Un ataque con drones y francotiradores en Tibú mata a cuatro militares; fuentes militares apuntan al ELN.",
+    "La CUT y organizaciones sociales mantienen el paro del 19 de noviembre contra la Ley de Rescate.",
+    "El Kremlin confirma una cumbre Trump–Xi–Putin en Shenzhen el 19 de noviembre, centrada en armas nucleares e Irán.",
+    "Una falla de comunicaciones paraliza el tráfico aéreo de EE. UU.; miles de vuelos cancelados.",
+    "Irán dice haber atacado un radar de EE. UU. en Baréin; Baréin afirma haber interceptado los ataques."
+  ],
+  "colombia": [
+    {
+      "titulo": "De la Espriella cumple 100 días: seguridad como bandera, reto fiscal y aprobación de 48,3 %",
+      "categoria": "Gobierno",
+      "importancia": 5,
+      "resumen": "El presidente Abelardo de la Espriella cumple hoy, 15 de noviembre, 100 días de Gobierno. Según AtlasIntel para Bloomberg (5 al 9 de noviembre, 3.015 personas, margen de 2 puntos), 48,3 % aprueba su gestión, frente a 48,7 % en octubre y 51,8 % en septiembre. Los balances destacan la Ley de Sometimiento, los bombardeos, la alianza con EE. UU. (incluido el 'Escudo de las Américas') y el restablecimiento de relaciones con Israel, Argentina y El Salvador; y como retos, la Ley de Rescate, la violencia persistente y la gestión de la reconstrucción tras el terremoto del 10 de agosto, con la renuncia del gerente del Fondo Milagro. Sindicatos y el Pacto Histórico convocan protestas para el 19 de noviembre.",
+      "por_que_importa": "El capital político del Gobierno, en una aprobación cercana a la mitad, será decisivo para sacar la Ley de Rescate antes del 16 de diciembre.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Recoge a expertos: aciertos, crisis y el pulso legislativo."
+        },
+        {
+          "medio": "Yahoo Noticias (AFP)",
+          "enfoque": "Resume tres ejes: violencia, alianza con EE. UU. y recortes."
+        },
+        {
+          "medio": "Estrella Digital (España)",
+          "enfoque": "Destaca avances en seguridad, apuesta por la inversión y el reto fiscal."
+        },
+        {
+          "medio": "El Diario",
+          "enfoque": "Balance entre avances y desafíos."
+        },
+        {
+          "medio": "La Jornada (México)",
+          "enfoque": "Muy crítico: 'precarios resultados'; cita un aumento del hurto según entidades independientes."
+        }
+      ],
+      "coincidencias": "Coinciden en que la seguridad es la bandera del Gobierno y el ajuste fiscal su mayor reto.",
+      "diferencias": "Medios de izquierda como La Jornada son muy críticos; medios españoles y generalistas resaltan avances; la aprobación se mantiene estable con leve tendencia a la baja.",
+      "analisis": "Según sus defensores, el Gobierno recuperó la iniciativa militar y la confianza inversionista; según sus críticos, la violencia no cede y la reforma tributaria golpea a la clase media. La encuesta muestra un país dividido casi por mitades.",
+      "implicaciones": "Para las empresas: entorno de política estable pero polarizado; el éxito de la Ley de Rescate dependerá de negociaciones con aliados que ya marcan distancia.",
+      "que_vigilar": "Balance oficial del Gobierno, protestas del 19 de noviembre y próximas encuestas.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "100 días de Abelardo de la Espriella: aciertos, crisis y el pulso legislativo que enfrenta el Gobierno",
+          "url": "https://www.infobae.com/colombia/2026/11/14/los-100-dias-de-gobierno-de-abelardo-de-la-espriella-expertos-analizaron-los-avances-y-lo-que-viene-para-su-gestion/"
+        },
+        {
+          "medio": "Yahoo Noticias (AFP)",
+          "titulo": "Violencia, alianza con EEUU y recortes: los 100 días de gobierno de De la Espriella en Colombia",
+          "url": "https://es-us.noticias.yahoo.com/violencia-alianza-eeuu-recortes-100-161006071.html"
+        },
+        {
+          "medio": "Estrella Digital",
+          "titulo": "De la Espriella cumple 100 días en Colombia: avances en seguridad, apuesta por la inversión y el reto fiscal",
+          "url": "https://www.estrelladigital.es/mundo/colombia-de-la-espriella-100-dias-seguridad-inversion-reto-fiscal-espana/20261115070000453296.html"
+        },
+        {
+          "medio": "El Diario",
+          "titulo": "De la Espriella llega a sus primeros 100 días entre avances y desafíos",
+          "url": "https://www.eldiario.com.co/noticias/de-la-espriella-llega-a-sus-primeros-100-dias-entre-avances-y-desafios/"
+        },
+        {
+          "medio": "La Jornada",
+          "titulo": "En tres meses al mando, presidente de Colombia da precarios resultados",
+          "url": "https://www.jornada.com.mx/2026/11/15/mundo/022n2mun?partner=rss"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "El 48,3% aprueba la gestión del presidente Abelardo De La Espriella, según AtlasIntel para Bloomberg",
+          "url": "https://www.semana.com/politica/articulo/el-483-aprueba-la-gestion-del-presidente-abelardo-de-la-espriella-segun-atlasintel-para-bloomberg/202629/"
+        },
+        {
+          "medio": "El País (Cali)",
+          "titulo": "El 48,3 % de los colombianos aprueba la gestión del presidente, según encuesta de AtlasIntel",
+          "url": "https://www.elpais.com.co/politica/el-483-de-los-colombianos-aprueba-la-gestion-del-presidente-abelardo-de-la-espriella-segun-encuesta-de-atlasintel-1313.html"
+        }
+      ]
+    },
+    {
+      "titulo": "Ataque con drones y francotiradores en Tibú deja cuatro militares muertos",
+      "categoria": "Orden público",
+      "importancia": 5,
+      "resumen": "El 12 de noviembre, tropas del Batallón de Operaciones Terrestres n.º 10 en Barco La Silla, Tibú (Norte de Santander), fueron atacadas con unos veinte artefactos explosivos lanzados desde drones y disparos de francotiradores, según el Ejército. Murieron los militares José Luis Sánchez Berrío, Yair Jesús Méndez Bonza, Jeiner Pineda González y Gerson Mauricio Plazas Amor; los heridos son dos según el presidente o cinco según EFE. Fuentes militares citadas por Caracol Radio apuntan al ELN; en la zona también opera el Frente 33 de las disidencias. El presidente ordenó desplegar toda la capacidad de inteligencia para hallar a los responsables. Según la Defensoría, los ataques con drones crecieron 146 % entre enero y mayo.",
+      "por_que_importa": "Es el segundo ataque letal con drones contra la Fuerza Pública en una semana (tras Santa Rosa del Sur), en el Catatumbo, zona petrolera y fronteriza.",
+      "perspectivas": [
+        {
+          "medio": "Infobae (EFE)",
+          "enfoque": "Informa cuatro muertos y cinco heridos en un ataque a un batallón cerca de la frontera."
+        },
+        {
+          "medio": "Infobae (agencias)",
+          "enfoque": "Recoge la versión presidencial de dos heridos."
+        },
+        {
+          "medio": "Noticias SIN (República Dominicana)",
+          "enfoque": "Cobertura internacional breve del ataque con drones."
+        },
+        {
+          "medio": "Eje21",
+          "enfoque": "Reproduce la nota de agencia con énfasis en la cercanía a Venezuela."
+        }
+      ],
+      "coincidencias": "Coinciden en los cuatro muertos, el lugar y el uso de drones.",
+      "diferencias": "Difieren en el número de heridos. La autoría del ELN es una hipótesis de fuentes militares.",
+      "analisis": "Los grupos armados parecen responder a los bombardeos con ataques de bajo costo y alto impacto. El Catatumbo sigue siendo el principal foco de disputa entre ELN y disidencias.",
+      "implicaciones": "Empresas petroleras y de infraestructura en Norte de Santander: reforzar protocolos antidrones y planes de evacuación.",
+      "que_vigilar": "Respuesta militar en el Catatumbo, reivindicación y nuevos ataques.",
+      "fuentes": [
+        {
+          "medio": "Infobae (EFE)",
+          "titulo": "Ataque a un batallón en el noreste de Colombia deja cuatro muertos y cinco heridos",
+          "url": "https://www.infobae.com/america/agencias/2026/11/12/ataque-a-un-batallon-en-el-noreste-de-colombia-deja-cuatro-muertos-y-cinco-heridos/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Cuatro militares muertos y dos heridos por un ataque con drones en el norte de Colombia",
+          "url": "https://www.infobae.com/america/agencias/2026/11/12/cuatro-militares-muertos-y-dos-heridos-por-un-ataque-con-drones-en-el-norte-de-colombia/"
+        },
+        {
+          "medio": "Noticias SIN",
+          "titulo": "Ataque con drones en Tibú deja cuatro militares muertos",
+          "url": "https://noticiassin.com/mundo/mundo-general/2026/11/12/ataque-con-drones-en-tibu-deja-cuatro-militares-muertos-2168977"
+        },
+        {
+          "medio": "Eje21",
+          "titulo": "Ataque a un batallón en el noreste de Colombia deja cuatro muertos y cinco heridos",
+          "url": "https://www.eje21.com.co/2026/11/ataque-a-un-batallon-en-el-noreste-de-colombia-deja-cuatro-muertos-y-cinco-heridos/"
+        }
+      ]
+    },
+    {
+      "titulo": "Paro de la CUT del 19 de noviembre: el IVA a la canasta, en el centro de la protesta",
+      "categoria": "Sociedad / Política fiscal",
+      "importancia": 4,
+      "resumen": "La CUT, presidida por Fabio Arias, convocó un paro nacional para el jueves 19 de noviembre contra la Ley de Rescate Económico. Rechaza llevar productos de la canasta familiar del 5 % o exentos al 19 % de IVA, el aumento gradual de aportes a salud desde 2027 y las facultades para reorganizar entidades; critica que se baje la renta empresarial del 35 % al 31 % y se elimine el impuesto al patrimonio. Arias habla de hasta 700.000 empleos en riesgo, una estimación propia. Organizaciones sociales y el Pacto Histórico se suman a la convocatoria.",
+      "por_que_importa": "La protesta llega cuando el Congreso ya marca distancia del IVA a alimentos; su tamaño puede influir en la negociación de la ley y en el salario mínimo.",
+      "perspectivas": [
+        {
+          "medio": "El Tiempo",
+          "enfoque": "Informativo: la CUT convoca paro contra la 'reforma tributaria'."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Destaca la advertencia de 700.000 empleos en riesgo."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Recoge el llamado de Fabio Arias: 'a protestar'."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Cobertura de la convocatoria."
+        },
+        {
+          "medio": "La Nación (Neiva)",
+          "enfoque": "Perspectiva regional de la convocatoria."
+        }
+      ],
+      "coincidencias": "Coinciden en la fecha, los motivos y los convocantes.",
+      "diferencias": "El Gobierno presenta la ley como un rescate necesario para evitar la cesación de pagos; la CUT, como un ajuste que recae en trabajadores. La cifra de empleos es una estimación sindical sin respaldo oficial.",
+      "analisis": "Con el IVA a la canasta ya en duda en el Congreso, la protesta puede reforzar esa tendencia. La magnitud de la movilización será la señal política clave.",
+      "implicaciones": "Empresas en ciudades principales: prever afectaciones de movilidad y logística el 19 de noviembre.",
+      "que_vigilar": "Magnitud del paro, respuesta del Gobierno y cambios en la ponencia.",
+      "fuentes": [
+        {
+          "medio": "El Tiempo",
+          "titulo": "La CUT convoca a paro nacional el 19 de noviembre contra la reforma tributaria del Gobierno",
+          "url": "https://www.eltiempo.com/politica/la-cut-convoca-a-paro-nacional-el-19-de-noviembre-contra-la-reforma-tributaria-del-gobierno-3597959"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "La CUT anunció paro nacional el 19 de noviembre contra Ley de Rescate Económico: advierte riesgo para 700.000 empleos",
+          "url": "https://www.elcolombiano.com/negocios/cut-convoca-paro-nacional-19-noviembre-reforma-tributaria-OO43093863"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Fabio Arias, presidente de la CUT, convocó a paro nacional el 19 de noviembre contra la Ley de Rescate Económico",
+          "url": "https://www.infobae.com/colombia/2026/11/01/fabio-arias-presidente-de-la-cut-convoco-a-paro-nacional-el-19-de-noviembre-contra-la-ley-de-rescate-economico-a-protestar/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "CUT convoca paro nacional el 19 de noviembre por Ley de Rescate Económico",
+          "url": "https://www.semana.com/nacion/articulo/cut-convoca-paro-nacional-el-19-de-noviembre-por-la-propuesta-de-ley-de-rescate-economico/202635/"
+        },
+        {
+          "medio": "La Nación",
+          "titulo": "CUT convoca paro nacional en noviembre contra la Ley de Rescate Económico",
+          "url": "https://www.lanacion.com.co/cut-convoca-paro-nacional-en-noviembre-contra-la-ley-de-rescate-economico/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Trump, Xi y Putin tendrán una cumbre trilateral inédita en Shenzhen el 19 de noviembre",
+      "categoria": "Geopolítica",
+      "importancia": 5,
+      "resumen": "El Kremlin confirmó que Putin, Xi y Trump se reunirán el 19 de noviembre en Shenzhen, al margen de la cumbre de APEC (18 y 19 de noviembre); la Casa Blanca la describe como la primera reunión trilateral de este tipo. Según funcionarios de EE. UU., el foco será la reducción de arsenales nucleares y Trump planteará la guerra con Irán, pero Ucrania no estaría en la agenda; Washington no espera un acuerdo y lo ve como 'una primera conversación'. Zelenski advirtió contra un arreglo 'tipo Yalta'; el Kremlin rechazó la comparación.",
+      "por_que_importa": "Una conversación entre las tres potencias nucleares sobre armas e Irán puede reconfigurar el riesgo geopolítico, el comercio y el petróleo.",
+      "perspectivas": [
+        {
+          "medio": "CNN",
+          "enfoque": "Lo presenta como una reunión histórica centrada en la no proliferación nuclear."
+        },
+        {
+          "medio": "Anadolu",
+          "enfoque": "Informa la confirmación del Kremlin."
+        },
+        {
+          "medio": "France 24",
+          "enfoque": "Destaca que China será anfitriona por primera vez de un encuentro así."
+        },
+        {
+          "medio": "CBS News",
+          "enfoque": "Recoge a funcionarios que confirman la reunión y su agenda."
+        },
+        {
+          "medio": "Channel 4 (Reino Unido)",
+          "enfoque": "Encuadre de 'reunión sin precedentes' y preocupaciones europeas."
+        }
+      ],
+      "coincidencias": "Coinciden en fecha, lugar y en que Ucrania no estaría en la agenda.",
+      "diferencias": "China no había confirmado inicialmente; medios europeos subrayan los temores de Kiev, mientras medios estadounidenses destacan la agenda nuclear.",
+      "analisis": "Para Washington, es una oportunidad de control de armas; para Kiev y algunos europeos, un riesgo de que se decidan asuntos sin ellos. Las expectativas de acuerdos concretos son bajas.",
+      "implicaciones": "Volatilidad posible en petróleo y mercados según los mensajes sobre Irán y comercio.",
+      "que_vigilar": "Comunicados de la cumbre, mensajes sobre Irán y aranceles.",
+      "fuentes": [
+        {
+          "medio": "CNN",
+          "titulo": "Trump to meet with China's Xi and Russia's Putin at historic trilateral sit-down on nuclear non-proliferation",
+          "url": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting"
+        },
+        {
+          "medio": "Anadolu",
+          "titulo": "Kremlin says Putin, Xi, Trump to hold trilateral meeting in Shenzhen on Nov. 19",
+          "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+        },
+        {
+          "medio": "France 24",
+          "titulo": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
+          "url": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says"
+        },
+        {
+          "medio": "CBS News",
+          "titulo": "Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind",
+          "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
+        },
+        {
+          "medio": "Channel 4",
+          "titulo": "Trump, Xi and Putin plan unprecedented meeting in Shenzhen, China",
+          "url": "https://www.channel4.com/news/trump-xi-and-putin-plan-unprecedented-meeting-in-shenzhen-china"
+        }
+      ]
+    },
+    {
+      "titulo": "Falla de comunicaciones paraliza el tráfico aéreo de EE. UU.: miles de vuelos cancelados",
+      "categoria": "Infraestructura / EE. UU.",
+      "importancia": 4,
+      "resumen": "El viernes 13 de noviembre la FAA ordenó una suspensión nacional de despegues por una falla de telecomunicaciones que afectó 17 de 22 centros de control en ruta; duró más de cuatro horas, la más larga en 25 años. El sábado se cancelaron unos 4.500 vuelos y se demoraron 4.400, según Reuters. El secretario de Transporte, Sean Duffy, culpó al contratista L3Harris tras una actualización: un enrutador saturó a otros con miles de conexiones; no hay indicios de ciberataque. Delta, United y American cancelaron cerca de 20 % de sus vuelos del sábado. La FAA espera normalidad al final del domingo.",
+      "por_que_importa": "Afecta conexiones de viajeros y carga entre Colombia y EE. UU., y expone la fragilidad de la infraestructura de control aéreo.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Pone el foco en la explicación oficial: la actualización del sistema de L3Harris."
+        },
+        {
+          "medio": "NBC News",
+          "enfoque": "Cobertura en vivo del levantamiento de la suspensión."
+        },
+        {
+          "medio": "Fox News",
+          "enfoque": "Destaca que fue la suspensión más larga en 25 años."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Explicativo: por qué se paralizaron los vuelos y qué sigue."
+        },
+        {
+          "medio": "U.S. News (Reuters)",
+          "enfoque": "Cifras de cancelaciones y recuperación."
+        }
+      ],
+      "coincidencias": "Coinciden en la causa técnica y en que no hubo ciberataque.",
+      "diferencias": "Las cifras totales de cancelaciones varían (entre 4.500 y más de 10.000 en dos días).",
+      "analisis": "El incidente se suma a fallas de radar en Colombia y alimenta el debate sobre modernización de sistemas de control aéreo.",
+      "implicaciones": "Viajeros y exportadores con carga aérea a EE. UU.: posibles retrasos residuales.",
+      "que_vigilar": "Normalización de operaciones y resultados de la investigación.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT's Duffy",
+          "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+        },
+        {
+          "medio": "NBC News",
+          "titulo": "FAA lifts ground stop as U.S. airports grapple with thousands of canceled flights",
+          "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-flights-grounded-faa-communications-outage-rcna609268"
+        },
+        {
+          "medio": "Fox News",
+          "titulo": "Thousands of flights canceled in wake of FAA ground stop",
+          "url": "https://www.foxnews.com/live-news/thousands-of-flights-canceled-after-longest-nationwide-ground-stop-in-25-years-rocks-us-airports"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "FAA ground stop lifted: Why were US flights grounded, and what's next?",
+          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
+        },
+        {
+          "medio": "U.S. News (Reuters)",
+          "titulo": "Thousands of US Flights Canceled, Delayed as Air Travel System Slowly Recovers From Shutdown",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-14/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown"
+        }
+      ]
+    },
+    {
+      "titulo": "Irán dice haber atacado un radar de EE. UU. en Baréin; Baréin intercepta los ataques",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 4,
+      "resumen": "La Guardia Revolucionaria iraní dijo que lanzó seis drones contra un radar de defensa aérea de EE. UU. en la base de helicópteros de Al-Rifaa, en Baréin. Baréin emitió su primera alerta nacional en meses y dijo haber interceptado y destruido varios ataques aéreos iraníes. EE. UU. informó que interceptó dos drones iraníes el viernes y no había comentado el ataque del domingo. Trump ha dicho a asesores que podría abstenerse de atacar si no hay nuevas provocaciones de Irán o de los hutíes.",
+      "por_que_importa": "Un ataque contra un país del Golfo que alberga fuerzas de EE. UU. eleva el riesgo de escalada justo antes de la cumbre de Shenzhen.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Informa la intercepción de Baréin y la versión iraní."
+        },
+        {
+          "medio": "The National (EAU)",
+          "enfoque": "Destaca la primera alerta nacional de Baréin en meses."
+        },
+        {
+          "medio": "ANI (India)",
+          "enfoque": "Reproduce el anuncio de la Guardia Revolucionaria."
+        },
+        {
+          "medio": "RT (medio estatal ruso)",
+          "enfoque": "Muestra videos y la versión iraní del ataque."
+        }
+      ],
+      "coincidencias": "Coinciden en el anuncio iraní y en la respuesta de Baréin.",
+      "diferencias": "La afirmación iraní de haber dado en el blanco no está confirmada; Baréin dice haber interceptado los ataques.",
+      "analisis": "Irán busca mostrar capacidad de respuesta mientras Trump endurece su postura; la condición de Trump de 'no provocaciones' queda en entredicho.",
+      "implicaciones": "Posible rebote del petróleo el lunes si escala la tensión.",
+      "que_vigilar": "Respuesta de EE. UU., nuevos ataques y la agenda Irán en Shenzhen.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
+          "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
+        },
+        {
+          "medio": "The National",
+          "titulo": "Bahrain intercepts Iranian attacks after first nationwide alert in months",
+          "url": "https://thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters"
+        },
+        {
+          "medio": "ANI",
+          "titulo": "Iran's IRGC says it attacked US radar system at a base in Bahrain",
+          "url": "https://aninews.in/news/world/middle-east/iran8217s-irgc-says-it-attacked-us-radar-system-at-a-base-in-bahrain20261115120703/"
+        },
+        {
+          "medio": "RT",
+          "titulo": "Iran targets US military assets in Bahrain",
+          "url": "https://rt-english.com/news/648851-iran-us-base-bahrain/"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "Domingo sin mercados: los indicadores son del cierre del viernes 13. La semana dejó a Wall Street en alza (S&P 500 +2,5 %) y al petróleo en su segunda semana de pérdidas (Brent US$95,84). La TRM del puente es $3.316,70. El lunes es festivo en Colombia; el martes, el mercado local reaccionará al ataque iraní en Baréin y a las expectativas sobre la cumbre de Shenzhen, en una semana con resultados de Nvidia, la salida a bolsa de Anthropic y el paro del 19.",
+  "agenda": [
+    "Lunes 16 de noviembre: festivo en Colombia.",
+    "17 de noviembre: resultados de Nvidia.",
+    "18 y 19 de noviembre: cumbre de APEC en Shenzhen; 19 de noviembre, reunión Trump–Xi–Putin.",
+    "18 de noviembre: precio esperado de la salida a bolsa de Anthropic y citación de Jensen Huang ante el Congreso de EE. UU.",
+    "19 de noviembre: paro nacional convocado por la CUT.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Domingo de puente festivo: hubo pocas notas del día; varios temas se apoyan en notas del 12 al 14 de noviembre y la convocatoria del paro data de inicios de mes. Los balances de los 100 días están polarizados: La Jornada es muy crítica y medios generalistas y españoles más favorables; se citan ambos. La cifra de hurto que menciona La Jornada no fue verificada. En el ataque de Tibú, el número de heridos difiere (dos o cinco) y la autoría es una hipótesis militar. El ataque iraní en Baréin proviene de fuentes iraníes; Baréin dice haberlo interceptado. No se verificó el derribo de un dron estadounidense sobre Qeshm que reportó Anadolu. Los mercados son del cierre del viernes.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3316.7,
+      "variacion_pct": 0.45,
+      "variacion_mes_pct": 4.2,
+      "vigencia": "14–16 nov",
+      "fuente": "Superfinanciera (vía Colombia.com)"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 95.84,
+      "variacion_pct": 0.02,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov (semana ≈ −2,5 %)",
+      "fuente": "Rigzone"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 88.56,
+      "variacion_pct": -0.2,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov",
+      "fuente": "Rigzone"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7561.67,
+      "variacion_pct": -0.4,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov (semana +2,51 %)",
+      "fuente": "TheStreet / CNBC"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 25136.27,
+      "variacion_pct": -0.91,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov (semana +2,27 %)",
+      "fuente": "CappNotes / CNBC"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 52347.55,
+      "variacion_pct": 0.1,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 13 nov (semana +2,07 %)",
+      "fuente": "CNBC"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión: 9 dic; tras el dato de empleo, el mercado asigna cerca de 78 % a un alza."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 30,
+    "medios": [
+      {
+        "medio": "Infobae",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Noticias (AFP)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Estrella Digital",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Diario",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La Jornada",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El País (Cali)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Infobae (EFE)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Noticias SIN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Eje21",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Tiempo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Colombiano",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La Nación",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Anadolu",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "France 24",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CBS News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Channel 4",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "NBC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Fox News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "U.S. News (Reuters)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The National",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ANI",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "RT",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
