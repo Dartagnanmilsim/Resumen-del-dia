@@ -1,0 +1,733 @@
+{
+  "fecha": "2026-11-17",
+  "generado": "2026-11-17T10:40:00.181240Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "La 'Milagro Week' suma anuncios por US$17.500 millones mientras las disidencias atacan siete peajes; afuera, Wall Street cae antes de Nvidia y EE. UU. e Irán vuelven a intercambiar ataques.",
+  "lo_esencial": [
+    "Primer día de la 'Milagro Week': anuncios por US$17.500 millones, incluida una inversión de Avianca por US$3.000 millones.",
+    "Siete atentados contra peajes en 16 días en Valle, Cauca, Huila y Meta; las disidencias los declararon objetivo militar.",
+    "El DANE publica hoy el PIB del tercer trimestre; los analistas esperan entre 1 % y 2,2 %, frente a 3,5 % en el segundo.",
+    "Wall Street cae casi 2 % y el Nasdaq vuelve a la corrección; Nvidia presenta resultados esta tarde.",
+    "Warsh advierte que la IA podría destruir empleos o pinchar las bolsas, sin dar señales sobre tasas.",
+    "EE. UU. ataca lanzadores iraníes tras el ataque en Baréin; aun así, el Brent cae 3,6 % a US$92,44 por exceso de oferta."
+  ],
+  "colombia": [
+    {
+      "titulo": "'Milagro Week' arranca con anuncios por US$17.500 millones; Avianca invertirá US$3.000 millones",
+      "categoria": "Economía / Inversión",
+      "importancia": 5,
+      "resumen": "En el primer día de la 'Milagro Week' en Nueva York, el Gobierno informó anuncios de inversión y financiamiento por US$17.500 millones, según El Tiempo y AmCham; Pulzo habla de US$25.900 millones, de los cuales US$21.400 millones serían recursos previstos por el Banco Mundial, la CAF y el BID y US$4.500 millones anuncios privados. Avianca invertirá US$3.000 millones y sumará 61 aviones entre 2027 y 2029; Grupo Plata ampliará su inversión de US$60 millones a US$400 millones en tres años. La agenda sigue hasta el 19 de noviembre con unas 300 reuniones. El vicepresidente Restrepo se reunió además con el congresista demócrata Gregory Meeks, según AmCham.",
+      "por_que_importa": "La inversión extranjera y la financiación multilateral son clave para compensar el ajuste fiscal; la reunión con Meeks apunta a mejorar la relación con el nuevo Congreso demócrata de EE. UU.",
+      "perspectivas": [
+        {
+          "medio": "El Tiempo",
+          "enfoque": "Destaca la cifra oficial de US$17.500 millones en la inauguración."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Pone el foco en los anuncios de Avianca y Grupo Plata."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Detalla el plan de flota de Avianca."
+        },
+        {
+          "medio": "Pulzo",
+          "enfoque": "Desglosa la cifra entre multilaterales y privados."
+        },
+        {
+          "medio": "AmCham Colombia",
+          "enfoque": "Resalta la agenda política con el Congreso de EE. UU."
+        }
+      ],
+      "coincidencias": "Coinciden en los anuncios de Avianca y Grupo Plata.",
+      "diferencias": "Las cifras totales varían (US$17.500 a US$25.900 millones) y mezclan créditos multilaterales con inversión privada; el número de proyectos varía entre 97 y 135.",
+      "analisis": "Buena parte del monto corresponde a financiación de bancos multilaterales, que es deuda, no inversión extranjera directa. Los anuncios privados concretos son más modestos, pero relevantes por sector.",
+      "implicaciones": "Aviación, turismo e infraestructura: oportunidades de proveeduría. Para el fisco, la financiación multilateral alivia la necesidad de deuda de mercado.",
+      "que_vigilar": "Balance final al 19 de noviembre y separación entre inversión privada y crédito multilateral.",
+      "fuentes": [
+        {
+          "medio": "El Tiempo",
+          "titulo": "Abelardo de la Espriella inaugura la 'Milagro Week' en Nueva York: Colombia anuncia inversiones y financiamiento por US $17.500 millones",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-inaugura-la-milagro-week-en-nueva-york-colombia-anuncia-inversiones-y-financiamiento-por-us-17-500-millones-3601521"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "Restrepo anunció que Avianca y Grupo Plata se suman a la Milagro Week con inversiones por US$3.340 millones",
+          "url": "https://www.elcolombiano.com/negocios/inversiones-avianca-grupo-plata-milagro-week-AF43645995"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Avianca invertirá 3.000 millones de dólares y sumará 61 aviones a su flota entre 2027 y 2029",
+          "url": "https://www.semana.com/economia/empresas/articulo/avianca-invertira-3000-millones-de-dolares-y-sumara-61-aviones-a-su-flota-entre-2027-y-2029/202646/"
+        },
+        {
+          "medio": "Pulzo",
+          "titulo": "Anuncian inversión de 25.900 dólares en medio de la Milagro Week en Nueva York",
+          "url": "https://www.pulzo.com/economia/anuncian-inversion-25900-dolares-medio-milagro-week-nueva-york-PP5356947"
+        },
+        {
+          "medio": "AmCham Colombia",
+          "titulo": "Colombia inicia la Milagro Week en Nueva York con anuncios de inversión y agenda en el Congreso de EE.UU.",
+          "url": "https://amchamcolombia.co/noticias-observatorio-estados-unidos/colombia-inicia-la-milagro-week-en-nueva-york-con-anuncios-de-inversion-y-agenda-en-el-congreso-de-ee-uu/"
+        }
+      ]
+    },
+    {
+      "titulo": "Siete atentados contra peajes en 16 días: las disidencias los declaran objetivo",
+      "categoria": "Orden público / Infraestructura",
+      "importancia": 5,
+      "resumen": "Entre el 1 y el 16 de noviembre hubo siete atentados contra seis peajes en Valle del Cauca, Cauca, Huila y Meta, con explosivos lanzados desde drones, motocicletas y vehículos cargados. La serie empezó el 4 de noviembre en Mediacanoa (Yotoco); siguieron Mondomo (7 y 11), Villa Rica (8), donde un civil resultó herido, y Neiva y Pipiral (15). Según los reportes, el Estado Mayor Central de las disidencias de las FARC declaró los peajes objetivo militar y, según una fuente, exigió reducir las tarifas 50 %. Las autoridades no han atribuido todos los hechos a una misma estructura.",
+      "por_que_importa": "Los ataques afectan corredores logísticos clave del suroccidente y del Llano, con costos para transporte de carga y concesiones viales.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Explicativo: por qué están atacando los peajes."
+        },
+        {
+          "medio": "Publimetro",
+          "enfoque": "Enfoca la razón detrás de la escalada: siete ataques en 16 días."
+        },
+        {
+          "medio": "El Diario",
+          "enfoque": "Lo presenta como una alerta nacional."
+        },
+        {
+          "medio": "Diario del Huila",
+          "enfoque": "Perspectiva regional tras el ataque en Neiva."
+        },
+        {
+          "medio": "Prensa Latina",
+          "enfoque": "Destaca la 'violencia armada' contra la infraestructura."
+        }
+      ],
+      "coincidencias": "Coinciden en el número de ataques y en la autoría atribuida a disidencias.",
+      "diferencias": "Difieren en el periodo (15 o 16 días) y en si incluir hechos como El Bordo o el vehículo desactivado en Los Cauchos.",
+      "analisis": "Atacar peajes es una forma de presión económica de bajo costo y alta visibilidad. La exigencia de rebaja de tarifas busca apoyo local, según algunos analistas; el Gobierno lo califica como terrorismo.",
+      "implicaciones": "Transportadores y concesionarios del suroccidente: revisar seguros, rutas alternas y protocolos de seguridad.",
+      "que_vigilar": "Nuevos ataques, respuesta militar y efecto en el tráfico de carga.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Por qué están atacando los peajes en Colombia: van siete atentados en noviembre",
+          "url": "https://www.infobae.com/colombia/2026/11/16/por-que-estan-atacando-los-peajes-en-colombia-van-siete-atentados-en-noviembre/"
+        },
+        {
+          "medio": "Publimetro",
+          "titulo": "¿Por qué están atacando los peajes en Colombia? La razón detrás de la escalada de atentados",
+          "url": "https://www.publimetro.co/noticias/2026/11/16/siete-ataques-en-16-dias-por-que-los-peajes-se-convirtieron-en-blanco-de-grupos-armados/"
+        },
+        {
+          "medio": "El Diario",
+          "titulo": "Alerta en Colombia: siete ataques contra peajes en noviembre",
+          "url": "https://www.eldiario.com.co/actualidad/alerta-en-colombia-siete-ataques-contra-peajes-en-noviembre/"
+        },
+        {
+          "medio": "Diario del Huila",
+          "titulo": "Siete ataques a peajes en Colombia: las razones detrás de la ofensiva",
+          "url": "https://diariodelhuila.com/siete-atentados-contra-peajes-en-colombia-durante-noviembre-por-que-los-grupos-armados-los-tienen-en-la-mira/"
+        },
+        {
+          "medio": "Prensa Latina",
+          "titulo": "Violencia armada se ensaña con los peajes de Colombia",
+          "url": "https://www.prensa-latina.cu/2026/11/16/violencia-armada-se-ensana-con-los-peajes-de-colombia/"
+        }
+      ]
+    },
+    {
+      "titulo": "Hoy, PIB del tercer trimestre: analistas esperan entre 1 % y 2,2 % tras el terremoto",
+      "categoria": "Economía / Crecimiento",
+      "importancia": 4,
+      "resumen": "El DANE publica hoy a las 10:00 a. m. el PIB del tercer trimestre. Las previsiones van de cerca de 1 % (Banco de Bogotá) a 2,2 % (NowCast de Grupo Cibest), frente a 3,5 % en el segundo trimestre. Según El Espectador y Bloomberg Línea, la economía habría perdido impulso por el terremoto de agosto, las tasas altas y un menor gasto público; el BanRep estimó que el sismo restaría entre 0,3 y 0,8 puntos al crecimiento del trimestre.",
+      "por_que_importa": "Un crecimiento débil con inflación de 6,30 % complica la decisión de tasas del BanRep del 18 de diciembre y el debate de la Ley de Rescate.",
+      "perspectivas": [
+        {
+          "medio": "El Espectador",
+          "enfoque": "Anticipa que la economía habría perdido impulso."
+        },
+        {
+          "medio": "Bloomberg Línea",
+          "enfoque": "Titula que sería el peor crecimiento de 2026."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Habla de señales de enfriamiento."
+        }
+      ],
+      "coincidencias": "Coinciden en esperar una desaceleración frente al segundo trimestre.",
+      "diferencias": "El rango de pronósticos es amplio (1 % a 2,2 %). Algunas cifras que circulan en internet (0,6 % o 1 %) no provienen del DANE y no se tomaron como dato.",
+      "analisis": "Un dato cerca de 1 % reforzaría a quienes en el BanRep prefieren no subir tasas; uno cercano a 2 % daría argumentos a quienes piden más ajuste por la inflación.",
+      "implicaciones": "Empresas: un crecimiento débil anticipa menor demanda interna a inicios de 2027.",
+      "que_vigilar": "Dato del DANE hoy y reacción del mercado de deuda y del peso.",
+      "fuentes": [
+        {
+          "medio": "El Espectador",
+          "titulo": "PIB de Colombia: la economía habría perdido impulso en el tercer trimestre de 2026",
+          "url": "https://www.elespectador.com/economia/macroeconomia/pib-de-colombia-la-economia-habria-perdido-impulso-en-el-tercer-trimestre-de-2026/"
+        },
+        {
+          "medio": "Bloomberg Línea",
+          "titulo": "Economía colombiana tendría su peor crecimiento de 2026 en el tercer trimestre",
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/economia-colombiana-tendria-su-peor-crecimiento-de-2026-en-el-tercer-trimestre/"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "La economía colombiana afronta la prueba del PIB del tercer trimestre con señales de enfriamiento",
+          "url": "https://ifmnoticias.com/economicas/la-economia-colombiana-afronta-la-prueba-del-pib-del-tercer-trimestre-con-senale/"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "PIB del tercer trimestre, la fuerza pública ante la JEP, COP31 y más, en El Despertador",
+          "url": "https://www.elespectador.com/colombia/pib-del-tercer-trimestre-la-fuerza-publica-ante-la-jep-cop31-y-mas-en-el-despertador/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Wall Street cae casi 2 % y el Nasdaq vuelve a la corrección antes de Nvidia",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "El 16 de noviembre el S&P 500 cayó 1,92 % a 7.416,59, el Nasdaq 2,49 % a 24.509,76 —10,9 % por debajo de su máximo del 6 de octubre, en corrección— y el Dow 1,41 % a 51.608,17. Los inversionistas se preparan para una semana clave: Nvidia presenta resultados hoy después del cierre, tras la salida de su CEO, y Anthropic debutaría en bolsa esta semana.",
+      "por_que_importa": "La concentración de las bolsas en empresas de IA hace que los resultados de Nvidia puedan mover a todo el mercado, incluidos fondos de pensiones colombianos.",
+      "perspectivas": [
+        {
+          "medio": "CNN",
+          "enfoque": "Lo enmarca como el inicio de una semana crucial para la IA."
+        },
+        {
+          "medio": "StockTitan",
+          "enfoque": "Destaca que la tecnología arrastró al mercado."
+        },
+        {
+          "medio": "24/7 Wall St.",
+          "enfoque": "Subraya la caída del Nasdaq como la peor del día."
+        }
+      ],
+      "coincidencias": "Coinciden en la caída y en el papel de Nvidia y la IA.",
+      "diferencias": "Las cifras de cierre varían levemente según el proveedor.",
+      "analisis": "El mercado descuenta incertidumbre por el liderazgo de Nvidia, posibles restricciones a la exportación de chips y la enorme oferta de acciones de la salida a bolsa de Anthropic.",
+      "implicaciones": "Volatilidad alta en activos de riesgo; posible presión sobre monedas emergentes como el peso.",
+      "que_vigilar": "Resultados y guía de Nvidia esta tarde.",
+      "fuentes": [
+        {
+          "medio": "CNN",
+          "titulo": "Stocks slide to kick off major week for Wall Street",
+          "url": "https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic"
+        },
+        {
+          "medio": "StockTitan",
+          "titulo": "Stock Market Today, November 16, 2026: Tech Stocks Pull the Market Lower Before Nvidia's Results",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
+        },
+        {
+          "medio": "24/7 Wall St.",
+          "titulo": "S&P 500 Closes Down 2% as Nasdaq Leads Broad Market Lower",
+          "url": "https://247wallst.com/cards/tech-took-the-worst-of-it-the-nasdaq-s-2-54-drop-nearly-do-gspc-market-bell-01m7k2rvdndtgg635thrxjgnck"
+        }
+      ]
+    },
+    {
+      "titulo": "Warsh: la IA puede impulsar el crecimiento, destruir empleos o pinchar las bolsas",
+      "categoria": "Economía / EE. UU.",
+      "importancia": 4,
+      "resumen": "El presidente de la Fed, Kevin Warsh, presentó en San Francisco tres escenarios ilustrativos —no pronósticos— sobre el impacto de la IA: ganancias amplias, desaceleración o una decepción que haga caer las valoraciones bursátiles. Advirtió que la IA podría causar una 'disrupción sustancial' del mercado laboral y llevar el desempleo por encima del pleno empleo. No dio señales sobre tasas ni comentó la inflación de octubre; el mercado mantiene la apuesta por un alza en diciembre.",
+      "por_que_importa": "Que el jefe de la Fed mencione el riesgo de una caída bursátil por la IA es una señal relevante para los mercados globales.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Análisis: Warsh ve una revolución de la IA y debe definir qué significa para la política monetaria."
+        },
+        {
+          "medio": "Axios",
+          "enfoque": "Destaca el riesgo de 'pinchazo' bursátil si la IA decepciona; tono en general optimista."
+        },
+        {
+          "medio": "Yahoo Finance",
+          "enfoque": "Informa que la IA tendrá un 'impacto significativo' en la economía y la política."
+        },
+        {
+          "medio": "Quartz",
+          "enfoque": "Pone el foco en los riesgos de pérdida de empleos."
+        },
+        {
+          "medio": "CP24 (Canadá)",
+          "enfoque": "Subraya que evitó hablar del riesgo inflacionario."
+        }
+      ],
+      "coincidencias": "Coinciden en los tres escenarios y en la ausencia de señales sobre tasas.",
+      "diferencias": "Axios lo ve optimista; Quartz enfatiza los riesgos.",
+      "analisis": "El discurso amplía el mandato de análisis de la Fed hacia la IA; sin guía de tasas, el mercado se apoya en los datos de inflación y empleo.",
+      "implicaciones": "Tasas externas altas por más tiempo si se confirma el alza de diciembre.",
+      "que_vigilar": "Minutas de la Fed y datos de inflación.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "Kevin Warsh sees an AI revolution coming. Now he has to figure out what it means: analysis",
+          "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+        },
+        {
+          "medio": "Axios",
+          "titulo": "Federal Reserve chairman Warsh sees risk of stock bust if AI boom disappoints",
+          "url": "https://www.axios.com/2026/11/16/fed-warsh-ai-boom-stocks"
+        },
+        {
+          "medio": "Yahoo Finance",
+          "titulo": "Warsh says AI will have 'significant impact' on economy, policy",
+          "url": "https://finance.yahoo.com/economy/policy/articles/warsh-says-ai-significant-impact-184126746.html"
+        },
+        {
+          "medio": "Quartz",
+          "titulo": "Fed Chair Kevin Warsh warns AI could trigger job losses, stock bust",
+          "url": "https://qz.com/warsh-fed-ai-job-losses-stock-scenarios-111626"
+        },
+        {
+          "medio": "CP24",
+          "titulo": "U.S. Fed chairman Warsh grapples with AI's potential economic impact, steers clear of its inflation risk",
+          "url": "https://www.cp24.com/news/world/2026/11/16/us-fed-chairman-warsh-grapples-with-ais-potential-economic-impact-steers-clear-of-its-inflation-risk/"
+        }
+      ]
+    },
+    {
+      "titulo": "EE. UU. bombardea lanzadores iraníes tras el ataque en Baréin; llega un tercer portaaviones",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 5,
+      "resumen": "Tras el ataque iraní contra la base aérea Isa en Baréin y disparos contra tanqueros en Ormuz, el Ejército de EE. UU. lanzó el domingo por la noche nuevos ataques contra lanzadores de misiles en el sur de Irán, según Euronews. EE. UU. niega que la Guardia Revolucionaria haya destruido su radar en Baréin. Baréin responsabilizó a Irán y dijo haber interceptado los drones. Un tercer portaaviones estadounidense entró en la región, según Gulf News. Catar anunció una reunión con funcionarios iraníes para avanzar en la mediación.",
+      "por_que_importa": "El intercambio de ataques acerca de nuevo a una guerra abierta justo antes de la cumbre Trump–Xi–Putin, donde Irán es tema prioritario.",
+      "perspectivas": [
+        {
+          "medio": "Euronews",
+          "enfoque": "Titula que EE. UU. e Irán se deslizan hacia una nueva guerra abierta."
+        },
+        {
+          "medio": "CBS News",
+          "enfoque": "Recoge la intercepción de Baréin y la versión iraní."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Cobertura en vivo, incluida la mediación catarí."
+        },
+        {
+          "medio": "Gulf News",
+          "enfoque": "Destaca la llegada de un tercer portaaviones."
+        },
+        {
+          "medio": "ABC News",
+          "enfoque": "Informa nuevos ataques a tanqueros reportados por UKMTO."
+        }
+      ],
+      "coincidencias": "Coinciden en el intercambio de ataques y en la escalada.",
+      "diferencias": "Irán dice haber destruido un radar; EE. UU. lo niega. Las cifras de incidentes en Ormuz provienen sobre todo de Irán.",
+      "analisis": "La condición de Trump de no atacar si no hay provocaciones quedó superada. La mediación catarí sigue, pero con poco avance.",
+      "implicaciones": "Más prima de riesgo en fletes y seguros; el petróleo, sin embargo, cayó por el exceso de oferta.",
+      "que_vigilar": "Nuevos ataques, la reunión de Catar con Irán y la cumbre del jueves.",
+      "fuentes": [
+        {
+          "medio": "Euronews",
+          "titulo": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
+          "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases"
+        },
+        {
+          "medio": "CBS News",
+          "titulo": "Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "Iran war live: Bahrain targeted by drone barrage; Qatar in talks with Iran",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz"
+        },
+        {
+          "medio": "Gulf News",
+          "titulo": "US-Iran Tensions Surge as Third Aircraft Carrier Enters Middle East",
+          "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-iran-tensions-escalate-as-third-aircraft-carrier-enters-region-1.500748608"
+        },
+        {
+          "medio": "ABC News",
+          "titulo": "Iran live updates: Bahrain reports new attack, IRGC says it targeted US radar",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071&entryId=138171210"
+        }
+      ]
+    },
+    {
+      "titulo": "El Brent cae 3,6 % a US$92,44 por el exceso de oferta, pese a la escalada",
+      "categoria": "Energía / Mercados",
+      "importancia": 4,
+      "resumen": "El Brent cerró el 16 de noviembre en US$92,44 (−3,6 %) y el WTI en US$85,72 (−3,2 %), según Bloomberg vía Rigzone, porque las señales de un mercado físico bien abastecido pesaron más que las tensiones en Medio Oriente. La AIE había anticipado un superávit en el cuarto trimestre.",
+      "por_que_importa": "El crudo vuelve a la zona de US$92, por debajo del promedio de octubre, con efecto en los ingresos de Colombia.",
+      "perspectivas": [
+        {
+          "medio": "Rigzone (Bloomberg)",
+          "enfoque": "Destaca que el exceso de oferta pesa más que la geopolítica."
+        },
+        {
+          "medio": "Fortune",
+          "enfoque": "Datos de precio del día."
+        },
+        {
+          "medio": "Trading Economics",
+          "enfoque": "Datos de mercado."
+        }
+      ],
+      "coincidencias": "Coinciden en la caída.",
+      "diferencias": "Las cifras de cierre varían según el proveedor y el contrato.",
+      "analisis": "Que el crudo caiga en plena escalada militar confirma que la oferta del Golfo se recuperó; el riesgo de un cierre total de Ormuz sigue siendo el principal riesgo al alza.",
+      "implicaciones": "Supuestos de precio más bajos para 2027; alivio en costos de combustible.",
+      "que_vigilar": "Inventarios de EE. UU. y la evolución en Ormuz.",
+      "fuentes": [
+        {
+          "medio": "Rigzone (Bloomberg)",
+          "titulo": "Oil Retreats as Traders Weigh Supply Glut",
+          "url": "https://www.rigzone.com/news/wire/oil_retreats_as_traders_weigh_supply_glut-16-nov-2026-185096-article/"
+        },
+        {
+          "medio": "Fortune",
+          "titulo": "Current price of oil as of November 16, 2026",
+          "url": "https://fortune.com/article/price-of-oil-11-16-2026/"
+        },
+        {
+          "medio": "Trading Economics",
+          "titulo": "Brent oil - Price - Chart - Historical Data - News",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "Colombia vuelve del puente con la TRM en $3.316,70 y un entorno externo adverso: Wall Street cayó casi 2 % antes de los resultados de Nvidia y el Nasdaq regresó a la corrección. El petróleo bajó a US$92,44 pese a la escalada con Irán, lo que resta ingresos al país. El dato del PIB de hoy y la reacción a Nvidia esta tarde marcarán la semana, junto con la cumbre Trump–Xi–Putin del jueves y el paro de la CUT. No se verificaron el cierre del COLCAP, el oro ni el bono a 10 años.",
+  "agenda": [
+    "Hoy, 17 de noviembre, 10:00 a. m.: DANE publica el PIB del tercer trimestre.",
+    "Hoy: 'Milagro Deal Day' en Nueva York; resultados de Nvidia después del cierre.",
+    "18 de noviembre: precio esperado de la salida a bolsa de Anthropic; citación de Jensen Huang ante el Congreso de EE. UU.; inicio de APEC en Shenzhen.",
+    "19 de noviembre: paro nacional convocado por la CUT; reunión Trump–Xi–Putin; cierre de la 'Milagro Week'.",
+    "20 de noviembre: cierre de la COP31 en Antalya (Turquía).",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Las cifras de la 'Milagro Week' mezclan créditos de bancos multilaterales con inversión privada y varían entre fuentes (US$17.500 a US$25.900 millones). La autoría de los ataques a peajes se atribuye a disidencias según reportes de prensa; las autoridades no han atribuido todos los hechos. Circulan en internet cifras del PIB del tercer trimestre (0,6 % o 1 %) que no provienen del DANE; no se usaron. En Irán, la afirmación de haber destruido un radar en Baréin es disputada por EE. UU. No se verificaron: el cierre del dólar ni del COLCAP del 13 y 17 de noviembre, el oro y el bono a 10 años (fuera de la tabla). Los resultados de Nvidia y el PIB se conocerán después de esta edición.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3316.7,
+      "variacion_pct": 0.0,
+      "variacion_mes_pct": 4.2,
+      "vigencia": "14–17 nov",
+      "fuente": "Superfinanciera (vía Colombia.com / Diario del Sur)"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 92.44,
+      "variacion_pct": -3.6,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 16 nov",
+      "fuente": "Rigzone (Bloomberg)"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 85.72,
+      "variacion_pct": -3.2,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 16 nov",
+      "fuente": "Rigzone (Bloomberg)"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7416.59,
+      "variacion_pct": -1.92,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 16 nov",
+      "fuente": "Reuters (vía resúmenes de cierre)"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 24509.76,
+      "variacion_pct": -2.49,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 16 nov",
+      "fuente": "Reuters (vía resúmenes de cierre)"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 51608.17,
+      "variacion_pct": -1.41,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 16 nov",
+      "fuente": "Reuters (vía resúmenes de cierre)"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión: 9 dic; tras el dato de empleo, el mercado asigna cerca de 78 % a un alza."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 30,
+    "medios": [
+      {
+        "medio": "El Espectador",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "El Tiempo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Colombiano",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Pulzo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "AmCham Colombia",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Infobae",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Publimetro",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Diario",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario del Huila",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Prensa Latina",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Bloomberg Línea",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "IFM Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "StockTitan",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "24/7 Wall St.",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Axios",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Quartz",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CP24",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Euronews",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CBS News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Gulf News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Rigzone (Bloomberg)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Fortune",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Trading Economics",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}

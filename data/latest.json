@@ -1,364 +1,412 @@
 {
-  "fecha": "2026-11-16",
-  "generado": "2026-11-16T10:40:27.661153Z",
+  "fecha": "2026-11-17",
+  "generado": "2026-11-17T10:40:00.181240Z",
   "modelo": null,
   "demo": false,
-  "titular_del_dia": "Colombia sale a buscar US$41.900 millones en Nueva York mientras una motobomba golpea el peaje de Neiva; en Asia se desploman los chips antes de los resultados de Nvidia.",
+  "titular_del_dia": "La 'Milagro Week' suma anuncios por US$17.500 millones mientras las disidencias atacan siete peajes; afuera, Wall Street cae antes de Nvidia y EE. UU. e Irán vuelven a intercambiar ataques.",
   "lo_esencial": [
-    "El Gobierno abre la 'Milagro Week' en Nueva York con 97 proyectos por unos US$41.900 millones; Avianca anuncia US$3.000 millones, según IFM.",
-    "Una motobomba destruye el peaje de Neiva en la vía a Bogotá; no hubo heridos y nadie se atribuye el ataque.",
-    "Indepaz registra 45 líderes sociales asesinados en los primeros 100 días, cifra similar a la de los dos años anteriores.",
-    "Los chips arrastran a Asia: Kospi −3,6 %, Taiwán más de −4 %; Japón muestra contracción económica. Nvidia presenta resultados mañana.",
-    "El petróleo se estabiliza cerca de US$96 tras el ataque iraní en Baréin; la AIE prevé excedente de oferta.",
-    "China dice que la cumbre Xi–Trump–Putin del jueves hablará de 'paz mundial'."
+    "Primer día de la 'Milagro Week': anuncios por US$17.500 millones, incluida una inversión de Avianca por US$3.000 millones.",
+    "Siete atentados contra peajes en 16 días en Valle, Cauca, Huila y Meta; las disidencias los declararon objetivo militar.",
+    "El DANE publica hoy el PIB del tercer trimestre; los analistas esperan entre 1 % y 2,2 %, frente a 3,5 % en el segundo.",
+    "Wall Street cae casi 2 % y el Nasdaq vuelve a la corrección; Nvidia presenta resultados esta tarde.",
+    "Warsh advierte que la IA podría destruir empleos o pinchar las bolsas, sin dar señales sobre tasas.",
+    "EE. UU. ataca lanzadores iraníes tras el ataque en Baréin; aun así, el Brent cae 3,6 % a US$92,44 por exceso de oferta."
   ],
   "colombia": [
     {
-      "titulo": "'Milagro Week': Colombia busca US$41.900 millones en Nueva York",
+      "titulo": "'Milagro Week' arranca con anuncios por US$17.500 millones; Avianca invertirá US$3.000 millones",
       "categoria": "Economía / Inversión",
       "importancia": 5,
-      "resumen": "El Gobierno abre hoy en la sede de Citi en Nueva York la 'Milagro Week', una rueda de inversión liderada por el vicepresidente José Manuel Restrepo, con 97 proyectos por unos US$41.900 millones, según Portafolio y Moncloa.com; otras fuentes hablan de más de US$50.000 millones (Bloomberg Línea) o US$57.000 millones (RTVC). Según Forbes Colombia, citado por Estrella Digital, dos de cada tres proyectos son de iniciativa privada. El martes 17 será el 'Milagro Deal Day' con reuniones sectoriales en Citi y J.P. Morgan. IFM Noticias reporta un primer anuncio de Avianca por US$3.000 millones. El Gobierno prepara una edición en Madrid en marzo de 2027.",
-      "por_que_importa": "Atraer inversión extranjera es clave para compensar el ajuste fiscal y la debilidad de la inversión, que estaba en su nivel más bajo en dos décadas; el resultado será un termómetro de la confianza en el Gobierno.",
+      "resumen": "En el primer día de la 'Milagro Week' en Nueva York, el Gobierno informó anuncios de inversión y financiamiento por US$17.500 millones, según El Tiempo y AmCham; Pulzo habla de US$25.900 millones, de los cuales US$21.400 millones serían recursos previstos por el Banco Mundial, la CAF y el BID y US$4.500 millones anuncios privados. Avianca invertirá US$3.000 millones y sumará 61 aviones entre 2027 y 2029; Grupo Plata ampliará su inversión de US$60 millones a US$400 millones en tres años. La agenda sigue hasta el 19 de noviembre con unas 300 reuniones. El vicepresidente Restrepo se reunió además con el congresista demócrata Gregory Meeks, según AmCham.",
+      "por_que_importa": "La inversión extranjera y la financiación multilateral son clave para compensar el ajuste fiscal; la reunión con Meeks apunta a mejorar la relación con el nuevo Congreso demócrata de EE. UU.",
       "perspectivas": [
         {
-          "medio": "Portafolio",
-          "enfoque": "Informativo: monto y número de proyectos."
+          "medio": "El Tiempo",
+          "enfoque": "Destaca la cifra oficial de US$17.500 millones en la inauguración."
         },
         {
-          "medio": "Bloomberg Línea",
-          "enfoque": "Destaca la cifra más alta (más de US$50.000 millones) y la gira."
+          "medio": "El Colombiano",
+          "enfoque": "Pone el foco en los anuncios de Avianca y Grupo Plata."
         },
         {
-          "medio": "IFM Noticias",
-          "enfoque": "Pone el foco en el anuncio de Avianca."
+          "medio": "Semana",
+          "enfoque": "Detalla el plan de flota de Avianca."
         },
         {
-          "medio": "Estrella Digital (España)",
-          "enfoque": "Mira la oportunidad para empresas españolas y la próxima edición en Madrid."
+          "medio": "Pulzo",
+          "enfoque": "Desglosa la cifra entre multilaterales y privados."
         },
         {
-          "medio": "Moncloa.com",
-          "enfoque": "Detalle de la agenda y oportunidades para inversión española."
+          "medio": "AmCham Colombia",
+          "enfoque": "Resalta la agenda política con el Congreso de EE. UU."
         }
       ],
-      "coincidencias": "Coinciden en la fecha, el liderazgo de Restrepo y los 97 proyectos.",
-      "diferencias": "Las cifras del monto varían entre US$41.900 y US$57.000 millones según la fuente y el momento de la nota.",
-      "analisis": "Las intenciones de inversión en estos eventos no equivalen a desembolsos. Su concreción dependerá de la estabilidad fiscal (Ley de Rescate) y de la seguridad jurídica.",
-      "implicaciones": "Empresas con proyectos de infraestructura, energía y turismo: oportunidad de socios y financiación; atención a los anuncios concretos de esta semana.",
-      "que_vigilar": "Anuncios de inversión cerrados, sectores y montos confirmados por ProColombia.",
+      "coincidencias": "Coinciden en los anuncios de Avianca y Grupo Plata.",
+      "diferencias": "Las cifras totales varían (US$17.500 a US$25.900 millones) y mezclan créditos multilaterales con inversión privada; el número de proyectos varía entre 97 y 135.",
+      "analisis": "Buena parte del monto corresponde a financiación de bancos multilaterales, que es deuda, no inversión extranjera directa. Los anuncios privados concretos son más modestos, pero relevantes por sector.",
+      "implicaciones": "Aviación, turismo e infraestructura: oportunidades de proveeduría. Para el fisco, la financiación multilateral alivia la necesidad de deuda de mercado.",
+      "que_vigilar": "Balance final al 19 de noviembre y separación entre inversión privada y crédito multilateral.",
       "fuentes": [
         {
-          "medio": "Portafolio",
-          "titulo": "Colombia buscará US$41.900 millones para 97 proyectos durante la Milagro Week de Nueva York",
-          "url": "https://www.portafolio.co/negocios/inversion/colombia-buscara-us-41-900-millones-para-97-proyectos-durante-la-milagro-week-de-nueva-york-en-noviembre-506093"
+          "medio": "El Tiempo",
+          "titulo": "Abelardo de la Espriella inaugura la 'Milagro Week' en Nueva York: Colombia anuncia inversiones y financiamiento por US $17.500 millones",
+          "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-inaugura-la-milagro-week-en-nueva-york-colombia-anuncia-inversiones-y-financiamiento-por-us-17-500-millones-3601521"
         },
         {
-          "medio": "Bloomberg Línea",
-          "titulo": "Colombia inicia gira en Nueva York que busca más de US$50.000 millones en inversión",
-          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/colombia-inicia-gira-en-nueva-york-que-busca-mas-de-us50000-millones-en-inversion/"
+          "medio": "El Colombiano",
+          "titulo": "Restrepo anunció que Avianca y Grupo Plata se suman a la Milagro Week con inversiones por US$3.340 millones",
+          "url": "https://www.elcolombiano.com/negocios/inversiones-avianca-grupo-plata-milagro-week-AF43645995"
         },
         {
-          "medio": "IFM Noticias",
-          "titulo": "Milagro Week: Gobierno inició ofensiva económica en Nueva York con histórica inversión de Avianca por US$3.000 millones",
-          "url": "https://ifmnoticias.com/gobierno/milagro-week-el-gobierno-llega-a-nueva-york-con-133-proyectos-y-un-primer-anunci/"
+          "medio": "Semana",
+          "titulo": "Avianca invertirá 3.000 millones de dólares y sumará 61 aviones a su flota entre 2027 y 2029",
+          "url": "https://www.semana.com/economia/empresas/articulo/avianca-invertira-3000-millones-de-dolares-y-sumara-61-aviones-a-su-flota-entre-2027-y-2029/202646/"
         },
         {
-          "medio": "Estrella Digital",
-          "titulo": "Colombia sale a buscar 41.900 millones de dólares a Nueva York y prepara su siguiente escaparate en Madrid",
-          "url": "https://www.estrelladigital.es/mundo/colombia-milagro-week-nueva-york-inversion-restrepo-madrid-2027-espana/20261116063000453393.html"
+          "medio": "Pulzo",
+          "titulo": "Anuncian inversión de 25.900 dólares en medio de la Milagro Week en Nueva York",
+          "url": "https://www.pulzo.com/economia/anuncian-inversion-25900-dolares-medio-milagro-week-nueva-york-PP5356947"
         },
         {
-          "medio": "Moncloa.com",
-          "titulo": "Milagro Week Colombia: 97 proyectos para captar 41.900 millones y la oportunidad para las empresas españolas",
-          "url": "https://www.moncloa.com/2026/11/11/milagro-week-colombia-nueva-york-3465817/"
+          "medio": "AmCham Colombia",
+          "titulo": "Colombia inicia la Milagro Week en Nueva York con anuncios de inversión y agenda en el Congreso de EE.UU.",
+          "url": "https://amchamcolombia.co/noticias-observatorio-estados-unidos/colombia-inicia-la-milagro-week-en-nueva-york-con-anuncios-de-inversion-y-agenda-en-el-congreso-de-ee-uu/"
         }
       ]
     },
     {
-      "titulo": "Motobomba destruye el peaje de Neiva en la vía a Bogotá",
+      "titulo": "Siete atentados contra peajes en 16 días: las disidencias los declaran objetivo",
       "categoria": "Orden público / Infraestructura",
-      "importancia": 4,
-      "resumen": "Hacia las 12:40 a. m. del domingo 15 de noviembre explotó una motocicleta cargada de explosivos en el peaje del kilómetro 2 de la vía Neiva–Bogotá; dos hombres dejaron la moto y huyeron. No hubo heridos, pero sí graves daños en casetas y estructura. La vía fue cerrada temporalmente y se activaron protocolos en el peaje Los Cauchos por un vehículo abandonado, sin que se haya confirmado relación. Nadie se ha atribuido el ataque; medios regionales mencionan a disidencias de las FARC, sin confirmación. Dos semanas antes, una motobomba en Algeciras (Huila) mató a dos policías.",
-      "por_que_importa": "Ataques a infraestructura vial en el corredor sur afectan carga y movilidad entre el Huila y Bogotá, en plena temporada de puente festivo.",
+      "importancia": 5,
+      "resumen": "Entre el 1 y el 16 de noviembre hubo siete atentados contra seis peajes en Valle del Cauca, Cauca, Huila y Meta, con explosivos lanzados desde drones, motocicletas y vehículos cargados. La serie empezó el 4 de noviembre en Mediacanoa (Yotoco); siguieron Mondomo (7 y 11), Villa Rica (8), donde un civil resultó herido, y Neiva y Pipiral (15). Según los reportes, el Estado Mayor Central de las disidencias de las FARC declaró los peajes objetivo militar y, según una fuente, exigió reducir las tarifas 50 %. Las autoridades no han atribuido todos los hechos a una misma estructura.",
+      "por_que_importa": "Los ataques afectan corredores logísticos clave del suroccidente y del Llano, con costos para transporte de carga y concesiones viales.",
       "perspectivas": [
         {
-          "medio": "El País (Cali)",
-          "enfoque": "Lo califica como 'atentado terrorista' y resume lo que se sabe."
-        },
-        {
           "medio": "Infobae",
-          "enfoque": "Destaca el cierre de la vía y el otro vehículo sospechoso."
+          "enfoque": "Explicativo: por qué están atacando los peajes."
         },
         {
-          "medio": "Minuto30",
-          "enfoque": "Informativo sobre la moto bomba y el cierre."
+          "medio": "Publimetro",
+          "enfoque": "Enfoca la razón detrás de la escalada: siete ataques en 16 días."
         },
         {
-          "medio": "Colombia.com",
-          "enfoque": "Cobertura breve del ataque."
+          "medio": "El Diario",
+          "enfoque": "Lo presenta como una alerta nacional."
         },
         {
-          "medio": "Pulzo",
-          "enfoque": "Difunde los primeros videos."
+          "medio": "Diario del Huila",
+          "enfoque": "Perspectiva regional tras el ataque en Neiva."
+        },
+        {
+          "medio": "Prensa Latina",
+          "enfoque": "Destaca la 'violencia armada' contra la infraestructura."
         }
       ],
-      "coincidencias": "Coinciden en la hora, el lugar, la ausencia de heridos y el cierre de la vía.",
-      "diferencias": "Difieren sobre el operador del peaje (Ruta al Sur o no). La autoría no está confirmada.",
-      "analisis": "Se suma a los ataques con drones y explosivos de las últimas semanas contra Fuerza Pública, medios e infraestructura; el patrón sugiere una respuesta de grupos armados a la ofensiva del Gobierno.",
-      "implicaciones": "Transportadores en el corredor Huila–Bogotá: posibles cierres y controles adicionales.",
-      "que_vigilar": "Reapertura del peaje, investigaciones y nuevos ataques a infraestructura vial.",
+      "coincidencias": "Coinciden en el número de ataques y en la autoría atribuida a disidencias.",
+      "diferencias": "Difieren en el periodo (15 o 16 días) y en si incluir hechos como El Bordo o el vehículo desactivado en Los Cauchos.",
+      "analisis": "Atacar peajes es una forma de presión económica de bajo costo y alta visibilidad. La exigencia de rebaja de tarifas busca apoyo local, según algunos analistas; el Gobierno lo califica como terrorismo.",
+      "implicaciones": "Transportadores y concesionarios del suroccidente: revisar seguros, rutas alternas y protocolos de seguridad.",
+      "que_vigilar": "Nuevos ataques, respuesta militar y efecto en el tráfico de carga.",
       "fuentes": [
         {
-          "medio": "El País (Cali)",
-          "titulo": "Atentado terrorista en peaje de Neiva, en el Huila; esto se sabe",
-          "url": "https://www.elpais.com.co/amp/judicial/motobomba-exploto-en-el-peaje-del-norte-de-neiva-en-la-via-que-conduce-a-bogota-1554.html"
-        },
-        {
           "medio": "Infobae",
-          "titulo": "Explosión en peaje de Neiva obligó a cerrar la vía hacia Bogotá",
-          "url": "https://www.infobae.com/colombia/2026/11/15/explosion-en-peaje-de-neiva-obligo-a-cerrar-la-via-hacia-bogota-reportaron-otro-vehiculo-sospechoso-en-el-huila/"
+          "titulo": "Por qué están atacando los peajes en Colombia: van siete atentados en noviembre",
+          "url": "https://www.infobae.com/colombia/2026/11/16/por-que-estan-atacando-los-peajes-en-colombia-van-siete-atentados-en-noviembre/"
         },
         {
-          "medio": "Minuto30",
-          "titulo": "Moto bomba estalló en el peaje de Neiva y obligó a cerrar la vía que comunica al Huila con Bogotá",
-          "url": "https://www.minuto30.com/moto-bomba-estallo-en-el-peaje-de-neiva-y-obligo-a-cerrar-la-via-que-comunica-al-huila-con-bogota/1730635/"
+          "medio": "Publimetro",
+          "titulo": "¿Por qué están atacando los peajes en Colombia? La razón detrás de la escalada de atentados",
+          "url": "https://www.publimetro.co/noticias/2026/11/16/siete-ataques-en-16-dias-por-que-los-peajes-se-convirtieron-en-blanco-de-grupos-armados/"
         },
         {
-          "medio": "Colombia.com",
-          "titulo": "Peaje de Neiva: atentado con explosivos en vía Neiva-Bogotá",
-          "url": "https://www.colombia.com/actualidad/nacionales/atentado-en-huila-motobomba-peaje-612747"
+          "medio": "El Diario",
+          "titulo": "Alerta en Colombia: siete ataques contra peajes en noviembre",
+          "url": "https://www.eldiario.com.co/actualidad/alerta-en-colombia-siete-ataques-contra-peajes-en-noviembre/"
         },
         {
-          "medio": "Pulzo",
-          "titulo": "Explotaron un peaje en la vía Neiva-Bogotá: aparecen los primeros videos",
-          "url": "https://www.pulzo.com/nacion/explosion-peaje-via-neiva-bogota-videos-que-paso-hoy-15-noviembre-PP5356297"
+          "medio": "Diario del Huila",
+          "titulo": "Siete ataques a peajes en Colombia: las razones detrás de la ofensiva",
+          "url": "https://diariodelhuila.com/siete-atentados-contra-peajes-en-colombia-durante-noviembre-por-que-los-grupos-armados-los-tienen-en-la-mira/"
+        },
+        {
+          "medio": "Prensa Latina",
+          "titulo": "Violencia armada se ensaña con los peajes de Colombia",
+          "url": "https://www.prensa-latina.cu/2026/11/16/violencia-armada-se-ensana-con-los-peajes-de-colombia/"
         }
       ]
     },
     {
-      "titulo": "Indepaz: 45 líderes sociales asesinados en los primeros 100 días",
-      "categoria": "Derechos humanos",
+      "titulo": "Hoy, PIB del tercer trimestre: analistas esperan entre 1 % y 2,2 % tras el terremoto",
+      "categoria": "Economía / Crecimiento",
       "importancia": 4,
-      "resumen": "Indepaz registró 45 líderes sociales y defensores de derechos humanos asesinados entre el 7 de agosto y el 15 de noviembre (36 hombres y 9 mujeres; 24 líderes comunales y 7 indígenas), uno cada 2,2 días, además de 8 firmantes del acuerdo de paz y 26 masacres con 87 víctimas. Cauca (11), Antioquia (8) y Putumayo (4) concentran los casos. En el mismo periodo de 2025 y de 2024 hubo 48. Indepaz aclara que los crímenes no se atribuyen automáticamente al Gobierno, pero sostiene que el Estado tiene la responsabilidad de proteger.",
-      "por_que_importa": "La violencia contra líderes es un indicador clave de seguridad territorial y de riesgos reputacionales para empresas en regiones de conflicto.",
+      "resumen": "El DANE publica hoy a las 10:00 a. m. el PIB del tercer trimestre. Las previsiones van de cerca de 1 % (Banco de Bogotá) a 2,2 % (NowCast de Grupo Cibest), frente a 3,5 % en el segundo trimestre. Según El Espectador y Bloomberg Línea, la economía habría perdido impulso por el terremoto de agosto, las tasas altas y un menor gasto público; el BanRep estimó que el sismo restaría entre 0,3 y 0,8 puntos al crecimiento del trimestre.",
+      "por_que_importa": "Un crecimiento débil con inflación de 6,30 % complica la decisión de tasas del BanRep del 18 de diciembre y el debate de la Ley de Rescate.",
       "perspectivas": [
         {
-          "medio": "La Silla Vacía",
-          "enfoque": "Informativo; incluye la comparación con años anteriores."
+          "medio": "El Espectador",
+          "enfoque": "Anticipa que la economía habría perdido impulso."
         },
         {
-          "medio": "Infobae",
-          "enfoque": "Destaca las cifras de líderes y masacres."
+          "medio": "Bloomberg Línea",
+          "enfoque": "Titula que sería el peor crecimiento de 2026."
         },
         {
-          "medio": "Asuntos Legales",
-          "enfoque": "Resalta la frecuencia: uno cada 2,2 días."
-        },
-        {
-          "medio": "La Patria",
-          "enfoque": "Cobertura regional de las cifras."
-        },
-        {
-          "medio": "teleSUR",
-          "enfoque": "Encuadre crítico al Gobierno, vinculando las cifras al 'personalismo'."
+          "medio": "IFM Noticias",
+          "enfoque": "Habla de señales de enfriamiento."
         }
       ],
-      "coincidencias": "Las fuentes reproducen las mismas cifras de Indepaz.",
-      "diferencias": "teleSUR las presenta como responsabilidad del Gobierno; Indepaz y La Silla Vacía matizan que la cifra es similar a la de años anteriores.",
-      "analisis": "La cifra es comparable a la de los dos años anteriores, lo que sugiere que el cambio de política aún no altera la tendencia, ni para bien ni para mal. Indepaz es una ONG; no hay aún cifra oficial comparable.",
-      "implicaciones": "Empresas con operaciones en Cauca, Antioquia y Putumayo: reforzar debida diligencia en derechos humanos y relación con comunidades.",
-      "que_vigilar": "Cifras oficiales de la Defensoría y respuesta del Gobierno.",
+      "coincidencias": "Coinciden en esperar una desaceleración frente al segundo trimestre.",
+      "diferencias": "El rango de pronósticos es amplio (1 % a 2,2 %). Algunas cifras que circulan en internet (0,6 % o 1 %) no provienen del DANE y no se tomaron como dato.",
+      "analisis": "Un dato cerca de 1 % reforzaría a quienes en el BanRep prefieren no subir tasas; uno cercano a 2 % daría argumentos a quienes piden más ajuste por la inflación.",
+      "implicaciones": "Empresas: un crecimiento débil anticipa menor demanda interna a inicios de 2027.",
+      "que_vigilar": "Dato del DANE hoy y reacción del mercado de deuda y del peso.",
       "fuentes": [
         {
-          "medio": "La Silla Vacía",
-          "titulo": "Indepaz: 45 líderes sociales asesinados en primeros 100 días de Abelardo",
-          "url": "https://www.lasillavacia.com/en-vivo/indepaz-45-lideres-sociales-asesinados-en-primeros-100-dias-de-abelardo/"
+          "medio": "El Espectador",
+          "titulo": "PIB de Colombia: la economía habría perdido impulso en el tercer trimestre de 2026",
+          "url": "https://www.elespectador.com/economia/macroeconomia/pib-de-colombia-la-economia-habria-perdido-impulso-en-el-tercer-trimestre-de-2026/"
         },
         {
-          "medio": "Infobae",
-          "titulo": "Indepaz reportó 45 líderes sociales asesinados y 26 masacres en los primeros 100 días del gobierno",
-          "url": "https://www.infobae.com/colombia/2026/11/15/indepaz-reporto-45-lideres-sociales-asesinados-y-26-masacres-en-los-primeros-100-dias-del-gobierno-de-abelardo-de-la-espriella/"
+          "medio": "Bloomberg Línea",
+          "titulo": "Economía colombiana tendría su peor crecimiento de 2026 en el tercer trimestre",
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/economia-colombiana-tendria-su-peor-crecimiento-de-2026-en-el-tercer-trimestre/"
         },
         {
-          "medio": "Asuntos Legales",
-          "titulo": "En el arranque del Gobierno De la Espriella, un líder social fue asesinado cada 2,2 días",
-          "url": "https://www.asuntoslegales.com.co/actualidad/reporte-de-indepaz-sobre-lideres-asesinados-y-personas-desplazadas-en-los-primeros-100-dias-del-gobierno-4525525"
+          "medio": "IFM Noticias",
+          "titulo": "La economía colombiana afronta la prueba del PIB del tercer trimestre con señales de enfriamiento",
+          "url": "https://ifmnoticias.com/economicas/la-economia-colombiana-afronta-la-prueba-del-pib-del-tercer-trimestre-con-senale/"
         },
         {
-          "medio": "La Patria",
-          "titulo": "Indepaz reportó 45 líderes sociales asesinados durante los primeros 100 días del Gobierno",
-          "url": "https://www.lapatria.com/politica/indepaz-reporto-45-lideres-sociales-asesinados-durante-los-primeros-100-dias-del-gobierno"
-        },
-        {
-          "medio": "teleSUR",
-          "titulo": "Primeros 100 días de De la Espriella: líderes sociales asesinados, masacres y miles de desplazados",
-          "url": "https://www.telesurtv.net/espriella-100-dias-masacres-personalismo/"
+          "medio": "El Espectador",
+          "titulo": "PIB del tercer trimestre, la fuerza pública ante la JEP, COP31 y más, en El Despertador",
+          "url": "https://www.elespectador.com/colombia/pib-del-tercer-trimestre-la-fuerza-publica-ante-la-jep-cop31-y-mas-en-el-despertador/"
         }
       ]
     }
   ],
   "mundo": [
     {
-      "titulo": "Se desploman los chips en Asia antes de los resultados de Nvidia; Japón se contrae",
-      "categoria": "Mercados / Tecnología",
+      "titulo": "Wall Street cae casi 2 % y el Nasdaq vuelve a la corrección antes de Nvidia",
+      "categoria": "Mercados",
       "importancia": 5,
-      "resumen": "Las bolsas asiáticas cayeron este lunes por la venta de acciones de semiconductores antes de los resultados de Nvidia del martes: el Kospi perdió 3,6 % (SK Hynix −7,9 %, Samsung −4,5 %), el Taiex de Taiwán más de 4 % y el Nikkei entre 1,6 % y 2,4 %, este último también por datos que muestran una contracción de la economía japonesa en el trimestre. Según LSEG, el valor de Nvidia cayó a US$3,9 billones desde US$5,8 billones a inicios de octubre. Algunos reportes mencionan posibles nuevas restricciones de EE. UU. a la exportación de chips y la salida a bolsa de Anthropic como factores. El presidente de la Fed, Kevin Warsh, habla hoy.",
-      "por_que_importa": "El sector de chips es el corazón del auge de la IA y de las bolsas; un mal resultado de Nvidia podría extender la corrección a otros mercados.",
+      "resumen": "El 16 de noviembre el S&P 500 cayó 1,92 % a 7.416,59, el Nasdaq 2,49 % a 24.509,76 —10,9 % por debajo de su máximo del 6 de octubre, en corrección— y el Dow 1,41 % a 51.608,17. Los inversionistas se preparan para una semana clave: Nvidia presenta resultados hoy después del cierre, tras la salida de su CEO, y Anthropic debutaría en bolsa esta semana.",
+      "por_que_importa": "La concentración de las bolsas en empresas de IA hace que los resultados de Nvidia puedan mover a todo el mercado, incluidos fondos de pensiones colombianos.",
       "perspectivas": [
         {
-          "medio": "ABC News (AP)",
-          "enfoque": "Destaca que las preocupaciones por Nvidia se extienden otra semana."
+          "medio": "CNN",
+          "enfoque": "Lo enmarca como el inicio de una semana crucial para la IA."
         },
         {
-          "medio": "Korea JoongAng Daily",
-          "enfoque": "Pone el foco en el golpe a Samsung y SK Hynix y en temores de burbuja de IA."
+          "medio": "StockTitan",
+          "enfoque": "Destaca que la tecnología arrastró al mercado."
         },
         {
-          "medio": "Yahoo Finance",
-          "enfoque": "Vincula la caída a los resultados de Nvidia y la salida a bolsa de Anthropic."
-        },
-        {
-          "medio": "XTB",
-          "enfoque": "Suma datos débiles de China y la expectativa por el discurso de Warsh."
+          "medio": "24/7 Wall St.",
+          "enfoque": "Subraya la caída del Nasdaq como la peor del día."
         }
       ],
-      "coincidencias": "Coinciden en la caída de los chips y en el papel de Nvidia.",
-      "diferencias": "Las cifras intradía varían según la hora del reporte.",
-      "analisis": "El mercado descuenta incertidumbre por el cambio de liderazgo en Nvidia y por la política de exportaciones. Los resultados del martes y la guía serán decisivos.",
-      "implicaciones": "Fondos de pensiones e inversionistas con tecnología: alta volatilidad esta semana.",
-      "que_vigilar": "Resultados de Nvidia (17 nov), discurso de Warsh y salida a bolsa de Anthropic.",
+      "coincidencias": "Coinciden en la caída y en el papel de Nvidia y la IA.",
+      "diferencias": "Las cifras de cierre varían levemente según el proveedor.",
+      "analisis": "El mercado descuenta incertidumbre por el liderazgo de Nvidia, posibles restricciones a la exportación de chips y la enorme oferta de acciones de la salida a bolsa de Anthropic.",
+      "implicaciones": "Volatilidad alta en activos de riesgo; posible presión sobre monedas emergentes como el peso.",
+      "que_vigilar": "Resultados y guía de Nvidia esta tarde.",
       "fuentes": [
         {
-          "medio": "ABC News (AP)",
-          "titulo": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
-          "url": "https://abcnews.com/Business/wireStory/stocks-decline-asia-investor-concerns-nvidia-fallout-extend-138169919"
+          "medio": "CNN",
+          "titulo": "Stocks slide to kick off major week for Wall Street",
+          "url": "https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic"
         },
         {
-          "medio": "Korea JoongAng Daily",
-          "titulo": "Kospi falls 3.6% as Nvidia jitters hit Samsung, SK hynix shares",
-          "url": "https://koreajoongangdaily.com/business/kospi-tanks-over-3-with-tech-share-selloff-as-nvidia-turmoil-stokes-ai-bubble-concerns/12975391"
+          "medio": "StockTitan",
+          "titulo": "Stock Market Today, November 16, 2026: Tech Stocks Pull the Market Lower Before Nvidia's Results",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
         },
         {
-          "medio": "Yahoo Finance",
-          "titulo": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-fall-nvidia-earnings-013536353.html"
-        },
-        {
-          "medio": "XTB",
-          "titulo": "Morning Wrap: Weak Chinese data and sell-off in Asian chips hit sentiment ahead of Warsh's speech",
-          "url": "https://www.xtb.com/en/market-analysis/morning-wrap-weak-chinese-data-and-sell-off-in-asian-chips-hit-sentiment-ahead-of-warsh-s-speech"
+          "medio": "24/7 Wall St.",
+          "titulo": "S&P 500 Closes Down 2% as Nasdaq Leads Broad Market Lower",
+          "url": "https://247wallst.com/cards/tech-took-the-worst-of-it-the-nasdaq-s-2-54-drop-nearly-do-gspc-market-bell-01m7k2rvdndtgg635thrxjgnck"
         }
       ]
     },
     {
-      "titulo": "El petróleo se estabiliza tras el ataque iraní en Baréin",
-      "categoria": "Energía / Geopolítica",
+      "titulo": "Warsh: la IA puede impulsar el crecimiento, destruir empleos o pinchar las bolsas",
+      "categoria": "Economía / EE. UU.",
       "importancia": 4,
-      "resumen": "El Brent se movió este lunes entre US$94,32 y cerca de US$96,6 y el WTI entre US$88 y US$89, según Financefeeds y Bloomberg. Lo sostiene el ataque iraní del domingo contra una base de helicópteros de EE. UU. en Baréin, el primero contra un Estado del Golfo en semanas, y lo frena el informe de la AIE que prevé un excedente de oferta de unos 2 millones de barriles diarios este trimestre. Irán dijo que minas dañaron tanqueros en Ormuz, versión que EE. UU. disputa.",
-      "por_que_importa": "El precio del crudo, clave para las finanzas de Colombia, sigue atrapado entre riesgo geopolítico y exceso de oferta.",
+      "resumen": "El presidente de la Fed, Kevin Warsh, presentó en San Francisco tres escenarios ilustrativos —no pronósticos— sobre el impacto de la IA: ganancias amplias, desaceleración o una decepción que haga caer las valoraciones bursátiles. Advirtió que la IA podría causar una 'disrupción sustancial' del mercado laboral y llevar el desempleo por encima del pleno empleo. No dio señales sobre tasas ni comentó la inflación de octubre; el mercado mantiene la apuesta por un alza en diciembre.",
+      "por_que_importa": "Que el jefe de la Fed mencione el riesgo de una caída bursátil por la IA es una señal relevante para los mercados globales.",
       "perspectivas": [
         {
-          "medio": "Bloomberg",
-          "enfoque": "Destaca la estabilidad del crudo con el ataque en Baréin en el foco."
+          "medio": "CNBC",
+          "enfoque": "Análisis: Warsh ve una revolución de la IA y debe definir qué significa para la política monetaria."
         },
         {
-          "medio": "Financefeeds",
-          "enfoque": "Análisis técnico: rango de US$91 a US$98."
+          "medio": "Axios",
+          "enfoque": "Destaca el riesgo de 'pinchazo' bursátil si la IA decepciona; tono en general optimista."
         },
         {
-          "medio": "UNN (Ucrania)",
-          "enfoque": "Explica cómo reaccionó el precio tras el ataque."
+          "medio": "Yahoo Finance",
+          "enfoque": "Informa que la IA tendrá un 'impacto significativo' en la economía y la política."
+        },
+        {
+          "medio": "Quartz",
+          "enfoque": "Pone el foco en los riesgos de pérdida de empleos."
+        },
+        {
+          "medio": "CP24 (Canadá)",
+          "enfoque": "Subraya que evitó hablar del riesgo inflacionario."
         }
       ],
-      "coincidencias": "Coinciden en un mercado estable con sesgo de riesgo.",
-      "diferencias": "Las cifras intradía varían. Los incidentes con tanqueros son versión iraní, disputada por EE. UU.",
-      "analisis": "Mientras Trump mantenga la condición de 'sin provocaciones' para no atacar, el ataque en Baréin pone a prueba esa línea. El exceso de oferta limita las subidas.",
-      "implicaciones": "Mantenga coberturas de combustible; el rango probable es amplio.",
-      "que_vigilar": "Respuesta de EE. UU. al ataque en Baréin y la cumbre de Shenzhen.",
+      "coincidencias": "Coinciden en los tres escenarios y en la ausencia de señales sobre tasas.",
+      "diferencias": "Axios lo ve optimista; Quartz enfatiza los riesgos.",
+      "analisis": "El discurso amplía el mandato de análisis de la Fed hacia la IA; sin guía de tasas, el mercado se apoya en los datos de inflación y empleo.",
+      "implicaciones": "Tasas externas altas por más tiempo si se confirma el alza de diciembre.",
+      "que_vigilar": "Minutas de la Fed y datos de inflación.",
       "fuentes": [
         {
-          "medio": "Bloomberg",
-          "titulo": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus",
-          "url": "https://bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16"
+          "medio": "CNBC",
+          "titulo": "Kevin Warsh sees an AI revolution coming. Now he has to figure out what it means: analysis",
+          "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
         },
         {
-          "medio": "Financefeeds",
-          "titulo": "Brent Crude Oil Price: $96.28 Monday After Iran Strikes a US Base in Bahrain",
-          "url": "https://financefeeds.com/brent-crude-oil-price-96-28-monday-iran-bahrain-strike-bull-98-bear-91/"
+          "medio": "Axios",
+          "titulo": "Federal Reserve chairman Warsh sees risk of stock bust if AI boom disappoints",
+          "url": "https://www.axios.com/2026/11/16/fed-warsh-ai-boom-stocks"
         },
         {
-          "medio": "UNN",
-          "titulo": "How oil prices changed after Iran's attack on Bahrain",
-          "url": "https://unn.ua/en/news/how-oil-prices-changed-after-irans-attack-on-bahrain"
+          "medio": "Yahoo Finance",
+          "titulo": "Warsh says AI will have 'significant impact' on economy, policy",
+          "url": "https://finance.yahoo.com/economy/policy/articles/warsh-says-ai-significant-impact-184126746.html"
+        },
+        {
+          "medio": "Quartz",
+          "titulo": "Fed Chair Kevin Warsh warns AI could trigger job losses, stock bust",
+          "url": "https://qz.com/warsh-fed-ai-job-losses-stock-scenarios-111626"
+        },
+        {
+          "medio": "CP24",
+          "titulo": "U.S. Fed chairman Warsh grapples with AI's potential economic impact, steers clear of its inflation risk",
+          "url": "https://www.cp24.com/news/world/2026/11/16/us-fed-chairman-warsh-grapples-with-ais-potential-economic-impact-steers-clear-of-its-inflation-risk/"
         }
       ]
     },
     {
-      "titulo": "China: la cumbre Xi–Trump–Putin hablará de 'paz mundial'",
-      "categoria": "Geopolítica",
-      "importancia": 4,
-      "resumen": "China dijo que Xi, Trump y Putin discutirán la 'paz mundial' en la reunión trilateral del 19 de noviembre en Shenzhen, al margen de APEC, según Malay Mail. Un diplomático ruso citado por TASS afirmó que las tres potencias comparten la responsabilidad ante los desafíos globales. Según Al Jazeera, Irán será un tema prioritario, mientras que China considera la guerra en Ucrania un asunto europeo y Trump no la llevaría a la agenda. La semana también incluye la cumbre de la ASEAN en Manila.",
-      "por_que_importa": "Es la primera reunión de este tipo y puede marcar el tono de la relación entre las tres potencias en armas nucleares, Irán y comercio.",
+      "titulo": "EE. UU. bombardea lanzadores iraníes tras el ataque en Baréin; llega un tercer portaaviones",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 5,
+      "resumen": "Tras el ataque iraní contra la base aérea Isa en Baréin y disparos contra tanqueros en Ormuz, el Ejército de EE. UU. lanzó el domingo por la noche nuevos ataques contra lanzadores de misiles en el sur de Irán, según Euronews. EE. UU. niega que la Guardia Revolucionaria haya destruido su radar en Baréin. Baréin responsabilizó a Irán y dijo haber interceptado los drones. Un tercer portaaviones estadounidense entró en la región, según Gulf News. Catar anunció una reunión con funcionarios iraníes para avanzar en la mediación.",
+      "por_que_importa": "El intercambio de ataques acerca de nuevo a una guerra abierta justo antes de la cumbre Trump–Xi–Putin, donde Irán es tema prioritario.",
       "perspectivas": [
         {
-          "medio": "Malay Mail",
-          "enfoque": "Recoge la posición china: 'paz mundial'."
+          "medio": "Euronews",
+          "enfoque": "Titula que EE. UU. e Irán se deslizan hacia una nueva guerra abierta."
         },
         {
-          "medio": "TASS (agencia estatal rusa)",
-          "enfoque": "Encuadre ruso: responsabilidad compartida de las tres potencias."
+          "medio": "CBS News",
+          "enfoque": "Recoge la intercepción de Baréin y la versión iraní."
         },
         {
           "medio": "Al Jazeera",
-          "enfoque": "Explicativo: qué esperar; Irán prioritario."
+          "enfoque": "Cobertura en vivo, incluida la mediación catarí."
         },
         {
-          "medio": "Israel Hayom",
-          "enfoque": "Panorama de la semana de cumbres en Asia."
+          "medio": "Gulf News",
+          "enfoque": "Destaca la llegada de un tercer portaaviones."
+        },
+        {
+          "medio": "ABC News",
+          "enfoque": "Informa nuevos ataques a tanqueros reportados por UKMTO."
         }
       ],
-      "coincidencias": "Coinciden en la fecha, el lugar y la prioridad de Irán.",
-      "diferencias": "Medios estatales chinos y rusos resaltan la cooperación; medios occidentales, las bajas expectativas y la exclusión de Ucrania.",
-      "analisis": "Pekín busca posicionarse como anfitrión de la diplomacia global. Para Kiev y Europa, el riesgo es que se discuta sin ellos.",
-      "implicaciones": "Posible efecto en el petróleo y en el comercio según los mensajes sobre Irán y aranceles.",
-      "que_vigilar": "Agenda final, declaraciones conjuntas y reuniones bilaterales al margen.",
+      "coincidencias": "Coinciden en el intercambio de ataques y en la escalada.",
+      "diferencias": "Irán dice haber destruido un radar; EE. UU. lo niega. Las cifras de incidentes en Ormuz provienen sobre todo de Irán.",
+      "analisis": "La condición de Trump de no atacar si no hay provocaciones quedó superada. La mediación catarí sigue, pero con poco avance.",
+      "implicaciones": "Más prima de riesgo en fletes y seguros; el petróleo, sin embargo, cayó por el exceso de oferta.",
+      "que_vigilar": "Nuevos ataques, la reunión de Catar con Irán y la cumbre del jueves.",
       "fuentes": [
         {
-          "medio": "Malay Mail",
-          "titulo": "China says Xi, Trump, Putin to discuss 'world peace' at Apec trilateral in Shenzhen",
-          "url": "https://www.malaymail.com/news/world/2026/11/16/china-says-xi-trump-putin-to-discuss-world-peace-at-apec-trilateral-in-shenzhen/243502"
+          "medio": "Euronews",
+          "titulo": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
+          "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases"
         },
         {
-          "medio": "TASS",
-          "titulo": "China, Russia, US share responsibility for addressing global challenges — diplomat",
-          "url": "https://tass.com/world/2218575"
+          "medio": "CBS News",
+          "titulo": "Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
         },
         {
           "medio": "Al Jazeera",
-          "titulo": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+          "titulo": "Iran war live: Bahrain targeted by drone barrage; Qatar in talks with Iran",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz"
         },
         {
-          "medio": "Israel Hayom",
-          "titulo": "Leaders converge on Asia for Apec and Asean summit week",
-          "url": "https://www.israelhayom.com/2026/11/15/world-politics-asia-summits-apec-asean"
+          "medio": "Gulf News",
+          "titulo": "US-Iran Tensions Surge as Third Aircraft Carrier Enters Middle East",
+          "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-iran-tensions-escalate-as-third-aircraft-carrier-enters-region-1.500748608"
+        },
+        {
+          "medio": "ABC News",
+          "titulo": "Iran live updates: Bahrain reports new attack, IRGC says it targeted US radar",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071&entryId=138171210"
+        }
+      ]
+    },
+    {
+      "titulo": "El Brent cae 3,6 % a US$92,44 por el exceso de oferta, pese a la escalada",
+      "categoria": "Energía / Mercados",
+      "importancia": 4,
+      "resumen": "El Brent cerró el 16 de noviembre en US$92,44 (−3,6 %) y el WTI en US$85,72 (−3,2 %), según Bloomberg vía Rigzone, porque las señales de un mercado físico bien abastecido pesaron más que las tensiones en Medio Oriente. La AIE había anticipado un superávit en el cuarto trimestre.",
+      "por_que_importa": "El crudo vuelve a la zona de US$92, por debajo del promedio de octubre, con efecto en los ingresos de Colombia.",
+      "perspectivas": [
+        {
+          "medio": "Rigzone (Bloomberg)",
+          "enfoque": "Destaca que el exceso de oferta pesa más que la geopolítica."
+        },
+        {
+          "medio": "Fortune",
+          "enfoque": "Datos de precio del día."
+        },
+        {
+          "medio": "Trading Economics",
+          "enfoque": "Datos de mercado."
+        }
+      ],
+      "coincidencias": "Coinciden en la caída.",
+      "diferencias": "Las cifras de cierre varían según el proveedor y el contrato.",
+      "analisis": "Que el crudo caiga en plena escalada militar confirma que la oferta del Golfo se recuperó; el riesgo de un cierre total de Ormuz sigue siendo el principal riesgo al alza.",
+      "implicaciones": "Supuestos de precio más bajos para 2027; alivio en costos de combustible.",
+      "que_vigilar": "Inventarios de EE. UU. y la evolución en Ormuz.",
+      "fuentes": [
+        {
+          "medio": "Rigzone (Bloomberg)",
+          "titulo": "Oil Retreats as Traders Weigh Supply Glut",
+          "url": "https://www.rigzone.com/news/wire/oil_retreats_as_traders_weigh_supply_glut-16-nov-2026-185096-article/"
+        },
+        {
+          "medio": "Fortune",
+          "titulo": "Current price of oil as of November 16, 2026",
+          "url": "https://fortune.com/article/price-of-oil-11-16-2026/"
+        },
+        {
+          "medio": "Trading Economics",
+          "titulo": "Brent oil - Price - Chart - Historical Data - News",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
         }
       ]
     }
   ],
-  "lectura_mercados": "Lunes festivo en Colombia: no hay mercado local y la TRM de $3.316,70 sigue vigente. En Asia, la caída de los chips antes de los resultados de Nvidia y la contracción de Japón presionaron las bolsas; el Brent se mantiene cerca de US$96 entre el ataque iraní en Baréin y las señales de excedente de oferta. Wall Street y el discurso del presidente de la Fed, Kevin Warsh, marcarán el tono para el martes en Bogotá. Los índices de EE. UU. de la tabla son del cierre del viernes.",
+  "lectura_mercados": "Colombia vuelve del puente con la TRM en $3.316,70 y un entorno externo adverso: Wall Street cayó casi 2 % antes de los resultados de Nvidia y el Nasdaq regresó a la corrección. El petróleo bajó a US$92,44 pese a la escalada con Irán, lo que resta ingresos al país. El dato del PIB de hoy y la reacción a Nvidia esta tarde marcarán la semana, junto con la cumbre Trump–Xi–Putin del jueves y el paro de la CUT. No se verificaron el cierre del COLCAP, el oro ni el bono a 10 años.",
   "agenda": [
-    "Hoy, 16 de noviembre: festivo en Colombia; inicio de la 'Milagro Week' en Nueva York; discurso del presidente de la Fed, Kevin Warsh.",
-    "17 de noviembre: 'Milagro Deal Day' en Nueva York; resultados de Nvidia.",
-    "18 de noviembre: precio esperado de la salida a bolsa de Anthropic y citación de Jensen Huang ante el Congreso de EE. UU.",
-    "18 y 19 de noviembre: cumbre de APEC en Shenzhen; 19 de noviembre, reunión Trump–Xi–Putin.",
-    "19 de noviembre: paro nacional convocado por la CUT.",
+    "Hoy, 17 de noviembre, 10:00 a. m.: DANE publica el PIB del tercer trimestre.",
+    "Hoy: 'Milagro Deal Day' en Nueva York; resultados de Nvidia después del cierre.",
+    "18 de noviembre: precio esperado de la salida a bolsa de Anthropic; citación de Jensen Huang ante el Congreso de EE. UU.; inicio de APEC en Shenzhen.",
+    "19 de noviembre: paro nacional convocado por la CUT; reunión Trump–Xi–Putin; cierre de la 'Milagro Week'.",
+    "20 de noviembre: cierre de la COP31 en Antalya (Turquía).",
     "9 de diciembre: decisión de tasas de la Reserva Federal.",
     "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
     "16 de diciembre: fin del periodo ordinario del Congreso.",
     "18 de diciembre: decisión de tasas del Banco de la República."
   ],
-  "balance_cobertura": "Lunes festivo con poca producción de noticias locales; varios temas se apoyan en notas del 15 de noviembre. Las cifras de la 'Milagro Week' varían entre fuentes (de US$41.900 a US$57.000 millones) y son intenciones, no inversiones firmes; el anuncio de Avianca proviene de una sola fuente. La autoría del ataque en Neiva no está confirmada. Las cifras de Indepaz son de una ONG y se reproducen sin un contraste oficial; se incluye su propia aclaración y la comparación con años anteriores. No se verificó la cifra exacta de contracción del PIB de Japón ni el contenido del discurso de Warsh. No se confirmó con una segunda fuente que el Congreso haya aprobado el presupuesto 2027, por lo que se dejó fuera. Los índices de EE. UU. son del cierre del viernes; el Brent es indicativo de la mañana.",
+  "balance_cobertura": "Las cifras de la 'Milagro Week' mezclan créditos de bancos multilaterales con inversión privada y varían entre fuentes (US$17.500 a US$25.900 millones). La autoría de los ataques a peajes se atribuye a disidencias según reportes de prensa; las autoridades no han atribuido todos los hechos. Circulan en internet cifras del PIB del tercer trimestre (0,6 % o 1 %) que no provienen del DANE; no se usaron. En Irán, la afirmación de haber destruido un radar en Baréin es disputada por EE. UU. No se verificaron: el cierre del dólar ni del COLCAP del 13 y 17 de noviembre, el oro y el bono a 10 años (fuera de la tabla). Los resultados de Nvidia y el PIB se conocerán después de esta edición.",
   "mercados": [
     {
       "id": "trm",
@@ -367,10 +415,10 @@
       "unidad": "COP",
       "decimales": 2,
       "valor": 3316.7,
-      "variacion_pct": 0.45,
+      "variacion_pct": 0.0,
       "variacion_mes_pct": 4.2,
-      "vigencia": "14–16 nov",
-      "fuente": "Superfinanciera (vía Colombia.com)"
+      "vigencia": "14–17 nov",
+      "fuente": "Superfinanciera (vía Colombia.com / Diario del Sur)"
     },
     {
       "id": "brent",
@@ -378,11 +426,11 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 96.28,
-      "variacion_pct": 0.46,
+      "valor": 92.44,
+      "variacion_pct": -3.6,
       "variacion_mes_pct": null,
-      "vigencia": "16 nov, mañana (indicativo)",
-      "fuente": "Financefeeds"
+      "vigencia": "Cierre 16 nov",
+      "fuente": "Rigzone (Bloomberg)"
     },
     {
       "id": "wti",
@@ -390,11 +438,11 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 88.56,
-      "variacion_pct": -0.2,
+      "valor": 85.72,
+      "variacion_pct": -3.2,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 13 nov",
-      "fuente": "Rigzone"
+      "vigencia": "Cierre 16 nov",
+      "fuente": "Rigzone (Bloomberg)"
     },
     {
       "id": "sp500",
@@ -402,11 +450,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 7561.67,
-      "variacion_pct": -0.4,
+      "valor": 7416.59,
+      "variacion_pct": -1.92,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 13 nov (semana +2,51 %)",
-      "fuente": "TheStreet / CNBC"
+      "vigencia": "Cierre 16 nov",
+      "fuente": "Reuters (vía resúmenes de cierre)"
     },
     {
       "id": "nasdaq",
@@ -414,11 +462,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 25136.27,
-      "variacion_pct": -0.91,
+      "valor": 24509.76,
+      "variacion_pct": -2.49,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 13 nov (semana +2,27 %)",
-      "fuente": "CappNotes / CNBC"
+      "vigencia": "Cierre 16 nov",
+      "fuente": "Reuters (vía resúmenes de cierre)"
     },
     {
       "id": "dow",
@@ -426,11 +474,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 52347.55,
-      "variacion_pct": 0.1,
+      "valor": 51608.17,
+      "variacion_pct": -1.41,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 13 nov (semana +2,07 %)",
-      "fuente": "CNBC"
+      "vigencia": "Cierre 16 nov",
+      "fuente": "Reuters (vía resúmenes de cierre)"
     }
   ],
   "macro": [
@@ -532,15 +580,60 @@
     }
   ],
   "cobertura": {
-    "total_articulos": 26,
+    "total_articulos": 30,
     "medios": [
       {
-        "medio": "Infobae",
+        "medio": "El Espectador",
         "articulos": 2,
         "ok": true
       },
       {
-        "medio": "Portafolio",
+        "medio": "El Tiempo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Colombiano",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Pulzo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "AmCham Colombia",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Infobae",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Publimetro",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Diario",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario del Huila",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Prensa Latina",
         "articulos": 1,
         "ok": true
       },
@@ -555,62 +648,27 @@
         "ok": true
       },
       {
-        "medio": "Estrella Digital",
+        "medio": "CNN",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Moncloa.com",
+        "medio": "StockTitan",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El País (Cali)",
+        "medio": "24/7 Wall St.",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Minuto30",
+        "medio": "CNBC",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Colombia.com",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Pulzo",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "La Silla Vacía",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Asuntos Legales",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "La Patria",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "teleSUR",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "ABC News (AP)",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Korea JoongAng Daily",
+        "medio": "Axios",
         "articulos": 1,
         "ok": true
       },
@@ -620,32 +678,22 @@
         "ok": true
       },
       {
-        "medio": "XTB",
+        "medio": "Quartz",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Bloomberg",
+        "medio": "CP24",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Financefeeds",
+        "medio": "Euronews",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "UNN",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "Malay Mail",
-        "articulos": 1,
-        "ok": true
-      },
-      {
-        "medio": "TASS",
+        "medio": "CBS News",
         "articulos": 1,
         "ok": true
       },
@@ -655,7 +703,27 @@
         "ok": true
       },
       {
-        "medio": "Israel Hayom",
+        "medio": "Gulf News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Rigzone (Bloomberg)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Fortune",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Trading Economics",
         "articulos": 1,
         "ok": true
       }
