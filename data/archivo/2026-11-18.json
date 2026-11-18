@@ -1,0 +1,785 @@
+{
+  "fecha": "2026-11-18",
+  "generado": "2026-11-18T10:40:54.692748Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "La economía casi se frena —el PIB crece solo 0,5 %— en la víspera del paro nacional; afuera, Nvidia supera expectativas tras días de caídas en Wall Street y EE. UU. vuelve a atacar Qeshm.",
+  "lo_esencial": [
+    "El PIB creció 0,5 % anual en el tercer trimestre y cayó 0,8 % frente al segundo; analistas hablan de riesgo de estanflación.",
+    "Hegseth visita Bogotá y entrega el primer avión C-130 Hércules; vendrían dos más.",
+    "Mañana, paro nacional contra la Ley de Rescate: CUT, Fecode y Pacto Histórico mantienen la convocatoria.",
+    "La TRM baja a $3.309,55; el dólar cerró en $3.309,78 en promedio.",
+    "Nvidia ingresa US$115.800 millones y proyecta US$130.000 millones; su acción sube después del cierre.",
+    "El S&P 500 cierra en su nivel más bajo desde julio; EE. UU. ataca Qeshm y Catar advierte un 'grave peligro' para el acuerdo."
+  ],
+  "colombia": [
+    {
+      "titulo": "Frenazo: el PIB crece apenas 0,5 % en el tercer trimestre y cae 0,8 % frente al segundo",
+      "categoria": "Economía / Crecimiento",
+      "importancia": 5,
+      "resumen": "El DANE informó el 17 de noviembre que el PIB creció 0,5 % anual en el tercer trimestre, por debajo incluso de los pronósticos más pesimistas (0,8 %) y muy lejos del 3,8 % de un año antes; frente al segundo trimestre, cayó 0,8 %. En enero–septiembre el crecimiento acumulado es de 2,1 %. El agro cayó 6,7 % anual; minas y canteras fue lo que más creció en el trimestre (7,8 %). Las importaciones subieron 9,8 % y las exportaciones bajaron 1,8 %. Portafolio atribuye la desaceleración al consumo de los hogares y al gasto público; los analistas destacan el efecto del terremoto de agosto. Son cifras preliminares.",
+      "por_que_importa": "Con inflación de 6,30 % y crecimiento casi nulo, el país enfrenta un escenario de estanflación que complica la decisión de tasas del BanRep y presiona las metas fiscales de la Ley de Rescate.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Titula que la economía 'se estancó'."
+        },
+        {
+          "medio": "La República",
+          "enfoque": "Destaca que es el menor crecimiento del año."
+        },
+        {
+          "medio": "Portafolio",
+          "enfoque": "Explica la desaceleración por consumo de hogares y gasto público."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Recoge al Banco de Bogotá: Colombia enfrenta 'el fantasma de la estanflación'."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Recoge la reacción del gremio Fenalco/ANDI vía Luz Stella Murgas: 'fortalecer condiciones y recuperar el crecimiento'."
+        }
+      ],
+      "coincidencias": "Coinciden en las cifras del DANE y en que el resultado sorprendió a la baja.",
+      "diferencias": "Difieren en las causas principales: unos destacan el sismo; otros, las tasas altas y el menor gasto público. Banco de Bogotá estima que sin el sismo se habría crecido entre 1,0 % y 1,3 %.",
+      "analisis": "BBVA Research advierte un sesgo negativo para el crecimiento de 2026 y 2027. Defensores de bajar tasas tendrán un argumento fuerte; quienes priorizan la inflación dirán que esta sigue al alza. La reconstrucción podría impulsar la inversión en los próximos trimestres.",
+      "implicaciones": "Empresas: demanda interna débil a corto plazo; revisar presupuestos de ventas para el primer semestre de 2027.",
+      "que_vigilar": "Decisión del BanRep del 18 de diciembre, revisión de cifras del DANE y efecto en el recaudo tributario.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Se estancó la economía de Colombia: creció 0,5% en el tercer trimestre",
+          "url": "https://www.infobae.com/colombia/2026/11/17/se-estanco-la-economia-de-colombia-crecio-05-en-el-tercer-trimestre-muy-por-debajo-del-resultado-del-2025/"
+        },
+        {
+          "medio": "La República",
+          "titulo": "Economía apenas creció 0,5% en tercer trimestre, el menor crecimiento del año",
+          "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673"
+        },
+        {
+          "medio": "Portafolio",
+          "titulo": "PIB creció apenas 0,5% en tercer trimestre: consumo de los hogares y gasto público explican la desaceleración",
+          "url": "https://www.portafolio.co/economia/pib-crecio-apenas-0-5-en-tercer-trimestre-consumo-de-los-hogares-y-gasto-publico-explican-la-desaceleracion-506537"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "Colombia ya enfrenta el fantasma de la estanflación con precios altos y economía casi frenada: Banco de Bogotá",
+          "url": "https://www.elcolombiano.com/negocios/colombia-estanflacion-pib-tercer-trimestre-2026-inflacion-II43697935"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "'Fortalecer condiciones y recuperar el crecimiento': Luz Stella Murgas se refirió al último dato del PIB",
+          "url": "https://www.semana.com/amp/economia/macroeconomia/articulo/fortalecer-condiciones-y-recuperar-el-crecimiento-luz-stella-murgas-se-refirio-al-ultimo-dato-del-pib/202606/"
+        },
+        {
+          "medio": "Infobae (EFE)",
+          "titulo": "El PIB de Colombia se contrae un 0,8 % en el tercer trimestre con respecto al segundo",
+          "url": "https://www.infobae.com/america/agencias/2026/11/17/el-pib-de-colombia-se-contrae-un-08-en-el-tercer-trimestre-con-respecto-al-segundo/"
+        }
+      ]
+    },
+    {
+      "titulo": "Hegseth visita Bogotá y entrega el primer avión C-130 Hércules",
+      "categoria": "Defensa / Relaciones exteriores",
+      "importancia": 4,
+      "resumen": "El secretario de Guerra (Defensa) de EE. UU., Pete Hegseth, visita hoy Bogotá. Según el ministro de Defensa, Jorge Eduardo Mora, entregará el primer avión C-130 Hércules a la Fuerza Pública y 'vienen otros dos'. La agenda incluye cooperación militar, el uso de drones por grupos armados y la incorporación de aeronaves adicionales. La visita ocurre en plena ofensiva militar del Gobierno y tras la adhesión de Colombia al 'Escudo de las Américas' en agosto. Medios regionales dicen que Hegseth iría después a Venezuela, algo que Reuters no pudo confirmar.",
+      "por_que_importa": "Refuerza la alianza militar con EE. UU. justo cuando los ataques con drones contra la Fuerza Pública se multiplican y el Congreso estadounidense pasa a manos demócratas.",
+      "perspectivas": [
+        {
+          "medio": "El Tiempo",
+          "enfoque": "Informativo: confirmación del Ministerio de Defensa sobre la entrega del avión."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Contexto: llega en plena ofensiva contra grupos narcotraficantes y tras superar una moción de censura en EE. UU."
+        },
+        {
+          "medio": "ThePrint (Reuters)",
+          "enfoque": "Despacho de agencia: visita para entregar equipo militar."
+        },
+        {
+          "medio": "The Star (Malasia, Reuters)",
+          "enfoque": "Reproduce el despacho y la duda sobre Venezuela."
+        }
+      ],
+      "coincidencias": "Coinciden en el propósito de la visita y en la entrega del avión.",
+      "diferencias": "El posible viaje a Venezuela no está confirmado; el Pentágono no anunció públicamente el viaje.",
+      "analisis": "Para el Gobierno, la cooperación es clave en la ofensiva contra el narcotráfico; críticos podrían cuestionar la mayor dependencia militar de EE. UU. La visita se da antes de que el nuevo Congreso, con mayoría demócrata, revise la cooperación en seguridad.",
+      "implicaciones": "Mayor capacidad de transporte aéreo militar; posibles efectos en la seguridad de regiones remotas.",
+      "que_vigilar": "Anuncios de la visita, nuevas entregas y posición del Congreso de EE. UU.",
+      "fuentes": [
+        {
+          "medio": "El Tiempo",
+          "titulo": "Visita del secretario de Guerra de EE. UU. a Colombia: MinDefensa confirma entrega del primer avión C-130 Hércules",
+          "url": "https://www.eltiempo.com/politica/gobierno/visita-del-secretario-de-guerra-de-ee-uu-a-colombia-mindefensa-confirma-entrega-del-primer-avion-c-130-hercules-a-la-fuerza-publica-colombiana-3601894"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Hegseth viaja a Colombia en plena ofensiva militar contra grupos narcotraficantes",
+          "url": "https://www.infobae.com/america/america-latina/2026/11/18/hegseth-viaja-a-colombia-en-plena-ofensiva-militar-contra-grupos-narcotraficantes-y-tras-superar-una-mocion-de-censura-en-eeuu/"
+        },
+        {
+          "medio": "ThePrint (Reuters)",
+          "titulo": "Hegseth to visit Colombia on Wednesday to deliver military equipment",
+          "url": "https://theprint.in/world/hegseth-to-visit-colombia-on-wednesday-to-deliver-military-equipment/3101640/"
+        },
+        {
+          "medio": "The Star (Reuters)",
+          "titulo": "Hegseth to visit Colombia on Wednesday to deliver military equipment",
+          "url": "https://www.thestar.com.my/news/world/2026/11/18/hegseth-to-visit-colombia-on-wednesday-to-deliver-military-equipment"
+        }
+      ]
+    },
+    {
+      "titulo": "Mañana, paro nacional: CUT, Fecode y Pacto Histórico mantienen la convocatoria",
+      "categoria": "Sociedad / Política fiscal",
+      "importancia": 4,
+      "resumen": "La CUT, Fecode y el Pacto Histórico mantienen el paro nacional del jueves 19 de noviembre contra la Ley de Rescate Económico; el Pacto Histórico lo ratificó el 17. En Bogotá, la marcha saldría a las 9:00 a. m. del Parque Nacional hacia la Plaza de Bolívar, según Minuto60; Cartagena y otras ciudades se suman. Según HSB Noticias, la Embajada de EE. UU. emitió una alerta de seguridad para sus ciudadanos. Los convocantes rechazan el IVA de 19 % a bienes hoy con tarifa reducida o excluidos y advierten riesgos para el empleo.",
+      "por_que_importa": "La magnitud de la protesta puede incidir en la negociación de la Ley de Rescate y en la del salario mínimo.",
+      "perspectivas": [
+        {
+          "medio": "Minuto60",
+          "enfoque": "Informa la ratificación del Pacto Histórico y el recorrido en Bogotá."
+        },
+        {
+          "medio": "Crónica del Quindío",
+          "enfoque": "Explicativo: motivos, convocantes y horarios."
+        },
+        {
+          "medio": "El Universal",
+          "enfoque": "Perspectiva desde Cartagena."
+        },
+        {
+          "medio": "HSB Noticias",
+          "enfoque": "Destaca la alerta de seguridad de la Embajada de EE. UU."
+        }
+      ],
+      "coincidencias": "Coinciden en la fecha, los convocantes y los motivos.",
+      "diferencias": "Algunos medios la presentan contra la 'reforma tributaria' y otros contra la 'Ley de Rescate'. La alerta de la embajada proviene de una sola fuente.",
+      "analisis": "El Gobierno sostiene que la ley evita una crisis fiscal; los convocantes, que traslada el costo a trabajadores. El dato de PIB débil puede alimentar el argumento de ambos: unos contra más impuestos, otros a favor del ajuste para recuperar confianza.",
+      "implicaciones": "Empresas en ciudades principales: prever cierres viales, restricciones logísticas y protocolos para empleados el 19.",
+      "que_vigilar": "Asistencia, orden público y respuesta del Gobierno.",
+      "fuentes": [
+        {
+          "medio": "Minuto60",
+          "titulo": "Pacto Histórico mantiene el paro nacional del 19 de noviembre",
+          "url": "https://www.minuto60.com/colombia/pacto-historico-mantiene-paro-nacional-19-noviembre/19082"
+        },
+        {
+          "medio": "Crónica del Quindío",
+          "titulo": "Marchas del 19 de noviembre en Colombia: motivos, convocantes y horarios",
+          "url": "https://cronicadelquindio.com/actualidad/colombia/marchas-del-19-de-noviembre-en-colombia-motivos-convocantes-y-horarios/"
+        },
+        {
+          "medio": "El Universal",
+          "titulo": "¿Habrá marchas en Cartagena el 19 de noviembre? Esto anunció la CUT en Bolívar",
+          "url": "https://www.eluniversal.com.co/cartagena/2026/11/05/habra-marchas-en-cartagena-el-19-de-noviembre-esto-anuncio-la-cut-en-bolivar/"
+        },
+        {
+          "medio": "HSB Noticias",
+          "titulo": "Estados Unidos emite alerta de seguridad por marchas del 19 de noviembre en Colombia",
+          "url": "http://hsbnoticias.com/noticias/estados-unidos-emite-alerta-de-seguridad-por-marchas-del-19-de-noviembre-en-colombia-esta"
+        }
+      ]
+    },
+    {
+      "titulo": "El dólar cede a $3.309 y la TRM baja a $3.309,55",
+      "categoria": "Economía / Divisas",
+      "importancia": 3,
+      "resumen": "El dólar cerró el 17 de noviembre en un promedio de $3.309,78, según Infobae, con un máximo de $3.327,40, por debajo de la TRM de $3.316,70 que rigió del 14 al 17. La TRM de hoy bajó a $3.309,55. Infobae atribuye el retroceso a expectativas sobre las tasas de interés, aunque el dólar sigue por encima de $3.300.",
+      "por_que_importa": "Un respiro leve tras más de 4 % de depreciación en noviembre, en un día de fuerte caída de las bolsas internacionales.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Destaca que bajó por expectativas de tasas, pero 'sigue caro'."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Cierre a la baja tras una jornada con tendencia descendente."
+        },
+        {
+          "medio": "Colombia.com",
+          "enfoque": "Informa la TRM de hoy."
+        }
+      ],
+      "coincidencias": "Coinciden en la leve baja.",
+      "diferencias": "Los cierres varían levemente según el indicador ($3.303 a $3.310).",
+      "analisis": "El dato débil de PIB puede reforzar expectativas de que el BanRep no suba tasas, lo que tendería a debilitar el peso; el petróleo estable lo apoya.",
+      "implicaciones": "Importadores: ventana para cubrir parte de sus necesidades.",
+      "que_vigilar": "Reacción al PIB, al paro y a los resultados de Nvidia.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Precio del dólar en Colombia: bajó de precio ante expectativas por las tasas de interés, pero sigue caro y así cerró el 17 de noviembre",
+          "url": "https://www.infobae.com/colombia/2026/11/18/precio-del-dolar-en-colombia-bajo-de-precio-ante-expectativas-por-las-tasas-de-interes-de-los-bancos-pero-sigue-caro-y-asi-cerro-el-17-de-noviembre/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Dólar cierra la jornada más barato tras completar con tendencia a la baja el martes 17 de noviembre",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-cierra-la-jornada-mas-barato-tras-completar-con-tendencia-a-la-baja-el-martes-17-de-noviembre/202606/"
+        },
+        {
+          "medio": "Colombia.com",
+          "titulo": "Precio del dólar hoy en Colombia: cotización de este miércoles 18 de noviembre de 2026",
+          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-miercoles-18-de-noviembre-de-2026-613072"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Nvidia supera expectativas en su primer informe sin Huang: ingresos de US$115.800 millones",
+      "categoria": "Empresas / Tecnología",
+      "importancia": 5,
+      "resumen": "Nvidia reportó para el trimestre terminado el 25 de octubre ingresos de US$115.800 millones (+20 % trimestral, +103 % anual), frente a unos US$109.000 millones esperados; centros de datos aportaron US$107.600 millones (+110 %). Proyecta US$130.000 millones para el próximo trimestre (±3 %), sin contar ventas de cómputo a China, y elevó su previsión de crecimiento del próximo año fiscal a 75 %. Dejará de enviar productos Hopper con licencia a China tras vender US$2.400 millones. Los compromisos de suministro subieron a US$390.000 millones. La acción subía cerca de 3 % después del cierre, según Investing.com.",
+      "por_que_importa": "Confirma que la demanda de IA sigue fuerte pese al cambio de liderazgo; puede frenar la corrección tecnológica que arrastra a las bolsas.",
+      "perspectivas": [
+        {
+          "medio": "Nvidia",
+          "enfoque": "Comunicado oficial de resultados."
+        },
+        {
+          "medio": "Investing.com",
+          "enfoque": "Destaca la mejora de la guía y la subida de la acción."
+        },
+        {
+          "medio": "Benzinga",
+          "enfoque": "Pregunta si Colette Kress puede reemplazar a Huang; un analista ve una prueba 'mayor' a largo plazo."
+        },
+        {
+          "medio": "Constellation Research",
+          "enfoque": "Resalta la guía más alta pese a la renuncia de Huang."
+        }
+      ],
+      "coincidencias": "Coinciden en que los resultados y la guía superaron lo esperado.",
+      "diferencias": "La reacción de la acción después del cierre varía entre fuentes; analistas difieren sobre el riesgo de liderazgo.",
+      "analisis": "Los números alivian dudas sobre el gasto en IA, pero el retiro de China y la transición de liderazgo siguen siendo riesgos.",
+      "implicaciones": "Posible rebote de la tecnología hoy; menor presión sobre activos de riesgo emergentes.",
+      "que_vigilar": "Apertura de Wall Street, salida a bolsa de Anthropic y audiencia de Huang.",
+      "fuentes": [
+        {
+          "medio": "Nvidia",
+          "titulo": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+        },
+        {
+          "medio": "Investing.com",
+          "titulo": "Nvidia shares gain 3% after outlook lift, post-Huang strategy update",
+          "url": "https://www.investing.com/news/earnings/nvidia-quarterly-results-beat-estimates-5033943"
+        },
+        {
+          "medio": "Benzinga",
+          "titulo": "Can Colette Kress Fill Jensen Huang's Shoes? Nvidia Posts $116 Billion Quarter",
+          "url": "https://www.benzinga.com/markets/tech/26/11/63375797/nvidia-colette-kress-jensen-huang-exit"
+        },
+        {
+          "medio": "Constellation Research",
+          "titulo": "Nvidia posts strong Q3, ups Q4, fiscal 2028 outlook amid Huang resignation",
+          "url": "https://www.constellationr.com/insights/news/nvidia-posts-strong-q3-ups-q4-fiscal-2028-outlook-amid-huang-resignation"
+        }
+      ]
+    },
+    {
+      "titulo": "Wall Street cierra en su nivel más bajo desde julio antes de Nvidia",
+      "categoria": "Mercados",
+      "importancia": 4,
+      "resumen": "El 17 de noviembre el S&P 500 bajó 1,03 % a 7.340,53, su menor cierre desde finales de julio; el Dow perdió 1,64 % (−848,75 puntos) a 50.759,42, tras caer más de 1.000 puntos en la sesión, y el Nasdaq 0,74 % a 24.328,38, su cuarta caída seguida. Los 11 sectores del S&P cerraron a la baja; Salesforce cayó 9 %.",
+      "por_que_importa": "La corrección se amplía más allá de la IA; la reacción a Nvidia y la salida a bolsa de Anthropic definirán si se estabiliza.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Destaca el menor cierre del S&P desde julio."
+        },
+        {
+          "medio": "The Motley Fool",
+          "enfoque": "Atribuye la caída a presiones en chips de IA y software."
+        },
+        {
+          "medio": "StockTitan",
+          "enfoque": "Pone el foco en el alza de Nvidia después del cierre."
+        },
+        {
+          "medio": "The Washington Post",
+          "enfoque": "Resumen de cierres."
+        }
+      ],
+      "coincidencias": "Coinciden en la amplitud de la caída.",
+      "diferencias": "Algunas fuentes presentan cifras distintas por error de fecha o proveedor.",
+      "analisis": "El mercado descuenta tasas altas, valoraciones exigentes en tecnología e incertidumbre geopolítica.",
+      "implicaciones": "Fondos de pensiones colombianos con exposición a EE. UU.: rentabilidad negativa en noviembre.",
+      "que_vigilar": "Apertura de hoy y flujos hacia la salida a bolsa de Anthropic.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "Dow drops more than 800 points, S&P 500 posts lowest close since July",
+          "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
+        },
+        {
+          "medio": "The Motley Fool",
+          "titulo": "Stock Market Today, Nov. 17: Stocks Slide on AI Chip and Tech Pressures, Salesforce Plummets 9%",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/"
+        },
+        {
+          "medio": "StockTitan",
+          "titulo": "Stock Market Today, November 17, 2026: Nvidia Rises After Hours on the Evening It Reports Results",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+        },
+        {
+          "medio": "The Washington Post",
+          "titulo": "How major US stock indexes fared Tuesday 11/17/2026",
+          "url": "https://www.washingtonpost.com/business/2026/11/17/wall-street-stocks-dow-nasdaq/9f975f00-e2cf-11f1-a99e-b3e3805c6b8b_story.html"
+        }
+      ]
+    },
+    {
+      "titulo": "EE. UU. ataca de nuevo la isla de Qeshm; Catar advierte un 'grave peligro' para el acuerdo",
+      "categoria": "Geopolítica / Medio Oriente",
+      "importancia": 5,
+      "resumen": "Según un funcionario iraní citado por CBS News, EE. UU. atacó el martes la isla de Qeshm en el estrecho de Ormuz, horas después de que Irán dijera haber atacado una base estadounidense. Catar advirtió que la escalada en el Golfo representa un 'grave peligro' para las posibilidades de un acuerdo y anunció una nueva reunión con funcionarios iraníes en Doha. Trump mantiene el bloqueo naval y Teherán sigue perturbando el tránsito por Ormuz.",
+      "por_que_importa": "La espiral de ataques llega a un día de la cumbre Trump–Xi–Putin, donde Irán es tema central.",
+      "perspectivas": [
+        {
+          "medio": "Euronews",
+          "enfoque": "Destaca la advertencia de Catar y las nuevas conversaciones."
+        },
+        {
+          "medio": "CBS News",
+          "enfoque": "Informa los ataques a Qeshm según fuente iraní."
+        },
+        {
+          "medio": "Arab News",
+          "enfoque": "Pone el foco en que el ataque a Baréin amenaza las negociaciones."
+        },
+        {
+          "medio": "Qatar Tribune",
+          "enfoque": "Versión catarí: la mediación continúa y advierte contra la escalada."
+        }
+      ],
+      "coincidencias": "Coinciden en la escalada y en que la mediación catarí sigue.",
+      "diferencias": "Catar habla de respuestas positivas; Rubio ha dicho que no hay avances. Los ataques a Qeshm se basan en fuentes iraníes.",
+      "analisis": "Ambas partes combinan presión militar con canales diplomáticos; el riesgo de una escalada mayor aumenta con cada intercambio.",
+      "implicaciones": "Fletes y seguros marítimos siguen caros; el petróleo, contenido por el exceso de oferta.",
+      "que_vigilar": "Resultados de la reunión en Doha y mensajes sobre Irán en Shenzhen.",
+      "fuentes": [
+        {
+          "medio": "Euronews",
+          "titulo": "Qatar warns Gulf escalation poses 'grave danger' and announces new talks with Iran",
+          "url": "https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran"
+        },
+        {
+          "medio": "CBS News",
+          "titulo": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/"
+        },
+        {
+          "medio": "Arab News",
+          "titulo": "Qatar warns Iran's attack on US base in Bahrain threatens peace talks",
+          "url": "https://www.arabnews.com/middle-east/qatar-warns-irans-attack-on-us-base-in-bahrain-threatens-peace-talks-3012408"
+        },
+        {
+          "medio": "Qatar Tribune",
+          "titulo": "Qatar continues mediation between US and Iran, warns against escalation",
+          "url": "https://www.qatar-tribune.com/article/264828/latest-news/qatar-continues-mediation-between-us-and-iran-warns-against-escalation"
+        }
+      ]
+    },
+    {
+      "titulo": "El petróleo se estabiliza cerca de US$93",
+      "categoria": "Energía / Mercados",
+      "importancia": 3,
+      "resumen": "El Brent subió 0,8 % el 17 de noviembre y quedó cerca de US$93,15, y el WTI 0,3 % a US$86,01, tras oscilar en un rango de unos US$3 por los nuevos combates en Medio Oriente, según Bloomberg vía Rigzone y MarketScreener. El día anterior habían caído más de 3 %. El exceso de oferta compensa los riesgos en tanqueros.",
+      "por_que_importa": "El crudo se mantiene lejos de los niveles de inicios de noviembre, con menores ingresos para Colombia.",
+      "perspectivas": [
+        {
+          "medio": "Rigzone (Bloomberg)",
+          "enfoque": "Destaca la volatilidad por los ataques en el Golfo."
+        },
+        {
+          "medio": "MarketScreener",
+          "enfoque": "Datos de cierre."
+        },
+        {
+          "medio": "EnergyNow",
+          "enfoque": "El superávit global compensa los riesgos con tanqueros."
+        }
+      ],
+      "coincidencias": "Coinciden en una leve subida tras la caída del lunes.",
+      "diferencias": "El cierre del Brent difiere en un centavo entre fuentes.",
+      "analisis": "El mercado se mueve en un rango estrecho entre geopolítica y oferta abundante.",
+      "implicaciones": "Supuestos fiscales de petróleo más bajos.",
+      "que_vigilar": "Inventarios de EE. UU. y Ormuz.",
+      "fuentes": [
+        {
+          "medio": "Rigzone (Bloomberg)",
+          "titulo": "Oil Prices Swing as Gulf Attacks Continue",
+          "url": "https://www.rigzone.com/news/wire/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article/"
+        },
+        {
+          "medio": "MarketScreener",
+          "titulo": "December WTI Crude Oil Contract Closes Up $0.29, or 0.3%; Settles at $86.01 per Barrel",
+          "url": "https://www.marketscreener.com/news/december-wti-crude-oil-contract-closes-up-0-29-or-0-3-settles-at-86-01-per-barrel-january-bren-ce785edcdc88f223"
+        },
+        {
+          "medio": "EnergyNow",
+          "titulo": "Oil Prices Stabilize After Monday's Sharp Selloff as Global Supply Surplus Offsets Middle East Tanker Risks",
+          "url": "https://energynow.com/2026/11/oil-prices-stabilize-after-mondays-sharp-selloff-as-global-supply-surplus-offsets-middle-east-tanker-risks/"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "El dato del PIB (0,5 %) confirma una economía casi detenida con inflación de 6,30 %: un dilema para el BanRep, que decide el 18 de diciembre. El dólar dio un respiro (TRM $3.309,55). Afuera, Wall Street siguió cayendo (S&P 500 en mínimos desde julio), pero los sólidos resultados de Nvidia después del cierre pueden dar alivio hoy. El petróleo se estabilizó cerca de US$93. Hoy también empieza APEC en Shenzhen y se espera el precio de la salida a bolsa de Anthropic. No se verificaron COLCAP, oro ni bono a 10 años.",
+  "agenda": [
+    "Hoy, 18 de noviembre: visita de Pete Hegseth a Bogotá; inicio de APEC en Shenzhen; precio esperado de la salida a bolsa de Anthropic; citación de Jensen Huang ante el Congreso de EE. UU.",
+    "19 de noviembre: paro nacional (marcha en Bogotá a las 9:00 a. m., Parque Nacional–Plaza de Bolívar); reunión Trump–Xi–Putin en Shenzhen; cierre de la 'Milagro Week'.",
+    "20 de noviembre: cierre de la COP31 en Antalya.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Las cifras del PIB son preliminares del DANE; una fuente citó una caída trimestral de 2,6 % que no coincide con las demás y no se usó. La cobertura del PIB se centra en analistas y gremios; faltó la reacción oficial del Ministerio de Hacienda. La alerta de seguridad de la Embajada de EE. UU. por el paro proviene de una sola fuente. El posible viaje de Hegseth a Venezuela no está confirmado. Los ataques a Qeshm se basan en fuentes iraníes. La reacción de la acción de Nvidia después del cierre varía según la fuente. No se verificaron COLCAP, oro y bono a 10 años de EE. UU.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3309.55,
+      "variacion_pct": -0.22,
+      "variacion_mes_pct": 4.0,
+      "vigencia": "18 nov",
+      "fuente": "Superfinanciera (vía Colombia.com)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3309.78,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "Promedio cierre 17 nov",
+      "fuente": "Infobae"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 93.15,
+      "variacion_pct": 0.8,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 17 nov",
+      "fuente": "MarketScreener / Rigzone"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 86.01,
+      "variacion_pct": 0.3,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 17 nov",
+      "fuente": "Rigzone (Bloomberg)"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7340.53,
+      "variacion_pct": -1.03,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 17 nov",
+      "fuente": "CNBC / The Washington Post"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 24328.38,
+      "variacion_pct": -0.74,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 17 nov",
+      "fuente": "CNBC / The Washington Post"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 50759.42,
+      "variacion_pct": -1.64,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 17 nov",
+      "fuente": "CNBC / The Washington Post"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "PIB Colombia",
+      "valor": "+0,5 % anual",
+      "fecha_dato": "Tercer trimestre 2026 (preliminar)",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
+      "comentario": "−0,8 % frente al segundo trimestre; acumulado enero–septiembre +2,1 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión: 9 dic; tras el dato de empleo, el mercado asigna cerca de 78 % a un alza."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 32,
+    "medios": [
+      {
+        "medio": "Infobae",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "La República",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Colombiano",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Infobae (EFE)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Tiempo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ThePrint (Reuters)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Star (Reuters)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Minuto60",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Crónica del Quindío",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Universal",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "HSB Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Colombia.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Nvidia",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Investing.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Benzinga",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Constellation Research",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Motley Fool",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "StockTitan",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Washington Post",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Euronews",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CBS News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Arab News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Qatar Tribune",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Rigzone (Bloomberg)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "MarketScreener",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "EnergyNow",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
