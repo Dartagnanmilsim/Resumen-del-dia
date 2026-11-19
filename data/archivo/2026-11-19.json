@@ -1,0 +1,831 @@
+{
+  "fecha": "2026-11-19",
+  "generado": "2026-11-19T10:40:25.705405Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "El Gobierno retira el IVA a la canasta y la rebaja de renta empresarial de la Ley de Rescate en la víspera del paro nacional; Trump, Xi y Putin se reúnen por primera vez y Anthropic sale a bolsa en un récord.",
+  "lo_esencial": [
+    "Hacienda presenta una Ley de Rescate sin IVA a la canasta, agroinsumos, seguros de salud ni prepagada, y sin la rebaja de renta empresarial.",
+    "Hoy, paro nacional: marcha en Bogotá a las 9:00 a. m. del Parque Nacional a la Plaza de Bolívar, y concentraciones en otras ciudades.",
+    "Hegseth entrega en Bogotá el primer C-130 y dice que ambos países están 'totalmente alineados'; el Gobierno niega haber rechazado operaciones conjuntas.",
+    "El dólar vuelve a subir y cierra entre $3.327 y $3.356; el dólar global toca máximos de 19 meses.",
+    "Trump, Xi y Putin celebran en Shenzhen su primer encuentro trilateral, sin declaración inmediata.",
+    "Anthropic fija su salida a bolsa en US$83 por acción y recauda unos US$81.300 millones; el WTI cae a su menor nivel desde agosto."
+  ],
+  "colombia": [
+    {
+      "titulo": "Giro en la Ley de Rescate: sin IVA a la canasta ni a la prepagada, y sin rebaja de renta empresarial",
+      "categoria": "Economía / Política fiscal",
+      "importancia": 5,
+      "resumen": "El ministro de Hacienda, Miguel Gómez, sustentó el 18 de noviembre ante las comisiones económicas conjuntas una Ley de Rescate modificada: 'No se modifica el IVA de la canasta básica; no se modifica el IVA para los agroinsumos ni para los seguros de salud'. También se retira el IVA de 19 % a la medicina prepagada y a alimentos para mascotas, y —según Radio Hoy y otras fuentes— la rebaja gradual de la renta empresarial (que se mantendría en 35 %). El cambio sigue al anuncio presidencial del 15 de noviembre. Hacienda evalúa alternativas para reemplazar los ingresos sin abandonar la meta de reducir el déficit. Minuto30 reporta un recorte de gasto de $23,7 billones; Prensa Latina estima el ajuste total en unos $83 billones.",
+      "por_que_importa": "Elimina el punto más resistido por el Congreso y la protesta, pero abre un hueco fiscal; mantener la renta empresarial en 35 % cambia el cálculo de inversión de las empresas.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Detalla cómo queda la reforma y cómo se reemplazaría el recaudo."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Destaca la sustentación del ministro, 'ahora sin IVA a la canasta'."
+        },
+        {
+          "medio": "Minuto30",
+          "enfoque": "Pone el foco en el recorte de $23,7 billones."
+        },
+        {
+          "medio": "Radio Hoy",
+          "enfoque": "Subraya que se mantendría la renta empresarial en 35 %."
+        },
+        {
+          "medio": "Prensa Latina",
+          "enfoque": "Lo presenta como un retroceso del Gobierno en el articulado."
+        }
+      ],
+      "coincidencias": "Coinciden en que se retira el IVA a la canasta, agroinsumos, seguros de salud y prepagada.",
+      "diferencias": "Difieren en el monto del recorte ($23,7 billones o $83 billones) y en el detalle de la renta empresarial. El Pacto Histórico lo llama 'una primera victoria popular'; un congresista advierte que el Gobierno podría impulsar otros impuestos.",
+      "analisis": "El Gobierno prioriza viabilidad política y reduce el componente tributario, lo que obliga a más recortes o a otras fuentes de ingreso. Para las calificadoras, la pregunta será si el ajuste sigue siendo creíble.",
+      "implicaciones": "Consumo masivo, alimentos y salud prepagada: desaparece el riesgo de IVA. Empresas: sin rebaja de renta, menor incentivo a la inversión prevista.",
+      "que_vigilar": "Nuevas fuentes de recaudo, tamaño del recorte y posición de calificadoras.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Ministro de Hacienda explicó cómo queda la reforma tributaria tras echar para atrás el aumento del IVA",
+          "url": "https://www.infobae.com/colombia/2026/11/18/ministro-de-hacienda-de-abelardo-de-la-espriella-explico-como-queda-la-reforma-tributaria-tras-echar-para-atras-el-aumento-del-iva-en-productos-de-la-canasta-familiar-alimentos-para-mascotas-y-medicina-prepagada/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Gobierno De la Espriella confirmó que no habrá IVA a la canasta familiar en la nueva ley",
+          "url": "https://www.infobae.com/colombia/2026/11/17/gobierno-de-la-espriella-confirmo-que-no-habra-iva-a-la-canasta-familiar-en-la-nueva-ley-y-detallo-como-se-reemplazaria-el-cobro-del-impuesto/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Ministro de Hacienda, Miguel Gómez, sustentó en el Congreso la Ley de Rescate Económico, ahora sin IVA a la canasta",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/ministro-de-hacienda-miguel-gomez-sustento-en-el-congreso-la-ley-de-rescate-economico-ahora-sin-iva-a-la-canasta/202644/"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "Gobierno dio marcha atrás al IVA a la medicina prepagada y anunció recorte de $23,7 billones",
+          "url": "https://www.minuto30.com/gobierno-dio-marcha-atras-al-iva-a-la-medicina-prepagada-y-anuncio-recorte-de-237-billones/1732027/"
+        },
+        {
+          "medio": "Radio Hoy",
+          "titulo": "Gobierno da reversa en la Ley de Rescate: retira el IVA del 19 % a la prepagada y mantendría la renta empresarial en 35 %",
+          "url": "https://www.radiohoy.com/2026/11/18/gobierno-da-reversa-en-la-ley-de-rescate-retira-el-iva-del-19-a-la-prepagada-y-mantendria-la-renta-empresarial-en-35/834131/"
+        },
+        {
+          "medio": "Prensa Latina",
+          "titulo": "Gobierno de Colombia retrocede en articulado de reforma fiscal",
+          "url": "https://www.prensa-latina.cu/2026/11/18/gobierno-de-colombia-retrocede-en-articulado-de-reforma-fiscal/"
+        }
+      ]
+    },
+    {
+      "titulo": "Hoy, paro nacional: marchas en Bogotá y las principales ciudades",
+      "categoria": "Sociedad / Orden público",
+      "importancia": 5,
+      "resumen": "La CUT, Fecode y el Pacto Histórico, con el respaldo del expresidente Gustavo Petro, realizan hoy el paro nacional contra la Ley de Rescate. En Bogotá, la marcha principal sale a las 9:00 a. m. del Parque Nacional (carrera 7 con calle 26) hacia la Plaza de Bolívar; hay concentraciones en la Universidad Pedagógica, Park Way y la Embajada de Israel. También hay convocatorias en Medellín, Cali, Cartagena y otras ciudades. Se prevén afectaciones en la calle 26, la carrera 7, la carrera 13 y TransMilenio. Llega un día después de que el Gobierno retirara el IVA a la canasta, aunque los convocantes también cuestionan cambios en renta y recortes de gasto. La Embajada de EE. UU. emitió una alerta para sus ciudadanos.",
+      "por_que_importa": "La magnitud de la movilización medirá el peso de la oposición a la reforma y puede afectar la actividad económica y la movilidad en las ciudades.",
+      "perspectivas": [
+        {
+          "medio": "Alcaldía de Bogotá",
+          "enfoque": "Información oficial de recorridos y recomendaciones."
+        },
+        {
+          "medio": "El Tiempo",
+          "enfoque": "Guía de puntos y corredores afectados."
+        },
+        {
+          "medio": "Bloomberg Línea",
+          "enfoque": "Enfoque práctico: horarios y vías a evitar."
+        },
+        {
+          "medio": "La FM",
+          "enfoque": "Puntos de concentración en todo el país."
+        },
+        {
+          "medio": "La Silla Vacía",
+          "enfoque": "Destaca que Petro y el Pacto ratifican el llamado."
+        }
+      ],
+      "coincidencias": "Coinciden en el recorrido principal en Bogotá y los convocantes.",
+      "diferencias": "Algunos medios la presentan contra la 'reforma tributaria'; otros contra la 'Ley de Rescate'. Unos subrayan que el Gobierno ya retiró el IVA; otros, que la protesta se mantiene por otros puntos.",
+      "analisis": "El retiro del IVA le quita a la protesta su principal bandera, pero los convocantes buscan mostrar fuerza frente al resto del ajuste. El Gobierno espera que la concesión reduzca la convocatoria.",
+      "implicaciones": "Empresas en Bogotá y capitales: prever teletrabajo, cierres viales y retrasos logísticos.",
+      "que_vigilar": "Asistencia, orden público y respuesta del Gobierno al cierre de la jornada.",
+      "fuentes": [
+        {
+          "medio": "Alcaldía de Bogotá",
+          "titulo": "Marchas y manifestaciones Bogotá paro nacional jueves 19 de noviembre",
+          "url": "https://bogota.gov.co/mi-ciudad/gobierno/2026-11/marchas-y-manifestaciones-bogota-paro-nacional-jueves-19-de-noviembre"
+        },
+        {
+          "medio": "El Tiempo",
+          "titulo": "Paro nacional en Bogotá este jueves 19 de noviembre: puntos y corredores que se verían afectados",
+          "url": "https://www.eltiempo.com/bogota/paro-nacional-en-bogota-este-jueves-19-de-noviembre-de-2026-conozca-los-horarios-lugares-y-tipos-de-movilizaciones-programadas-para-la-jornada-3601619"
+        },
+        {
+          "medio": "Bloomberg Línea",
+          "titulo": "Paro nacional del 19 de noviembre en Bogotá: horarios, puntos de concentración y vías que debe evitar",
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/paro-nacional-del-19-de-noviembre-en-bogota-horarios-puntos-de-concentracion-y-vias-que-debe-evitar/"
+        },
+        {
+          "medio": "La FM",
+          "titulo": "Paro nacional del 19 de noviembre: estos son los puntos de concentración en Colombia",
+          "url": "https://www.lafm.com.co/sociedad/paro-nacional-centrales-obreras-pacifico-centrales-obreras-colombia-417599"
+        },
+        {
+          "medio": "La Silla Vacía",
+          "titulo": "19 de noviembre: Petro y el Pacto ratifican llamado a paro nacional",
+          "url": "https://www.lasillavacia.com/en-vivo/19-de-noviembre-petro-y-el-pacto-ratifican-llamado-a-paro-nacional/"
+        }
+      ]
+    },
+    {
+      "titulo": "Hegseth en Bogotá: 'totalmente alineados' contra el narcotráfico; dudas sobre operaciones conjuntas",
+      "categoria": "Defensa / Relaciones exteriores",
+      "importancia": 4,
+      "resumen": "El secretario de Guerra de EE. UU., Pete Hegseth, llegó a Bogotá el 18 de noviembre, tras reunirse en Caracas con la presidenta encargada venezolana, Delcy Rodríguez. Fue recibido por el canciller Omar Bula y el ministro de Defensa, Jorge Eduardo Mora; entregó el primer avión C-130 Hércules (podrían llegar dos más) y dijo que ambos países están 'totalmente alineados' contra el narcotráfico, con la promesa de 'cazar, matar y derrotar' a los narcoterroristas. Un reporte de The New York Times, citado por medios colombianos, dijo que De la Espriella rechazó operaciones militares conjuntas en suelo colombiano; el Gobierno negó esa versión. Según Yahoo/AFP, ese tipo de operaciones requeriría autorización del Congreso.",
+      "por_que_importa": "La relación de seguridad con EE. UU. es central en la estrategia del Gobierno; la posible presencia de tropas extranjeras en operaciones es un tema constitucional y políticamente sensible.",
+      "perspectivas": [
+        {
+          "medio": "El Tiempo",
+          "enfoque": "Destaca la frase 'totalmente alineados'."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Explica que la visita afinó la estrategia y dejó sobre la mesa las operaciones conjuntas."
+        },
+        {
+          "medio": "Yahoo Noticias (AFP)",
+          "enfoque": "Recoge la frase 'cazar, matar y derrotar' y el requisito constitucional."
+        },
+        {
+          "medio": "Colombia One",
+          "enfoque": "Pone el foco en los reportes de oposición del Gobierno a operaciones conjuntas."
+        },
+        {
+          "medio": "Citytv",
+          "enfoque": "Informativo: anuncio de cooperación contra carteles."
+        }
+      ],
+      "coincidencias": "Coinciden en la entrega del avión y en el mensaje de alineación.",
+      "diferencias": "El reporte del NYT sobre el rechazo a operaciones conjuntas fue negado por el Gobierno; las versiones siguen enfrentadas.",
+      "analisis": "Para el Gobierno, la ayuda de EE. UU. refuerza la ofensiva; para críticos, operaciones conjuntas plantearían riesgos de soberanía. La visita previa a Caracas sugiere una agenda regional más amplia.",
+      "implicaciones": "Mayor cooperación en inteligencia y transporte aéreo; posible debate en el Congreso sobre tránsito de tropas.",
+      "que_vigilar": "Acuerdos concretos y cualquier solicitud de autorización al Congreso.",
+      "fuentes": [
+        {
+          "medio": "El Tiempo",
+          "titulo": "Visita del secretario de Guerra de EE. UU. a Colombia: Hegseth afirma que su país y Colombia están 'totalmente alineados'",
+          "url": "https://www.eltiempo.com/politica/gobierno/visita-del-secretario-de-guerra-de-ee-uu-a-colombia-mindefensa-confirma-entrega-del-primer-avion-c-130-hercules-a-la-fuerza-publica-colombiana-3601894"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "Visita de Hegseth afinó estrategia contra narcos y dejó en la mesa las operaciones militares conjuntas",
+          "url": "https://www.elcolombiano.com/colombia/visita-pete-hegseth-colombia-apoyo-militar-operaciones-conjuntas-vigilancia-en-vias-HH43772665"
+        },
+        {
+          "medio": "Yahoo Noticias (AFP)",
+          "titulo": "Secretario de Defensa de EEUU promete en visita a Colombia 'cazar, matar y derrotar' a narcoterroristas",
+          "url": "https://es-us.noticias.yahoo.com/secretario-defensa-eeuu-promete-visita-020658305.html"
+        },
+        {
+          "medio": "Colombia One",
+          "titulo": "Hegseth Arrives in Colombia Amid Reports of Government Opposition to Joint Operations",
+          "url": "https://colombiaone.com/2026/11/18/pete-hegseth-arrives-in-colombia-amid-reports-of-government-opposition-to-joint-operations/"
+        },
+        {
+          "medio": "Citytv",
+          "titulo": "Pete Hegseth en Colombia: anuncia cooperación contra carteles",
+          "url": "https://citytv.eltiempo.com/programas/citynoticias-de-las-8/pete-hegseth-en-colombia-anuncia-cooperacion-contra-carteles_97468"
+        }
+      ]
+    },
+    {
+      "titulo": "El dólar vuelve a subir: cierre entre $3.327 y $3.356",
+      "categoria": "Economía / Divisas",
+      "importancia": 4,
+      "resumen": "El dólar subió el 18 de noviembre: Infobae reporta un promedio de $3.327,18 y El Espectador un cierre de $3.356, con un rango de $3.305,30 a $3.364. La TRM del 18 fue $3.309,55. Infobae lo vincula a la discusión de nuevos impuestos; en el exterior, Benzinga reportó un dólar global en máximos de 19 meses.",
+      "por_que_importa": "El peso vuelve a debilitarse tras el dato de PIB y en medio de la incertidumbre fiscal, encareciendo importaciones.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Vincula el alza a la discusión de nuevos impuestos."
+        },
+        {
+          "medio": "El Espectador",
+          "enfoque": "Reporta el cierre más alto."
+        },
+        {
+          "medio": "Portafolio",
+          "enfoque": "Destaca que la TRM frenó su racha alcista."
+        }
+      ],
+      "coincidencias": "Coinciden en el alza durante la jornada.",
+      "diferencias": "Los cierres difieren según el indicador (promedio vs. último precio).",
+      "analisis": "Un dólar global fuerte por expectativas de alzas de la Fed y dudas sobre el ajuste fiscal local presionan al peso.",
+      "implicaciones": "Importadores: el rango de $3.300–$3.360 marca nuevos máximos del mes.",
+      "que_vigilar": "TRM del día, reacción a la Ley de Rescate modificada y al paro.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Precio del dólar en Colombia: volvió a subir en medio de la discusión por nuevos impuestos; así cerró el 18 de noviembre",
+          "url": "https://www.infobae.com/colombia/2026/11/18/precio-del-dolar-en-colombia-volvio-a-subir-en-medio-de-la-discusion-por-nuevos-impuestos-asi-cerro-el-18-de-noviembre-de-2026/"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "Precio del dólar hoy en Colombia: así cerró la divisa este 18 de noviembre",
+          "url": "https://www.elespectador.com/economia/dolar-hoy-en-colombia-este-es-el-precio-de-la-moneda-para-el-18-de-noviembre/"
+        },
+        {
+          "medio": "Portafolio",
+          "titulo": "Dólar en Colombia frena su racha alcista y cae este miércoles 18 de noviembre: este es su precio oficial",
+          "url": "https://www.portafolio.co/economia/finanzas/dolar-en-colombia-frena-su-racha-alcista-y-cae-este-miercoles-18-de-noviembre-este-es-su-precio-oficial-506559"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Trump, Xi y Putin celebran su primera reunión a tres en Shenzhen, sin declaración inmediata",
+      "categoria": "Geopolítica",
+      "importancia": 5,
+      "resumen": "Trump, Xi y Putin se reunieron hoy en la Villa Kylin de Shenzhen, al margen de APEC, en el primer encuentro trilateral de los tres líderes. Antes, Trump tuvo un breve encuentro con Putin —el primero cara a cara desde Alaska en agosto de 2025— y una reunión de cerca de una hora con Xi. Los temas previstos eran la guerra con Irán, el control de armas nucleares y la estabilidad estratégica; Ucrania no estaba en la agenda formal. Según NBC, las conversaciones terminaron sin una declaración inmediata.",
+      "por_que_importa": "Un entendimiento entre las tres potencias sobre Irán o armas nucleares cambiaría el riesgo geopolítico y el mercado petrolero; la ausencia de resultados mantiene la incertidumbre.",
+      "perspectivas": [
+        {
+          "medio": "RFE/RL",
+          "enfoque": "Destaca que es el primer encuentro trilateral y el breve cara a cara Trump–Putin."
+        },
+        {
+          "medio": "CNN",
+          "enfoque": "Cobertura en vivo de la gira de Trump por China y Filipinas."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Explicativo: qué pasó en APEC."
+        },
+        {
+          "medio": "NBC News",
+          "enfoque": "Subraya que terminó sin declaración inmediata."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Lo califica como un encuentro 'histórico' según los participantes."
+        }
+      ],
+      "coincidencias": "Coinciden en la realización del encuentro y en la falta de anuncios concretos.",
+      "diferencias": "Unos medios subrayan lo histórico; otros, la falta de resultados.",
+      "analisis": "Las expectativas eran bajas; el valor está en abrir un canal entre las tres potencias. Kiev y Europa observan con preocupación lo que se discuta sin ellos.",
+      "implicaciones": "Sin cambios inmediatos para mercados; atención a comunicados posteriores sobre Irán y aranceles.",
+      "que_vigilar": "Comunicados oficiales y efectos sobre la negociación con Irán.",
+      "fuentes": [
+        {
+          "medio": "RFE/RL",
+          "titulo": "Trump, Xi, And Putin Hold First-Ever Trilateral Meeting",
+          "url": "https://www.rferl.org/a/trump-and-putin-hold-brief-apec-meeting/33901539.html"
+        },
+        {
+          "medio": "CNN",
+          "titulo": "Trump, Xi and Putin hold historic three-way talks: APEC live",
+          "url": "https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "Trump, Xi and Putin gather in China: What happened at APEC",
+          "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
+        },
+        {
+          "medio": "NBC News",
+          "titulo": "Live updates: Trump-Xi-Putin talks in China wrap up with no immediate statement",
+          "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-china-apec-congress-2026-live-updates-rcna609888"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "APEC live: 'Groundbreaking' Trump-Xi-Putin meeting starts",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit"
+        }
+      ]
+    },
+    {
+      "titulo": "Anthropic fija su salida a bolsa en US$83 por acción: la mayor de la historia",
+      "categoria": "Mercados / Tecnología",
+      "importancia": 4,
+      "resumen": "Anthropic fijó el 18 de noviembre el precio de su oferta pública inicial en US$83 por acción, por encima del rango de US$70 a US$78. Amplió la oferta a unos 980 millones de acciones y recauda cerca de US$81.300 millones, la mayor salida a bolsa registrada, por encima de la de SpaceX en junio. La valoración es de unos US$1,5 billones en base totalmente diluida. Las acciones empiezan a cotizar hoy en Nasdaq con el símbolo ANT. Siete socios estratégicos, entre ellos Google y Nvidia, comprarán US$26.000 millones en acciones sin voto, según Fortune.",
+      "por_que_importa": "El tamaño de la operación pone a prueba el apetito por la IA en plena corrección tecnológica y absorbe liquidez del mercado.",
+      "perspectivas": [
+        {
+          "medio": "TechCrunch",
+          "enfoque": "Informativo: precio por encima del rango."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Destaca el récord frente a SpaceX."
+        },
+        {
+          "medio": "Fortune",
+          "enfoque": "Detalla la valoración y la colocación privada a socios."
+        },
+        {
+          "medio": "The Motley Fool",
+          "enfoque": "Qué se sabe y qué no."
+        },
+        {
+          "medio": "UPI",
+          "enfoque": "Cobertura breve del precio."
+        }
+      ],
+      "coincidencias": "Coinciden en el precio, el monto y la fecha de inicio de cotización.",
+      "diferencias": "Las cifras de recaudo varían levemente según incluyan o no la opción de sobreasignación.",
+      "analisis": "La demanda superior a lo esperado contrasta con la caída de las acciones de IA; el desempeño en el primer día será una señal para el sector.",
+      "implicaciones": "Fondos con exposición a tecnología: posible reasignación de flujos hacia la nueva acción.",
+      "que_vigilar": "Primer día de cotización.",
+      "fuentes": [
+        {
+          "medio": "TechCrunch",
+          "titulo": "Anthropic prices IPO at $83 a share, above projected range",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+        },
+        {
+          "medio": "Fortune",
+          "titulo": "Anthropic prices IPO at $83 per share, giving it a $1.5 trillion valuation",
+          "url": "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/"
+        },
+        {
+          "medio": "The Motley Fool",
+          "titulo": "It's Official: Anthropic Prices Its IPO at $83 a Share",
+          "url": "https://www.fool.com/investing/2026/11/18/it-s-official-anthropic-prices-its-ipo-at-usd83-a-share-here-s-what-we-know-and-what-we-don-t/"
+        },
+        {
+          "medio": "UPI",
+          "titulo": "Anthropic sets prices for stock debut at $83 a share",
+          "url": "https://www.upi.com/Top_News/US/2026/11/18/anthropic-prices-IPO-higher-than-expected/5261795048834/"
+        }
+      ]
+    },
+    {
+      "titulo": "Nvidia cae pese a sus buenos resultados; el S&P 500 suma cinco caídas seguidas",
+      "categoria": "Mercados",
+      "importancia": 4,
+      "resumen": "El 18 de noviembre el Dow bajó cerca de 1,1 % a 50.198,17 y el S&P 500 0,23 % a 7.323,63, su quinta caída consecutiva, la racha más larga desde junio; el Nasdaq subió 0,42 % a 24.429,88. Nvidia cayó 2,89 %, pese a duplicar ingresos, por dudas sobre la sucesión de Huang y riesgos regulatorios en China; AMD subió cerca de 5 %. El gobernador de la Fed Christopher Waller dijo que el banco debería aprobar un alza de 50 puntos básicos en diciembre o señalar alzas más rápidas en 2027.",
+      "por_que_importa": "La posibilidad de un alza de 50 puntos básicos de la Fed fortalece al dólar y encarece el financiamiento externo de Colombia.",
+      "perspectivas": [
+        {
+          "medio": "Yahoo Finance",
+          "enfoque": "Nvidia cae pese a resultados por sucesión y China."
+        },
+        {
+          "medio": "Benzinga",
+          "enfoque": "Destaca el dólar en máximos de 19 meses."
+        },
+        {
+          "medio": "The Washington Post",
+          "enfoque": "Resumen de cierres."
+        },
+        {
+          "medio": "TradingKey",
+          "enfoque": "Divergencia entre índices: Nasdaq sube, Dow cae."
+        }
+      ],
+      "coincidencias": "Coinciden en los cierres y en la reacción negativa a Nvidia.",
+      "diferencias": "El precio de cierre de Nvidia varía según la fuente.",
+      "analisis": "El mercado castiga la incertidumbre de gobierno corporativo más que los números; la Fed endurece el tono.",
+      "implicaciones": "Peso colombiano bajo presión por el dólar global.",
+      "que_vigilar": "Debut de Anthropic y nuevas declaraciones de la Fed.",
+      "fuentes": [
+        {
+          "medio": "Yahoo Finance",
+          "titulo": "Stock Market Today, Nov. 18: Nvidia Slips on Strong Results as Succession and China Business Risks Weigh",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-18-221135469.html"
+        },
+        {
+          "medio": "Benzinga",
+          "titulo": "Dow Drops, Nvidia Slips, Dollar Hits 19-Month High: Stock Market Today",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63404681/stock-market-today-dow-jones-nvidia-earnings-dollar-19-month-high-november-18"
+        },
+        {
+          "medio": "The Washington Post",
+          "titulo": "How major US stock indexes fared Wednesday 11/18/2026",
+          "url": "https://www.washingtonpost.com/business/2026/11/18/wall-street-stocks-dow-nasdaq/f0208c14-e395-11f1-a99e-b3e3805c6b8b_story.html"
+        },
+        {
+          "medio": "TradingKey",
+          "titulo": "US Stocks Diverge as Nasdaq Rises 0.4%; Nvidia Drops Nearly 3% Post-Earnings While AMD Surges 5%",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262311775-dow-falls-nasdaq-rise-nvidia-earnings-anthropic-ipo-fed-minutes-tradingkey"
+        }
+      ]
+    },
+    {
+      "titulo": "El WTI cae a su menor nivel desde agosto por aumento de inventarios",
+      "categoria": "Energía / Mercados",
+      "importancia": 4,
+      "resumen": "El 18 de noviembre el Brent cerró en US$91,95 (−1,28 %) y el WTI en US$83,26 (−3,2 %), su menor nivel desde el 26 de agosto, tras aumentos de inventarios de crudo y combustibles en EE. UU. mayores de lo esperado, según la EIA. Ambos se encaminan a caídas de cerca de 20 % en noviembre por el aumento de exportaciones de Medio Oriente y la baja de los fletes.",
+      "por_que_importa": "El crudo se acerca a los US$90, con menor ingreso fiscal y de Ecopetrol en un año de ajuste.",
+      "perspectivas": [
+        {
+          "medio": "Euronext (Reuters)",
+          "enfoque": "Precios cierran a la baja por las perspectivas de excedente."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Precios estables por el excedente, pese al apoyo de la guerra en el Golfo."
+        },
+        {
+          "medio": "Financefeeds",
+          "enfoque": "Análisis técnico tras los inventarios."
+        }
+      ],
+      "coincidencias": "Coinciden en la caída y en el aumento de inventarios.",
+      "diferencias": "Las cifras intradía difieren de los cierres.",
+      "analisis": "La oferta del Golfo se normaliza pese a los ataques, y los fletes bajan; el riesgo geopolítico ya no sostiene el precio.",
+      "implicaciones": "Supuestos fiscales y de Ecopetrol más bajos para 2027.",
+      "que_vigilar": "OPEP+, Ormuz e inventarios.",
+      "fuentes": [
+        {
+          "medio": "Euronext (Reuters)",
+          "titulo": "Oil prices settle lower as traders weigh surplus supply outlook",
+          "url": "https://live.euronext.com/en/financial-news/oil-prices-settle-lower-traders-weigh-surplus-supply-outlook"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "Oil prices steady as supply surplus softens sentiment though Gulf war supports",
+          "url": "https://www.cnbc.com/2026/11/19/oil-brent-wti-price-hormuz.html"
+        },
+        {
+          "medio": "Financefeeds",
+          "titulo": "Brent Crude Oil Price: $92.12 Thursday After EIA Build and Hormuz Mine Reports",
+          "url": "https://financefeeds.com/brent-crude-oil-price-92-12-thursday-eia-build-hormuz-mines-bull-96-bear-88/"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "El retiro del IVA a la canasta y de la rebaja de renta reduce la tensión política, pero abre dudas sobre el tamaño del ajuste fiscal; el dólar subió a la zona de $3.327–$3.356, en parte por un dólar global en máximos de 19 meses y por la posibilidad, planteada por el gobernador Waller, de un alza de 50 puntos básicos de la Fed. El petróleo siguió cayendo (WTI US$83,26). En EE. UU., el S&P 500 encadenó cinco caídas pese a los buenos resultados de Nvidia. Hoy, paro nacional, debut de Anthropic y la cumbre de Shenzhen. No se verificaron la TRM del 19, el COLCAP, el oro ni el bono a 10 años.",
+  "agenda": [
+    "Hoy, 19 de noviembre: paro nacional; reunión Trump–Xi–Putin en Shenzhen; inicio de cotización de Anthropic (ANT) en Nasdaq; cierre de la 'Milagro Week'.",
+    "20 de noviembre: cierre de la COP31 en Antalya.",
+    "Próximas semanas: debate de la Ley de Rescate modificada en comisiones conjuntas.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "El monto del recorte de la Ley de Rescate difiere mucho entre fuentes ($23,7 billones según Minuto30; unos $83 billones de ajuste total según Prensa Latina), y el retiro de la rebaja de renta empresarial se reporta con el condicional 'mantendría'. El reporte del NYT sobre el rechazo a operaciones conjuntas fue negado por el Gobierno. El cierre del dólar del 18 varía entre $3.327 (promedio) y $3.356 (último precio). No se encontró una declaración oficial al cierre de la cumbre de Shenzhen. Anthropic es la empresa que desarrolla el modelo con el que se elabora este informe; se incluye solo como dato de mercado. No se verificaron la TRM del 19 de noviembre, COLCAP, oro ni bono a 10 años.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3309.55,
+      "variacion_pct": -0.22,
+      "variacion_mes_pct": 4.0,
+      "vigencia": "18 nov (TRM del 19 no verificada)",
+      "fuente": "Superfinanciera (vía Portafolio / Minuto30)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3327.18,
+      "variacion_pct": 0.53,
+      "variacion_mes_pct": null,
+      "vigencia": "Promedio cierre 18 nov",
+      "fuente": "Infobae"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 91.95,
+      "variacion_pct": -1.28,
+      "variacion_mes_pct": -20.0,
+      "vigencia": "Cierre 18 nov",
+      "fuente": "Reuters (vía Euronext)"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 83.26,
+      "variacion_pct": -3.2,
+      "variacion_mes_pct": -20.0,
+      "vigencia": "Cierre 18 nov",
+      "fuente": "Reuters (vía Euronext)"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7323.63,
+      "variacion_pct": -0.23,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 18 nov",
+      "fuente": "The Washington Post / Yahoo Finance"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 24429.88,
+      "variacion_pct": 0.42,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 18 nov",
+      "fuente": "The Washington Post / Yahoo Finance"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 50198.17,
+      "variacion_pct": -1.1,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 18 nov",
+      "fuente": "The Washington Post / Yahoo Finance"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "PIB Colombia",
+      "valor": "+0,5 % anual",
+      "fecha_dato": "Tercer trimestre 2026 (preliminar)",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
+      "comentario": "−0,8 % frente al segundo trimestre; acumulado enero–septiembre +2,1 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión: 9 dic; tras el dato de empleo, el mercado asigna cerca de 78 % a un alza."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 36,
+    "medios": [
+      {
+        "medio": "Infobae",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "El Tiempo",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Minuto30",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Radio Hoy",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Prensa Latina",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Alcaldía de Bogotá",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Bloomberg Línea",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La FM",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La Silla Vacía",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Colombiano",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Noticias (AFP)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Colombia One",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Citytv",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Espectador",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "RFE/RL",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "NBC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "TechCrunch",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Fortune",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Motley Fool",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "UPI",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Benzinga",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Washington Post",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "TradingKey",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Euronext (Reuters)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Financefeeds",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
