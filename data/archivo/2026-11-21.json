@@ -1,0 +1,739 @@
+{
+  "fecha": "2026-11-21",
+  "generado": "2026-11-21T10:39:54.126021Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "Wall Street entra en corrección y el Nasdaq se desploma 5,3 % por la venta de IA; el dólar en Colombia roza los $3.500 y la TRM salta a $3.415.",
+  "lo_esencial": [
+    "S&P 500 (−3,7 %) y Dow (−1,9 %) entraron en corrección; el Nasdaq (−5,3 %) borró su ganancia del año y Nvidia cayó cerca de 14 %.",
+    "El dólar cerró cerca de $3.508 en Colombia (El Espectador); la TRM del 20 fue $3.415,10, +3,43 % en la semana.",
+    "Ley de Rescate: agenda intensa del 23 de noviembre al 2 de diciembre; los retiros de IVA aún no están en el texto.",
+    "Trump aplaza a después de enero cualquier decisión sobre nuevos ataques a Irán; siguen los incidentes en Ormuz.",
+    "El petróleo cerró su tercera semana de caídas (Brent US$92,57); la OPEP+ se reúne el 29 de noviembre.",
+    "La COP31 se extendió sin acuerdo; el borrador eliminó la transición fuera de los combustibles fósiles."
+  ],
+  "colombia": [
+    {
+      "titulo": "El dólar roza los $3.500 y la TRM salta a $3.415,10, su mayor nivel en meses",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "La TRM del viernes 20 quedó en $3.415,10, certificada por la Superfinanciera, según Portafolio y Minuto30. Es $88 más que la del jueves y $113,19 más (+3,43 %) que hace una semana. En el mercado, El Espectador y El Comercio reportan un cierre de $3.508, $68 más que el jueves; Portafolio dice que la divisa tocó un techo de $3.500. Según El Colombiano, es la cotización más alta desde junio, impulsada por la incertidumbre fiscal. Colombia.com reporta una TRM de $3.461,92 para el fin de semana.",
+      "por_que_importa": "Es la mayor depreciación semanal del peso en meses. Encarece importaciones, deuda en dólares e insumos, y complica el panorama de inflación antes de la decisión del BanRep del 18 de diciembre.",
+      "perspectivas": [
+        {
+          "medio": "Portafolio",
+          "enfoque": "Destaca el techo de $3.500 y el cierre semanal."
+        },
+        {
+          "medio": "Minuto30",
+          "enfoque": "Compara con la TRM de hace una semana."
+        },
+        {
+          "medio": "El Espectador",
+          "enfoque": "Reporta el cierre de mercado y la variación diaria."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Atribuye el alza a la incertidumbre fiscal, además del entorno global."
+        }
+      ],
+      "coincidencias": "Fuerte alza del dólar en la semana, con un viernes de aversión global al riesgo.",
+      "diferencias": "El cierre de mercado del viernes varía entre medios ($3.460 intradía en Semana, $3.483 en un indicador de Portafolio y $3.508 en El Espectador). Unos ponen el peso en la Fed y la caída de Wall Street; otros, en el riesgo fiscal local.",
+      "analisis": "Coinciden factores externos (Fed más dura, venta masiva de acciones) e internos (Ley de Rescate recortada, PIB débil). Con el petróleo a la baja, el peso pierde un soporte habitual.",
+      "implicaciones": "Importadores y empresas con deuda en dólares deben revisar coberturas. Los precios de bienes importados pueden subir en diciembre.",
+      "que_vigilar": "Apertura del lunes 23, mensajes del BanRep y del Ministerio de Hacienda, y evolución de Wall Street.",
+      "fuentes": [
+        {
+          "medio": "Portafolio",
+          "titulo": "Dólar en Colombia se disparó y tocó un techo de $3.500 este viernes",
+          "url": "https://www.portafolio.co/economia/finanzas/el-dolar-se-disparo-en-colombia-la-divisa-subio-casi-90-y-supero-los-3-415-este-viernes-506742"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "Dólar hoy en Colombia: la TRM se disparó a su mayor nivel en meses, así quedó este viernes 20 de noviembre",
+          "url": "https://www.minuto30.com/dolar-hoy-en-colombia-la-trm-se-disparo-a-su-mayor-nivel-en-meses-asi-quedo-este-viernes-20-de-noviembre/1732536/"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "Precio del dólar hoy 20 de noviembre en Colombia",
+          "url": "https://www.elespectador.com/economia/finanzas-personales/precio-del-dolar-hoy-20-de-noviembre-en-colombia-noticias-hoy/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "El dólar se dispara; la divisa cierra 45 pesos más cara la jornada del viernes",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/el-dolar-se-dispara-la-divisa-cierra-45-pesos-mas-cara-la-jornada-del-viernes/202608/"
+        },
+        {
+          "medio": "Colombia.com",
+          "titulo": "Precio del dólar hoy en Colombia: cotización de este sábado 21 de noviembre de 2026",
+          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-sabado-21-de-noviembre-de-2026-613577"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: Congreso fija agenda intensa del 23 de noviembre al 2 de diciembre; los cambios aún no están en el texto",
+      "categoria": "Política fiscal",
+      "importancia": 5,
+      "resumen": "Según Diario La Libertad, el cronograma prevé intensa actividad legislativa entre el 23 de noviembre y el 2 de diciembre, con la votación de primer debate el 1 o 2 de diciembre. IFM Noticias reporta mesas técnicas entre Gobierno y comisiones económicas para revisar la reforma artículo por artículo. Vanguardia aclara que el retiro del IVA a la canasta, agroinsumos y prepagada son anuncios del Gobierno que aún no se han incorporado al texto. Siguen en discusión los cambios en aportes a salud de los trabajadores y los impuestos a bebidas azucaradas y alcohólicas. Según un resumen de Colombia Hoy, La Silla Vacía reveló que los cambios propuestos reducirían la ley casi a la mitad de su alcance original.",
+      "por_que_importa": "Una ley más pequeña recauda menos. Eso afecta el déficit, la percepción de riesgo y, como muestra el dólar, los mercados.",
+      "perspectivas": [
+        {
+          "medio": "Vanguardia",
+          "enfoque": "Explica qué cambió y precisa que son anuncios, no texto aprobado."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Hace las cuentas de lo que sale, se mantiene y sigue en discusión."
+        },
+        {
+          "medio": "Diario La Libertad",
+          "enfoque": "Se centra en el calendario acelerado."
+        },
+        {
+          "medio": "Colombia Hoy",
+          "enfoque": "Resume el reporte de La Silla Vacía sobre el recorte del alcance."
+        }
+      ],
+      "coincidencias": "El calendario es apretado y la ley ya es menor que la radicada.",
+      "diferencias": "El tamaño exacto del recorte solo aparece en una referencia secundaria a La Silla Vacía y no se pudo verificar en la fuente original.",
+      "analisis": "El Gobierno cede para destrabar el trámite. Sus críticos en el sector fiscal advierten que se debilita el ajuste; la oposición y gremios afectados celebran los retiros. El reto es cómo cubrir el faltante sin vender activos, como prometió el vicepresidente Restrepo.",
+      "implicaciones": "Sectores de bebidas, alcohol y empleadores deben seguir los artículos aún en juego.",
+      "que_vigilar": "Mesas técnicas desde el lunes 23, texto de ponencia y votación del 1–2 de diciembre.",
+      "fuentes": [
+        {
+          "medio": "Vanguardia",
+          "titulo": "¿Qué ha cambiado de la Ley de Rescate Económico? Nuevos impuestos y medidas que se reversan",
+          "url": "https://www.vanguardia.com/economia/nacional/2026/11/20/que-ha-cambiado-de-la-ley-de-rescate-economico-nuevos-impuestos-y-medidas-que-se-reversan/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Así van las cuentas de la Ley de Rescate: lo que sale, lo que se mantiene y lo que sigue en discusión",
+          "url": "https://www.semana.com/politica/articulo/asi-van-las-cuentas-de-la-ley-de-rescate-lo-que-sale-lo-que-se-mantiene-y-lo-que-sigue-en-discusion/202605/"
+        },
+        {
+          "medio": "Diario La Libertad",
+          "titulo": "Congreso acelera trámite de la Ley de Rescate Fiscal y fija fechas clave para su votación",
+          "url": "https://diariolalibertad.com/2026/11/20/congreso-acelera-tramite-de-la-ley-de-rescate-fiscal-y-fija-fechas-clave-para-su-votacion/"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Ley de Rescate: Gobierno y comisiones económicas del Congreso pactan mesas técnicas",
+          "url": "https://ifmnoticias.com/gobierno/ley-de-rescate-gobierno-y-comisiones-economicas-del-congreso-pactan-mesas-tecnic/"
+        },
+        {
+          "medio": "Colombia Hoy",
+          "titulo": "Colombia Hoy — viernes, 20 de noviembre de 2026",
+          "url": "https://colombiahoy.substack.com/p/colombia-hoy-viernes-20-de-noviembre"
+        }
+      ]
+    },
+    {
+      "titulo": "Capturan en Cali a alias 'Blue', señalada de actos violentos en protestas, tras el paro nacional",
+      "categoria": "Orden público",
+      "importancia": 3,
+      "resumen": "La Policía capturó en Cali a una mujer conocida como alias 'Blue' durante la movilización del 19. El presidente De la Espriella confirmó la captura. Según Infobae, tenía orden vigente por terrorismo, violencia contra servidor público y otros delitos. El presidente afirmó que habría participado durante ocho años en hechos violentos en manifestaciones. Algunos reportes la vinculan con la llamada Primera Línea y con reclutamiento en universidades; esos señalamientos no aparecen en todas las fuentes. Será presentada ante un juez de garantías y mantiene la presunción de inocencia.",
+      "por_que_importa": "Es la primera captura de alto perfil tras el paro y muestra el enfoque de seguridad del Gobierno frente a la protesta.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Detalla los delitos por los que era buscada."
+        },
+        {
+          "medio": "El Heraldo",
+          "enfoque": "Lo presenta como una investigación por violencia en manifestaciones."
+        },
+        {
+          "medio": "Vanguardia",
+          "enfoque": "Recoge la versión presidencial de ocho años de actos violentos."
+        }
+      ],
+      "coincidencias": "Captura confirmada por el Gobierno, con orden judicial previa.",
+      "diferencias": "Varían los detalles de las acusaciones: algunos medios añaden reclutamiento o compra de explosivos; otros mencionan solo grafitis y violencia en protestas.",
+      "analisis": "Para el Gobierno, es prueba de que se puede separar la protesta pacífica de la violenta. Organizaciones críticas suelen advertir sobre el riesgo de estigmatizar la protesta; el caso dependerá de lo que pruebe la Fiscalía.",
+      "implicaciones": "Puede influir en el tono de futuras movilizaciones contra la Ley de Rescate.",
+      "que_vigilar": "Audiencia de legalización e imputación.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "De la Espriella confirmó la captura de alias Blue, señalada de participar en actos violentos en protestas",
+          "url": "https://www.infobae.com/colombia/2026/11/20/de-la-espriella-confirmo-la-captura-de-alias-blue-senalada-de-participar-en-actos-violentos-en-protestas-la-buscaban-por-terrorismo-y-otros-delitos/"
+        },
+        {
+          "medio": "El Heraldo",
+          "titulo": "Capturan en Cali a alias Blue, investigada por presuntos actos de violencia durante manifestaciones públicas",
+          "url": "https://elheraldo.co/colombia/2026/11/20/capturan-en-cali-a-alias-blue-investigada-por-presuntos-actos-de-violencia-durante-manifestaciones-publicas"
+        },
+        {
+          "medio": "Vanguardia",
+          "titulo": "Capturada alias 'Blue', señalada de participar durante ocho años en actos violentos en protestas",
+          "url": "https://www.vanguardia.com/colombia/2026/11/20/capturada-alias-blue-senalada-de-participar-durante-ocho-anos-en-actos-violentos-en-protestas/"
+        }
+      ]
+    },
+    {
+      "titulo": "Operaciones conjuntas con EE. UU.: Hegseth y De la Espriella desmienten al New York Times; el tema irá al Senado",
+      "categoria": "Gobierno y seguridad",
+      "importancia": 3,
+      "resumen": "El canciller Omar Bula anunció que el Gobierno llevará al Congreso una propuesta para permitir operaciones conjuntas con fuerzas de EE. UU. Según el resumen de Colombia Hoy, De la Espriella negó en X haber rechazado una propuesta de Trump, y el secretario Pete Hegseth calificó de 'absolutamente falso' un reporte del New York Times sobre el tema. Según El Colombiano, citado en ese resumen, fuentes del Ministerio del Interior dijeron que el asunto no estaba en la agenda legislativa. El Espectador reporta debate interno en el Gobierno y cautela en el Congreso.",
+      "por_que_importa": "Define el alcance de la cooperación militar con EE. UU. y abre un nuevo debate en un Congreso ya ocupado con la Ley de Rescate.",
+      "perspectivas": [
+        {
+          "medio": "El Espectador",
+          "enfoque": "Subraya las dudas internas y la cautela legislativa."
+        },
+        {
+          "medio": "Colombia Hoy",
+          "enfoque": "Reúne las desmentidas de Hegseth y De la Espriella."
+        },
+        {
+          "medio": "La Jornada (México)",
+          "enfoque": "Lo encuadra como recibir tropas extranjeras."
+        }
+      ],
+      "coincidencias": "La decisión corresponde al Senado y aún no hay solicitud radicada.",
+      "diferencias": "El New York Times sostiene que la idea se habría frenado; el Gobierno colombiano y Hegseth lo niegan.",
+      "analisis": "Sus defensores lo ven como apoyo contra grupos armados; sus críticos, como un tema de soberanía. La contradicción entre versiones muestra que el diseño aún no está definido.",
+      "implicaciones": "Para empresas en zonas de conflicto, cualquier cambio en operaciones de seguridad es relevante; por ahora no hay cambios concretos.",
+      "que_vigilar": "Radicación de la solicitud y concepto del Consejo de Estado.",
+      "fuentes": [
+        {
+          "medio": "Colombia Hoy",
+          "titulo": "Colombia Hoy — viernes, 20 de noviembre de 2026",
+          "url": "https://colombiahoy.substack.com/p/colombia-hoy-viernes-20-de-noviembre"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "Gobierno entró en debate interno por operativos con tropas gringas: hay cautela en Congreso",
+          "url": "https://elespectador.com/politica/gobierno-de-la-espriella-entro-en-debate-interno-por-operativos-en-colombia-con-tropas-gringas-hay-cautela-en-congreso"
+        },
+        {
+          "medio": "La Jornada (México)",
+          "titulo": "Propondrá gobierno de Colombia al Congreso recibir a tropas extranjeras",
+          "url": "https://www.jornada.com.mx/2026/11/19/mundo/021n2mun?partner=rss"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Desplome en Wall Street: el S&P 500 y el Dow entran en corrección y el Nasdaq cae 5,3 %; Nvidia se hunde cerca de 14 %",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "El viernes 20, el S&P 500 cayó 3,7 % a 6.910,39, el Dow 1,9 % a 48.147,33 y el Nasdaq 5,3 % a 22.617,73, según AP. El S&P 500 y el Dow quedaron en corrección (más de 10 % bajo su récord) y el Nasdaq borró su ganancia de 2026. Nvidia cayó cerca de 14 %, su peor día en unos 18 meses, pese a resultados fuertes. Pesan la renuncia de Jensen Huang como CEO, el endurecimiento de controles de exportación a Asia y dudas sobre la rentabilidad del gasto en IA. Anthropic cayó entre 8,5 % y 10 % en su primera sesión completa, según el medio, aunque sigue sobre su precio de salida de US$83. Anthropic es la empresa que desarrolla el modelo con el que se elabora este informe; se incluye solo como dato de mercado.",
+      "por_que_importa": "Es la peor semana de Wall Street en mucho tiempo. La aversión al riesgo golpea monedas emergentes como el peso colombiano.",
+      "perspectivas": [
+        {
+          "medio": "Axios",
+          "enfoque": "Enfoca que el debut de Anthropic no frenó la venta de IA."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Destaca las correcciones y el Nasdaq en negativo en el año."
+        },
+        {
+          "medio": "Quartz",
+          "enfoque": "Se centra en Anthropic y los chips (Nvidia, AMD)."
+        },
+        {
+          "medio": "Breitbart",
+          "enfoque": "Describe la caída como una venta de IA que arrastra al mercado."
+        }
+      ],
+      "coincidencias": "La venta la lideran la IA y los chips; el S&P 500 y el Dow están en corrección.",
+      "diferencias": "Las caídas exactas de Anthropic varían entre fuentes (−8,5 % a −10 %). Los análisis difieren en el peso de cada causa: escándalo de Nvidia, controles de exportación o dudas de fondo sobre la IA.",
+      "analisis": "El mercado pasó de celebrar la IA a exigir retornos. Con la Fed inclinada a subir tasas, hay poco colchón. La volatilidad puede seguir hasta la decisión del 9 de diciembre.",
+      "implicaciones": "Empresas colombianas con planes de emisión o inversión en el exterior pueden enfrentar condiciones más duras. Portafolios con exposición a tecnología de EE. UU. sufren.",
+      "que_vigilar": "Apertura del lunes, mensajes de la Fed y si el Nasdaq-100 entra en mercado bajista.",
+      "fuentes": [
+        {
+          "medio": "AP (vía Yakima Herald)",
+          "titulo": "How major US stock indexes fared Friday 11/20/2026",
+          "url": "https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/article_963ce6d2-85a3-5fd6-981d-e60b72a58fbb.html"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+          "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+        },
+        {
+          "medio": "Axios",
+          "titulo": "Nvidia shares plunge as Anthropic can't stop the AI selloff",
+          "url": "https://www.axios.com/2026/11/20/anthropic-ipo-nvidia-ai-tech-selloff"
+        },
+        {
+          "medio": "Quartz",
+          "titulo": "Anthropic stock slips after record IPO as AI selloff drags down Nvidia and AMD",
+          "url": "https://qz.com/anthropic-stock-slips-record-ipo-ai-selloff-nvidia-amd-112026"
+        },
+        {
+          "medio": "Breitbart",
+          "titulo": "Stocks Plunge as AI Selloff Pushes S&P 500 and Dow Into Correction",
+          "url": "https://www.breitbart.com/economy/2026/11/20/stocks-plunge-as-ai-selloff-pushes-sp-500-and-dow-into-correction/"
+        }
+      ]
+    },
+    {
+      "titulo": "Trump aplaza a 2027 una decisión sobre nuevos ataques a Irán; sigue la tensión en Ormuz",
+      "categoria": "Geopolítica",
+      "importancia": 4,
+      "resumen": "Trump dijo que discutirá nuevos ataques contra Irán 'después del comienzo del año', según CBS y HNGN. En la Casa Blanca afirmó que EE. UU. tiene 'control total' de Ormuz, lo que la Guardia Revolucionaria rebatió. Según CBS, Bloomberg reportó que nuevos ataques son cada vez más probables y el New York Times que Netanyahu presiona a Trump. Irán condiciona hablar de su programa nuclear al levantamiento del bloqueo naval y otras seis condiciones, según HNGN. En el Senado, los demócratas impulsan un plan para cortar fondos a nuevas operaciones ofensivas, según CNN. Un tanquero ardió en Ormuz el viernes.",
+      "por_que_importa": "El aplazamiento reduce el riesgo inmediato de escalada, pero mantiene la incertidumbre sobre el petróleo para el primer trimestre de 2027.",
+      "perspectivas": [
+        {
+          "medio": "CBS News",
+          "enfoque": "Recoge presiones de Israel y reportes de ataques probables."
+        },
+        {
+          "medio": "CNN",
+          "enfoque": "Se centra en la rueda de prensa de Trump y el debate en el Senado."
+        },
+        {
+          "medio": "HNGN",
+          "enfoque": "Contrasta el aplazamiento con los ataques a tanqueros."
+        }
+      ],
+      "coincidencias": "No hay decisión antes de enero; los incidentes en Ormuz continúan.",
+      "diferencias": "Unos medios enfatizan la presión para atacar; otros, la pausa y las condiciones iraníes.",
+      "analisis": "La pausa da tiempo a la diplomacia, pero no resuelve el bloqueo. El mercado petrolero parece descontar que el flujo por Ormuz se mantiene.",
+      "implicaciones": "El riesgo de alza del petróleo se traslada a 2027; Colombia debe planear con escenarios amplios de precio.",
+      "que_vigilar": "Nuevos incidentes en Ormuz y votación en el Senado de EE. UU.",
+      "fuentes": [
+        {
+          "medio": "CBS News",
+          "titulo": "Trump says Tehran may be working on chemical or biological weapons as tension mounts",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+        },
+        {
+          "medio": "CNN",
+          "titulo": "Trump defends relationship with Putin",
+          "url": "https://edition.cnn.com/2026/11/20/politics/live-news/trump-white-house-press-conference"
+        },
+        {
+          "medio": "HNGN",
+          "titulo": "Trump Says Iran Decision Can Wait Until 2027 as Tanker Burns in Hormuz",
+          "url": "https://www.hngn.com/articles/273908/20261121/trump-says-iran-decision-can-wait-until-2027-tanker-burns-hormuz.htm"
+        }
+      ]
+    },
+    {
+      "titulo": "El petróleo sube el viernes pero cierra su tercera semana de caídas; la OPEP+ decide el 29 de noviembre",
+      "categoria": "Energía",
+      "importancia": 4,
+      "resumen": "El Brent cerró el viernes en US$92,57 (+0,64 %) y el WTI en US$83,98 (+0,93 %), según EnergyNow y QNA. En la semana, el Brent cayó 3,41 % y el WTI de diciembre 5,17 %. Según CNBC, los envíos por Ormuz volvieron a niveles cercanos a antes de la guerra, lo que alimenta la expectativa de superávit. Los ataques hutíes contra Riad y los incidentes con tanqueros sostuvieron el precio el viernes. La OPEP+ se reúne el 29 de noviembre para definir la producción de 2027.",
+      "por_que_importa": "El crudo es la principal exportación de Colombia y una fuente clave de ingresos de Ecopetrol y de la Nación.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Explica la caída semanal por la recuperación de exportaciones del Golfo."
+        },
+        {
+          "medio": "EnergyNow",
+          "enfoque": "Destaca el rebote del viernes por tensiones."
+        },
+        {
+          "medio": "QNA (Catar)",
+          "enfoque": "Reporte neutro de cierre, desde un país productor."
+        }
+      ],
+      "coincidencias": "Tercera caída semanal seguida por expectativa de oferta abundante.",
+      "diferencias": "Énfasis distinto en el riesgo de oferta frente al exceso de producción.",
+      "analisis": "Las tensiones ya no bastan para subir el precio de forma sostenida. La OPEP+ es el próximo catalizador.",
+      "implicaciones": "Un Brent cerca de US$90 resta ingresos frente a octubre; combinado con un dólar caro, mejora algo los ingresos en pesos pero no compensa la caída en dólares.",
+      "que_vigilar": "Reunión de la OPEP+ del 29 de noviembre.",
+      "fuentes": [
+        {
+          "medio": "EnergyNow",
+          "titulo": "Oil Prices Rebound Friday on Middle East Tensions but Fall for Third Straight Week",
+          "url": "https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "Oil prices set for third straight weekly decline on Middle East export flows",
+          "url": "https://www.cnbc.com/2026/11/20/oil-wti-brent-hormuz.html"
+        },
+        {
+          "medio": "QNA",
+          "titulo": "Oil Prices End Largely Unchanged as Brent Edges Higher and US Crude Slips",
+          "url": "https://qna.org.qa/en/news/news-details?id=oil-prices-end-largely-unchanged-as-brent-edges-higher-and-us-crude-slips&date=20%2F11%2F2026"
+        }
+      ]
+    },
+    {
+      "titulo": "La COP31 se extiende sin acuerdo; el borrador elimina la transición fuera de los combustibles fósiles",
+      "categoria": "Clima",
+      "importancia": 3,
+      "resumen": "Las negociaciones en Antalya se extendieron al 21 de noviembre sin acuerdo sobre financiación, recortes de emisiones, adaptación y transición justa, según Hürriyet Daily News. El borrador revisado, llamado Declaración de Antalya, eliminó las referencias a la transición fuera de los combustibles fósiles y la meta de US$120.000 millones para adaptación, según reportes. Países de Europa, África, América Latina y el Pacífico lo rechazaron y pidieron más ambición, según la ONU. Turquía reportó acuerdos e inversiones por más de US$26.000 millones durante la conferencia.",
+      "por_que_importa": "Un acuerdo sin mención a combustibles fósiles reduce la presión regulatoria inmediata sobre productores como Colombia, pero también la financiación para adaptación.",
+      "perspectivas": [
+        {
+          "medio": "Noticias ONU",
+          "enfoque": "Destaca la presión de países por un acuerdo más fuerte."
+        },
+        {
+          "medio": "Hürriyet Daily News",
+          "enfoque": "Mirada del país anfitrión: extensión de las negociaciones."
+        },
+        {
+          "medio": "US News (Reuters)",
+          "enfoque": "Subraya que Turquía obtuvo acuerdos mientras la diplomacia climática se estanca."
+        }
+      ],
+      "coincidencias": "No hay acuerdo final y el borrador es más débil que versiones previas.",
+      "diferencias": "La ONU enfatiza la demanda de ambición; otros medios, los logros económicos del anfitrión.",
+      "analisis": "El texto refleja la división entre productores y países vulnerables. Su resultado final aún no se conoce.",
+      "implicaciones": "Para el sector energético colombiano, menor presión internacional a corto plazo; para el agro y la infraestructura, menos fondos de adaptación.",
+      "que_vigilar": "Texto final y si se recupera alguna referencia a fósiles.",
+      "fuentes": [
+        {
+          "medio": "Noticias ONU",
+          "titulo": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+          "url": "https://news.un.org/en/story/2026/11/1168845"
+        },
+        {
+          "medio": "Hürriyet Daily News",
+          "titulo": "COP31 talks extended as countries seek final deal",
+          "url": "https://www.hurriyetdailynews.com/cop31-concludes-in-antalya-after-two-weeks-of-climate-talks-229651"
+        },
+        {
+          "medio": "US News (Reuters)",
+          "titulo": "COP31 Delivers Deals for Host Turkey as Climate Diplomacy Stalls",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-20/cop31-delivers-deals-for-host-turkey-as-climate-diplomacy-stalls"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "Fue la peor semana en mucho tiempo para los activos de riesgo. La venta de acciones de IA llevó al S&P 500 y al Dow a corrección. El dólar se fortaleció y el peso colombiano tuvo su peor semana en meses, con la TRM subiendo más de $110. El petróleo rebotó el viernes pero cayó por tercera semana. Para Colombia, el combo de dólar caro, crudo más barato y debate fiscal incierto eleva el riesgo de inflación importada y reduce el margen del BanRep.",
+  "agenda": [
+    "Lunes 23 de noviembre: inicio de mesas técnicas y agenda intensa de la Ley de Rescate en el Congreso.",
+    "29 de noviembre: reunión de la OPEP+ sobre producción de 2027.",
+    "1–2 de diciembre: votación prevista de la Ley de Rescate en comisiones económicas conjuntas.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Edición de sábado: los mercados corresponden al cierre del viernes 20. El cierre de mercado del dólar difiere entre medios ($3.460 intradía, $3.483 y $3.508); se usa $3.508 de El Espectador y El Comercio, sin variación porcentual. Colombia.com reporta una TRM de $3.461,92 para el fin de semana, dato de una sola fuente que no se incluye en el indicador. El recorte de 'casi la mitad' de la Ley de Rescate proviene de un resumen secundario que cita a La Silla Vacía; no se verificó en la nota original. Las desmentidas de Hegseth y De la Espriella al New York Times se tomaron de un resumen de prensa (Colombia Hoy). La caída de Anthropic varía entre medios (−8,5 % a −10 %). No se confirmó el resultado final de la COP31. No se verificaron COLCAP, oro, café ni el bono a 10 años. La cobertura colombiana del sábado fue escasa en temas de fondo.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3415.1,
+      "variacion_pct": 2.65,
+      "variacion_mes_pct": null,
+      "vigencia": "20 nov",
+      "fuente": "Superfinanciera (vía Portafolio / Minuto30)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3508.0,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov (cifras difieren entre medios)",
+      "fuente": "El Espectador / El Comercio"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 92.57,
+      "variacion_pct": 0.64,
+      "variacion_mes_pct": -20.0,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "EnergyNow / QNA"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 83.98,
+      "variacion_pct": 0.93,
+      "variacion_mes_pct": -20.0,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "EnergyNow / QNA"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 6910.39,
+      "variacion_pct": -3.7,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "AP"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 22617.73,
+      "variacion_pct": -5.28,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "AP"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 48147.33,
+      "variacion_pct": -1.93,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "AP"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "PIB Colombia",
+      "valor": "+0,5 % anual",
+      "fecha_dato": "Tercer trimestre 2026 (preliminar)",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
+      "comentario": "−0,8 % frente al segundo trimestre; acumulado enero–septiembre +2,1 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión el 9 de diciembre. Las minutas de octubre y el gobernador Waller apuntan a una posible alza; las probabilidades de mercado citadas varían según la fuente."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 30,
+    "medios": [
+      {
+        "medio": "El Espectador",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Vanguardia",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Colombia Hoy",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Minuto30",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Colombia.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario La Libertad",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "IFM Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Infobae",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Heraldo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La Jornada (México)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "AP (vía Yakima Herald)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Axios",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Quartz",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Breitbart",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CBS News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "HNGN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "EnergyNow",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "QNA",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Noticias ONU",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Hürriyet Daily News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "US News (Reuters)",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
