@@ -1,0 +1,714 @@
+{
+  "fecha": "2026-11-22",
+  "generado": "2026-11-22T10:40:49.752327Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "Tras una semana de corrección en Wall Street y el peor desempeño del peso en meses, arranca la semana clave de la Ley de Rescate; el Gobierno ofrece $1,5 billones a la justicia y estudia un arancel judicial.",
+  "lo_esencial": [
+    "Ley de Rescate: desde el lunes 23 empiezan mesas técnicas; votación de primer debate prevista para el 1–2 de diciembre.",
+    "El Gobierno sumará $1,5 billones al presupuesto 2027 de la Rama Judicial, frente a un faltante de $6,1 billones, y estudia un arancel judicial.",
+    "La Defensoría alerta 'riesgo extremo' en seis municipios del Oriente antioqueño; el gobernador cuestiona la alerta.",
+    "El peso tuvo su peor semana en meses: TRM de $3.415,10, +3,43 % en la semana.",
+    "Wall Street en corrección y VIX en máximos desde abril de 2025; dos gobernadores de la Fed apuntan a más alzas.",
+    "México capturó al 'Chapo Isidro' en un operativo con 11 muertos; la COP31 busca un acuerdo de última hora."
+  ],
+  "colombia": [
+    {
+      "titulo": "Justicia: el Gobierno sumará $1,5 billones al presupuesto 2027 de la Rama y estudia un arancel judicial",
+      "categoria": "Gobierno y justicia",
+      "importancia": 4,
+      "resumen": "El Consejo Superior de la Judicatura advirtió un faltante de $6,1 billones para 2027: pidió unos $17,5 billones y la asignación ronda $11,4 billones. Tras protestas de jueces, magistrados y fiscales ('La toga en pie'), el presidente De la Espriella anunció que buscará incorporar $1,5 billones adicionales, según Portafolio. Infobae reporta que el Gobierno estudia además un arancel judicial, una idea surgida en conversaciones con la Corte Suprema. Según Minuto30, la propuesta no define tarifas ni quién pagaría y no es un cobro aprobado.",
+      "por_que_importa": "Un arancel cambiaría el costo de litigar para empresas y personas. La congestión judicial afecta contratos, cobros y disputas comerciales.",
+      "perspectivas": [
+        {
+          "medio": "Portafolio",
+          "enfoque": "Enfatiza el anuncio de recursos para destrabar la crisis."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Explica el origen del arancel en diálogos con la Corte Suprema."
+        },
+        {
+          "medio": "Minuto30",
+          "enfoque": "Aclara que es solo una propuesta en estudio."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Recoge la protesta de jueces y fiscales contra el recorte y la Ley de Rescate."
+        }
+      ],
+      "coincidencias": "Existe un faltante grande para 2027 y el Gobierno ofrece una adición parcial.",
+      "diferencias": "Las fuentes difieren en si los $1,5 billones son un compromiso firme o un anuncio en estudio, y en cifras menores ($11,4 frente a $11,5 billones).",
+      "analisis": "La adición cubre cerca de una cuarta parte del faltante. El arancel abre un debate sobre acceso a la justicia: sus defensores lo ven como fuente de financiación; sus críticos podrían verlo como barrera. Aún no hay diseño.",
+      "implicaciones": "Las áreas jurídicas deben seguir si el arancel avanza y a qué procesos aplicaría.",
+      "que_vigilar": "Si la adición se incluye en la Ley de Rescate o en otro trámite, y el diseño del arancel.",
+      "fuentes": [
+        {
+          "medio": "Portafolio",
+          "titulo": "Gobierno destraba recursos para la justicia: adicionará $1,5 billones al presupuesto de 2027",
+          "url": "https://portafolio.co/economia/gobierno/gobierno-destraba-recursos-para-la-justicia-adicionara-1-5-billones-al-presupuesto-de-506716"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Gobierno estudia crear arancel judicial y sumar $1,5 billones al presupuesto de la Rama",
+          "url": "https://www.infobae.com/colombia/2026/11/21/gobierno-estudia-crear-arancel-judicial-y-sumar-15-billones-al-presupuesto-de-la-rama/"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "Gobierno estudia un arancel judicial: la propuesta para financiar la justicia aún no es un cobro aprobado",
+          "url": "https://www.minuto30.com/arancel-judicial-propuesta-gobierno-financiar-justicia/1732851/"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "Jueces y fiscales protestan en La Alpujarra contra el tijeretazo presupuestal y la Ley de Rescate Económico",
+          "url": "https://www.elcolombiano.com/medellin/jueces-y-fiscales-protestan-la-alpujarra-ley-de-rescate-fiscal-EB43425450"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: arranca la semana clave en el Congreso; De la Espriella exige a sus ministros resultados en una dura carta",
+      "categoria": "Política fiscal",
+      "importancia": 5,
+      "resumen": "Desde el lunes 23 empiezan mesas técnicas entre Gobierno y comisiones económicas para revisar la reforma artículo por artículo, según IFM Noticias; la votación de primer debate está prevista para el 1 o 2 de diciembre, según Diario La Libertad. Vanguardia precisa que el retiro del IVA a la canasta, agroinsumos y prepagada aún no está en el texto. En una carta a sus ministros, reportada por Infobae, el presidente pidió resultados y coordinación, les exigió romper con los 'poderes tradicionales' y ordenó frenar nuevos impuestos sobre bienes de consumo básico.",
+      "por_que_importa": "Lo que se apruebe define impuestos y gasto para 2027 y la percepción de riesgo, que esta semana ya presionó el dólar.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Destaca el tono duro de la carta presidencial."
+        },
+        {
+          "medio": "Vanguardia",
+          "enfoque": "Precisa qué es anuncio y qué es texto."
+        },
+        {
+          "medio": "Diario La Libertad",
+          "enfoque": "Se centra en el calendario."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Explica el mecanismo de mesas técnicas."
+        }
+      ],
+      "coincidencias": "Semana decisiva y calendario apretado antes del 16 de diciembre.",
+      "diferencias": "Unos medios enfatizan el ajuste del Gobierno al Congreso; otros, el mensaje presidencial de disciplina interna.",
+      "analisis": "La orden de no gravar consumo básico consolida los retiros anunciados. Queda por ver cómo se compensa el menor recaudo.",
+      "implicaciones": "Empresas de bebidas, alcohol y empleadores deben seguir los artículos aún en discusión.",
+      "que_vigilar": "Resultados de las mesas técnicas y radicación de la ponencia.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Con dura carta, Abelardo de la Espriella definió cómo será el desarrollo de su gobierno y le exigió a sus ministros romper con los 'poderes tradicionales'",
+          "url": "https://www.infobae.com/colombia/2026/11/20/con-dura-carta-abelardo-de-la-espriella-definio-como-sera-el-desarrollo-de-su-gobierno-y-le-exigio-a-sus-ministros-romper-con-los-poderes-tradicionales-no-sirve-no-es-aceptable-y-no-cabe/"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Ley de Rescate: Gobierno y comisiones económicas del Congreso pactan mesas técnicas",
+          "url": "https://ifmnoticias.com/gobierno/ley-de-rescate-gobierno-y-comisiones-economicas-del-congreso-pactan-mesas-tecnic/"
+        },
+        {
+          "medio": "Diario La Libertad",
+          "titulo": "Congreso acelera trámite de la Ley de Rescate Fiscal y fija fechas clave para su votación",
+          "url": "https://diariolalibertad.com/2026/11/20/congreso-acelera-tramite-de-la-ley-de-rescate-fiscal-y-fija-fechas-clave-para-su-votacion/"
+        },
+        {
+          "medio": "Vanguardia",
+          "titulo": "¿Qué ha cambiado de la Ley de Rescate Económico? Nuevos impuestos y medidas que se reversan",
+          "url": "https://www.vanguardia.com/economia/nacional/2026/11/20/que-ha-cambiado-de-la-ley-de-rescate-economico-nuevos-impuestos-y-medidas-que-se-reversan/"
+        }
+      ]
+    },
+    {
+      "titulo": "Defensoría alerta 'riesgo extremo' en seis municipios del Oriente antioqueño; el gobernador cuestiona la alerta",
+      "categoria": "Orden público",
+      "importancia": 3,
+      "resumen": "La Defensoría del Pueblo difundió el 19 de noviembre la Alerta Temprana 028 de 2026. Ubica en riesgo a La Unión, El Carmen de Viboral, Abejorral, Sonsón, Argelia y Nariño por la disputa entre el Frente Gener Morales del autodenominado EGC (Clan del Golfo) y la banda El Mesa. Advierte reclutamiento de menores, escuelas de formación armada en zonas rurales y cobro de 'impuestos', y formula 31 recomendaciones. El gobernador de Antioquia, Andrés Felipe Rendón, cuestionó que se hable de escuelas de reclutamiento, según La FM, y el personero de Argelia dijo que la alerta estigmatiza al municipio.",
+      "por_que_importa": "El Oriente antioqueño es zona de aeropuerto, zonas francas, agroindustria y turismo cerca de Medellín.",
+      "perspectivas": [
+        {
+          "medio": "Defensoría del Pueblo",
+          "enfoque": "Fuente oficial: detalla riesgos y recomendaciones."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Habla de 'gobernanza armada' y escuelas sicariales."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Pone el foco en las escuelas de reclutamiento del Clan del Golfo."
+        },
+        {
+          "medio": "La FM",
+          "enfoque": "Recoge el cuestionamiento del gobernador."
+        }
+      ],
+      "coincidencias": "Hay disputa armada en la subregión y riesgo para comunidades.",
+      "diferencias": "Difieren en la gravedad: la Defensoría y varios medios hablan de escuelas de reclutamiento; el gobernador y el personero de Argelia lo ponen en duda.",
+      "analisis": "La alerta presiona a autoridades locales y nacionales. La discrepancia muestra la tensión entre visibilizar riesgos y evitar estigmatizar territorios.",
+      "implicaciones": "Empresas con operación o proveedores en la zona deben revisar protocolos de seguridad y riesgo de extorsión.",
+      "que_vigilar": "Respuesta del Gobierno nacional y de la Fuerza Pública a las 31 recomendaciones.",
+      "fuentes": [
+        {
+          "medio": "Defensoría del Pueblo",
+          "titulo": "Disputa entre grupos armados pone en riesgo a comunidades de seis municipios del Oriente antioqueño",
+          "url": "https://www.defensoria.gov.co/web/guest/w/disputa-entre-grupos-armados-pone-en-riesgo-a-comunidades-de-seis-municipios-del-oriente-antioqueno"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "Defensoría alerta de gobernanza armada de ilegales y escuelas sicariales en el Oriente antioqueño",
+          "url": "https://www.elcolombiano.com/antioquia/alerta-defensoria-pueblo-oriente-antioqueno-clan-golfo-el-mesa-NK42849730"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Defensoría del Pueblo advierte sobre escuelas de reclutamiento del Clan del Golfo en el Oriente antioqueño",
+          "url": "https://www.semana.com/nacion/medellin/articulo/defensoria-del-pueblo-advierte-sobre-escuelas-de-reclutamiento-del-clan-del-golfo-en-el-oriente-antioqueno/202622/"
+        },
+        {
+          "medio": "La FM",
+          "titulo": "Gobernador de Antioquia cuestiona alerta de la Defensoría",
+          "url": "https://www.lafm.com.co/orden-publico/gobernador-rendon-cuestiona-alerta-defensoria-escuelas-reclutamiento-clan-del-golfo-oriente-antioqueno-416568"
+        }
+      ]
+    },
+    {
+      "titulo": "Balance semanal: el peso tuvo su peor semana en meses; la TRM subió más de $110",
+      "categoria": "Mercados",
+      "importancia": 4,
+      "resumen": "La TRM del viernes 20 quedó en $3.415,10, $113,19 (+3,43 %) por encima de la de una semana antes, según Minuto30. En el mercado, el dólar cerró el viernes cerca de $3.508, según El Espectador, y tocó un techo de $3.500, según Portafolio. El Colombiano lo atribuye en parte a la incertidumbre fiscal; otros análisis, a la expectativa de alzas de la Fed y la caída de Wall Street.",
+      "por_que_importa": "El dólar caro encarece importaciones y deuda externa, y puede presionar la inflación de diciembre y enero.",
+      "perspectivas": [
+        {
+          "medio": "Minuto30",
+          "enfoque": "Compara la TRM semana contra semana."
+        },
+        {
+          "medio": "Portafolio",
+          "enfoque": "Destaca el techo de $3.500."
+        },
+        {
+          "medio": "El Espectador",
+          "enfoque": "Reporta el cierre de mercado del viernes."
+        }
+      ],
+      "coincidencias": "Fuerte depreciación del peso en la semana.",
+      "diferencias": "El cierre exacto del viernes varía entre medios; pesan distinto los factores externos e internos.",
+      "analisis": "La combinación de riesgo global y riesgo fiscal local dejó al peso entre las monedas débiles de la semana. El lunes dependerá de Wall Street.",
+      "implicaciones": "Revisar coberturas cambiarias y precios de importados para la temporada de fin de año.",
+      "que_vigilar": "Apertura del lunes 23 y TRM de inicio de semana.",
+      "fuentes": [
+        {
+          "medio": "Minuto30",
+          "titulo": "Dólar hoy en Colombia: la TRM se disparó a su mayor nivel en meses, así quedó este viernes 20 de noviembre",
+          "url": "https://www.minuto30.com/dolar-hoy-en-colombia-la-trm-se-disparo-a-su-mayor-nivel-en-meses-asi-quedo-este-viernes-20-de-noviembre/1732536/"
+        },
+        {
+          "medio": "Portafolio",
+          "titulo": "Dólar en Colombia se disparó y tocó un techo de $3.500 este viernes",
+          "url": "https://www.portafolio.co/economia/finanzas/el-dolar-se-disparo-en-colombia-la-divisa-subio-casi-90-y-supero-los-3-415-este-viernes-506742"
+        },
+        {
+          "medio": "El Espectador",
+          "titulo": "Precio del dólar hoy 20 de noviembre en Colombia",
+          "url": "https://www.elespectador.com/economia/finanzas-personales/precio-del-dolar-hoy-20-de-noviembre-en-colombia-noticias-hoy/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Tras la corrección en Wall Street: VIX en máximos desde abril de 2025 y debate sobre si la IA está sobrevalorada",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "Reuters confirmó que el S&P 500 y el Dow están más de 10 % bajo sus máximos, es decir, en corrección. CNBC enumera cinco fuerzas detrás de la venta: el debut de Anthropic, la caída de Nvidia (−13,8 %), dudas sobre el ritmo de los centros de datos, el alza de los costos de financiación y la incertidumbre tras la renuncia de Jensen Huang. El índice de volatilidad VIX tuvo su cierre más alto desde el 7 de abril de 2025. En la Fed, el gobernador Waller sugirió un alza de medio punto en diciembre y la gobernadora Lisa Cook dijo que las tasas son demasiado bajas para controlar la inflación. Anthropic es la empresa que desarrolla el modelo con el que se elabora este informe; se incluye solo como dato de mercado.",
+      "por_que_importa": "Una Fed que sube tasas en plena corrección eleva el costo del dinero en todo el mundo, incluida Colombia.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Explica cinco causas de la venta."
+        },
+        {
+          "medio": "Reuters (vía Yahoo Finance)",
+          "enfoque": "Confirma la corrección y recoge voces que la ven como ajuste dentro de un mercado alcista."
+        },
+        {
+          "medio": "Breitbart",
+          "enfoque": "Lo presenta como una venta de IA que arrastra a todo el mercado."
+        }
+      ],
+      "coincidencias": "La IA y los chips lideran la caída; la Fed no ofrece alivio.",
+      "diferencias": "Jeremy Siegel (Wharton) lo ve como un reajuste de expectativas; otros analistas, como el inicio de una revisión más profunda del auge de la IA.",
+      "analisis": "El mercado enfrenta dos presiones a la vez: valoraciones altas en IA y tasas al alza. La decisión de la Fed del 9 de diciembre es el próximo punto clave.",
+      "implicaciones": "Más costo de financiación externa para empresas y para el Gobierno colombiano.",
+      "que_vigilar": "Apertura del lunes, datos de inflación de EE. UU. y discursos de la Fed.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "S&P 500 correction: Five forces behind the market sell-off",
+          "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+        },
+        {
+          "medio": "Yahoo Finance (Reuters)",
+          "titulo": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+        },
+        {
+          "medio": "Breitbart",
+          "titulo": "Stocks Plunge as AI Selloff Pushes S&P 500 and Dow Into Correction",
+          "url": "https://www.breitbart.com/economy/2026/11/20/stocks-plunge-as-ai-selloff-pushes-sp-500-and-dow-into-correction/"
+        }
+      ]
+    },
+    {
+      "titulo": "México captura al 'Chapo Isidro', uno de los diez más buscados por el FBI; 11 muertos en Sinaloa",
+      "categoria": "Seguridad regional",
+      "importancia": 4,
+      "resumen": "Fuerzas mexicanas capturaron el viernes a Fausto Isidro Meza Flores, alias 'Chapo Isidro', señalado por el Departamento de Justicia de EE. UU. como líder del Cártel de Sinaloa. Fue trasladado a Ciudad de México el sábado. El operativo dejó siete presuntos pistoleros y cuatro soldados muertos, con bloqueos y vehículos quemados en Guasave, según NBC y Al Jazeera. El Departamento de Justicia dijo que la captura siguió a una investigación de un grupo de trabajo de Seguridad Nacional; EE. UU. ofrecía hasta US$5 millones por información.",
+      "por_que_importa": "Muestra la cooperación antidrogas México–EE. UU. que Washington también busca ampliar en Colombia.",
+      "perspectivas": [
+        {
+          "medio": "NBC News",
+          "enfoque": "Destaca el tiroteo y los 11 muertos."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Pone el foco en la ola de violencia en Sinaloa."
+        },
+        {
+          "medio": "Departamento de Justicia de EE. UU.",
+          "enfoque": "Versión oficial: resalta la cooperación y la lista de los más buscados."
+        },
+        {
+          "medio": "CBS News",
+          "enfoque": "Combina la captura con la violencia posterior."
+        }
+      ],
+      "coincidencias": "Captura confirmada con alto costo en vidas.",
+      "diferencias": "EE. UU. enfatiza el éxito de la cooperación; medios internacionales, la violencia que desató.",
+      "analisis": "Las capturas de capos suelen provocar disputas internas y violencia a corto plazo. Es un precedente para el debate colombiano sobre operaciones conjuntas.",
+      "implicaciones": "Posible reacomodo del narcotráfico con efectos en rutas que pasan por Colombia.",
+      "que_vigilar": "Solicitud de extradición y evolución de la violencia en Sinaloa.",
+      "fuentes": [
+        {
+          "medio": "NBC News",
+          "titulo": "Cartel leader captured in northern Mexico in firefight that left 11 dead",
+          "url": "https://www.nbcnews.com/world/mexico/mexico-detains-top-cartel-boss-el-chapo-isidro-rcna610559"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "Eleven killed in burst of violence during Mexican cartel leader's capture",
+          "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture"
+        },
+        {
+          "medio": "Departamento de Justicia de EE. UU.",
+          "titulo": "Senior Leader of Sinaloa Cartel and One of FBI's Ten Most Wanted Fugitives Arrested in Mexico",
+          "url": "https://www.justice.gov/opa/pr/senior-leader-sinaloa-cartel-and-one-fbis-ten-most-wanted-fugitives-arrested-mexico"
+        },
+        {
+          "medio": "CBS News",
+          "titulo": "Mexico arrests drug kingpin on FBI's 10 Most Wanted, sparking violence in Sinaloa",
+          "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/"
+        }
+      ]
+    },
+    {
+      "titulo": "Irán dice haber derribado un dron de EE. UU. sobre Ormuz; Trump advierte por un posible plan de 'bomba sucia'",
+      "categoria": "Geopolítica",
+      "importancia": 4,
+      "resumen": "La Guardia Revolucionaria afirmó haber derribado un dron MQ-9 sobre Ormuz; el Comando Central de EE. UU. no lo confirmó, según Yahoo News. Según CNN, siete funcionarios estadounidenses dijeron que nueva inteligencia muestra que Irán explora planes de una 'bomba sucia'; Trump advirtió que Irán pagaría 'un precio' sin precedentes si ataca a funcionarios. La Casa Blanca dijo no haber identificado una amenaza creíble en territorio de EE. UU. El canciller iraní Araghchi insistió en que sus siete condiciones deben cumplirse para reabrir Ormuz.",
+      "por_que_importa": "Mantiene la prima de riesgo sobre el petróleo y la navegación en el Golfo.",
+      "perspectivas": [
+        {
+          "medio": "Yahoo News",
+          "enfoque": "Subraya que las cifras de derribos son afirmaciones iraníes no verificadas."
+        },
+        {
+          "medio": "Mehr News (Irán)",
+          "enfoque": "Medio iraní: reporta un conteo creciente de drones derribados."
+        }
+      ],
+      "coincidencias": "Las negociaciones siguen estancadas.",
+      "diferencias": "Los conteos de drones derribados varían y solo provienen de Irán.",
+      "analisis": "La retórica sube, pero Trump dijo que decidirá sobre nuevos ataques después de enero. El riesgo es un incidente que acelere los tiempos.",
+      "implicaciones": "Volatilidad del crudo; relevante para los ingresos petroleros de Colombia.",
+      "que_vigilar": "Confirmación del Pentágono y nuevos ataques a buques.",
+      "fuentes": [
+        {
+          "medio": "Yahoo News",
+          "titulo": "Iran's IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+          "url": "https://www.yahoo.com/news/us/articles/iran-irgc-downs-us-drone-093024473.html"
+        },
+        {
+          "medio": "Mehr News",
+          "titulo": "IRGC downs 20th US-made MQ-1 drone in eastern Hormuz Strait",
+          "url": "https://en.mehrnews.com/news/249601/IRGC-downs-20th-US-MQ-1-drone-in-eastern-Hormuz-Strait"
+        }
+      ]
+    },
+    {
+      "titulo": "COP31: la presidencia presenta un nuevo texto de última hora; su aprobación sigue en duda",
+      "categoria": "Clima",
+      "importancia": 3,
+      "resumen": "El presidente de la COP31, Murat Kurum, presentó un nuevo paquete en una sesión nocturna y dijo que cree que todas las partes pueden aceptarlo, según Reuters (vía The Spokesman-Review). Afirmó que atendió las preocupaciones sobre combustibles fósiles y financiación para la adaptación, tras críticas a un borrador que no mencionaba el fin de los fósiles. La sesión para aprobarlo estaba prevista para el domingo; un reporte posterior de Reuters, citado por Al-Monitor, dijo que el resultado 'pendía de un hilo'.",
+      "por_que_importa": "El texto final definirá la presión internacional sobre productores de hidrocarburos como Colombia y los fondos de adaptación.",
+      "perspectivas": [
+        {
+          "medio": "The Spokesman-Review (Reuters)",
+          "enfoque": "Recoge el optimismo de la presidencia turca."
+        },
+        {
+          "medio": "Al-Monitor",
+          "enfoque": "Enfatiza la incertidumbre sobre el acuerdo."
+        },
+        {
+          "medio": "MyJoyOnline (Ghana)",
+          "enfoque": "Mirada africana: reporta el nuevo acuerdo tras negociaciones nocturnas."
+        }
+      ],
+      "coincidencias": "Hay un nuevo texto tras negociaciones nocturnas.",
+      "diferencias": "Unos medios lo presentan como acuerdo cercano; otros, como en riesgo.",
+      "analisis": "La disputa central es cuánto lenguaje sobre fósiles sobrevive. El resultado final no estaba confirmado al cierre.",
+      "implicaciones": "Para el sector energético colombiano, el lenguaje final sobre fósiles es la variable a seguir.",
+      "que_vigilar": "Adopción del texto y su redacción sobre combustibles fósiles.",
+      "fuentes": [
+        {
+          "medio": "The Spokesman-Review (Reuters)",
+          "titulo": "COP31 climate talks close to final deal, says summit president",
+          "url": "https://www.spokesman.com/stories/2026/nov/21/cop31-climate-talks-close-to-final-deal-says-summi/"
+        },
+        {
+          "medio": "Al-Monitor",
+          "titulo": "COP31 climate deal hangs in the balance as time runs out",
+          "url": "https://www.al-monitor.com/originals/2026/11/cop31-climate-deal-hangs-balance-time-runs-out"
+        },
+        {
+          "medio": "MyJoyOnline",
+          "titulo": "COP31: New climate deal emerges after overnight negotiations in Turkey",
+          "url": "https://www.myjoyonline.com/cop31-new-climate-deal-emerges-after-overnight-negotiations-in-turkey/"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "Fin de semana sin operaciones: los indicadores corresponden al cierre del viernes 20. La semana dejó al S&P 500 y al Dow en corrección, al Nasdaq en negativo en el año y al peso colombiano con su mayor depreciación en meses. El petróleo cayó por tercera semana. El lunes, el foco estará en si la venta de acciones de IA continúa y en las señales de la Fed.",
+  "agenda": [
+    "Lunes 23 de noviembre: inicio de mesas técnicas de la Ley de Rescate en el Congreso.",
+    "29 de noviembre: reunión de la OPEP+ sobre producción de 2027.",
+    "1–2 de diciembre: votación prevista de la Ley de Rescate en comisiones económicas conjuntas.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Edición de domingo, con poca producción noticiosa: varios temas usan notas del 19 al 21 de noviembre. Los mercados son los del cierre del viernes 20; no se verificó la TRM vigente para el fin de semana. No se encontró el resultado de la final de la Copa Sudamericana en Barranquilla. El resultado final de la COP31 no estaba confirmado. Las afirmaciones de derribo de drones provienen solo de Irán y EE. UU. no las confirmó. La cifra de $1,5 billones para la justicia se presenta en unos medios como compromiso y en otros como estudio. No se verificaron COLCAP, oro, café ni el bono a 10 años.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3415.1,
+      "variacion_pct": 2.65,
+      "variacion_mes_pct": null,
+      "vigencia": "20 nov (TRM de fin de semana no verificada)",
+      "fuente": "Superfinanciera (vía Portafolio / Minuto30)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3508.0,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov (cifras difieren entre medios)",
+      "fuente": "El Espectador / El Comercio"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 92.57,
+      "variacion_pct": 0.64,
+      "variacion_mes_pct": -20.0,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "EnergyNow / QNA"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 83.98,
+      "variacion_pct": 0.93,
+      "variacion_mes_pct": -20.0,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "EnergyNow / QNA"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 6910.39,
+      "variacion_pct": -3.7,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "AP"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 22617.73,
+      "variacion_pct": -5.28,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "AP"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 48147.33,
+      "variacion_pct": -1.93,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "AP"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "PIB Colombia",
+      "valor": "+0,5 % anual",
+      "fecha_dato": "Tercer trimestre 2026 (preliminar)",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
+      "comentario": "−0,8 % frente al segundo trimestre; acumulado enero–septiembre +2,1 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión el 9 de diciembre. Las minutas de octubre y el gobernador Waller apuntan a una posible alza; las probabilidades de mercado citadas varían según la fuente."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 27,
+    "medios": [
+      {
+        "medio": "Portafolio",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Infobae",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Minuto30",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "El Colombiano",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "IFM Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario La Libertad",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Vanguardia",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Defensoría del Pueblo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La FM",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Espectador",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance (Reuters)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Breitbart",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "NBC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Departamento de Justicia de EE. UU.",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CBS News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Mehr News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Spokesman-Review (Reuters)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al-Monitor",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "MyJoyOnline",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
