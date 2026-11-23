@@ -1,0 +1,720 @@
+{
+  "fecha": "2026-11-23",
+  "generado": "2026-11-23T10:39:56.953549Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "El Gobierno pide a X suspender la cuenta de Petro y formula cargos a Starlink y operadores por señales en cárceles; la COP31 fracasa y los futuros de Wall Street rebotan tras la corrección.",
+  "lo_esencial": [
+    "MinTIC pidió a X suspender la cuenta de Petro por presunta incitación a la violencia; Petro lo califica de inconstitucional.",
+    "MinTIC formuló cargos a Starlink y abrió procesos contra Claro, Tigo y WOM por señales en cárceles; multas de hasta 15.000 salarios mínimos.",
+    "Ley de Rescate: arrancan las mesas técnicas; el CARF advierte que, aun aprobada, sería insuficiente.",
+    "La COP31 terminó sin acuerdo por el choque sobre combustibles fósiles.",
+    "Futuros de EE. UU. rebotan cerca de 2 % tras la corrección; Asia sufre y Corea y China anuncian apoyos.",
+    "Irán prepara un convoy de tanqueros para romper el bloqueo; Trump amenaza con hundirlos."
+  ],
+  "colombia": [
+    {
+      "titulo": "El MinTIC pide a X suspender la cuenta de Petro por presunta incitación a la violencia; Petro lo llama 'inconstitucional'",
+      "categoria": "Política",
+      "importancia": 5,
+      "resumen": "El Ministerio TIC pidió formalmente a X suspender la cuenta @petrogustavo, según Asuntos Legales y La Nación. La solicitud se basa en una publicación del 21 de noviembre en la que Petro pedía exigir la renuncia del presidente Abelardo de la Espriella, con un video de su discurso en Cali. El ministerio sostuvo que Petro desconoce que el presidente fue elegido democráticamente. El domingo 22, Petro calificó la petición de inconstitucional y de censura, según Semana y Diario La Libertad. Congresistas del Pacto Histórico, como Iván Cepeda, hablaron de persecución. La decisión depende de X; la cuenta no ha sido suspendida.",
+      "por_que_importa": "Escala la confrontación entre el Gobierno y el expresidente en plena discusión de la Ley de Rescate, y abre un debate sobre libertad de expresión y límites del discurso político.",
+      "perspectivas": [
+        {
+          "medio": "Asuntos Legales",
+          "enfoque": "Explica el fundamento jurídico de la solicitud."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Pone el foco en la reacción de Petro."
+        },
+        {
+          "medio": "Diario La Libertad",
+          "enfoque": "Destaca el argumento de inconstitucionalidad."
+        },
+        {
+          "medio": "Canal 9 (Chile)",
+          "enfoque": "Mirada externa: lo presenta como una solicitud de suspensión inédita contra un expresidente."
+        }
+      ],
+      "coincidencias": "La solicitud existe y la decisión es de X.",
+      "diferencias": "El Gobierno lo enmarca como prevención de violencia; Petro y su bancada, como censura. Las fuentes no coinciden en la fecha del discurso de Cali.",
+      "analisis": "Para el Gobierno, pedir la renuncia de un presidente electo cruza una línea. Para sus críticos, la respuesta estatal ante una plataforma privada es desproporcionada. Mayor polarización puede complicar los consensos en el Congreso.",
+      "implicaciones": "Más ruido político eleva la percepción de riesgo, que ya se refleja en el peso.",
+      "que_vigilar": "Respuesta de X, posibles acciones judiciales de Petro y efecto en la agenda legislativa.",
+      "fuentes": [
+        {
+          "medio": "Asuntos Legales",
+          "titulo": "MinTIC solicitó cerrar la cuenta de X de Gustavo Petro por posible incitación a la violencia",
+          "url": "https://www.asuntoslegales.com.co/actualidad/mintic-solicito-cerrar-la-cuenta-de-x-de-gustavo-petro-por-posible-incitacion-a-la-violencia-4530332"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Expresidente Gustavo Petro reacciona a la petición del MinTIC para que suspendan su cuenta de X",
+          "url": "https://www.semana.com/amp/politica/articulo/expresidente-gustavo-petro-reacciona-a-la-peticion-del-mintic-para-que-suspendan-su-cuenta-de-x-por-incitacion-a-la-violencia/202653/"
+        },
+        {
+          "medio": "Diario La Libertad",
+          "titulo": "Petro califica de 'inconstitucional' petición del MinTIC para suspender su cuenta de X",
+          "url": "https://diariolalibertad.com/2026/11/22/petro-califica-de-inconstitucional-peticion-del-mintic-para-suspender-su-cuenta-de-x/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Gobierno De la Espriella pide cancelar en X la cuenta de Gustavo Petro por presunta incitación a la violencia",
+          "url": "https://infobae.com/colombia/2026/11/22/gobierno-de-la-espriella-pide-cancelar-en-x-la-cuenta-de-gustavo-petro-por-presunta-incitacion-a-la-violencia"
+        },
+        {
+          "medio": "Canal 9 (Chile)",
+          "titulo": "Colombia pide suspender la cuenta de X del expresidente Gustavo Petro",
+          "url": "https://www.canal9.cl/episodios/2026/11/23/gobierno-de-colombia-solicita-que-se-suspenda-la-cuenta-de-x-del-exmandatario-gustavo-petro"
+        }
+      ]
+    },
+    {
+      "titulo": "MinTIC formula cargos a Starlink y abre procesos contra operadores móviles por señales en cárceles",
+      "categoria": "Regulación",
+      "importancia": 4,
+      "resumen": "Tras una requisa en La Picota que halló 582 celulares, 3.754 tarjetas SIM, seis antenas Starlink y 38 módems, el MinTIC formuló cargos contra Starlink Colombia por señales en cuatro cárceles: La Picota, Bellavista (Bello), Acacías y Las Heliconias (Florencia), según Euronews. También abrió procesos contra Partners Telecom (WOM), Comcel (Claro) y Tigo por no restringir la señal móvil en La Picota; Moncloa reporta que el expediente alcanza a la filial de Telefónica. Las multas pueden llegar a 15.000 salarios mínimos, además de suspensión o cancelación de licencias. Aún no hay sanciones impuestas.",
+      "por_que_importa": "Abre un frente regulatorio con los principales operadores de telecomunicaciones del país y con Starlink.",
+      "perspectivas": [
+        {
+          "medio": "Euronews",
+          "enfoque": "Enfoca el caso Starlink y la investigación formal."
+        },
+        {
+          "medio": "Moncloa",
+          "enfoque": "Destaca que el cerco llega a Telefónica."
+        },
+        {
+          "medio": "Las2orillas",
+          "enfoque": "Lista a todos los operadores investigados."
+        }
+      ],
+      "coincidencias": "Hay cargos formulados y procesos abiertos; no hay multas todavía.",
+      "diferencias": "Algunas fuentes atribuyen el anuncio al presidente; otras, solo al MinTIC.",
+      "analisis": "El Gobierno usa la regulación para atacar la extorsión desde cárceles. Las empresas tendrán derecho a defensa; el resultado dependerá de qué obligaciones técnicas se prueben incumplidas.",
+      "implicaciones": "Riesgo de sanciones relevantes para el sector telecomunicaciones y posibles inversiones adicionales en bloqueo de señal.",
+      "que_vigilar": "Descargos de las empresas y plazos del proceso administrativo.",
+      "fuentes": [
+        {
+          "medio": "Euronews",
+          "titulo": "Colombia abre una investigación y formula cargos contra Starlink por no bloquear su señal en 4 cárceles",
+          "url": "https://es.euronews.com/2026/11/23/colombia-abre-investigacion-formula-cargos-contra-starlink-por-no-bloquear-senal-carceles"
+        },
+        {
+          "medio": "Moncloa",
+          "titulo": "Colombia abre procesos contra los operadores móviles y Starlink: el cerco llega a Telefónica",
+          "url": "https://www.moncloa.com/2026/11/22/procesos-operadores-moviles-colombia-starlink-3472776/"
+        },
+        {
+          "medio": "Las2orillas",
+          "titulo": "MinTIC investiga a Starlink, Claro, Tigo, WOM y Movistar por señal de internet en cárceles",
+          "url": "https://www.las2orillas.co/mintic-investiga-a-starlink-claro-tigo-wom-y-movistar-por-senal-de-internet-en-carceles/"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: arrancan las mesas técnicas; Hacienda advierte riesgo de contracción sin ajuste y el CARF dice que no alcanza",
+      "categoria": "Política fiscal",
+      "importancia": 5,
+      "resumen": "Esta semana empiezan las mesas técnicas entre Gobierno y comisiones económicas, con votación prevista el 1–2 de diciembre. Según La FM, Hacienda pidió debatir la ley este año y advirtió que la economía podría contraerse sin un ajuste fiscal; Semana recoge su cálculo de que sin la ley Colombia necesitaría US$26.000 millones en 2027. El CARF, según Valora Analitik, sostiene que la ley sería insuficiente incluso aprobada completa, y proyecta un déficit de 9,5 % del PIB en 2027. Según La FM, el Congreso mantiene como innegociable que no haya más IVA a los alimentos.",
+      "por_que_importa": "La combinación de una ley más pequeña y advertencias del CARF eleva el riesgo de calificación y presiona el peso y la deuda pública.",
+      "perspectivas": [
+        {
+          "medio": "La FM",
+          "enfoque": "Recoge la advertencia de Hacienda y los innegociables del Congreso."
+        },
+        {
+          "medio": "Valora Analitik",
+          "enfoque": "Destaca la advertencia técnica del CARF."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Cuantifica las necesidades de financiamiento sin la ley."
+        }
+      ],
+      "coincidencias": "El ajuste que se apruebe será menor que el propuesto.",
+      "diferencias": "Hacienda enfatiza el costo de no aprobarla; el CARF, que aun aprobada no basta.",
+      "analisis": "El Gobierno necesita aprobar algo para dar señal de disciplina, pero los recortes al proyecto debilitan esa señal. El mercado mirará el tamaño final.",
+      "implicaciones": "Las empresas deben prever más presión sobre tasas de deuda pública y tipo de cambio si el ajuste resulta débil.",
+      "que_vigilar": "Resultados de las mesas técnicas y cifra de recaudo del texto final.",
+      "fuentes": [
+        {
+          "medio": "La FM",
+          "titulo": "Hacienda pide debatir la Ley de Rescate este año y advierte que la economía podría contraerse sin un ajuste fiscal",
+          "url": "https://www.lafm.com.co/economia/ley-de-rescate-economico-hacienda-advierte-riesgo-de-contraccion-sin-ajuste-fiscal-416618"
+        },
+        {
+          "medio": "La FM",
+          "titulo": "Ley de Rescate Fiscal: que no haya más IVA a los alimentos, el innegociable del Congreso",
+          "url": "https://www.lafm.com.co/politica/ley-de-rescate-fiscal-economico-innegociables-del-congreso-que-no-haya-mas-iva-alimentos-416590"
+        },
+        {
+          "medio": "Valora Analitik",
+          "titulo": "CARF advierte que ley de rescate fiscal sería insuficiente para lograr el ajuste que necesita Colombia",
+          "url": "https://www.valoraanalitik.com/carf-advierte-que-ley-de-rescate-fiscal-seria-insuficiente-para-lograr-el-ajuste-que-necesita-colombia/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "'Sin Ley de Rescate Fiscal, Colombia necesitaría US$26.000 millones en 2027': la advertencia del Ministerio de Hacienda",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/sin-ley-de-rescate-fiscal-colombia-necesitaria-us26000-millones-en-2027-la-advertencia-del-ministerio-de-hacienda/202606/"
+        }
+      ]
+    },
+    {
+      "titulo": "Salud: el Gobierno reporta 631.833 pacientes al día con medicamentos o tratamientos por un plan de choque",
+      "categoria": "Salud",
+      "importancia": 3,
+      "resumen": "El Ministerio de Salud, que dirige Ana María Vesga, informó que 631.833 personas recibieron medicamentos o procedimientos pendientes gracias a un plan de choque, según Infobae.",
+      "por_que_importa": "La crisis de entrega de medicamentos afecta a trabajadores y empresas, y es uno de los frentes de presión fiscal que menciona el CARF.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Recoge la cifra oficial del ministerio."
+        },
+        {
+          "medio": "Valora Analitik",
+          "enfoque": "En la nota del CARF, sitúa la desfinanciación de la salud entre las presiones de gasto."
+        }
+      ],
+      "coincidencias": "El sistema de salud sigue siendo una presión fiscal y operativa.",
+      "diferencias": "La cifra del plan de choque es oficial y no se encontró verificación independiente.",
+      "analisis": "El dato muestra avance en represamientos, pero no resuelve la financiación del sistema.",
+      "implicaciones": "Las empresas pueden ver menos ausentismo ligado a tratamientos represados si el plan se sostiene.",
+      "que_vigilar": "Verificación independiente y medidas de financiación del sistema.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Ministerio de Salud anuncia alivio para pacientes: 631.833 colombianos están al día con sus medicamentos o tratamientos médicos",
+          "url": "https://infobae.com/colombia/2026/11/22/ministerio-de-salud-anuncia-alivio-para-pacientes-631833-colombianos-estan-al-dia-con-sus-medicamentos-o-tratamientos-medicos"
+        },
+        {
+          "medio": "Valora Analitik",
+          "titulo": "CARF advierte que ley de rescate fiscal sería insuficiente para lograr el ajuste que necesita Colombia",
+          "url": "https://www.valoraanalitik.com/carf-advierte-que-ley-de-rescate-fiscal-seria-insuficiente-para-lograr-el-ajuste-que-necesita-colombia/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "La COP31 termina sin acuerdo por el choque sobre los combustibles fósiles",
+      "categoria": "Clima",
+      "importancia": 4,
+      "resumen": "La conferencia de Antalya cerró el domingo 22 sin acuerdo general. El presidente de la COP31, Murat Kurum, reconoció que no hay acuerdo sobre el texto y que no habrá nuevo borrador tras el rechazo del cuarto. La Unión Europea rechazó un texto que omitía los combustibles fósiles; según varios medios, Arabia Saudita y Rusia bloquearon las menciones a su eliminación. El secretario general de la ONU, António Guterres, dijo estar 'profundamente decepcionado'. Es la tercera vez en tres décadas que una COP termina sin acuerdo, tras 2000 y 2009, según NBC.",
+      "por_que_importa": "Sin acuerdo, se reduce la presión multilateral inmediata sobre los productores de hidrocarburos, pero también la financiación para adaptación de países como Colombia.",
+      "perspectivas": [
+        {
+          "medio": "NBC News",
+          "enfoque": "Destaca la ruptura y el precedente histórico."
+        },
+        {
+          "medio": "CBS News",
+          "enfoque": "Se centra en el estancamiento sobre fósiles."
+        },
+        {
+          "medio": "NPR",
+          "enfoque": "Subraya la decepción en las horas finales."
+        },
+        {
+          "medio": "IBTimes UK",
+          "enfoque": "Recoge acusaciones de que los Estados petroleros 'secuestraron' la cumbre."
+        }
+      ],
+      "coincidencias": "No hubo acuerdo y el punto de quiebre fueron los combustibles fósiles.",
+      "diferencias": "Unos medios atribuyen el fracaso a los productores de petróleo; otros enfatizan también la falta de acuerdo en financiación.",
+      "analisis": "La división entre productores y consumidores se profundiza. Los compromisos climáticos quedan en manos de políticas nacionales y regionales, como las de la UE.",
+      "implicaciones": "Para Colombia, menos presión externa inmediata sobre su sector extractivo, pero mayor incertidumbre sobre fondos climáticos.",
+      "que_vigilar": "Reacciones de la UE y anuncios unilaterales.",
+      "fuentes": [
+        {
+          "medio": "NBC News",
+          "titulo": "COP31 climate talks break down after angry dispute over fossil fuels",
+          "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656"
+        },
+        {
+          "medio": "CBS News",
+          "titulo": "U.N. COP31 climate conference ends with no agreement after fossil fuel debate reaches standstill",
+          "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
+        },
+        {
+          "medio": "NPR",
+          "titulo": "Climate change talks fall apart in final hours over fossil fuels",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment"
+        },
+        {
+          "medio": "IBTimes UK",
+          "titulo": "'Complete COP-out': Oil States Accused of Hijacking UN Climate Summit as Fossil Fuel Deal Collapses",
+          "url": "https://www.ibtimes.co.uk/cop31-ends-without-agreement-fossil-fuels-climate-finance-1834008"
+        }
+      ]
+    },
+    {
+      "titulo": "Futuros de EE. UU. rebotan cerca de 2 % mientras Asia sufre la venta de IA; Corea y China activan medidas de apoyo",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "En la noche del domingo, los futuros del Nasdaq 100 subían cerca de 3 % y los del S&P 500 cerca de 2 %, según Reuters (vía Yahoo Finance). El KOSPI surcoreano cayó más de 3 % al abrir y luego moderó pérdidas; Seúl dijo que está lista para usar fondos de estabilización. Las bolsas chinas anunciaron medidas de apoyo, como flexibilizar el financiamiento con margen, y Taiwán endureció las reglas de venta en corto. Japón estuvo cerrado por festivo.",
+      "por_que_importa": "Indica si la corrección de la semana pasada se estabiliza o se extiende, con efecto directo en el peso colombiano.",
+      "perspectivas": [
+        {
+          "medio": "Yahoo Finance (Reuters)",
+          "enfoque": "Pone el foco en el rebote de futuros frente a la presión en Asia."
+        },
+        {
+          "medio": "The Star (Malasia)",
+          "enfoque": "Mirada asiática: enfatiza el temor a un desplome de IA en la región."
+        },
+        {
+          "medio": "Saxo",
+          "enfoque": "Análisis de mercado con perspectiva de corto plazo."
+        }
+      ],
+      "coincidencias": "Rebote de futuros en EE. UU. y presión en Asia.",
+      "diferencias": "Las cifras de futuros varían entre reportes (S&P 500 +1 % a +2,2 %).",
+      "analisis": "Las intervenciones de gobiernos asiáticos muestran preocupación por contagio. Un rebote de futuros no garantiza un cierre positivo.",
+      "implicaciones": "Si el rebote se confirma, podría aliviar algo la presión sobre el peso.",
+      "que_vigilar": "Apertura y cierre del lunes en Wall Street.",
+      "fuentes": [
+        {
+          "medio": "Yahoo Finance (Reuters)",
+          "titulo": "US futures bounce while Asia markets brace for AI wipeout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html"
+        },
+        {
+          "medio": "The Star",
+          "titulo": "US futures bounce while Asia markets brace for AI wipeout",
+          "url": "https://www.thestar.com.my/business/business-news/2026/11/23/us-futures-bounce-while-asia-markets-brace-for-ai-wipeout"
+        },
+        {
+          "medio": "Saxo",
+          "titulo": "Asia Market Quick Take — 23 November 2026",
+          "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--23-november-2026-23112026"
+        }
+      ]
+    },
+    {
+      "titulo": "Irán prepara un convoy de tanqueros para romper el bloqueo de EE. UU.; Trump amenaza con hundirlos",
+      "categoria": "Geopolítica",
+      "importancia": 4,
+      "resumen": "Según Fox News y Gulf News, Irán reúne más de 14 tanqueros cerca de la isla de Kharg para intentar romper el bloqueo naval de EE. UU. Trump respondió: 'Espero que lo hagan, estarán en el fondo del mar'. La marina iraní dijo que dos tanqueros se incendiaron tras chocar con minas al este de Ormuz, y Bahréin reportó haber interceptado ataques iraníes. Según Iran International, que cita a Reuters, EE. UU. evalúa aplazar nuevos ataques pese a la presión israelí. Catar media, y Teherán condiciona la reapertura de Ormuz a un acuerdo de paz que incluya levantar el bloqueo.",
+      "por_que_importa": "Un choque naval podría disparar el petróleo y alterar las previsiones de ingresos de Colombia.",
+      "perspectivas": [
+        {
+          "medio": "Fox News",
+          "enfoque": "Destaca el desafío de Trump a Irán."
+        },
+        {
+          "medio": "Gulf News",
+          "enfoque": "Mirada regional: ataques interceptados y el convoy."
+        },
+        {
+          "medio": "Iran International",
+          "enfoque": "Medio opositor iraní en el exilio: la Casa Blanca evalúa aplazar ataques."
+        },
+        {
+          "medio": "The Jerusalem Post",
+          "enfoque": "Perspectiva israelí: amenazas iraníes a instalaciones del Golfo."
+        }
+      ],
+      "coincidencias": "La tensión naval sube y la diplomacia está estancada.",
+      "diferencias": "Difieren en si el convoy ya se mueve y en la autoría de los incidentes con tanqueros.",
+      "analisis": "El bloqueo es el centro del conflicto. Un intento de romperlo pondría a prueba la decisión de Trump de esperar hasta enero.",
+      "implicaciones": "Riesgo de alza súbita del crudo; útil para ingresos de Ecopetrol, negativo para importadores de combustibles.",
+      "que_vigilar": "Movimiento del convoy y reacción de la Marina de EE. UU.",
+      "fuentes": [
+        {
+          "medio": "Fox News",
+          "titulo": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers",
+          "url": "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers"
+        },
+        {
+          "medio": "Gulf News",
+          "titulo": "Middle East conflict: Bahrain intercepts Iranian attacks as Tehran prepares 14 oil tankers to breach US naval blockade",
+          "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
+        },
+        {
+          "medio": "Iran International",
+          "titulo": "US weighs delaying Iran strikes despite Israeli pressure for military action",
+          "url": "https://www.iranintl.com/en/202611231814"
+        },
+        {
+          "medio": "The Jerusalem Post",
+          "titulo": "Iran prepares oil tanker convoy to break US naval blockade, threatens Gulf facilities - report",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-915644"
+        }
+      ]
+    },
+    {
+      "titulo": "EE. UU. pide la extradición del 'Chapo Isidro'; Sinaloa vive bloqueos y violencia tras su captura",
+      "categoria": "Seguridad regional",
+      "importancia": 3,
+      "resumen": "La Secretaría de la Defensa de México confirmó que Fausto Isidro Meza Flores fue capturado el viernes 20 en Guasave con cooperación de inteligencia de EE. UU. Siete presuntos criminales y cuatro soldados murieron, según el ministerio. Hubo bloqueos y vehículos incendiados en el norte de Sinaloa, y residentes se refugiaron en supermercados y escuelas, según PBS. EE. UU. pidió su extradición, aunque se espera que primero enfrente procesos en México.",
+      "por_que_importa": "La cooperación antidrogas México–EE. UU. es un referente para el debate colombiano sobre operaciones conjuntas.",
+      "perspectivas": [
+        {
+          "medio": "PBS",
+          "enfoque": "Pone el foco en la violencia y el refugio de la población."
+        },
+        {
+          "medio": "Newsweek",
+          "enfoque": "Destaca el perfil del capo y la recompensa."
+        },
+        {
+          "medio": "Diplomacy and Law",
+          "enfoque": "Analiza el camino legal hacia la extradición."
+        }
+      ],
+      "coincidencias": "Captura con apoyo de EE. UU. y violencia posterior.",
+      "diferencias": "Las cifras de víctimas provienen de reportes iniciales.",
+      "analisis": "La extradición sería una victoria para Washington; la violencia muestra el costo inmediato de estas operaciones.",
+      "implicaciones": "Posibles cambios en rutas de narcotráfico con efectos en Colombia.",
+      "que_vigilar": "Decisión judicial en México y evolución de la violencia.",
+      "fuentes": [
+        {
+          "medio": "PBS",
+          "titulo": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+          "url": "https://www.pbs.org/newshour/world/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-off-a-burst-of-violence-in-sinaloa"
+        },
+        {
+          "medio": "Newsweek",
+          "titulo": "FBI's most wanted drug lord 'Chapo Isidro' captured in Mexico",
+          "url": "https://www.newsweek.com/fbis-most-wanted-drug-lord-chapo-isidro-captured-mexico-12751085"
+        },
+        {
+          "medio": "Diplomacy and Law",
+          "titulo": "Chapo Isidro Reportedly Captured: Will Mexico Extradite Him?",
+          "url": "https://www.diplomacyandlaw.com/post/chapo-isidro"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "Los indicadores siguen siendo los del cierre del viernes 20. Para el lunes, los futuros de EE. UU. anticipan un rebote tras la corrección, mientras Asia cae y sus gobiernos intervienen. El peso colombiano llega débil tras su peor semana en meses. El riesgo naval en Ormuz es un factor de alza para el petróleo.",
+  "agenda": [
+    "Esta semana: mesas técnicas de la Ley de Rescate entre Gobierno y comisiones económicas.",
+    "26 de noviembre: Día de Acción de Gracias en EE. UU. (mercados cerrados).",
+    "29 de noviembre: reunión de la OPEP+ sobre producción de 2027.",
+    "1–2 de diciembre: votación prevista de la Ley de Rescate en comisiones económicas conjuntas.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Edición de lunes temprano: los mercados corresponden al cierre del viernes 20; no se verificó la TRM del lunes 23 ni la apertura en Bogotá. La advertencia del CARF proviene de una nota de Valora Analitik sin fecha exacta confirmada en la búsqueda; puede ser de días anteriores. La cifra del plan de choque de salud es oficial y no tiene verificación independiente. Los detalles del convoy iraní y la autoría de los incidentes con tanqueros difieren entre fuentes. No se verificaron COLCAP, oro, café ni el bono a 10 años. La fecha de Acción de Gracias es la habitual del cuarto jueves de noviembre.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3415.1,
+      "variacion_pct": 2.65,
+      "variacion_mes_pct": null,
+      "vigencia": "20 nov (TRM de fin de semana no verificada)",
+      "fuente": "Superfinanciera (vía Portafolio / Minuto30)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3508.0,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov (cifras difieren entre medios)",
+      "fuente": "El Espectador / El Comercio"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 92.57,
+      "variacion_pct": 0.64,
+      "variacion_mes_pct": -20.0,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "EnergyNow / QNA"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 83.98,
+      "variacion_pct": 0.93,
+      "variacion_mes_pct": -20.0,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "EnergyNow / QNA"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 6910.39,
+      "variacion_pct": -3.7,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "AP"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 22617.73,
+      "variacion_pct": -5.28,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "AP"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 48147.33,
+      "variacion_pct": -1.93,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 20 nov",
+      "fuente": "AP"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "PIB Colombia",
+      "valor": "+0,5 % anual",
+      "fecha_dato": "Tercer trimestre 2026 (preliminar)",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
+      "comentario": "−0,8 % frente al segundo trimestre; acumulado enero–septiembre +2,1 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión el 9 de diciembre. Las minutas de octubre y el gobernador Waller apuntan a una posible alza; las probabilidades de mercado citadas varían según la fuente."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 28,
+    "medios": [
+      {
+        "medio": "Semana",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Infobae",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "La FM",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Valora Analitik",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Asuntos Legales",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diario La Libertad",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Canal 9 (Chile)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Euronews",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Moncloa",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Las2orillas",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "NBC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CBS News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "NPR",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "IBTimes UK",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance (Reuters)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Star",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Saxo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Fox News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Gulf News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Iran International",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Jerusalem Post",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "PBS",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Newsweek",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Diplomacy and Law",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
