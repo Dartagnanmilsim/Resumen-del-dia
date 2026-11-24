@@ -1,0 +1,652 @@
+{
+  "fecha": "2026-11-24",
+  "generado": "2026-11-24T10:40:10.827753Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "Nvidia restituye a Jensen Huang y Wall Street rebota 4,7 %, pero el dólar en Colombia supera los $3.500; el petróleo cae a mínimos de tres meses y arrancan las audiencias de la Ley de Rescate.",
+  "lo_esencial": [
+    "Nvidia restituyó a Jensen Huang como CEO; su acción subió 31 % y el S&P 500 4,7 %, recuperando parte de la corrección.",
+    "El dólar cerró en $3.506,54 el lunes; la TRM del martes es $3.505,92, su nivel más alto en más de cinco meses.",
+    "Trump da más tiempo a la diplomacia con Irán; el Brent cayó a US$89,37 y el WTI a US$80,17.",
+    "Ley de Rescate: primera audiencia pública en el Capitolio; siguen Cali (26) y Barranquilla (27).",
+    "Diez años del acuerdo de paz: el NRC alerta que 75 % de comunidades asistidas percibe igual o más violencia que en 2016.",
+    "La UE y Kushner chocan sobre el orden de las negociaciones de paz para Ucrania."
+  ],
+  "colombia": [
+    {
+      "titulo": "El dólar supera los $3.500 y la TRM llega a $3.505,92, su nivel más alto en más de cinco meses",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "El dólar cerró el lunes 23 en $3.506,54, frente a $3.463,18 del viernes, según El Universal y Noticias RCN; tocó un máximo de $3.538,10. La TRM que rigió del 21 al 23 fue $3.461,92, la más alta en más de cinco meses, según El Tiempo. Para este martes 24, Colombia.com reporta una TRM de $3.505,92. El Tiempo y RCN vinculan el alza a las señales de la Reserva Federal. El peso no acompañó el rebote de Wall Street del lunes.",
+      "por_que_importa": "El dólar sobre $3.500 encarece importaciones, insumos y deuda externa, y complica la inflación antes de la decisión del BanRep del 18 de diciembre.",
+      "perspectivas": [
+        {
+          "medio": "El Tiempo",
+          "enfoque": "Destaca el máximo de cinco meses y el papel de la Fed."
+        },
+        {
+          "medio": "Noticias RCN",
+          "enfoque": "Reporta el rango del día y las expectativas de tasas en EE. UU."
+        },
+        {
+          "medio": "El Universal",
+          "enfoque": "Compara con el cierre del viernes."
+        },
+        {
+          "medio": "Colombia.com",
+          "enfoque": "Publica la TRM vigente para el martes."
+        }
+      ],
+      "coincidencias": "El peso sigue debilitándose pese al rebote de las bolsas.",
+      "diferencias": "Las fuentes mezclan TRM y cierre de mercado, que son cifras distintas. Algunas ponen más peso en la Fed; otras, en el contexto fiscal local.",
+      "analisis": "Que el peso no se recupere cuando Wall Street sube 4,7 % y el petróleo cae sugiere que pesan factores locales, como la incertidumbre fiscal, además de la Fed. La caída del crudo resta soporte.",
+      "implicaciones": "Importadores y empresas con deuda en dólares deben revisar coberturas; los precios de bienes importados para fin de año pueden subir.",
+      "que_vigilar": "Si el dólar se sostiene sobre $3.500 y declaraciones del BanRep o de Hacienda.",
+      "fuentes": [
+        {
+          "medio": "El Tiempo",
+          "titulo": "Peso colombiano pierde valor y el dólar llega a su precio más alto en el país en los últimos cinco meses",
+          "url": "https://www.eltiempo.com/amp/economia/sector-financiero/peso-colombiano-pierde-valor-y-el-dolar-llega-a-su-precio-mas-alto-en-el-pais-en-los-ultimos-cinco-meses-asi-quedo-la-tasa-oficial-3603470"
+        },
+        {
+          "medio": "Noticias RCN",
+          "titulo": "El dólar volvió a superar los $3.500 en Colombia: así cerró este 23 de noviembre",
+          "url": "https://www.noticiasrcn.com/economia/dolar-colombia-cierre-23-noviembre-2026-1084612"
+        },
+        {
+          "medio": "El Universal",
+          "titulo": "Así cerró el dólar este lunes 23 de noviembre de 2026",
+          "url": "https://www.eluniversal.com.co/economica/2026/11/23/asi-cerro-el-dolar-este-lunes-23-de-noviembre-de-2026/"
+        },
+        {
+          "medio": "Colombia.com",
+          "titulo": "Precio del dólar hoy en Colombia: cotización de este martes 24 de noviembre de 2026",
+          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-martes-24-de-noviembre-de-2026-613930"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: arrancan las audiencias públicas y el Gobierno lanza una ofensiva ante las bancadas",
+      "categoria": "Política fiscal",
+      "importancia": 5,
+      "resumen": "El lunes 23 se realizó en el Capitolio la primera audiencia pública de las comisiones económicas conjuntas. Según Semana, intervinieron gremios de AFP, turismo, cigarrillos, licores, gas y petróleo, entre otros. Las audiencias seguirán en Cali (jueves 26) y Barranquilla (viernes 27), según El País. El vicepresidente, ministros y el jefe de Despacho se reúnen con bancadas para impulsar el primer debate, según IFM Noticias y Portafolio. 'Si no hacemos nada, iremos a una crisis nunca vista', dijo el Gobierno, según El Colombiano. El presidente del Congreso, Honorio Henríquez, prometió garantías para oposición, independientes y partidos de gobierno, según Infobae.",
+      "por_que_importa": "Es la última semana de audiencias antes de la votación prevista del 1–2 de diciembre. Los sectores que hablan en ellas pueden lograr cambios en el texto.",
+      "perspectivas": [
+        {
+          "medio": "Semana",
+          "enfoque": "Recoge el mensaje inicial de la audiencia y los gremios que intervinieron."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Destaca la advertencia del Gobierno sobre una crisis."
+        },
+        {
+          "medio": "Portafolio",
+          "enfoque": "Se centra en las reuniones con partidos."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Recoge las garantías prometidas por el presidente del Congreso."
+        }
+      ],
+      "coincidencias": "Semana decisiva, con audiencias en tres ciudades y presión del Gobierno por votos.",
+      "diferencias": "El Colombiano la presenta como reforma tributaria; otros medios, como ajuste fiscal y de gasto. Los gremios defienden intereses sectoriales distintos.",
+      "analisis": "El Gobierno combina advertencias sobre el costo de no aprobarla con negociación política. Los sectores afectados por impuestos saludables y a licores buscan alivios, lo que puede reducir aún más el recaudo.",
+      "implicaciones": "Las empresas de sectores gravados tienen esta semana para presentar sus argumentos en las audiencias.",
+      "que_vigilar": "Audiencias de Cali y Barranquilla, y apoyo de las bancadas.",
+      "fuentes": [
+        {
+          "medio": "Semana",
+          "titulo": "'Ley de Rescate Económico hay que sacarla': el mensaje inicial en la primera audiencia pública sobre el proyecto",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/ley-de-rescate-economico-hay-que-sacarla-el-mensaje-inicial-en-la-primera-audiencia-publica-sobre-el-proyecto/202650/"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "'Si no hacemos nada, iremos a una crisis nunca vista': Gobierno sale a buscar apoyos para la reforma tributaria",
+          "url": "https://www.elcolombiano.com/negocios/ley-rescate-economico-colombia-audiencias-congreso-HL43952665"
+        },
+        {
+          "medio": "Portafolio",
+          "titulo": "Ley de Rescate Económico entra en semana clave: Gobierno se reúne con partidos para impulsar su primer debate",
+          "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-entra-en-semana-clave-gobierno-se-reune-con-partidos-para-impulsar-su-primer-debate-506929"
+        },
+        {
+          "medio": "El País (Cali)",
+          "titulo": "Arrancan en Bogotá, Cali y Barranquilla las audiencias públicas para debatir la Ley de Rescate Económico",
+          "url": "https://www.elpais.com.co/politica/ley-de-rescate-economico-entra-en-etapa-de-audiencias-publicas-en-bogota-cali-y-barranquilla-2323.html"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Presidente del Congreso explicó cómo se desarrollará el debate de la Ley de Rescate una vez finalicen las audiencias",
+          "url": "https://www.infobae.com/colombia/2026/11/23/presidente-del-congreso-explico-como-se-desarrollara-el-debate-de-la-ley-de-rescate-del-gobierno-de-la-espriella-una-vez-finalicen-las-audiencias/"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Vicepresidente, ministros y jefe de Despacho encabezan ofensiva del Gobierno ante las bancadas",
+          "url": "https://ifmnoticias.com/gobierno/vicepresidente-ministros-y-jefe-de-despacho-encabezan-ofensiva-del-gobierno-ante/"
+        }
+      ]
+    },
+    {
+      "titulo": "Diez años del acuerdo de paz: el Consejo Noruego para Refugiados alerta un repunte de la violencia",
+      "categoria": "Paz y seguridad",
+      "importancia": 4,
+      "resumen": "Este 24 de noviembre se cumplen diez años de la firma definitiva del acuerdo con las FARC. Según el Consejo Noruego para Refugiados (NRC), citado por Infobae, el 75 % de las comunidades que reciben ayuda humanitaria percibe igual o más violencia que en 2016. Las personas con necesidades humanitarias aumentaron casi 40 %, a más de 8,1 millones. Con datos del IDMC, el NRC señala que los desplazados pasaron de 139.000 en 2017 a 388.000 en 2024. Su secretario general, Jan Egeland, pidió al Gobierno y a los donantes intensificar esfuerzos. El Heraldo recoge testimonios de víctimas y la aparición de disidencias pese al acuerdo.",
+      "por_que_importa": "La seguridad territorial afecta la operación de empresas en regiones, la inversión y los costos de seguridad.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Pone en primer plano el diagnóstico del NRC."
+        },
+        {
+          "medio": "El Heraldo",
+          "enfoque": "Combina balance histórico y testimonios de víctimas."
+        },
+        {
+          "medio": "Demócrata (España)",
+          "enfoque": "Mirada internacional centrada en la alerta humanitaria."
+        }
+      ],
+      "coincidencias": "Hay más grupos armados y más necesidades humanitarias que hace una década.",
+      "diferencias": "Las cifras del NRC sobre integrantes de grupos armados no coinciden entre su comunicado y sus notas; se omiten aquí.",
+      "analisis": "Los defensores del acuerdo destacan lo logrado con la desmovilización de las FARC; sus críticos señalan que el Estado no ocupó los territorios. El Gobierno actual apuesta por la presión militar, con bombardeos y cooperación con EE. UU.",
+      "implicaciones": "Empresas con operación rural deben mantener protocolos de seguridad y prever riesgos de extorsión.",
+      "que_vigilar": "Pronunciamientos oficiales en el aniversario y cambios en la política de seguridad.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Colombia enfrenta un repunte de violencia 10 años después del Acuerdo de Paz con las Farc, según el Consejo Noruego para Refugiados",
+          "url": "https://www.infobae.com/colombia/2026/11/23/colombia-enfrenta-un-repunte-de-violencia-10-anos-despues-del-acuerdo-de-paz-con-las-farc-segun-el-consejo-noruego-para-refugiados/"
+        },
+        {
+          "medio": "El Heraldo",
+          "titulo": "Este 24 de noviembre se cumplen diez años del acuerdo de paz en Colombia",
+          "url": "https://www.elheraldo.co/colombia/2026/11/24/este-24-de-noviembre-se-cumplen-diez-anos-del-acuerdo-de-paz-en-colombia/"
+        },
+        {
+          "medio": "Demócrata",
+          "titulo": "El NRC alerta de que la violencia en Colombia repunta diez años después del acuerdo de paz",
+          "url": "https://www.democrata.es/internacional/el-nrc-alerta-de-que-la-violencia-en-colombia-repunta-diez-anos-despues-del-acuerdo-de-paz/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Nvidia restituye a Jensen Huang como CEO y su acción sube 31 %; Wall Street rebota con fuerza",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "La junta de Nvidia restituyó a Jensen Huang como presidente y CEO por unanimidad, según su comunicado ante la SEC. Dijo haber recibido opiniones de 'altos niveles del Gobierno de EE. UU.' y estar segura de que su regreso no implica riesgo para la seguridad nacional; la investigación independiente sigue, según Euronews. La acción subió 31,48 %, su mejor día desde 2003, según CNBC; CNN calcula una ganancia de US$952.000 millones en valor de mercado. El S&P 500 subió 4,7 % a 7.237,17, el Nasdaq 6,5 % a 24.089,56 y el Dow 3 % a 49.595,31, según AP. Huang había renunciado el 13 de noviembre tras reportes sobre su vida privada.",
+      "por_que_importa": "Recupera buena parte de la caída de la semana pasada y reduce, por ahora, el temor a un desplome prolongado de la IA.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Se centra en el regreso de Huang y la subida histórica."
+        },
+        {
+          "medio": "CNN",
+          "enfoque": "Destaca el valor de mercado recuperado."
+        },
+        {
+          "medio": "Euronews",
+          "enfoque": "Subraya que la investigación independiente continúa."
+        },
+        {
+          "medio": "Nvidia (8-K ante la SEC)",
+          "enfoque": "Versión oficial de la junta."
+        }
+      ],
+      "coincidencias": "El regreso de Huang impulsó el mayor rebote del mercado en meses.",
+      "diferencias": "Un medio atribuye a Trump un papel personal en convencer a la junta; Nvidia solo habla de opiniones del Gobierno de EE. UU.",
+      "analisis": "El rebote muestra cuánto depende el mercado de unas pocas empresas de IA. La volatilidad sigue alta: la semana pasada el Nasdaq cayó 10 %.",
+      "implicaciones": "Menor aversión global al riesgo, aunque el peso colombiano no se benefició el lunes.",
+      "que_vigilar": "Si el rebote se sostiene y avances de la investigación interna de Nvidia.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        },
+        {
+          "medio": "CNN",
+          "titulo": "Nvidia shares soar more than 30% after Huang reinstated as CEO",
+          "url": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl"
+        },
+        {
+          "medio": "Euronews",
+          "titulo": "Nvidia shares soar after Jensen Huang returns as CEO",
+          "url": "https://www.euronews.com/2026/11/23/nvidia-reinstates-jensen-huang-as-ceo-11-days-after-he-resigned"
+        },
+        {
+          "medio": "Nvidia (SEC)",
+          "titulo": "NVIDIA CORP - Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
+        },
+        {
+          "medio": "The Washington Post (AP)",
+          "titulo": "How major US stock indexes fared Monday 11/23/2026",
+          "url": "https://www.washingtonpost.com/business/2026/11/23/wall-street-stocks-dow-nasdaq/5a7bcea0-e785-11f1-8db0-6f1e3c389e7c_story.html"
+        }
+      ]
+    },
+    {
+      "titulo": "Trump da más tiempo a la diplomacia con Irán y el petróleo cae a mínimos de tres meses",
+      "categoria": "Energía y geopolítica",
+      "importancia": 5,
+      "resumen": "Trump dijo a Fox News que podría reanudar operaciones militares contra Irán después de iniciar 2027 si no hay acuerdo, y que dará más tiempo a las conversaciones indirectas mediadas por Catar, según Bloomberg. Advirtió a los buques iraníes que no desafíen el bloqueo. El WTI de enero cerró en US$80,17 (−4,5 %) y el Brent en US$89,37 (−3,5 %), según Rigzone. El Brent acumula una caída cercana a un quinto en noviembre. Gulf News atribuye la baja también al aumento de los flujos de crudo de Oriente Medio pese a los ataques a tanqueros.",
+      "por_que_importa": "Un Brent por debajo de US$90 reduce los ingresos de Ecopetrol y de la Nación justo cuando se debate el ajuste fiscal.",
+      "perspectivas": [
+        {
+          "medio": "Bloomberg",
+          "enfoque": "Pone el foco en el nuevo plazo de Trump."
+        },
+        {
+          "medio": "Rigzone",
+          "enfoque": "Explica la reacción del petróleo."
+        },
+        {
+          "medio": "Gulf News",
+          "enfoque": "Mirada regional: más flujo de crudo pese a los ataques."
+        },
+        {
+          "medio": "The Jerusalem Post",
+          "enfoque": "Destaca la amenaza de nuevos ataques en 2027."
+        }
+      ],
+      "coincidencias": "La señal diplomática y la oferta abundante bajan el precio.",
+      "diferencias": "Los medios israelíes enfatizan la amenaza de ataques; los financieros, el alivio en los precios.",
+      "analisis": "El mercado descuenta menos riesgo de guerra en el corto plazo. El riesgo regresa en enero si fracasan las conversaciones.",
+      "implicaciones": "Menores ingresos petroleros para Colombia; alivio en costos de combustibles importados.",
+      "que_vigilar": "Reunión de la OPEP+ del 29 de noviembre y avances con Catar.",
+      "fuentes": [
+        {
+          "medio": "Bloomberg",
+          "titulo": "Trump Suggests Iran Strikes Will Resume Next Year If Talks Fail",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/trump-iran-talks-continue-year-end-republican-party-midterms-middle-east-arab"
+        },
+        {
+          "medio": "Rigzone",
+          "titulo": "Oil Falls as Trump Signals Iran Talks",
+          "url": "https://www.rigzone.com/news/wire/oil_falls_as_trump_signals_iran_talks-23-nov-2026-185152-article/"
+        },
+        {
+          "medio": "Gulf News",
+          "titulo": "Brent Crude Falls to $88 Amid Rising Middle East Oil Flows Despite Iran Tanker Attacks",
+          "url": "https://gulfnews.com/business/energy/brent-drops-to-88-wti-at-79-why-oil-is-sliding-despite-irans-tanker-attacks-1.500758802"
+        },
+        {
+          "medio": "The Jerusalem Post",
+          "titulo": "Donald Trump threatens new Iran strikes in 2027 if nuclear talks fail",
+          "url": "https://jpost.com/international/article-915744"
+        }
+      ]
+    },
+    {
+      "titulo": "Ucrania: la UE choca con Kushner sobre el orden de las negociaciones de paz",
+      "categoria": "Geopolítica",
+      "importancia": 3,
+      "resumen": "La Comisión Europea reafirmó el 23 de noviembre que un alto el fuego debe preceder a cualquier discusión sobre la arquitectura de seguridad europea, frente a la propuesta del enviado estadounidense Jared Kushner de tratar ambos temas juntos, según Euronews. El canciller alemán Merz defendió la misma secuencia. Según EUobserver, la UE delegó su representación en las instituciones europeas junto con Francia, Alemania, Reino Unido, Italia y Polonia. Euronews añade que la guerra no muestra señales de desacelerarse.",
+      "por_que_importa": "La división entre EE. UU. y Europa puede alargar la guerra, con efectos en energía, granos y fertilizantes.",
+      "perspectivas": [
+        {
+          "medio": "Euronews",
+          "enfoque": "Destaca el choque entre von der Leyen y Kushner."
+        },
+        {
+          "medio": "EUobserver",
+          "enfoque": "Explica cómo se organiza la representación europea."
+        },
+        {
+          "medio": "FinChannel",
+          "enfoque": "Lo presenta como una división transatlántica sobre la secuencia."
+        }
+      ],
+      "coincidencias": "Hay diferencias claras entre Washington y Bruselas sobre el orden de las conversaciones.",
+      "diferencias": "Algunos medios enfatizan la división transatlántica; otros, la falta de avances sobre el terreno.",
+      "analisis": "Europa teme ceder garantías de seguridad sin un alto el fuego previo; Washington busca un paquete integral. Rusia rechaza negociaciones multilaterales simultáneas.",
+      "implicaciones": "Efecto indirecto para Colombia vía precios internacionales de energía y fertilizantes.",
+      "que_vigilar": "Nuevas rondas de conversaciones y sanciones de la UE antes de Navidad.",
+      "fuentes": [
+        {
+          "medio": "Euronews",
+          "titulo": "Von der Leyen and Kushner clash over peace talks sequence",
+          "url": "https://www.euronews.com/2026/11/23/von-der-leyen-and-kushner-clash-over-peace-talks-sequence"
+        },
+        {
+          "medio": "EUobserver",
+          "titulo": "EU leaders hand Ukraine peace talks to France, Germany, UK, Italy, Poland plus Brussels",
+          "url": "https://euobserver.com/248871/eu-leaders-hand-ukraine-peace-talks-to-france-germany-uk-italy-poland-plus-brussels-instead-of-a-single-envoy/"
+        },
+        {
+          "medio": "FinChannel",
+          "titulo": "Ukraine Peace Talks Expose a U.S.–European Divide Over Sequencing",
+          "url": "https://finchannel.com/ukraine-peace-talks-expose-a-u-s-european-divide-over-sequencing/142723/world-2/2026/11/"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "Wall Street recuperó con fuerza el lunes gracias al regreso de Jensen Huang a Nvidia. El petróleo cayó a mínimos de tres meses por la señal diplomática de Trump con Irán y mayores flujos del Golfo. El peso colombiano no acompañó el rebote: el dólar superó los $3.500. Petróleo más barato y peso débil son una combinación incómoda para las cuentas fiscales y la inflación.",
+  "agenda": [
+    "26 de noviembre: audiencia pública de la Ley de Rescate en Cali; Día de Acción de Gracias en EE. UU. (mercados cerrados).",
+    "27 de noviembre: audiencia pública de la Ley de Rescate en Barranquilla.",
+    "29 de noviembre: reunión de la OPEP+ sobre producción de 2027.",
+    "1–2 de diciembre: votación prevista de la Ley de Rescate en comisiones económicas conjuntas.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "15 de diciembre: plazo para un acuerdo inicial sobre el salario mínimo 2027.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "La TRM del 24 de noviembre ($3.505,92) se tomó de Colombia.com y otros sitios de cotización; El Comercio reportó otra cifra para el mismo día, y no se consultó directamente la Superfinanciera. El WTI corresponde ya al contrato de enero, por lo que su variación mensual no es comparable y se omite. El papel personal de Trump en la decisión de la junta de Nvidia proviene de un solo medio y no se incluye como hecho. Las cifras del NRC sobre integrantes de grupos armados no coinciden entre sus documentos y se omiten. Solo se confirmaron 3 temas de Colombia con fuentes del día; no se verificaron detalles de la captura de un comandante del ELN en Santander. No se verificaron COLCAP, oro, café ni el bono a 10 años.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3505.92,
+      "variacion_pct": 1.27,
+      "variacion_mes_pct": null,
+      "vigencia": "24 nov",
+      "fuente": "Superfinanciera (vía Colombia.com)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3506.54,
+      "variacion_pct": 1.25,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 23 nov",
+      "fuente": "El Universal / Noticias RCN"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 89.37,
+      "variacion_pct": -3.5,
+      "variacion_mes_pct": -20.0,
+      "vigencia": "Cierre 23 nov",
+      "fuente": "Rigzone"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI (ene.)",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 80.17,
+      "variacion_pct": -4.5,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 23 nov",
+      "fuente": "Rigzone"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7237.17,
+      "variacion_pct": 4.7,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 23 nov",
+      "fuente": "AP (vía The Washington Post)"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 24089.56,
+      "variacion_pct": 6.5,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 23 nov",
+      "fuente": "AP (vía The Washington Post)"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 49595.31,
+      "variacion_pct": 3.01,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 23 nov",
+      "fuente": "AP (vía The Washington Post)"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "PIB Colombia",
+      "valor": "+0,5 % anual",
+      "fecha_dato": "Tercer trimestre 2026 (preliminar)",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
+      "comentario": "−0,8 % frente al segundo trimestre; acumulado enero–septiembre +2,1 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión el 9 de diciembre. Las minutas de octubre y el gobernador Waller apuntan a una posible alza; las probabilidades de mercado citadas varían según la fuente."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 25,
+    "medios": [
+      {
+        "medio": "Infobae",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Euronews",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "El Tiempo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Noticias RCN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Universal",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Colombia.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Colombiano",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El País (Cali)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "IFM Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Heraldo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Demócrata",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Nvidia (SEC)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Washington Post (AP)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Bloomberg",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Rigzone",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Gulf News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Jerusalem Post",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "EUobserver",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "FinChannel",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
