@@ -1,0 +1,632 @@
+{
+  "fecha": "2026-11-25",
+  "generado": "2026-11-25T10:39:40.165585Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "El dólar roza los $3.600 y la TRM salta a $3.592 por la Fed y la incertidumbre fiscal, mientras el Gobierno busca votos para la Ley de Rescate; EE. UU. endurece sanciones financieras a Irán.",
+  "lo_esencial": [
+    "El dólar cerró cerca de $3.600 el martes; la TRM de hoy es $3.592,03, casi $300 más que hace una semana.",
+    "Ley de Rescate: Cambio Radical y Conservadores dispuestos a trabajar en ella; borrador de ponencia previsto para el jueves 26.",
+    "En la primera audiencia pública, 32 de 58 intervenciones rechazaron el proyecto, según El Colombiano.",
+    "La OCDE prevé que Colombia crezca 2,1 % en 2027, con inflación cerca de 6 % y déficit de 7,2 % del PIB.",
+    "Wall Street dividida: el Dow recupera 50.000 y el Nasdaq cae 1,5 % por la venta de chips.",
+    "EE. UU. sanciona la 'banca en la sombra' de Irán; el petróleo rebota más de 2 % por ataques a tanqueros."
+  ],
+  "colombia": [
+    {
+      "titulo": "El dólar roza los $3.600 y la TRM salta a $3.592,03; el peso acumula su peor racha en meses",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "El dólar cerró el martes 24 cerca de $3.600: El Espectador reporta $3.620, con máximo de $3.645, y Semana $3.592. Noticias RCN habla de un precio no visto en seis meses. La TRM para este miércoles 25 es $3.592,03, según Colombia.com y CapitalColombia, frente a $3.505,92 del martes. Según El Espectador, pesan la expectativa de otra alza de la Fed en diciembre y el trámite de la Ley de Rescate. Pulzo atribuye el alza sobre todo al bajo crecimiento del tercer trimestre y a la incertidumbre fiscal. La TRM pasó de $3.316,70 el 17 de noviembre a $3.505,92 el 24.",
+      "por_que_importa": "Una subida de casi $300 en una semana encarece importaciones, insumos y deuda externa, y puede presionar la inflación de inicio de año.",
+      "perspectivas": [
+        {
+          "medio": "El Espectador",
+          "enfoque": "Combina factores externos (Fed) e internos (Ley de Rescate)."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Destaca el salto de más de $86 en un día."
+        },
+        {
+          "medio": "Pulzo",
+          "enfoque": "Pone el foco en el bajo crecimiento y el riesgo fiscal."
+        },
+        {
+          "medio": "Noticias RCN",
+          "enfoque": "Subraya el máximo de seis meses."
+        }
+      ],
+      "coincidencias": "El peso se deprecia con fuerza y hay factores locales y externos.",
+      "diferencias": "El cierre del martes varía entre medios ($3.590 a $3.620) por la hora de corte. Unos analistas ponen más peso en la Fed; otros, en el riesgo fiscal.",
+      "analisis": "El peso se deprecia más que otras monedas pese al rebote de Wall Street del lunes, lo que apunta a un componente local. El resultado de la Ley de Rescate se vuelve clave para el tipo de cambio.",
+      "implicaciones": "Importadores deben revisar coberturas y precios; exportadores ganan en pesos. Las empresas con deuda en dólares enfrentan mayor costo.",
+      "que_vigilar": "Cierre del miércoles, datos de inflación PCE de EE. UU. y señales de la Ley de Rescate.",
+      "fuentes": [
+        {
+          "medio": "El Espectador",
+          "titulo": "Precio del dólar hoy en Colombia: así cerró la divisa este 24 de noviembre",
+          "url": "https://www.elespectador.com/economia/macroeconomia/el-dolar-sigue-al-alza-asi-abrio-en-colombia-este-martes-24-de-noviembre/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Dólar cerca de los $3.600; aumento de más de $86 en el precio de la divisa para el martes 24 de noviembre",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-cerca-de-los-3600-aumento-de-mas-de-86-en-el-precio-de-la-divisa-para-el-martes-24-de-noviembre/202611/"
+        },
+        {
+          "medio": "Noticias RCN",
+          "titulo": "¡El dólar llegó a un precio no visto hace seis meses! Así cerró hoy 24 de noviembre de 2026",
+          "url": "https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-en-el-cierre-de-hoy-24-de-noviembre-de-2026-1084991"
+        },
+        {
+          "medio": "Pulzo",
+          "titulo": "Dólar en Colombia cierra al alza el 24 de noviembre: factores económicos y proyecciones para diciembre",
+          "url": "https://www.pulzo.com/economia/dolar-en-colombia-hoy-precio-trm-y-razones-del-alza-segun-dane-y-expertos-PP5363644A"
+        },
+        {
+          "medio": "Colombia.com",
+          "titulo": "Precio del dólar hoy en Colombia: cotización de este miércoles 25 de noviembre de 2026",
+          "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-miercoles-25-de-noviembre-de-2026-614079"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: el Gobierno recorre las bancadas; la primera audiencia dejó más rechazos que apoyos",
+      "categoria": "Política fiscal",
+      "importancia": 5,
+      "resumen": "Hacienda y el vicepresidente José Manuel Restrepo se reunieron el lunes con Cambio Radical y el Partido Conservador, que se mostraron dispuestos a trabajar en la ley; los conservadores plantearon aprobarla a más tardar el 16 de diciembre, según Portafolio y La FM. El martes fue el turno de la Alianza Verde y el Partido Liberal; según IFM Noticias, el Gobierno anunció que el recaudo extra de la DIAN irá al Fondo Milagro. Según El Colombiano, de 58 intervenciones en la primera audiencia, 32 rechazaron el proyecto, 16 pidieron cambios y 10 respaldaron alguna parte; Hacienda prevé un borrador de ponencia el jueves 26 y radicarla el lunes 30.",
+      "por_que_importa": "Los apoyos de las bancadas definirán si la ley pasa antes del 16 de diciembre y con qué tamaño.",
+      "perspectivas": [
+        {
+          "medio": "Portafolio",
+          "enfoque": "Destaca la fecha clave planteada por los partidos."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Cuantifica el balance crítico de la audiencia."
+        },
+        {
+          "medio": "IFM Noticias",
+          "enfoque": "Recoge el anuncio sobre el Fondo Milagro."
+        },
+        {
+          "medio": "La FM",
+          "enfoque": "Resume qué pide cada bancada."
+        }
+      ],
+      "coincidencias": "Hay disposición de varios partidos a negociar, pero el proyecto enfrenta rechazo en sectores afectados.",
+      "diferencias": "Los partidos de gobierno enfatizan la urgencia; Liberales y Centro Democrático mantienen reparos, según los reportes.",
+      "analisis": "El Gobierno parece tener una base para el primer debate, pero el texto final dependerá de concesiones. Los rechazos sectoriales presionan a reducir impuestos específicos.",
+      "implicaciones": "Sectores de bebidas, licores, entretenimiento y cigarrillos deben seguir el borrador de ponencia del jueves.",
+      "que_vigilar": "Borrador de ponencia (26 nov), radicación (30 nov) y audiencias de Cali y Barranquilla.",
+      "fuentes": [
+        {
+          "medio": "Portafolio",
+          "titulo": "Ley de Rescate Económico: partidos políticos ponen sobre la mesa fecha clave para aprobarla",
+          "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-partidos-politicos-ponen-sobre-la-mesa-fecha-clave-para-aprobarla-506959"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "¿Boleta de cine con IVA del 19%? ¿Cerveza más cara? Así fue la primera audiencia de la Ley de Rescate",
+          "url": "https://www.elcolombiano.com/negocios/ley-de-rescate-audiencia-publica-congreso-rachazo-cambios-a-favor-JG43983956"
+        },
+        {
+          "medio": "IFM Noticias",
+          "titulo": "Gobierno llevó la Ley de Rescate Económico a las bancadas Verde y Liberal y anunció que el recaudo extra de la DIAN irá al Fondo Milagro",
+          "url": "https://ifmnoticias.com/gobierno/gobierno-lleva-la-ley-de-rescate-economico-a-las-bancadas-verde-y-liberal-y-anun/"
+        },
+        {
+          "medio": "La FM",
+          "titulo": "Ley de Rescate Económico: qué piden las bancadas y cuándo se espera el primer debate",
+          "url": "https://www.lafm.com.co/economia/ley-de-rescate-economico-reuniones-con-bancadas-y-fechas-de-audiencias-publicas-418193"
+        },
+        {
+          "medio": "Radio Hoy",
+          "titulo": "Ley de Rescate Económico: Gobierno sigue reuniéndose con las bancadas y prepara el primer debate",
+          "url": "https://www.radiohoy.com/2026/11/24/ley-de-rescate-economico-gobierno-sigue-reuniendose-con-las-bancadas-y-prepara-el-primer-debate/835884/"
+        }
+      ]
+    },
+    {
+      "titulo": "La OCDE prevé que Colombia crezca 2,1 % en 2027, con inflación cerca de 6 % y déficit de 7,2 % del PIB",
+      "categoria": "Economía",
+      "importancia": 4,
+      "resumen": "En su Estudio Económico presentado en Bogotá el 20 de noviembre, la OCDE proyecta que el crecimiento bajará de 2,6 % en 2026 a 2,1 % en 2027. Prevé inflación de 6,0 % en 2026 y 5,9 % en 2027, lejos de la meta de 3 % del BanRep, y un déficit del Gobierno de 7,2 % del PIB en ambos años. Pide una consolidación fiscal 'creíble y gradual'. La República destaca que la OCDE también anticipa un aumento del desempleo en 2027.",
+      "por_que_importa": "Es una referencia externa para inversionistas y calificadoras en plena discusión fiscal.",
+      "perspectivas": [
+        {
+          "medio": "La República",
+          "enfoque": "Enfatiza la desaceleración y el desempleo."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Recoge el diagnóstico de 'situación difícil'."
+        },
+        {
+          "medio": "Pymenoticias",
+          "enfoque": "Se centra en las recomendaciones para pymes y costos laborales."
+        }
+      ],
+      "coincidencias": "La OCDE ve un crecimiento moderado y pide ajuste fiscal.",
+      "diferencias": "Según una fuente, el Gobierno aspira a crecer 6 %, una meta muy superior a la proyección de la OCDE.",
+      "analisis": "El informe respalda la necesidad de un ajuste, pero advierte que debe ser gradual. Con PIB débil y peso en caída, el margen del BanRep para bajar tasas es limitado.",
+      "implicaciones": "Planes de negocio para 2027 deberían usar escenarios de crecimiento cercanos a 2 %.",
+      "que_vigilar": "Reacción del Gobierno y de calificadoras.",
+      "fuentes": [
+        {
+          "medio": "La República",
+          "titulo": "PIB desacelerado y desempleo en aumento para 2027 según prevé la Ocde",
+          "url": "https://www.larepublica.co/economia/la-ocde-presento-el-informe-de-estudios-economicos-de-la-ocde-colombia-2026-4528958"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Para la Ocde, la economía colombiana está pasando por 'una situación difícil'",
+          "url": "https://www.infobae.com/colombia/2026/11/21/para-la-ocde-la-economia-colombiana-esta-pasando-por-una-situacion-dificil-por-el-deficit-fiscal-la-inflacion-y-la-poca-inversion/"
+        },
+        {
+          "medio": "Pymenoticias",
+          "titulo": "OCDE: Colombia crecerá 2,1 % en 2027 y qué pide para pymes",
+          "url": "https://www.pymenoticias.com/post/ocde-estudio-economico-colombia-costos-laborales-ia"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Wall Street, dividida: el Dow recupera 50.000 y el Nasdaq cae 1,5 % por una nueva venta de chips",
+      "categoria": "Mercados",
+      "importancia": 4,
+      "resumen": "El martes 24, el Dow subió 0,85 % a 50.018,70, mientras el S&P 500 bajó 0,50 % a 7.201,09 y el Nasdaq 1,48 % a 23.733,54, según Yahoo Finance. El índice de semiconductores de Filadelfia cayó cerca de 8 % y Nvidia devolvió parte de su alza del lunes. Los inversionistas rotaron hacia salud y consumo; Sanofi anunció la compra de Insmed, según un comunicado ante la SEC. La confianza del consumidor de la Conference Board subió a 103,3, por encima de lo esperado.",
+      "por_que_importa": "La volatilidad en tecnología sigue alta y mantiene la cautela global, con efectos sobre monedas emergentes.",
+      "perspectivas": [
+        {
+          "medio": "Yahoo Finance",
+          "enfoque": "Explica la rotación desde tecnología hacia sectores defensivos."
+        },
+        {
+          "medio": "BigGo Finance",
+          "enfoque": "Destaca la caída de casi 8 % de los semiconductores."
+        },
+        {
+          "medio": "Sanofi (SEC)",
+          "enfoque": "Comunicado oficial de la compra de Insmed."
+        }
+      ],
+      "coincidencias": "Rotación sectorial y nueva presión sobre los chips.",
+      "diferencias": "El precio de la compra de Insmed no aparece en el extracto del comunicado; las cifras previas eran estimaciones de prensa.",
+      "analisis": "El rebote del lunes no consolidó la confianza en la IA. El mercado busca refugio en sectores defensivos.",
+      "implicaciones": "La aversión al riesgo puede seguir presionando al peso.",
+      "que_vigilar": "PIB del tercer trimestre e inflación PCE de EE. UU., y el cierre por Acción de Gracias el jueves.",
+      "fuentes": [
+        {
+          "medio": "Yahoo Finance",
+          "titulo": "Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as Dow Gains on Value Rotation",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-24-221148355.html"
+        },
+        {
+          "medio": "BigGo Finance",
+          "titulo": "Dow Reclaims 50,000, Closes Up 423 Points; Philadelphia Semiconductor Index Plunges Nearly 8%",
+          "url": "https://finance.biggo.com/news/efa4550f-327b-4612-b151-77555e7d62dd"
+        },
+        {
+          "medio": "Sanofi (SEC)",
+          "titulo": "Sanofi - Form 6-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526473314/d130092dex991.htm"
+        }
+      ]
+    },
+    {
+      "titulo": "EE. UU. sanciona la 'banca en la sombra' de Irán; Teherán descarta más conversaciones sin sus siete condiciones",
+      "categoria": "Geopolítica",
+      "importancia": 4,
+      "resumen": "El Tesoro de EE. UU. sancionó a más de dos docenas de casas de cambio, empresas fachada y personas que forman una red de 'banca en la sombra' iraní, la mayoría en Dubái y otras en Hong Kong y Turquía, en lo que llama 'Operación Economic Outcast'. El secretario Scott Bessent la calificó de 'último salvavidas financiero' del régimen. Según Al Jazeera, el gobernador del banco central iraní dijo que EE. UU. parece haberse 'quedado sin objetivos'. El presidente del Parlamento, Ghalibaf, descartó más conversaciones hasta que Washington cumpla siete condiciones, entre ellas levantar el bloqueo naval.",
+      "por_que_importa": "Más presión financiera y un diálogo estancado mantienen el riesgo sobre Ormuz y el petróleo.",
+      "perspectivas": [
+        {
+          "medio": "Departamento del Tesoro de EE. UU.",
+          "enfoque": "Versión oficial: corta el financiamiento del régimen."
+        },
+        {
+          "medio": "Al Jazeera",
+          "enfoque": "Destaca la escalada de sanciones y la respuesta iraní."
+        },
+        {
+          "medio": "Townhall",
+          "enfoque": "Medio conservador: lo presenta como un golpe al último refugio financiero de Irán."
+        }
+      ],
+      "coincidencias": "Las sanciones apuntan a redes en Dubái, Hong Kong y Turquía.",
+      "diferencias": "Washington lo ve como presión eficaz; Teherán lo minimiza.",
+      "analisis": "EE. UU. combina presión económica y pausa militar hasta enero. Las condiciones iraníes siguen lejos de lo aceptable para Washington.",
+      "implicaciones": "Riesgo persistente para el petróleo; posibles efectos en bancos de Emiratos.",
+      "que_vigilar": "Respuesta de Emiratos y nuevos incidentes en Ormuz.",
+      "fuentes": [
+        {
+          "medio": "Departamento del Tesoro de EE. UU.",
+          "titulo": "Operation Economic Outcast Disrupts Iran's Global Shadow Banking Networks",
+          "url": "https://home.treasury.gov/news/press-releases/sb0699"
+        },
+        {
+          "medio": "Al Jazeera",
+          "titulo": "US escalates sanctions on Iran, targets 'shadow banking' networks",
+          "url": "https://aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks"
+        },
+        {
+          "medio": "Townhall",
+          "titulo": "Trump Administration Moves to Blow Up Iran's Last Bastion of Financial Refuge",
+          "url": "https://townhall.com/news/mattvespa/2026/11/23/trump-administration-moves-to-blow-up-irans-bastion-of-financial-refuge-n2686968"
+        }
+      ]
+    },
+    {
+      "titulo": "El petróleo rebota más de 2 % por nuevos ataques a tanqueros, pese al temor a exceso de oferta",
+      "categoria": "Energía",
+      "importancia": 4,
+      "resumen": "Según Bloomberg (vía Rigzone), el WTI de enero subió 2,4 % a US$82,05 y el Brent 2,3 % a US$91,40 el martes 24, por nuevos ataques a tanqueros y el conflicto entre EE. UU. e Irán. El bajo volumen previo a Acción de Gracias amplificó los movimientos. Horas antes, reportes basados en Reuters describían precios cerca de mínimos de tres meses por mayor oferta, según UkrAgroConsult.",
+      "por_que_importa": "La volatilidad del crudo complica las proyecciones de ingresos de Ecopetrol y de la Nación.",
+      "perspectivas": [
+        {
+          "medio": "Rigzone (Bloomberg)",
+          "enfoque": "Atribuye el alza a los ataques a tanqueros."
+        },
+        {
+          "medio": "UkrAgroConsult",
+          "enfoque": "Destaca la tendencia a mínimos por más oferta."
+        },
+        {
+          "medio": "Armenpress",
+          "enfoque": "Reporta alzas más moderadas a media jornada."
+        }
+      ],
+      "coincidencias": "El precio rebotó en el día tras tocar mínimos de tres meses.",
+      "diferencias": "Las cifras varían por contrato y hora de corte (Brent entre US$90 y 91,40).",
+      "analisis": "El mercado oscila entre riesgo geopolítico y exceso de oferta. La OPEP+ del 29 de noviembre es el próximo catalizador.",
+      "implicaciones": "Para Colombia, el crudo cerca de US$90 sigue por debajo de los niveles de octubre.",
+      "que_vigilar": "Reunión de la OPEP+ y nuevos incidentes en el Golfo.",
+      "fuentes": [
+        {
+          "medio": "Rigzone",
+          "titulo": "Oil Climbs Despite Growing Oversupply Fears",
+          "url": "https://www.rigzone.com/news/wire/oil_climbs_despite_growing_oversupply_fears-24-nov-2026-185160-article/"
+        },
+        {
+          "medio": "UkrAgroConsult",
+          "titulo": "Global crude oil prices fall to three-month lows amid rising supply",
+          "url": "https://ukragroconsult.com/en/news/global-crude-oil-prices-fall-to-three-month-lows-amid-rising-supply/"
+        },
+        {
+          "medio": "Armenpress",
+          "titulo": "Oil Prices Up - 24-11-26",
+          "url": "https://armenpress.am/en/article/1266558"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "El peso colombiano sigue débil y el dólar se acerca a $3.600, por la expectativa de alzas de la Fed y la incertidumbre fiscal local. En EE. UU., la venta de chips volvió tras el rebote del lunes, aunque el Dow subió por rotación a sectores defensivos. El petróleo rebotó, pero sigue cerca de mínimos de tres meses. El jueves, los mercados de EE. UU. cierran por Acción de Gracias.",
+  "agenda": [
+    "Hoy, 25 de noviembre: PIB del tercer trimestre e inflación PCE de EE. UU.",
+    "26 de noviembre: borrador de ponencia de la Ley de Rescate y audiencia en Cali; mercados de EE. UU. cerrados.",
+    "27 de noviembre: audiencia de la Ley de Rescate en Barranquilla.",
+    "29 de noviembre: reunión de la OPEP+.",
+    "30 de noviembre: radicación prevista de la ponencia.",
+    "1–2 de diciembre: votación prevista en comisiones económicas conjuntas.",
+    "9 de diciembre: decisión de la Fed; 18 de diciembre: decisión del BanRep."
+  ],
+  "balance_cobertura": "La TRM del 25 de noviembre ($3.592,03) proviene de sitios de cotización que la atribuyen al BanRep; El Comercio reportó otra cifra y no se consultó directamente la Superfinanciera. El cierre del dólar del 24 varía entre $3.590 y $3.620 según el medio; se usa $3.620 de El Espectador sin variación porcentual. Los precios del petróleo difieren entre fuentes por contrato y hora; se usan las liquidaciones de Bloomberg. No se confirmó el precio de la compra de Insmed por Sanofi. La meta de crecimiento de 6 % del Gobierno viene de una sola fuente. La agenda de datos de EE. UU. (PIB y PCE del 25) proviene de un resumen de mercado. Solo se confirmaron 3 temas por sección con fuentes del día. No se verificaron COLCAP, oro, café ni el bono a 10 años.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3592.03,
+      "variacion_pct": 2.46,
+      "variacion_mes_pct": null,
+      "vigencia": "25 nov",
+      "fuente": "Superfinanciera (vía Colombia.com / CapitalColombia)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3620.0,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 24 nov (cifras difieren entre medios)",
+      "fuente": "El Espectador"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 91.4,
+      "variacion_pct": 2.3,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 24 nov",
+      "fuente": "Bloomberg (vía Rigzone)"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI (ene.)",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 82.05,
+      "variacion_pct": 2.4,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 24 nov",
+      "fuente": "Bloomberg (vía Rigzone)"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7201.09,
+      "variacion_pct": -0.5,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 24 nov",
+      "fuente": "Yahoo Finance"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 23733.54,
+      "variacion_pct": -1.48,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 24 nov",
+      "fuente": "Yahoo Finance"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 50018.7,
+      "variacion_pct": 0.85,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 24 nov",
+      "fuente": "Yahoo Finance"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "PIB Colombia",
+      "valor": "+0,5 % anual",
+      "fecha_dato": "Tercer trimestre 2026 (preliminar)",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
+      "comentario": "−0,8 % frente al segundo trimestre; acumulado enero–septiembre +2,1 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión el 9 de diciembre. Las minutas de octubre y el gobernador Waller apuntan a una posible alza; las probabilidades de mercado citadas varían según la fuente."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    },
+    {
+      "nombre": "Proyección de crecimiento OCDE (Colombia 2027)",
+      "valor": "2,1 %",
+      "fecha_dato": "Estudio Económico, 20 nov 2026",
+      "fuente": "OCDE (vía La República)",
+      "url": "https://www.larepublica.co/economia/la-ocde-presento-el-informe-de-estudios-economicos-de-la-ocde-colombia-2026-4528958",
+      "comentario": "Prevé 2,6 % en 2026, inflación de 5,9 % en 2027 y déficit de 7,2 % del PIB."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 22,
+    "medios": [
+      {
+        "medio": "El Espectador",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Noticias RCN",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Pulzo",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Colombia.com",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Colombiano",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "IFM Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La FM",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Radio Hoy",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La República",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Infobae",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Pymenoticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "BigGo Finance",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Sanofi (SEC)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Departamento del Tesoro de EE. UU.",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al Jazeera",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Townhall",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Rigzone",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "UkrAgroConsult",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Armenpress",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
