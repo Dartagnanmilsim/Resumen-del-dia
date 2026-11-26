@@ -1,0 +1,611 @@
+{
+  "fecha": "2026-11-26",
+  "generado": "2026-11-26T10:39:51.337209Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "EE. UU. propone aranceles a 14 economías y un ataque hutí a la mayor refinería saudí dispara el petróleo; en Colombia, el dólar toca $3.690 y crece la ola de atentados.",
+  "lo_esencial": [
+    "El dólar tocó $3.691,90 el miércoles y cerró más abajo; la TRM del 25 fue $3.592,03, máxima en casi seis meses.",
+    "Ola de atentados del ELN y operaciones militares en Cauca y Meta; el Gobierno ordenó una ofensiva total.",
+    "Ley de Rescate: Hacienda 'abierta a evaluar alternativas'; la ponencia se radicaría el 30 de noviembre.",
+    "EE. UU. propone aranceles de la Sección 301 a 14 economías, entre ellas China, la UE, Japón e India; Colombia no está.",
+    "Los hutíes dicen haber atacado Ras Tanura; el Brent subió 3,5 % a US$94,61.",
+    "Wall Street cerró mixta tras una caída intradía fuerte; hoy no opera por Acción de Gracias."
+  ],
+  "colombia": [
+    {
+      "titulo": "El dólar toca $3.690 en una jornada volátil; la TRM de $3.592 es la más alta en casi seis meses",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "El miércoles 25, el dólar abrió en $3.620, tocó un máximo de $3.691,90 y un mínimo de $3.551,99, con promedio de $3.630,52, según Infobae, que atribuye la presión al 'nerviosismo por la ley de rescate' y a la posibilidad de un alza de la Fed en diciembre. Semana reporta que cerró a la baja, en torno a $3.555. La TRM del 25 fue $3.592,03, $86,11 más que la del día anterior, según Semana y Noticias Caracol.",
+      "por_que_importa": "La volatilidad del peso complica la planeación de importaciones, precios y coberturas en la recta final del año.",
+      "perspectivas": [
+        {
+          "medio": "Infobae",
+          "enfoque": "Liga el alza al nerviosismo por la Ley de Rescate y la Fed."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Destaca que la moneda cerró a la baja tras el pico."
+        },
+        {
+          "medio": "Noticias Caracol",
+          "enfoque": "Subraya que la TRM se acerca a $3.600."
+        },
+        {
+          "medio": "Portafolio",
+          "enfoque": "Pone el foco en la espera del dato de inflación de EE. UU."
+        }
+      ],
+      "coincidencias": "Jornada muy volátil con niveles cercanos a máximos de seis meses.",
+      "diferencias": "Las cifras de cierre varían mucho entre medios ($3.555 a $3.617) por la hora de corte; unos ven alivio al cierre y otros, continuidad del alza.",
+      "analisis": "El mercado reacciona a cada señal sobre la Ley de Rescate y la Fed. El cierre a la baja puede indicar toma de utilidades, no un cambio de tendencia.",
+      "implicaciones": "Conviene escalonar compras de divisas y revisar coberturas.",
+      "que_vigilar": "TRM de hoy y el borrador de ponencia de la Ley de Rescate.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "titulo": "Precio del dólar hoy en Colombia: sigue subiendo y así de caro cerró el 25 de noviembre de 2026 ante el nerviosismo por la ley de rescate",
+          "url": "https://www.infobae.com/colombia/2026/11/25/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-25-de-noviembre/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Dólar más barato; la moneda cierra la jornada del miércoles 25 con tendencia a la baja",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-mas-barato-la-moneda-cierra-la-jornada-del-miercoles-25-con-tendencia-a-la-baja/202601/"
+        },
+        {
+          "medio": "Noticias Caracol",
+          "titulo": "Dólar 25 de noviembre de 2026, en Colombia: TRM se acerca a los $3.600",
+          "url": "https://www.noticiascaracol.com/economia/precio-del-dolar-hoy-25-de-noviembre-de-2026-en-colombia-trm-se-acerca-a-los-3-600-so35"
+        },
+        {
+          "medio": "Portafolio",
+          "titulo": "El dólar en Colombia se dispara: así cotiza la divisa este 25 de noviembre a espera de la inflación en EE. UU.",
+          "url": "https://www.portafolio.co/economia/finanzas/el-dolar-en-colombia-se-dispara-asi-cotiza-la-divisa-este-25-de-noviembre-a-espera-de-la-inflacion-en-ee-uu-507057"
+        }
+      ]
+    },
+    {
+      "titulo": "Ola de atentados en torno al aniversario de la paz; el Ejército golpea al ELN en Cauca y a disidencias en Meta",
+      "categoria": "Orden público",
+      "importancia": 5,
+      "resumen": "CNN en Español y La Jornada reportan una serie de atentados y secuestros en los últimos días. Según CNN, uno de los primeros, en La Jagua de Ibirico (Cesar), dejó un militar muerto y se atribuyó al ELN; otro con drones golpeó instalaciones policiales en Tibú (Catatumbo). Según ABC Color, con información del Ejército, una operación contra el ELN en Puracé (Cauca) dejó un muerto, diez detenidos y un secuestrado rescatado; el presidente dijo que llevaba 75 días en cautiverio. Infobae reportó un bombardeo en Mapiripán (Meta) contra disidencias con al menos cinco muertos. Según CNN, el Gobierno cerró los diálogos y ordenó una ofensiva total contra el ELN y las disidencias.",
+      "por_que_importa": "La escalada afecta operación, logística y seguridad del personal en regiones clave, en especial en Catatumbo, Cesar y Cauca.",
+      "perspectivas": [
+        {
+          "medio": "CNN en Español",
+          "enfoque": "Explica qué hay detrás de los atentados."
+        },
+        {
+          "medio": "La Jornada (México)",
+          "enfoque": "Habla de una crisis de seguridad."
+        },
+        {
+          "medio": "ABC Color (Paraguay)",
+          "enfoque": "Reporta el operativo militar con la versión del Ejército."
+        },
+        {
+          "medio": "Infobae",
+          "enfoque": "Recoge el balance oficial del bombardeo."
+        }
+      ],
+      "coincidencias": "Hay una escalada simultánea de ataques y operaciones militares.",
+      "diferencias": "Los medios de izquierda enfatizan la crisis humanitaria; otros, los resultados militares. Algunas autorías aún no están confirmadas.",
+      "analisis": "Para el Gobierno, la ofensiva es la respuesta a grupos que rechazan negociar. Sus críticos advierten que la vía militar sola no ha reducido la violencia en el pasado, como señaló el NRC esta semana.",
+      "implicaciones": "Empresas con operaciones en zonas de conflicto deben reforzar protocolos y planes de contingencia.",
+      "que_vigilar": "Nuevos ataques del ELN y respuesta de la Fuerza Pública.",
+      "fuentes": [
+        {
+          "medio": "CNN en Español",
+          "titulo": "Una serie de atentados reaviva el fantasma de la violencia sin resolver en Colombia. ¿Qué hay detrás de ellos?",
+          "url": "https://cnnespanol.cnn.com/2026/11/25/colombia/atentados-violencia-colombia-paz-orix"
+        },
+        {
+          "medio": "La Jornada (México)",
+          "titulo": "Atentados y secuestros sumen a Colombia en crisis de seguridad",
+          "url": "https://www.jornada.com.mx/2026/11/25/mundo/020n1mun?partner=rss"
+        },
+        {
+          "medio": "ABC Color",
+          "titulo": "Operativo del Ejército colombiano contra el ELN deja un muerto y un secuestrado rescatado",
+          "url": "https://www.abc.com.py/internacionales/2026/11/25/operativo-del-ejercito-colombiano-contra-el-eln-deja-un-muerto-y-un-secuestrado-rescatado/"
+        },
+        {
+          "medio": "Infobae",
+          "titulo": "Al menos 5 muertos deja un nuevo bombardeo del Ejército colombiano contra las disidencias",
+          "url": "https://www.infobae.com/america/agencias/2026/11/21/al-menos-5-muertos-deja-un-nuevo-bombardeo-del-ejercito-colombiano-contra-las-disidencias/"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: Hacienda se dice 'abierta a evaluar alternativas'; la ponencia se radicaría el 30 de noviembre",
+      "categoria": "Política fiscal",
+      "importancia": 4,
+      "resumen": "El ministro de Hacienda, Miguel Gómez, se reunió con gremios para escuchar propuestas y dijo estar 'abierto a evaluar alternativas', según Semana. El Gobierno revisó el documento base de la ponencia con la Alianza Verde y el Partido Liberal. Según El Colombiano, la ponencia se radicaría el lunes 30 de noviembre; Gómez proyecta la votación en primer debate el 1 o 2 de diciembre. Las fechas de las audiencias de Cali y Barranquilla difieren entre medios.",
+      "por_que_importa": "La disposición a cambios indica que el texto final será distinto del radicado; las empresas deben seguir qué tributos sobreviven.",
+      "perspectivas": [
+        {
+          "medio": "Semana",
+          "enfoque": "Destaca la apertura de Hacienda a los gremios."
+        },
+        {
+          "medio": "El Colombiano",
+          "enfoque": "Detalla el calendario y el balance de la primera audiencia."
+        },
+        {
+          "medio": "Radio Hoy",
+          "enfoque": "Recoge las reuniones con bancadas."
+        }
+      ],
+      "coincidencias": "El calendario apunta a votar en la primera semana de diciembre.",
+      "diferencias": "Las fechas de las audiencias regionales no coinciden entre medios.",
+      "analisis": "El Gobierno cede para conseguir votos, en un contexto de peso débil que eleva el costo de no aprobar nada.",
+      "implicaciones": "Los gremios todavía pueden incidir antes del 30 de noviembre.",
+      "que_vigilar": "Texto de la ponencia y su impacto en el recaudo.",
+      "fuentes": [
+        {
+          "medio": "Semana",
+          "titulo": "'Estamos abiertos a evaluar alternativas': Miguel Gómez se reúne con los gremios para escuchar propuestas sobre la Ley de Rescate",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/estamos-abiertos-a-evaluar-alternativas-miguel-gomez-se-reune-con-los-gremios-para-escuchar-propuestas-sobre-la-ley-de-rescate/202636/"
+        },
+        {
+          "medio": "El Colombiano",
+          "titulo": "¿Boleta de cine con IVA del 19%? ¿Cerveza más cara? Así fue la primera audiencia de la Ley de Rescate",
+          "url": "https://www.elcolombiano.com/negocios/ley-de-rescate-audiencia-publica-congreso-rachazo-cambios-a-favor-JG43983956"
+        },
+        {
+          "medio": "Radio Hoy",
+          "titulo": "Ley de Rescate Económico: Gobierno sigue reuniéndose con las bancadas y prepara el primer debate",
+          "url": "https://www.radiohoy.com/2026/11/24/ley-de-rescate-economico-gobierno-sigue-reuniendose-con-las-bancadas-y-prepara-el-primer-debate/835884/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "EE. UU. propone nuevos aranceles de la Sección 301 a 14 economías, entre ellas China, la UE, Japón e India",
+      "categoria": "Comercio",
+      "importancia": 5,
+      "resumen": "La Oficina del Representante Comercial (USTR) determinó el 25 de noviembre que las políticas industriales de 14 economías perjudican el comercio de EE. UU. y propuso nuevos aranceles, según CNBC y ABC News. Los comentarios vencen el 5 de enero de 2027 y el representante Jamieson Greer dijo a CNBC que probablemente no entrarán en vigor en meses. Las cifras para China difieren: ABC habla de 20 % adicional, con amenaza de duplicarlo; CNBC, de un total cercano a 45 %. La UE dijo que las tasas no deben superar el tope de 15 % pactado. Los aranceles reemplazarían los que invalidó la Corte Suprema. México quedó en revisión.",
+      "por_que_importa": "Reordena el comercio global. Colombia no está en la lista, lo que podría abrir oportunidades de sustitución, pero un mundo con más aranceles frena el crecimiento.",
+      "perspectivas": [
+        {
+          "medio": "CNBC",
+          "enfoque": "Explica el mecanismo legal y el calendario."
+        },
+        {
+          "medio": "ABC News",
+          "enfoque": "Destaca la amenaza de duplicar el arancel a China."
+        },
+        {
+          "medio": "Invezz",
+          "enfoque": "Enfoque financiero en el impacto de mercado."
+        }
+      ],
+      "coincidencias": "La medida es una propuesta, con comentarios hasta enero.",
+      "diferencias": "Las tasas para China varían según el medio (20 % adicional frente a cerca de 45 % total).",
+      "analisis": "Washington busca reconstruir su política arancelaria tras el fallo de la Corte Suprema. El plazo largo deja espacio para negociar.",
+      "implicaciones": "Exportadores colombianos podrían ganar espacio frente a competidores asiáticos, si Colombia sigue fuera de la lista.",
+      "que_vigilar": "Reacción de China y la UE, y si México entra en la lista.",
+      "fuentes": [
+        {
+          "medio": "CNBC",
+          "titulo": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+          "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+        },
+        {
+          "medio": "ABC News",
+          "titulo": "Trump admin proposes new tariffs on China, EU and 12 other trading partners",
+          "url": "https://abcnews.com/Politics/trump-admin-proposes-new-tariffs-china-eu-12/story?id=138442698"
+        },
+        {
+          "medio": "Invezz",
+          "titulo": "Trump proposes new tariffs on China, EU and 12 other partners",
+          "url": "https://invezz.com/news/2026/11/25/trump-new-tariffs-14-economies-2026/"
+        }
+      ]
+    },
+    {
+      "titulo": "Los hutíes dicen haber atacado la refinería saudí de Ras Tanura; el Brent sube 3,5 %",
+      "categoria": "Energía y geopolítica",
+      "importancia": 5,
+      "resumen": "Los hutíes de Yemen afirmaron haber atacado Ras Tanura, la mayor refinería de Arabia Saudita, y dijeron que provocaron incendios. La coalición liderada por Arabia Saudita dijo haber interceptado cuatro drones, sin confirmar daños; imágenes satelitales revisadas por Reuters mostraron humo denso alrededor de la refinería, según Al-Monitor y US News. El Brent cerró en US$94,61 (+3,5 %) y el WTI en US$83,68 (+2 %), según CNBC. La Guardia Revolucionaria iraní dijo además que dos tanqueros chocaron con minas en Ormuz.",
+      "por_que_importa": "Un golpe a la infraestructura saudí puede quitar oferta y subir el crudo, lo que favorece los ingresos petroleros de Colombia.",
+      "perspectivas": [
+        {
+          "medio": "Al-Monitor",
+          "enfoque": "Recoge la reivindicación hutí y la respuesta saudí."
+        },
+        {
+          "medio": "US News (Reuters)",
+          "enfoque": "Destaca las imágenes satelitales."
+        },
+        {
+          "medio": "Middle East Eye",
+          "enfoque": "Pone el foco en el argumento hutí de represalia por ataques saudíes."
+        },
+        {
+          "medio": "CNBC",
+          "enfoque": "Explica la reacción del petróleo."
+        }
+      ],
+      "coincidencias": "Hubo un ataque reivindicado y humo visible; el petróleo subió.",
+      "diferencias": "Arabia Saudita no confirmó daños; el alcance del impacto operativo sigue sin verificarse.",
+      "analisis": "El mercado vuelve a poner prima de riesgo tras días de caídas. La OPEP+ del 29 de noviembre gana relevancia.",
+      "implicaciones": "Más volatilidad en el precio del crudo y en los ingresos fiscales esperados.",
+      "que_vigilar": "Reporte de daños de Aramco y decisión de la OPEP+.",
+      "fuentes": [
+        {
+          "medio": "Al-Monitor",
+          "titulo": "Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery",
+          "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery"
+        },
+        {
+          "medio": "US News (Reuters)",
+          "titulo": "Yemen's Houthis Claim Attack on Saudi Arabia's Largest Refinery",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-25/yemens-houthis-say-they-attacked-saudi-oil-refinery-and-riyadh-financial-district"
+        },
+        {
+          "medio": "Middle East Eye",
+          "titulo": "Houthis say they attacked Saudi Arabia's largest oil refinery in retaliation for deadly strikes",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-attacked-saudi-arabias-largest-oil-refinery-retaliation"
+        },
+        {
+          "medio": "CNBC",
+          "titulo": "Oil prices rise after Houthis say they attacked Saudi refinery",
+          "url": "https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html"
+        }
+      ]
+    },
+    {
+      "titulo": "Wall Street remonta en la última hora: el Dow borra una caída de 1.100 puntos y cierra al alza",
+      "categoria": "Mercados",
+      "importancia": 4,
+      "resumen": "El miércoles 25, el Dow llegó a perder más de 1.100 puntos y cerró con alza de 0,33 % en 50.182,95, según ABC News (AP). El S&P 500 bajó 0,25 % a 7.182,78 tras caer hasta 3,2 % en la sesión, y el Nasdaq 0,62 % a 23.585,80, tras caer hasta 4,6 %. Nvidia, Oracle y Micron lideraron las bajas, según Yahoo Finance. En la semana, el S&P 500 sube 3,9 %. Hoy los mercados de EE. UU. cierran por Acción de Gracias.",
+      "por_que_importa": "La volatilidad intradía extrema refleja nerviosismo por la IA y la inflación, que se transmite a mercados emergentes.",
+      "perspectivas": [
+        {
+          "medio": "ABC News (AP)",
+          "enfoque": "Datos de cierre."
+        },
+        {
+          "medio": "Yahoo Finance",
+          "enfoque": "Explica la recuperación y las empresas que más cayeron."
+        },
+        {
+          "medio": "The Motley Fool",
+          "enfoque": "Destaca la remontada dramática del Dow."
+        }
+      ],
+      "coincidencias": "Fuerte caída intradía y recuperación al cierre.",
+      "diferencias": "Las cifras del S&P 500 varían levemente entre fuentes.",
+      "analisis": "Los compradores aparecen en las caídas, pero la convicción es baja. El feriado reduce la liquidez hasta el lunes.",
+      "implicaciones": "Volatilidad que puede trasladarse al peso en sesiones de bajo volumen.",
+      "que_vigilar": "Sesión corta del viernes y datos de inflación.",
+      "fuentes": [
+        {
+          "medio": "ABC News (AP)",
+          "titulo": "How major US stock indexes fared Wednesday 11/25/2026",
+          "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-11252026-138453529"
+        },
+        {
+          "medio": "Yahoo Finance",
+          "titulo": "Stock market today: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+        },
+        {
+          "medio": "The Motley Fool",
+          "titulo": "Stock Market Today, Nov. 25: Dow Erases 1,100-Point Loss as Wall Street Stages Dramatic Late-Day Comeback",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "El petróleo volvió a subir con fuerza por el ataque reivindicado contra Ras Tanura, lo que da un respiro a las cuentas petroleras de Colombia. El peso tuvo un día muy volátil, con un pico cerca de $3.690. Wall Street mostró nerviosismo intradía por la IA y cerró casi plana. El jueves, por Acción de Gracias, no hay operaciones en EE. UU. y la liquidez será baja.",
+  "agenda": [
+    "Hoy, 26 de noviembre: mercados de EE. UU. cerrados por Acción de Gracias; borrador de ponencia de la Ley de Rescate.",
+    "26–27 de noviembre: audiencias regionales de la Ley de Rescate (fechas difieren entre medios).",
+    "29 de noviembre: reunión de la OPEP+.",
+    "30 de noviembre: radicación prevista de la ponencia; sesión de la Junta del BanRep.",
+    "1–2 de diciembre: votación prevista en comisiones económicas conjuntas.",
+    "5 de enero de 2027: cierre de comentarios sobre los aranceles de la Sección 301.",
+    "9 de diciembre: decisión de la Fed; 18 de diciembre: decisión del BanRep."
+  ],
+  "balance_cobertura": "No se verificó la TRM del 26 de noviembre. El cierre del dólar del 25 varía mucho entre medios ($3.555 a $3.617); se usa el promedio de Infobae. Arabia Saudita no confirmó daños en Ras Tanura. Las tasas propuestas para China difieren entre medios. No se encontraron datos confiables del PCE ni del PIB de EE. UU. del 25. Algunas autorías de los atentados en Colombia no están confirmadas. La reunión de la Junta del BanRep del 30 de noviembre proviene del calendario citado en la búsqueda. La reunión de Gómez con gremios no tiene fecha exacta confirmada. Solo se confirmaron 3 temas por sección. No se verificaron COLCAP, oro, café ni el bono a 10 años.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3592.03,
+      "variacion_pct": 2.46,
+      "variacion_mes_pct": null,
+      "vigencia": "25 nov (TRM del 26 no verificada)",
+      "fuente": "Superfinanciera (vía Semana / Noticias Caracol)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3630.52,
+      "variacion_pct": null,
+      "variacion_mes_pct": null,
+      "vigencia": "Promedio 25 nov",
+      "fuente": "Infobae"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 94.61,
+      "variacion_pct": 3.5,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 25 nov",
+      "fuente": "CNBC"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI (ene.)",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 83.68,
+      "variacion_pct": 2.0,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 25 nov",
+      "fuente": "CNBC"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7182.78,
+      "variacion_pct": -0.25,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 25 nov",
+      "fuente": "AP (vía ABC News)"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 23585.8,
+      "variacion_pct": -0.62,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 25 nov",
+      "fuente": "AP (vía ABC News)"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 50182.95,
+      "variacion_pct": 0.33,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 25 nov",
+      "fuente": "AP (vía ABC News)"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "PIB Colombia",
+      "valor": "+0,5 % anual",
+      "fecha_dato": "Tercer trimestre 2026 (preliminar)",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
+      "comentario": "−0,8 % frente al segundo trimestre; acumulado enero–septiembre +2,1 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión el 9 de diciembre. Las minutas de octubre y el gobernador Waller apuntan a una posible alza; las probabilidades de mercado citadas varían según la fuente."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    },
+    {
+      "nombre": "Proyección de crecimiento OCDE (Colombia 2027)",
+      "valor": "2,1 %",
+      "fecha_dato": "Estudio Económico, 20 nov 2026",
+      "fuente": "OCDE (vía La República)",
+      "url": "https://www.larepublica.co/economia/la-ocde-presento-el-informe-de-estudios-economicos-de-la-ocde-colombia-2026-4528958",
+      "comentario": "Prevé 2,6 % en 2026, inflación de 5,9 % en 2027 y déficit de 7,2 % del PIB."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 21,
+    "medios": [
+      {
+        "medio": "Infobae",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "CNBC",
+        "articulos": 2,
+        "ok": true
+      },
+      {
+        "medio": "Noticias Caracol",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Portafolio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CNN en Español",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "La Jornada (México)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC Color",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "El Colombiano",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Radio Hoy",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Invezz",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Al-Monitor",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "US News (Reuters)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Middle East Eye",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "ABC News (AP)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "The Motley Fool",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}
