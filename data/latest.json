@@ -1,6 +1,6 @@
 {
   "fecha": "2026-11-28",
-  "generado": "2026-11-28T10:39:45.632078Z",
+  "generado": "2026-11-28T10:39:59.127608Z",
   "modelo": null,
   "demo": false,
   "titular_del_dia": "El dólar da un respiro y baja a cerca de $3.488 mientras Wall Street cierra su mejor semana desde 2025; la Ley de Rescate termina sus audiencias y la OPEP+ decide este domingo.",
@@ -126,7 +126,7 @@
       ],
       "coincidencias": "Calendario apretado y urgencia del Gobierno.",
       "diferencias": "El Gobierno advierte de crisis sin la ley; sectores afectados y parte del Congreso cuestionan sus impuestos.",
-      "analisis": "Las advertencias del Gobierno buscan presionar votos. Sus críticos sostienen que el ajuste debe recaer más en el gasto que en nuevos impuestos.",
+      "analisis": "Las advertencias del Gobierno buscan sumar votos en una semana decisiva. El tamaño final del ajuste dependerá de cuántas concesiones sectoriales incluya la ponencia.",
       "implicaciones": "Las empresas deben revisar la ponencia del lunes para conocer los impuestos que sobreviven.",
       "que_vigilar": "Ponencia del 30 de noviembre y votación del 1–2 de diciembre.",
       "fuentes": [
@@ -328,9 +328,9 @@
     "30 de noviembre: radicación prevista de la ponencia de la Ley de Rescate.",
     "1–2 de diciembre: votación prevista en comisiones económicas conjuntas.",
     "9 de diciembre: decisión de tasas de la Reserva Federal.",
-    "10 de enero de 2027: vence la tregua comercial entre EE. UU. y China.",
     "16 de diciembre: fin del periodo ordinario del Congreso.",
-    "18 de diciembre: decisión de tasas del Banco de la República."
+    "18 de diciembre: decisión de tasas del Banco de la República.",
+    "10 de enero de 2027: vence la tregua comercial entre EE. UU. y China."
   ],
   "balance_cobertura": "Edición de sábado: los mercados son los cierres del viernes 27. No se verificó la TRM del fin de semana. El cierre del dólar del viernes ($3.488) proviene de El Comercio; otros sitios publicaron cifras de TRM inconsistentes. La cifra de Antioquia en el resumen de Colombia Hoy (113) no coincide con el desglose policial (64). La advertencia de recesión de Restrepo proviene de 360 Radio; la de impago, de una entrevista anterior. La posición de la OPEP+ proviene de fuentes anónimas. No se publicó aún el desempleo de octubre del DANE. La designación de Hernández de Cos no tiene aún confirmación oficial en las fuentes consultadas. No se verificaron COLCAP, oro, café ni el bono a 10 años.",
   "mercados": [
