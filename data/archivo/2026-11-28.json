@@ -1,0 +1,642 @@
+{
+  "fecha": "2026-11-28",
+  "generado": "2026-11-28T10:39:45.632078Z",
+  "modelo": null,
+  "demo": false,
+  "titular_del_dia": "El dólar da un respiro y baja a cerca de $3.488 mientras Wall Street cierra su mejor semana desde 2025; la Ley de Rescate termina sus audiencias y la OPEP+ decide este domingo.",
+  "lo_esencial": [
+    "El dólar cerró el viernes cerca de $3.488; la TRM se frenó en $3.630,89 tras seis alzas seguidas.",
+    "134 capturas en operativos en Cesar y Antioquia; el Gobierno ordena ofensiva contra el ELN en el Catatumbo.",
+    "Ley de Rescate: cerraron las audiencias en Barranquilla; la ponencia se radicaría el lunes 30.",
+    "Wall Street ganó cerca de 5,6 % en la semana (S&P 500), su mejor desde abril de 2025.",
+    "El Brent logró su primera ganancia semanal de noviembre; la OPEP+ mantendría cuotas, según fuentes.",
+    "China rechaza los nuevos aranceles de EE. UU.; la UE elige a Hernández de Cos para presidir el BCE."
+  ],
+  "colombia": [
+    {
+      "titulo": "El dólar baja a cerca de $3.488 el viernes; la TRM se frena en $3.630,89 tras seis alzas seguidas",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "La TRM del viernes 27 quedó en $3.630,89, igual a la del jueves, tras seis días hábiles al alza, según Minuto30; es $303,93 más que hace una semana. En el mercado, el dólar cerró el viernes cerca de $3.488, $67 menos que el cierre del miércoles 25 ($3.555), según El Comercio; el promedio de la jornada fue $3.498,33. En casas de cambio, la compra promedió $3.396,09 y la venta $3.531,30, según la misma fuente.",
+      "por_que_importa": "El respiro del peso al cierre de la semana reduce algo la presión sobre importadores, aunque la TRM, usada en contratos, sigue en máximos de seis meses.",
+      "perspectivas": [
+        {
+          "medio": "Minuto30",
+          "enfoque": "Destaca que la TRM frenó su escalada."
+        },
+        {
+          "medio": "El Comercio (Perú)",
+          "enfoque": "Reporta el cierre del viernes y precios en casas de cambio."
+        },
+        {
+          "medio": "Semana",
+          "enfoque": "Se centra en dónde pagan más las casas de cambio."
+        }
+      ],
+      "coincidencias": "El dólar de contado bajó al final de la semana mientras la TRM se estabilizó.",
+      "diferencias": "Algunos sitios publicaron una TRM de $3.517,40 para el 27 que no coincide con la mayoría y parece un error.",
+      "analisis": "El rebote de Wall Street y el alivio arancelario ayudaron al peso. La TRM del fin de semana debería reflejar la baja del viernes.",
+      "implicaciones": "Para pagos en dólares, la baja del contado puede ser una ventana; la TRM tardará en reflejarla.",
+      "que_vigilar": "TRM vigente del 28 al 30 de noviembre y apertura del lunes.",
+      "fuentes": [
+        {
+          "medio": "Minuto30",
+          "titulo": "Dólar hoy en Colombia: la TRM frenó su escalada, así quedó este viernes 27 de noviembre",
+          "url": "https://www.minuto30.com/dolar-hoy-en-colombia-la-trm-freno-su-escalada-asi-quedo-este-viernes-27-de-noviembre/1735413/"
+        },
+        {
+          "medio": "El Comercio (Perú)",
+          "titulo": "¿A cuánto cerró el dólar en Colombia hoy, viernes 27 de noviembre de 2026?",
+          "url": "https://elcomercio.pe/mag/a-cuanto-cerro-el-dolar-en-colombia-hoy-viernes-27-de-noviembre-de-2026-nnda-nnrt-noticia/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Dólar en Colombia hoy, 27 de noviembre: así está el precio en casas de cambio y dónde pagan más",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-en-colombia-hoy-27-de-noviembre-asi-esta-el-precio-en-casas-de-cambio-y-donde-pagan-mas/202607/"
+        }
+      ]
+    },
+    {
+      "titulo": "134 capturas en Cesar y Antioquia; el Gobierno ordena ofensiva contra el ELN en el Catatumbo",
+      "categoria": "Orden público",
+      "importancia": 4,
+      "resumen": "El presidente anunció 134 capturas en operativos de seguridad urbana el jueves 26, según Blu Radio. Según Minuto30, en Antioquia la operación 'Cerco Épico 2.0' movilizó 1.182 uniformados, hizo 116 allanamientos en 18 municipios y capturó a 64 personas; en Cesar, la operación 'Eccehomo' detuvo a 70 personas en ocho municipios, con 19 estructuras criminales afectadas en total. Según el resumen Colombia Hoy, el Gobierno ordenó una ofensiva contra el ELN en el Catatumbo tras el asesinato de Anyi Jácome. Minuto30 reporta dos policías heridos por una explosión en Los Patios (Norte de Santander), atribuida por las autoridades a estructuras urbanas del ELN.",
+      "por_que_importa": "La seguridad urbana y regional incide en el comercio, la logística y los costos de las empresas en el nororiente y el Caribe.",
+      "perspectivas": [
+        {
+          "medio": "Blu Radio",
+          "enfoque": "Recoge el anuncio presidencial."
+        },
+        {
+          "medio": "Minuto30",
+          "enfoque": "Detalla el balance por departamento."
+        },
+        {
+          "medio": "Colombia Hoy",
+          "enfoque": "Resume el contexto de la ofensiva contra el ELN."
+        }
+      ],
+      "coincidencias": "Operativos masivos y una estrategia de ofensiva contra el ELN.",
+      "diferencias": "El resumen de Colombia Hoy habla de 113 capturados en Antioquia, cifra que no coincide con el desglose policial (64).",
+      "analisis": "El Gobierno muestra resultados operativos para respaldar su política de seguridad. El ELN mantiene capacidad de ataque urbano, como en Los Patios.",
+      "implicaciones": "Empresas en Norte de Santander y Cesar deben reforzar protocolos; el Catatumbo sigue siendo zona de alto riesgo.",
+      "que_vigilar": "Resultados de la ofensiva en el Catatumbo y posibles retaliaciones del ELN.",
+      "fuentes": [
+        {
+          "medio": "Blu Radio",
+          "titulo": "Presidente anuncia 134 capturas en Cesar y Antioquia tras nuevos operativos de seguridad urbana",
+          "url": "https://www.bluradio.com/regiones/caribe/presidente-anuncia-134-capturas-en-cesar-y-antioquia-tras-nuevos-operativos-de-seguridad-urbana-rg10"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "134 capturados en Cesar y Antioquia: el balance de los nuevos operativos ordenados por De la Espriella",
+          "url": "https://www.minuto30.com/134-capturados-en-cesar-y-antioquia-el-balance-de-los-nuevos-operativos-ordenados-por-de-la-espriella/1735397/"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "Reportan dos policías heridos tras explosión en Los Patios, Norte de Santander",
+          "url": "https://www.minuto30.com/usaron-un-cadaver-como-senuelo-dos-policias-heridos-tras-explosion-en-los-patios-norte-de-santander/1735403/"
+        },
+        {
+          "medio": "Colombia Hoy",
+          "titulo": "Colombia Hoy — viernes, 27 de noviembre de 2026",
+          "url": "https://colombiahoy.substack.com/p/colombia-hoy-viernes-27-de-noviembre"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: cierra la ronda de audiencias en Barranquilla; el vicepresidente insiste en el riesgo de crisis sin ajuste",
+      "categoria": "Política fiscal",
+      "importancia": 5,
+      "resumen": "Barranquilla fue sede el viernes 27 de la última audiencia pública regional, donde gremios, sindicatos y organizaciones del Caribe expusieron sus preocupaciones, según CV Noticias. El vicepresidente José Manuel Restrepo sostuvo que sin ley fiscal Colombia enfrentaría una recesión, según 360 Radio; antes había advertido, según Bloomberg Línea, de un riesgo de impago si no hay solución fiscal. La ponencia se radicaría el lunes 30 y la votación en primer debate está prevista para el 1–2 de diciembre. Si no se aprueba antes del 16 de diciembre, el Gobierno podría convocar sesiones extraordinarias.",
+      "por_que_importa": "La próxima semana define el primer debate de la reforma más importante del Gobierno y la señal fiscal para los mercados.",
+      "perspectivas": [
+        {
+          "medio": "CV Noticias",
+          "enfoque": "Recoge las preocupaciones de gremios y sindicatos del Caribe."
+        },
+        {
+          "medio": "360 Radio",
+          "enfoque": "Destaca la advertencia de recesión del vicepresidente."
+        },
+        {
+          "medio": "Bloomberg Línea",
+          "enfoque": "Enmarca el riesgo de impago."
+        }
+      ],
+      "coincidencias": "Calendario apretado y urgencia del Gobierno.",
+      "diferencias": "El Gobierno advierte de crisis sin la ley; sectores afectados y parte del Congreso cuestionan sus impuestos.",
+      "analisis": "Las advertencias del Gobierno buscan presionar votos. Sus críticos sostienen que el ajuste debe recaer más en el gasto que en nuevos impuestos.",
+      "implicaciones": "Las empresas deben revisar la ponencia del lunes para conocer los impuestos que sobreviven.",
+      "que_vigilar": "Ponencia del 30 de noviembre y votación del 1–2 de diciembre.",
+      "fuentes": [
+        {
+          "medio": "CV Noticias",
+          "titulo": "Congreso debate en Barranquilla el proyecto de Ley de Rescate Económico",
+          "url": "https://cvnoticias.com.co/ley-rescate-economico-debate-barranquilla/"
+        },
+        {
+          "medio": "360 Radio",
+          "titulo": "Sin Ley Fiscal, Colombia enfrentaría una recesión",
+          "url": "https://360radio.com.co/sin-ley-fiscal-colombia-enfrentar-recesion/237196"
+        },
+        {
+          "medio": "Bloomberg Línea",
+          "titulo": "Restrepo dice que Colombia corre el riesgo de entrar en impago si no se adopta una solución fiscal",
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/restrepo-dice-que-colombia-corre-el-riesgo-de-entrar-en-impago-si-no-se-adopta-una-solucion-fiscal/"
+        }
+      ]
+    }
+  ],
+  "mundo": [
+    {
+      "titulo": "Wall Street cierra su mejor semana desde 2025: el S&P 500 sube 1,6 % el viernes y 5,6 % en la semana",
+      "categoria": "Mercados",
+      "importancia": 5,
+      "resumen": "En la sesión corta del viernes 27, el S&P 500 subió 1,60 % a 7.297,49, el Dow 1,18 % a 50.774,94 y el Nasdaq 2,31 % a 24.129,50, según Yahoo Finance. Los 11 sectores del S&P 500 cerraron al alza, impulsados por IA y chips. En la semana, el S&P 500 ganó cerca de 5,6 %, su mejor desde abril de 2025, y el Dow cerca de 5,5 %, el mayor avance desde octubre de 2022, según los mismos reportes.",
+      "por_que_importa": "La recuperación tras la corrección mejora el apetito por riesgo global, lo que suele favorecer a monedas emergentes como el peso.",
+      "perspectivas": [
+        {
+          "medio": "Yahoo Finance",
+          "enfoque": "Datos de cierre y balance semanal."
+        },
+        {
+          "medio": "Business Upturn",
+          "enfoque": "Destaca el liderazgo del Nasdaq."
+        },
+        {
+          "medio": "Hargreaves Lansdown",
+          "enfoque": "Mirada británica: los índices terminan la semana en alto pese a un noviembre difícil."
+        }
+      ],
+      "coincidencias": "Fuerte rebote semanal liderado por tecnología.",
+      "diferencias": "Las cifras de cierre varían levemente entre fuentes.",
+      "analisis": "El mercado recuperó parte de la corrección, pero noviembre fue volátil y la Fed sigue inclinada a subir tasas.",
+      "implicaciones": "Un mejor tono externo ayudó al peso el viernes.",
+      "que_vigilar": "Datos de empleo de EE. UU. y la Fed del 9 de diciembre.",
+      "fuentes": [
+        {
+          "medio": "Yahoo Finance",
+          "titulo": "How major US stock indexes fared Friday 11/27/2026",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-184551517.html"
+        },
+        {
+          "medio": "Business Upturn",
+          "titulo": "US Stocks Rally to Close Out the Week as Nasdaq Leads Friday Surge",
+          "url": "https://businessupturn.com/usa/money/us-markets/us-stocks-rally-to-close-out-the-week-as-nasdaq-leads-friday-surge/"
+        },
+        {
+          "medio": "Hargreaves Lansdown",
+          "titulo": "US close: major indices end week on a high, November slide snaps streaks",
+          "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/archive/us-close-major-indices-end-week-on-a-high,-november-slide-snaps-streaks"
+        }
+      ]
+    },
+    {
+      "titulo": "El petróleo logra su primera ganancia semanal de noviembre; la OPEP+ decide este domingo",
+      "categoria": "Energía",
+      "importancia": 4,
+      "resumen": "El Brent cerró el viernes en US$95,44 (−1,2 %) y el WTI en US$83,08 (−0,7 %), según reportes basados en Reuters. En la semana, el Brent ganó cerca de 3 %, su primera subida semanal de noviembre tras tres caídas, por ataques a tanqueros cerca de Ormuz y a infraestructura saudí. Según tres fuentes citadas por la prensa, la OPEP+ mantendría sin cambios sus metas de producción del primer trimestre de 2027 en su reunión del domingo 29.",
+      "por_que_importa": "Mantener las cuotas sostendría precios cerca de US$95, lo que favorece los ingresos de Ecopetrol y de la Nación.",
+      "perspectivas": [
+        {
+          "medio": "Rigzone",
+          "enfoque": "Pone el foco en los ataques en Oriente Medio."
+        },
+        {
+          "medio": "IBTimes Australia",
+          "enfoque": "Destaca la primera ganancia semanal del mes."
+        },
+        {
+          "medio": "Middle East Monitor",
+          "enfoque": "Mirada regional sobre la reunión de la OPEP+."
+        }
+      ],
+      "coincidencias": "Los riesgos de oferta en el Golfo sostuvieron la semana.",
+      "diferencias": "La variación semanal del WTI difiere entre fuentes (−0,9 % a −1,1 %).",
+      "analisis": "El mercado oscila entre riesgo geopolítico y superávit esperado por la IEA. La OPEP+ es el próximo factor.",
+      "implicaciones": "Un Brent estable cerca de US$95 da algo de alivio fiscal frente a la caída de inicios de noviembre.",
+      "que_vigilar": "Comunicado de la OPEP+ del domingo.",
+      "fuentes": [
+        {
+          "medio": "Rigzone",
+          "titulo": "Oil Swings with Rising ME Attacks in Focus",
+          "url": "https://www.rigzone.com/news/wire/oil_swings_with_rising_me_attacks_in_focus-27-nov-2026-185191-article/"
+        },
+        {
+          "medio": "IBTimes Australia",
+          "titulo": "Oil Prices Today: Brent Slips To $95 On Friday But Snaps Losing Streak With First Weekly Gain Of November",
+          "url": "https://www.ibtimes.com.au/oil-prices-brent-weekly-gain-middle-east-attacks-opec-1879508"
+        },
+        {
+          "medio": "Middle East Monitor",
+          "titulo": "Oil, gas prices fall as Brent trims weekly gains ahead of OPEC+ meeting",
+          "url": "https://www.middleeastmonitor.com/20261127-oil-gas-prices-fall-as-brent-trims-weekly-gains-ahead-of-opec-meeting/"
+        }
+      ]
+    },
+    {
+      "titulo": "China rechaza los aranceles de la Sección 301 y se reserva el derecho a responder",
+      "categoria": "Comercio",
+      "importancia": 4,
+      "resumen": "El portavoz de la cancillería china, Guo Jiakun, calificó la 'sobrecapacidad' de premisa falsa y dijo que las guerras comerciales no sirven a ningún país. El Ministerio de Comercio calificó la investigación de unilateral, contraria a las reglas de la OMC, y se reservó el derecho a tomar medidas, según MLex y Demócrata. El Consejo Chino para el Fomento del Comercio Internacional pidió el 27 retirar las medidas. Según los reportes, EE. UU. excluyó los productos de un acuerdo de reducción arancelaria de US$30.000 millones, y la tregua comercial se extendió hasta el 10 de enero de 2027. No se ha anunciado una represalia concreta.",
+      "por_que_importa": "Una nueva escalada entre EE. UU. y China afectaría el comercio global y los precios de materias primas.",
+      "perspectivas": [
+        {
+          "medio": "MLex",
+          "enfoque": "Recoge la posición oficial china."
+        },
+        {
+          "medio": "Demócrata (España)",
+          "enfoque": "Destaca el calificativo de 'falacia'."
+        },
+        {
+          "medio": "GSM Global News",
+          "enfoque": "Recoge la oposición del sector empresarial chino."
+        }
+      ],
+      "coincidencias": "China rechaza la medida pero no ha anunciado represalias.",
+      "diferencias": "Las tasas propuestas para China difieren entre medios.",
+      "analisis": "Beijing combina rechazo verbal con espacio para negociar dentro de la tregua.",
+      "implicaciones": "Exportadores colombianos pueden beneficiarse de una reorientación del comercio, pero también enfrentar menor demanda global.",
+      "que_vigilar": "Respuesta formal de China antes del 10 de enero.",
+      "fuentes": [
+        {
+          "medio": "MLex",
+          "titulo": "China rejects overcapacity allegations amid proposed US Section 301 tariffs",
+          "url": "https://www.mlex.com/mlex/trade/articles/2560036"
+        },
+        {
+          "medio": "Demócrata",
+          "titulo": "China rejects as a fallacy the accusation of US overcapacity",
+          "url": "https://www.democrata.es/en/economy/beijing-calls-the-overcapacity-argument-used-by-washington-for-new-tariffs-a-fallacy/"
+        },
+        {
+          "medio": "GSM Global News",
+          "titulo": "China Business Community Firmly Opposes US Section 301 Tariff Proposal, Urges Withdrawal",
+          "url": "https://gsmglobalnews.com/article/d20261127-ccpit3011.html"
+        }
+      ]
+    },
+    {
+      "titulo": "Los líderes de la UE eligen a Pablo Hernández de Cos para suceder a Lagarde en el BCE",
+      "categoria": "Europa",
+      "importancia": 3,
+      "resumen": "Los jefes de Estado de la UE respaldaron al español Pablo Hernández de Cos, actual gerente general del Banco de Pagos Internacionales y exgobernador del Banco de España, para presidir el Banco Central Europeo, según Gulf News y Traders Union. Según los reportes, contó con el apoyo de Francia y Alemania, y Países Bajos retiró el apoyo a Klaas Knot. Sería el primer español en dirigir el BCE. Los analistas lo describen como más flexible en tasas que Knot. Las fechas de transición difieren entre fuentes (febrero o marzo de 2027).",
+      "por_que_importa": "La política del BCE influye en el euro, el dólar y las tasas globales que afectan el financiamiento externo de Colombia.",
+      "perspectivas": [
+        {
+          "medio": "Gulf News",
+          "enfoque": "Destaca el relevo de Lagarde."
+        },
+        {
+          "medio": "Traders Union",
+          "enfoque": "Enfoque de mercado en la política monetaria."
+        },
+        {
+          "medio": "NewsLooks",
+          "enfoque": "Recoge el respaldo de los líderes europeos."
+        }
+      ],
+      "coincidencias": "Hernández de Cos es el candidato respaldado por los líderes.",
+      "diferencias": "Las fechas de inicio varían; la designación aún requiere pasos formales.",
+      "analisis": "Un perfil pragmático podría significar menos rigidez frente a la inflación por la guerra con Irán.",
+      "implicaciones": "Efecto indirecto en tasas y monedas globales.",
+      "que_vigilar": "Confirmación formal y primeras declaraciones.",
+      "fuentes": [
+        {
+          "medio": "Gulf News",
+          "titulo": "European leaders choose Pablo Hernández de Cos to succeed Christine Lagarde as ECB president",
+          "url": "https://gulfnews.com/business/economy/european-leaders-choose-pablo-hern%C3%A1ndez-de-cos-to-succeed-christine-lagarde-as-ecb-president-1.500762345"
+        },
+        {
+          "medio": "Traders Union",
+          "titulo": "EU leaders endorse Hernández de Cos for ECB presidency",
+          "url": "https://tradersunion.com/news/central-banks/show/4439485-eu-leaders-endorse-hernndez/"
+        },
+        {
+          "medio": "NewsLooks",
+          "titulo": "EU Leaders Chose Pablo Hernández de Cos to Succeed Christine Lagarde as Next ECB President",
+          "url": "https://www.newslooks.com/eu-leaders-chose-pablo-hernandez-de-cos-to-succeed-christine-lagarde-as-next-ecb-president/"
+        }
+      ]
+    }
+  ],
+  "lectura_mercados": "La semana terminó con alivio: Wall Street recuperó con fuerza y el peso colombiano se fortaleció el viernes, aunque la TRM sigue en máximos de seis meses. El petróleo cerró la semana al alza por riesgos en el Golfo. Para Colombia, la semana próxima depende de la ponencia de la Ley de Rescate y de la decisión de la OPEP+.",
+  "agenda": [
+    "29 de noviembre: reunión de la OPEP+ sobre producción de 2027.",
+    "30 de noviembre: radicación prevista de la ponencia de la Ley de Rescate.",
+    "1–2 de diciembre: votación prevista en comisiones económicas conjuntas.",
+    "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "10 de enero de 2027: vence la tregua comercial entre EE. UU. y China.",
+    "16 de diciembre: fin del periodo ordinario del Congreso.",
+    "18 de diciembre: decisión de tasas del Banco de la República."
+  ],
+  "balance_cobertura": "Edición de sábado: los mercados son los cierres del viernes 27. No se verificó la TRM del fin de semana. El cierre del dólar del viernes ($3.488) proviene de El Comercio; otros sitios publicaron cifras de TRM inconsistentes. La cifra de Antioquia en el resumen de Colombia Hoy (113) no coincide con el desglose policial (64). La advertencia de recesión de Restrepo proviene de 360 Radio; la de impago, de una entrevista anterior. La posición de la OPEP+ proviene de fuentes anónimas. No se publicó aún el desempleo de octubre del DANE. La designación de Hernández de Cos no tiene aún confirmación oficial en las fuentes consultadas. No se verificaron COLCAP, oro, café ni el bono a 10 años.",
+  "mercados": [
+    {
+      "id": "trm",
+      "nombre": "TRM oficial",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3630.89,
+      "variacion_pct": 0.0,
+      "variacion_mes_pct": null,
+      "vigencia": "27 nov (TRM de fin de semana no verificada)",
+      "fuente": "Superfinanciera (vía Minuto30)"
+    },
+    {
+      "id": "usdcop",
+      "nombre": "Dólar en el mercado",
+      "grupo": "Divisas",
+      "unidad": "COP",
+      "decimales": 2,
+      "valor": 3488.0,
+      "variacion_pct": -1.88,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 27 nov",
+      "fuente": "El Comercio"
+    },
+    {
+      "id": "brent",
+      "nombre": "Petróleo Brent",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 95.44,
+      "variacion_pct": -1.2,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 27 nov",
+      "fuente": "Reuters (vía mlq.ai / The Circuitry)"
+    },
+    {
+      "id": "wti",
+      "nombre": "Petróleo WTI (ene.)",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
+      "decimales": 2,
+      "valor": 83.08,
+      "variacion_pct": -0.7,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 27 nov",
+      "fuente": "Reuters (vía The Circuitry)"
+    },
+    {
+      "id": "sp500",
+      "nombre": "S&P 500",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 7297.49,
+      "variacion_pct": 1.6,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 27 nov",
+      "fuente": "Yahoo Finance"
+    },
+    {
+      "id": "nasdaq",
+      "nombre": "Nasdaq Composite",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 24129.5,
+      "variacion_pct": 2.31,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 27 nov",
+      "fuente": "Yahoo Finance"
+    },
+    {
+      "id": "dow",
+      "nombre": "Dow Jones",
+      "grupo": "Bolsas",
+      "unidad": "pts",
+      "decimales": 2,
+      "valor": 50774.94,
+      "variacion_pct": 1.18,
+      "variacion_mes_pct": null,
+      "vigencia": "Cierre 27 nov",
+      "fuente": "Yahoo Finance"
+    }
+  ],
+  "macro": [
+    {
+      "nombre": "Tasa Banco de la República",
+      "valor": "12,25 %",
+      "fecha_dato": "Decisión del 30 oct 2026",
+      "fuente": "Banco de la República",
+      "url": "https://www.banrep.gov.co/en/news/board-directors/october-2026",
+      "comentario": "Votación 4–3; tres codirectores pedían +0,25 pp. Próxima decisión: 18 dic."
+    },
+    {
+      "nombre": "Proyección de inflación BanRep (cierre 2026)",
+      "valor": "7,1 %",
+      "fecha_dato": "Informe de Política Monetaria, publicado 4 nov 2026",
+      "fuente": "El Espectador / Moncloa.com",
+      "url": "https://www.elespectador.com/economia/macroeconomia/hacia-donde-va-la-inflacion-y-la-economia-colombiana-esto-dice-el-banco-de-la-republica/",
+      "comentario": "Sube desde 6,9 %; 4,8 % a fines de 2027. PIB 2,0 % en 2026 y 1,7 % en 2027. Causa principal: El Niño."
+    },
+    {
+      "nombre": "Inflación anual Colombia",
+      "valor": "6,30 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "DANE (vía El Tiempo)",
+      "url": "https://www.eltiempo.com/amp/economia/sectores/inflacion-en-colombia-no-da-tregua-y-llego-al-6-30-en-octubre-los-detalles-que-revelo-el-dane-3599737",
+      "comentario": "Tercer mes al alza; mensual 0,20 %, año corrido 5,94 %; hogares vulnerables 6,39 %."
+    },
+    {
+      "nombre": "PIB Colombia",
+      "valor": "+0,5 % anual",
+      "fecha_dato": "Tercer trimestre 2026 (preliminar)",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
+      "comentario": "−0,8 % frente al segundo trimestre; acumulado enero–septiembre +2,1 %."
+    },
+    {
+      "nombre": "Exportaciones Colombia",
+      "valor": "US$5.410,7 millones",
+      "fecha_dato": "Septiembre 2026",
+      "fuente": "DANE (vía La República)",
+      "url": "https://www.larepublica.co/economia/balance-de-exportaciones-con-corte-a-septiembre-y-en-lo-corrido-del-ano-4517438",
+      "comentario": "+16,4 % anual, mayor nivel desde julio de 2022; enero–septiembre +13,3 %."
+    },
+    {
+      "nombre": "Tasa Banco de Inglaterra",
+      "valor": "4,00 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "Banco de Inglaterra",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "comentario": "Alza de 0,25 pp, votación 8–1 (un voto por +0,5 pp)."
+    },
+    {
+      "nombre": "Tasa Reserva Federal (EE. UU.)",
+      "valor": "3,75 %–4,00 %",
+      "fecha_dato": "Decisión del 28 oct 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "comentario": "Próxima decisión el 9 de diciembre. Las minutas de octubre y el gobernador Waller apuntan a una posible alza; las probabilidades de mercado citadas varían según la fuente."
+    },
+    {
+      "nombre": "Salario mínimo 2027",
+      "valor": "En negociación",
+      "fecha_dato": "Plazo: 15 dic 2026",
+      "fuente": "Portafolio",
+      "url": "https://www.portafolio.co/economia/salario-minimo-de-2027-se-perfila-entre-9-y-10-mientras-arranca-la-negociacion-entre-gobierno-y-sectores-503771",
+      "comentario": "CUT propone 38,5 %; escenarios técnicos entre 8 % y 10 %."
+    },
+    {
+      "nombre": "Desempleo EE. UU.",
+      "valor": "4,1 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS (vía CNBC)",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "comentario": "165.000 empleos nuevos, muy por encima de lo esperado."
+    },
+    {
+      "nombre": "Tasa Banco de México",
+      "valor": "6,25 %",
+      "fecha_dato": "Decisión del 5 nov 2026",
+      "fuente": "El Financiero",
+      "url": "https://elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre",
+      "comentario": "Recorte sorpresivo, en contraste con las alzas del Banco de Inglaterra y la Fed."
+    },
+    {
+      "nombre": "Precios al productor China (PPI)",
+      "valor": "+5,7 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "comentario": "Máximo desde junio de 2022; la inflación al consumidor bajó a 0,7 %."
+    },
+    {
+      "nombre": "Superávit comercial China (ene–oct)",
+      "valor": "US$1,04 billones",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "ABC News (AP)",
+      "url": "https://abcnews.com/US/wireStory/china-trade-surplus-exceeded-1-trillion-2nd-straight-137999886",
+      "comentario": "Exportaciones +35,2 % anual en octubre."
+    },
+    {
+      "nombre": "Inflación EE. UU. (mensual)",
+      "valor": "+0,4 %",
+      "fecha_dato": "Octubre 2026",
+      "fuente": "BLS",
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "comentario": "Subyacente +0,3 %; ambos por encima de lo esperado. Sin tasa anual oficial."
+    },
+    {
+      "nombre": "Proyección de crecimiento OCDE (Colombia 2027)",
+      "valor": "2,1 %",
+      "fecha_dato": "Estudio Económico, 20 nov 2026",
+      "fuente": "OCDE (vía La República)",
+      "url": "https://www.larepublica.co/economia/la-ocde-presento-el-informe-de-estudios-economicos-de-la-ocde-colombia-2026-4528958",
+      "comentario": "Prevé 2,6 % en 2026, inflación de 5,9 % en 2027 y déficit de 7,2 % del PIB."
+    }
+  ],
+  "cobertura": {
+    "total_articulos": 22,
+    "medios": [
+      {
+        "medio": "Minuto30",
+        "articulos": 3,
+        "ok": true
+      },
+      {
+        "medio": "El Comercio (Perú)",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Semana",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Blu Radio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Colombia Hoy",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "CV Noticias",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "360 Radio",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Bloomberg Línea",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Yahoo Finance",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Business Upturn",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Hargreaves Lansdown",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Rigzone",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "IBTimes Australia",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Middle East Monitor",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "MLex",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Demócrata",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "GSM Global News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Gulf News",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "Traders Union",
+        "articulos": 1,
+        "ok": true
+      },
+      {
+        "medio": "NewsLooks",
+        "articulos": 1,
+        "ok": true
+      }
+    ]
+  },
+  "uso": null
+}

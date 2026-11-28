@@ -1,357 +1,338 @@
 {
-  "fecha": "2026-11-27",
-  "generado": "2026-11-27T10:40:05.034227Z",
+  "fecha": "2026-11-28",
+  "generado": "2026-11-28T10:39:45.632078Z",
   "modelo": null,
   "demo": false,
-  "titular_del_dia": "La TRM llega a $3.630,89, máxima desde junio, aunque el dólar da un respiro; el Gobierno alista un decreto para agilizar licencias ambientales y el petróleo sube antes de la OPEP+.",
+  "titular_del_dia": "El dólar da un respiro y baja a cerca de $3.488 mientras Wall Street cierra su mejor semana desde 2025; la Ley de Rescate termina sus audiencias y la OPEP+ decide este domingo.",
   "lo_esencial": [
-    "La TRM para el 26–27 de noviembre es $3.630,89, la más alta desde junio; el dólar cerró el jueves cerca de $3.550.",
-    "El Gobierno alista un decreto para tramitar en paralelo la licencia ambiental y la consulta previa.",
-    "Ley de Rescate: licores y cerveza, el nuevo foco de presión; la ponencia se radicaría el 30 de noviembre.",
-    "Europa y Asia subieron con fuerza el jueves por el alivio arancelario; Wall Street cerró por Acción de Gracias.",
-    "El Brent se acerca a US$96 antes de la reunión de la OPEP+ del domingo.",
-    "Trump advierte que los misiles de Irán pueden alcanzar Europa; Kushner dice que Putin 'mostró moderación'."
+    "El dólar cerró el viernes cerca de $3.488; la TRM se frenó en $3.630,89 tras seis alzas seguidas.",
+    "134 capturas en operativos en Cesar y Antioquia; el Gobierno ordena ofensiva contra el ELN en el Catatumbo.",
+    "Ley de Rescate: cerraron las audiencias en Barranquilla; la ponencia se radicaría el lunes 30.",
+    "Wall Street ganó cerca de 5,6 % en la semana (S&P 500), su mejor desde abril de 2025.",
+    "El Brent logró su primera ganancia semanal de noviembre; la OPEP+ mantendría cuotas, según fuentes.",
+    "China rechaza los nuevos aranceles de EE. UU.; la UE elige a Hernández de Cos para presidir el BCE."
   ],
   "colombia": [
     {
-      "titulo": "La TRM sube a $3.630,89, la más alta desde junio, pero el dólar cerró el jueves cerca de $3.550",
+      "titulo": "El dólar baja a cerca de $3.488 el viernes; la TRM se frena en $3.630,89 tras seis alzas seguidas",
       "categoria": "Mercados",
       "importancia": 5,
-      "resumen": "La TRM vigente para el 26 y 27 de noviembre es $3.630,89, $38,86 más (+1,08 %) que la del miércoles, según El Nuevo Siglo y Noticias RCN, que la describe como la más alta desde junio. En el mercado, el dólar cerró el jueves 26 en $3.549,70, según Infobae, y en $3.543,48 según Bloomberg Línea (−0,47 %). Semana y El Universal reportan la modalidad next day, usada por el festivo de Acción de Gracias en EE. UU., en $3.510,96, unos $119 por debajo de la TRM.",
-      "por_que_importa": "La TRM, que se usa en contratos y liquidaciones, está en máximos de cinco meses, aunque el mercado mostró un respiro el jueves.",
+      "resumen": "La TRM del viernes 27 quedó en $3.630,89, igual a la del jueves, tras seis días hábiles al alza, según Minuto30; es $303,93 más que hace una semana. En el mercado, el dólar cerró el viernes cerca de $3.488, $67 menos que el cierre del miércoles 25 ($3.555), según El Comercio; el promedio de la jornada fue $3.498,33. En casas de cambio, la compra promedió $3.396,09 y la venta $3.531,30, según la misma fuente.",
+      "por_que_importa": "El respiro del peso al cierre de la semana reduce algo la presión sobre importadores, aunque la TRM, usada en contratos, sigue en máximos de seis meses.",
       "perspectivas": [
         {
-          "medio": "Noticias RCN",
-          "enfoque": "Destaca el máximo de la TRM desde junio."
+          "medio": "Minuto30",
+          "enfoque": "Destaca que la TRM frenó su escalada."
         },
         {
-          "medio": "Infobae",
-          "enfoque": "Reporta el cierre y los precios en casas de cambio."
+          "medio": "El Comercio (Perú)",
+          "enfoque": "Reporta el cierre del viernes y precios en casas de cambio."
         },
         {
           "medio": "Semana",
-          "enfoque": "Subraya que la modalidad next day cerró muy por debajo de la TRM."
+          "enfoque": "Se centra en dónde pagan más las casas de cambio."
+        }
+      ],
+      "coincidencias": "El dólar de contado bajó al final de la semana mientras la TRM se estabilizó.",
+      "diferencias": "Algunos sitios publicaron una TRM de $3.517,40 para el 27 que no coincide con la mayoría y parece un error.",
+      "analisis": "El rebote de Wall Street y el alivio arancelario ayudaron al peso. La TRM del fin de semana debería reflejar la baja del viernes.",
+      "implicaciones": "Para pagos en dólares, la baja del contado puede ser una ventana; la TRM tardará en reflejarla.",
+      "que_vigilar": "TRM vigente del 28 al 30 de noviembre y apertura del lunes.",
+      "fuentes": [
+        {
+          "medio": "Minuto30",
+          "titulo": "Dólar hoy en Colombia: la TRM frenó su escalada, así quedó este viernes 27 de noviembre",
+          "url": "https://www.minuto30.com/dolar-hoy-en-colombia-la-trm-freno-su-escalada-asi-quedo-este-viernes-27-de-noviembre/1735413/"
+        },
+        {
+          "medio": "El Comercio (Perú)",
+          "titulo": "¿A cuánto cerró el dólar en Colombia hoy, viernes 27 de noviembre de 2026?",
+          "url": "https://elcomercio.pe/mag/a-cuanto-cerro-el-dolar-en-colombia-hoy-viernes-27-de-noviembre-de-2026-nnda-nnrt-noticia/"
+        },
+        {
+          "medio": "Semana",
+          "titulo": "Dólar en Colombia hoy, 27 de noviembre: así está el precio en casas de cambio y dónde pagan más",
+          "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-en-colombia-hoy-27-de-noviembre-asi-esta-el-precio-en-casas-de-cambio-y-donde-pagan-mas/202607/"
+        }
+      ]
+    },
+    {
+      "titulo": "134 capturas en Cesar y Antioquia; el Gobierno ordena ofensiva contra el ELN en el Catatumbo",
+      "categoria": "Orden público",
+      "importancia": 4,
+      "resumen": "El presidente anunció 134 capturas en operativos de seguridad urbana el jueves 26, según Blu Radio. Según Minuto30, en Antioquia la operación 'Cerco Épico 2.0' movilizó 1.182 uniformados, hizo 116 allanamientos en 18 municipios y capturó a 64 personas; en Cesar, la operación 'Eccehomo' detuvo a 70 personas en ocho municipios, con 19 estructuras criminales afectadas en total. Según el resumen Colombia Hoy, el Gobierno ordenó una ofensiva contra el ELN en el Catatumbo tras el asesinato de Anyi Jácome. Minuto30 reporta dos policías heridos por una explosión en Los Patios (Norte de Santander), atribuida por las autoridades a estructuras urbanas del ELN.",
+      "por_que_importa": "La seguridad urbana y regional incide en el comercio, la logística y los costos de las empresas en el nororiente y el Caribe.",
+      "perspectivas": [
+        {
+          "medio": "Blu Radio",
+          "enfoque": "Recoge el anuncio presidencial."
+        },
+        {
+          "medio": "Minuto30",
+          "enfoque": "Detalla el balance por departamento."
+        },
+        {
+          "medio": "Colombia Hoy",
+          "enfoque": "Resume el contexto de la ofensiva contra el ELN."
+        }
+      ],
+      "coincidencias": "Operativos masivos y una estrategia de ofensiva contra el ELN.",
+      "diferencias": "El resumen de Colombia Hoy habla de 113 capturados en Antioquia, cifra que no coincide con el desglose policial (64).",
+      "analisis": "El Gobierno muestra resultados operativos para respaldar su política de seguridad. El ELN mantiene capacidad de ataque urbano, como en Los Patios.",
+      "implicaciones": "Empresas en Norte de Santander y Cesar deben reforzar protocolos; el Catatumbo sigue siendo zona de alto riesgo.",
+      "que_vigilar": "Resultados de la ofensiva en el Catatumbo y posibles retaliaciones del ELN.",
+      "fuentes": [
+        {
+          "medio": "Blu Radio",
+          "titulo": "Presidente anuncia 134 capturas en Cesar y Antioquia tras nuevos operativos de seguridad urbana",
+          "url": "https://www.bluradio.com/regiones/caribe/presidente-anuncia-134-capturas-en-cesar-y-antioquia-tras-nuevos-operativos-de-seguridad-urbana-rg10"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "134 capturados en Cesar y Antioquia: el balance de los nuevos operativos ordenados por De la Espriella",
+          "url": "https://www.minuto30.com/134-capturados-en-cesar-y-antioquia-el-balance-de-los-nuevos-operativos-ordenados-por-de-la-espriella/1735397/"
+        },
+        {
+          "medio": "Minuto30",
+          "titulo": "Reportan dos policías heridos tras explosión en Los Patios, Norte de Santander",
+          "url": "https://www.minuto30.com/usaron-un-cadaver-como-senuelo-dos-policias-heridos-tras-explosion-en-los-patios-norte-de-santander/1735403/"
+        },
+        {
+          "medio": "Colombia Hoy",
+          "titulo": "Colombia Hoy — viernes, 27 de noviembre de 2026",
+          "url": "https://colombiahoy.substack.com/p/colombia-hoy-viernes-27-de-noviembre"
+        }
+      ]
+    },
+    {
+      "titulo": "Ley de Rescate: cierra la ronda de audiencias en Barranquilla; el vicepresidente insiste en el riesgo de crisis sin ajuste",
+      "categoria": "Política fiscal",
+      "importancia": 5,
+      "resumen": "Barranquilla fue sede el viernes 27 de la última audiencia pública regional, donde gremios, sindicatos y organizaciones del Caribe expusieron sus preocupaciones, según CV Noticias. El vicepresidente José Manuel Restrepo sostuvo que sin ley fiscal Colombia enfrentaría una recesión, según 360 Radio; antes había advertido, según Bloomberg Línea, de un riesgo de impago si no hay solución fiscal. La ponencia se radicaría el lunes 30 y la votación en primer debate está prevista para el 1–2 de diciembre. Si no se aprueba antes del 16 de diciembre, el Gobierno podría convocar sesiones extraordinarias.",
+      "por_que_importa": "La próxima semana define el primer debate de la reforma más importante del Gobierno y la señal fiscal para los mercados.",
+      "perspectivas": [
+        {
+          "medio": "CV Noticias",
+          "enfoque": "Recoge las preocupaciones de gremios y sindicatos del Caribe."
+        },
+        {
+          "medio": "360 Radio",
+          "enfoque": "Destaca la advertencia de recesión del vicepresidente."
         },
         {
           "medio": "Bloomberg Línea",
-          "enfoque": "Cotización de mercado en tiempo real."
+          "enfoque": "Enmarca el riesgo de impago."
         }
       ],
-      "coincidencias": "La TRM sube mientras el mercado de contado muestra cierta corrección.",
-      "diferencias": "Los cierres varían entre $3.510 y $3.550 según modalidad (spot o next day) y hora de corte.",
-      "analisis": "La diferencia entre TRM y mercado indica que el pico del miércoles pudo haber pasado. La liquidez baja por el festivo en EE. UU. distorsiona los precios.",
-      "implicaciones": "Para pagos atados a la TRM, el costo sigue alto; conviene revisar el momento de las compras de divisas.",
-      "que_vigilar": "Cierre del viernes y TRM del fin de semana.",
-      "fuentes": [
-        {
-          "medio": "Noticias RCN",
-          "titulo": "Dólar hoy en Colombia, 26 de noviembre: TRM alcanza su nivel más alto desde junio",
-          "url": "https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-hoy-26-de-noviembre-de-2026-1085677"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Precio del dólar en Colombia: así de caro se compra y vende en las casas de cambio el 26 de noviembre de 2026",
-          "url": "https://www.infobae.com/colombia/2026/11/26/precio-del-dolar-hoy-en-colombia-cotizacion-de-cierre-del-26-de-noviembre/"
-        },
-        {
-          "medio": "Semana",
-          "titulo": "Precio del dólar en picada; la moneda cierra 119 pesos más barata en la modalidad Next Day",
-          "url": "https://www.semana.com/economia/macroeconomia/articulo/precio-del-dolar-en-picada-la-moneda-cierra-119-pesos-mas-barata-en-la-modalidad-next-day/202656/"
-        },
-        {
-          "medio": "El Nuevo Siglo",
-          "titulo": "Precio del dólar en Colombia hoy 26 de noviembre de 2026",
-          "url": "https://www.elnuevosiglo.com.co/economia/precio-del-dolar-en-colombia-hoy-26-de-noviembre-de-2026"
-        },
-        {
-          "medio": "El Universal",
-          "titulo": "Dólar en Colombia: así cerró este 26 de noviembre tras registrar subidas",
-          "url": "https://www.eluniversal.com.co/economica/2026/11/26/dolar-en-colombia-asi-cerro-este-26-de-noviembre-tras-registrar-subidas/"
-        }
-      ]
-    },
-    {
-      "titulo": "El Gobierno alista un decreto para tramitar licencia ambiental y consulta previa en paralelo",
-      "categoria": "Regulación",
-      "importancia": 4,
-      "resumen": "En el Congreso Nacional de la Infraestructura de la CCI, el 26 de noviembre, el Gobierno anunció un decreto para que el cierre de la consulta previa deje de ser requisito para radicar la solicitud de licencia ambiental, según El Heraldo e Infobae. La licencia no podría otorgarse antes de cerrar la consulta, que seguirá siendo obligatoria antes de iniciar operaciones, según El Frente. Un borrador fue publicado para comentarios. La Silla Vacía advierte que avanzar sin cerrar la consulta acumula inversiones y expectativas empresariales; El Espectador señala incertidumbre para la participación comunitaria.",
-      "por_que_importa": "Puede acortar los tiempos de proyectos de infraestructura, energía y minería, uno de los principales cuellos de botella para la inversión.",
-      "perspectivas": [
-        {
-          "medio": "El Heraldo",
-          "enfoque": "Lo presenta como ajuste para agilizar la infraestructura."
-        },
-        {
-          "medio": "Infobae",
-          "enfoque": "Detalla los cambios previstos en ANLA y consulta previa."
-        },
-        {
-          "medio": "La Silla Vacía",
-          "enfoque": "Analiza los riesgos para comunidades y proyectos."
-        },
-        {
-          "medio": "El Espectador",
-          "enfoque": "Pone el foco en la orden de la Corte sobre consulta previa y clima."
-        }
-      ],
-      "coincidencias": "Es un borrador; la consulta sigue siendo obligatoria antes de otorgar la licencia.",
-      "diferencias": "El sector de infraestructura lo ve como eficiencia; analistas y defensores de comunidades, como un riesgo de presión sobre la consulta. Los nombres de funcionarios citados difieren entre medios.",
-      "analisis": "Si se aprueba, ganaría tiempo en la evaluación técnica. El riesgo es que más proyectos lleguen al final con conflictos sin resolver, lo que podría generar litigios.",
-      "implicaciones": "Empresas con proyectos que requieren licencia deben revisar el borrador y presentar comentarios.",
-      "que_vigilar": "Texto final del decreto y posibles demandas.",
-      "fuentes": [
-        {
-          "medio": "El Heraldo",
-          "titulo": "Gobierno anuncia ajustes al licenciamiento ambiental para proyectos de infraestructura",
-          "url": "https://www.elheraldo.co/economia/2026/11/26/gobierno-anuncia-ajustes-al-licenciamiento-ambiental-para-proyectos-de-infraestructura/"
-        },
-        {
-          "medio": "Infobae",
-          "titulo": "Gobierno De la Espriella alista cambios para agilizar licencias ambientales y modificar los trámites de consulta previa en Colombia",
-          "url": "https://www.infobae.com/colombia/2026/11/27/gobierno-de-la-espriella-alista-cambios-para-agilizar-licencias-ambientales-y-modificar-los-tramites-de-consulta-previa-en-colombia/"
-        },
-        {
-          "medio": "La Silla Vacía",
-          "titulo": "Lo que está en juego con la reforma de Abelardo a la consulta previa",
-          "url": "https://www.lasillavacia.com/silla-nacional/lo-que-esta-en-juego-con-la-reforma-de-abelardo-a-la-consulta-previa/"
-        },
-        {
-          "medio": "El Espectador",
-          "titulo": "Consulta previa y cambio climático: la orden de la Corte que heredó De la Espriella. ¿La cumplirá?",
-          "url": "https://www.elespectador.com/ambiente/consulta-previa-y-cambio-climatico-la-orden-de-la-corte-que-heredo-de-la-espriella/"
-        },
-        {
-          "medio": "El Frente",
-          "titulo": "Gobierno busca agilizar licencias ambientales: consulta previa avanzaría en paralelo",
-          "url": "https://elfrente.com.co/gobierno-busca-agilizar-licencias-ambientales-consulta-previa-avanzaria-en-paralelo-pero-seguira-siendo-obligatoria-antes-de-iniciar-operaciones/"
-        }
-      ]
-    },
-    {
-      "titulo": "Ley de Rescate: licores y cerveza, el nuevo foco de presión; el sector propone gravar por grado de alcohol",
-      "categoria": "Política fiscal",
-      "importancia": 4,
-      "resumen": "La industria de bebidas alcohólicas propuso un esquema alternativo que gravaría cerveza, vino y destilados según su grado de alcohol, con el que, según sus cálculos, se recaudarían $16,77 billones, según Yahoo Noticias. El proyecto del Gobierno sube el IVA de los licores de 5 % a 19 %; Asobares lo rechaza y Fenalco habla de un 'sobre-IVA', según El Colombiano. El País (Cali) recoge advertencias de comerciantes del Valle sobre posibles afectaciones. Según La Silla Vacía, si se aceptan todas las peticiones de los congresistas, el recaudo bajaría de unos $80 billones a cerca de $45 billones. Las audiencias regionales continúan esta semana.",
-      "por_que_importa": "Los impuestos a licores y cerveza son una pieza importante del recaudo; cualquier concesión reduce el tamaño del ajuste.",
-      "perspectivas": [
-        {
-          "medio": "La Silla Vacía",
-          "enfoque": "Cuantifica cuánto se reduce la ley con los cambios propuestos."
-        },
-        {
-          "medio": "El País (Cali)",
-          "enfoque": "Recoge la preocupación de comerciantes del Valle."
-        },
-        {
-          "medio": "Yahoo Noticias",
-          "enfoque": "Explica la propuesta alternativa de la industria."
-        }
-      ],
-      "coincidencias": "El sector y varios congresistas presionan para moderar los impuestos a bebidas alcohólicas.",
-      "diferencias": "La industria dice que su alternativa recauda lo suficiente; esa cifra no ha sido validada por Hacienda.",
-      "analisis": "Cada concesión sectorial achica la ley. El Gobierno tendrá que elegir entre aprobar una ley menor o arriesgar votos.",
-      "implicaciones": "Bares, restaurantes y productores deben seguir el texto de la ponencia, que se radicaría el 30 de noviembre.",
+      "coincidencias": "Calendario apretado y urgencia del Gobierno.",
+      "diferencias": "El Gobierno advierte de crisis sin la ley; sectores afectados y parte del Congreso cuestionan sus impuestos.",
+      "analisis": "Las advertencias del Gobierno buscan presionar votos. Sus críticos sostienen que el ajuste debe recaer más en el gasto que en nuevos impuestos.",
+      "implicaciones": "Las empresas deben revisar la ponencia del lunes para conocer los impuestos que sobreviven.",
       "que_vigilar": "Ponencia del 30 de noviembre y votación del 1–2 de diciembre.",
       "fuentes": [
         {
-          "medio": "La Silla Vacía",
-          "titulo": "Cambios que propone el Congreso a Ley de Rescate la trasquilan casi a la mitad",
-          "url": "https://www.lasillavacia.com/silla-nacional/cambios-que-propone-el-congreso-a-ley-de-rescate-la-trasquilan-casi-a-la-mitad/"
+          "medio": "CV Noticias",
+          "titulo": "Congreso debate en Barranquilla el proyecto de Ley de Rescate Económico",
+          "url": "https://cvnoticias.com.co/ley-rescate-economico-debate-barranquilla/"
         },
         {
-          "medio": "El País (Cali)",
-          "titulo": "Más impuestos al licor: comerciantes de Cali y el Valle advierten sobre posibles afectaciones al sector",
-          "url": "https://www.elpais.com.co/economia/mas-impuestos-al-licor-comerciantes-de-cali-y-el-valle-advierten-sobre-posibles-afectaciones-al-sector-2653.html"
+          "medio": "360 Radio",
+          "titulo": "Sin Ley Fiscal, Colombia enfrentaría una recesión",
+          "url": "https://360radio.com.co/sin-ley-fiscal-colombia-enfrentar-recesion/237196"
         },
         {
-          "medio": "Yahoo Noticias",
-          "titulo": "Proponen alternativa de impuesto a licores: cerveza, vino y destilados aportarían según su grado de alcohol",
-          "url": "https://es-us.noticias.yahoo.com/proponen-alternativa-impuesto-licores-cerveza-160533565.html"
-        },
-        {
-          "medio": "El Colombiano",
-          "titulo": "¿Boleta de cine con IVA del 19%? ¿Cerveza más cara? Así fue la primera audiencia de la Ley de Rescate",
-          "url": "https://www.elcolombiano.com/negocios/ley-de-rescate-audiencia-publica-congreso-rachazo-cambios-a-favor-JG43983956"
+          "medio": "Bloomberg Línea",
+          "titulo": "Restrepo dice que Colombia corre el riesgo de entrar en impago si no se adopta una solución fiscal",
+          "url": "https://www.bloomberglinea.com/latinoamerica/colombia/restrepo-dice-que-colombia-corre-el-riesgo-de-entrar-en-impago-si-no-se-adopta-una-solucion-fiscal/"
         }
       ]
     }
   ],
   "mundo": [
     {
-      "titulo": "Europa y Asia suben con fuerza mientras Wall Street cierra por Acción de Gracias",
+      "titulo": "Wall Street cierra su mejor semana desde 2025: el S&P 500 sube 1,6 % el viernes y 5,6 % en la semana",
       "categoria": "Mercados",
-      "importancia": 4,
-      "resumen": "El jueves 26, el STOXX 600 subió 1,8 % a 636,98, el DAX 2,1 %, el CAC 40 1,6 % y el FTSE 100 1,8 %, según CNBC. El alivio llegó porque la propuesta arancelaria de EE. UU. contempla respetar los topes pactados en acuerdos comerciales. En Asia, el Nikkei cerró en 57.499,16 (+0,86 %) y el Hang Seng subió 1,19 %, liderados por fabricantes de chips. Un análisis citado por Eurasia Business News lo considera un rebote técnico, no un regreso duradero del apetito por riesgo.",
-      "por_que_importa": "Muestra que el temor arancelario se moderó, pero la cautela por la IA y la Fed persiste.",
+      "importancia": 5,
+      "resumen": "En la sesión corta del viernes 27, el S&P 500 subió 1,60 % a 7.297,49, el Dow 1,18 % a 50.774,94 y el Nasdaq 2,31 % a 24.129,50, según Yahoo Finance. Los 11 sectores del S&P 500 cerraron al alza, impulsados por IA y chips. En la semana, el S&P 500 ganó cerca de 5,6 %, su mejor desde abril de 2025, y el Dow cerca de 5,5 %, el mayor avance desde octubre de 2022, según los mismos reportes.",
+      "por_que_importa": "La recuperación tras la corrección mejora el apetito por riesgo global, lo que suele favorecer a monedas emergentes como el peso.",
       "perspectivas": [
         {
-          "medio": "CNBC",
-          "enfoque": "Explica que los inversionistas 'buscan gangas' pese a aranceles e IA."
+          "medio": "Yahoo Finance",
+          "enfoque": "Datos de cierre y balance semanal."
         },
         {
-          "medio": "Business Recorder (Pakistán)",
-          "enfoque": "Enfatiza la disminución del temor arancelario."
+          "medio": "Business Upturn",
+          "enfoque": "Destaca el liderazgo del Nasdaq."
         },
         {
-          "medio": "Eurasia Business News",
-          "enfoque": "Advierte que es un rebote técnico."
+          "medio": "Hargreaves Lansdown",
+          "enfoque": "Mirada británica: los índices terminan la semana en alto pese a un noviembre difícil."
         }
       ],
-      "coincidencias": "Rally amplio en Europa y Asia en un día sin Wall Street.",
-      "diferencias": "Las cifras de cierre varían ligeramente entre fuentes.",
-      "analisis": "La lectura moderada de los aranceles da alivio, pero la Fed y la IA siguen como riesgos.",
-      "implicaciones": "Un mejor tono global puede aliviar algo la presión sobre el peso.",
-      "que_vigilar": "Sesión corta de Wall Street el viernes.",
+      "coincidencias": "Fuerte rebote semanal liderado por tecnología.",
+      "diferencias": "Las cifras de cierre varían levemente entre fuentes.",
+      "analisis": "El mercado recuperó parte de la corrección, pero noviembre fue volátil y la Fed sigue inclinada a subir tasas.",
+      "implicaciones": "Un mejor tono externo ayudó al peso el viernes.",
+      "que_vigilar": "Datos de empleo de EE. UU. y la Fed del 9 de diciembre.",
       "fuentes": [
         {
-          "medio": "CNBC",
-          "titulo": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-          "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+          "medio": "Yahoo Finance",
+          "titulo": "How major US stock indexes fared Friday 11/27/2026",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-184551517.html"
         },
         {
-          "medio": "Business Recorder",
-          "titulo": "European stocks end higher on easing tariff fears",
-          "url": "https://www.brecorder.com/news/40450939/european-stocks-end-higher-on-easing-tariff-fears?v=v5uXvqjvS1oeQfo4izLJHQx6"
+          "medio": "Business Upturn",
+          "titulo": "US Stocks Rally to Close Out the Week as Nasdaq Leads Friday Surge",
+          "url": "https://businessupturn.com/usa/money/us-markets/us-stocks-rally-to-close-out-the-week-as-nasdaq-leads-friday-surge/"
         },
         {
-          "medio": "Eurasia Business News",
-          "titulo": "Stock Markets Today, November 26, 2026: European and Asian Stocks Rally as Tariff Fears Ease",
-          "url": "https://eurasiabusinessnews.com/2026/11/27/stock-markets-today-november-26-2026-european-and-asian-stocks-rally-as-tariff-fears-ease/"
+          "medio": "Hargreaves Lansdown",
+          "titulo": "US close: major indices end week on a high, November slide snaps streaks",
+          "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/archive/us-close-major-indices-end-week-on-a-high,-november-slide-snaps-streaks"
         }
       ]
     },
     {
-      "titulo": "El Brent encadena tres días de alzas y se acerca a US$96 antes de la reunión de la OPEP+",
+      "titulo": "El petróleo logra su primera ganancia semanal de noviembre; la OPEP+ decide este domingo",
       "categoria": "Energía",
       "importancia": 4,
-      "resumen": "El Brent subió por tercera sesión el jueves 26, hasta cerca de US$95,58, según FinanceFeeds, por el ataque reivindicado contra Ras Tanura y los incidentes con tanqueros en Ormuz. ING advirtió que el bajo volumen por el festivo en EE. UU. puede amplificar los movimientos, según TMGM. La OPEP+ se reúne el domingo 29; según Invezz, citando fuentes, se espera que mantenga sus metas de producción al menos en el primer trimestre de 2027. El Brent sigue lejos de los cerca de US$115 de finales de octubre.",
-      "por_que_importa": "La recuperación del crudo alivia algo las cuentas de Ecopetrol y de la Nación tras la fuerte caída de noviembre.",
+      "resumen": "El Brent cerró el viernes en US$95,44 (−1,2 %) y el WTI en US$83,08 (−0,7 %), según reportes basados en Reuters. En la semana, el Brent ganó cerca de 3 %, su primera subida semanal de noviembre tras tres caídas, por ataques a tanqueros cerca de Ormuz y a infraestructura saudí. Según tres fuentes citadas por la prensa, la OPEP+ mantendría sin cambios sus metas de producción del primer trimestre de 2027 en su reunión del domingo 29.",
+      "por_que_importa": "Mantener las cuotas sostendría precios cerca de US$95, lo que favorece los ingresos de Ecopetrol y de la Nación.",
       "perspectivas": [
         {
-          "medio": "FinanceFeeds",
-          "enfoque": "Rastrea el rally de tres días antes de la OPEP+."
+          "medio": "Rigzone",
+          "enfoque": "Pone el foco en los ataques en Oriente Medio."
         },
         {
-          "medio": "TMGM (ING)",
-          "enfoque": "Explica el soporte por riesgos de oferta."
+          "medio": "IBTimes Australia",
+          "enfoque": "Destaca la primera ganancia semanal del mes."
         },
         {
-          "medio": "Invezz",
-          "enfoque": "Pregunta si la venta de noviembre está terminando."
+          "medio": "Middle East Monitor",
+          "enfoque": "Mirada regional sobre la reunión de la OPEP+."
         }
       ],
-      "coincidencias": "Los riesgos de oferta en el Golfo sostienen el precio.",
-      "diferencias": "Las cotizaciones varían por la hora de captura; no hay liquidación oficial del jueves en EE. UU.",
-      "analisis": "La OPEP+ es el próximo catalizador; mantener cuotas daría soporte a precios.",
-      "implicaciones": "Un Brent de nuevo cerca de US$95 mejora los ingresos petroleros proyectados.",
-      "que_vigilar": "Decisión de la OPEP+ del domingo 29.",
+      "coincidencias": "Los riesgos de oferta en el Golfo sostuvieron la semana.",
+      "diferencias": "La variación semanal del WTI difiere entre fuentes (−0,9 % a −1,1 %).",
+      "analisis": "El mercado oscila entre riesgo geopolítico y superávit esperado por la IEA. La OPEP+ es el próximo factor.",
+      "implicaciones": "Un Brent estable cerca de US$95 da algo de alivio fiscal frente a la caída de inicios de noviembre.",
+      "que_vigilar": "Comunicado de la OPEP+ del domingo.",
       "fuentes": [
         {
-          "medio": "FinanceFeeds",
-          "titulo": "Brent Crude Price $95.58: Three-Day Rally Into OPEC+ Sunday",
-          "url": "https://financefeeds.com/brent-crude-oil-price-95-58-thursday-three-day-rally-before-opec-plus-sunday-bull-100-bear-91/"
+          "medio": "Rigzone",
+          "titulo": "Oil Swings with Rising ME Attacks in Focus",
+          "url": "https://www.rigzone.com/news/wire/oil_swings_with_rising_me_attacks_in_focus-27-nov-2026-185191-article/"
         },
         {
-          "medio": "TMGM",
-          "titulo": "Oil: Supply concerns support prices ahead of OPEC+ meeting",
-          "url": "https://www.tmgm.com/en/analysis/market-news/article/oil-supply-concerns-support-prices-ahead-of-opec-meeting-ing-202611261404"
+          "medio": "IBTimes Australia",
+          "titulo": "Oil Prices Today: Brent Slips To $95 On Friday But Snaps Losing Streak With First Weekly Gain Of November",
+          "url": "https://www.ibtimes.com.au/oil-prices-brent-weekly-gain-middle-east-attacks-opec-1879508"
         },
         {
-          "medio": "Invezz",
-          "titulo": "Brent crude price analysis: is November's oil sell-off nearing an end?",
-          "url": "https://invezz.com/news/2026/11/27/brent-crude-oil-price-forecast-100-opec-meeting/"
+          "medio": "Middle East Monitor",
+          "titulo": "Oil, gas prices fall as Brent trims weekly gains ahead of OPEC+ meeting",
+          "url": "https://www.middleeastmonitor.com/20261127-oil-gas-prices-fall-as-brent-trims-weekly-gains-ahead-of-opec-meeting/"
         }
       ]
     },
     {
-      "titulo": "Trump, ante tropas en Acción de Gracias: Irán tiene misiles que podrían alcanzar Europa",
-      "categoria": "Geopolítica",
-      "importancia": 3,
-      "resumen": "En un mensaje a tropas estadounidenses en Acción de Gracias, Trump dijo que Irán tiene misiles capaces de alcanzar Europa y que EE. UU. 'definitivamente' atacaría el sitio conocido como Pickaxe Mountain si reanuda los ataques, según Al Jazeera. También restó importancia al intercambio de inteligencia de Rusia y China con Irán, en medio de reportes de que ambos ayudaron a Teherán a apuntar a bases de EE. UU. Irán ha intensificado sus ataques contra objetivos militares estadounidenses en la región, según el mismo medio.",
-      "por_que_importa": "Mantiene viva la posibilidad de reanudar la guerra en 2027, un factor clave para el petróleo.",
+      "titulo": "China rechaza los aranceles de la Sección 301 y se reserva el derecho a responder",
+      "categoria": "Comercio",
+      "importancia": 4,
+      "resumen": "El portavoz de la cancillería china, Guo Jiakun, calificó la 'sobrecapacidad' de premisa falsa y dijo que las guerras comerciales no sirven a ningún país. El Ministerio de Comercio calificó la investigación de unilateral, contraria a las reglas de la OMC, y se reservó el derecho a tomar medidas, según MLex y Demócrata. El Consejo Chino para el Fomento del Comercio Internacional pidió el 27 retirar las medidas. Según los reportes, EE. UU. excluyó los productos de un acuerdo de reducción arancelaria de US$30.000 millones, y la tregua comercial se extendió hasta el 10 de enero de 2027. No se ha anunciado una represalia concreta.",
+      "por_que_importa": "Una nueva escalada entre EE. UU. y China afectaría el comercio global y los precios de materias primas.",
       "perspectivas": [
         {
-          "medio": "Al Jazeera",
-          "enfoque": "Pone el foco en las declaraciones sobre Rusia y China."
+          "medio": "MLex",
+          "enfoque": "Recoge la posición oficial china."
         },
         {
-          "medio": "CNN",
-          "enfoque": "Contexto sobre lo que Europa teme de la diplomacia entre las potencias."
+          "medio": "Demócrata (España)",
+          "enfoque": "Destaca el calificativo de 'falacia'."
+        },
+        {
+          "medio": "GSM Global News",
+          "enfoque": "Recoge la oposición del sector empresarial chino."
         }
       ],
-      "coincidencias": "La tensión sigue alta y Trump mantiene la opción militar.",
-      "diferencias": "Los reportes sobre ayuda de Rusia y China a Irán no han sido confirmados por los gobiernos involucrados.",
-      "analisis": "Trump combina pausa militar con mensajes de fuerza. El riesgo sigue concentrado en enero.",
-      "implicaciones": "Volatilidad del crudo con efectos en ingresos fiscales y costos de combustibles.",
-      "que_vigilar": "Nuevos ataques iraníes y avances en la mediación de Catar.",
+      "coincidencias": "China rechaza la medida pero no ha anunciado represalias.",
+      "diferencias": "Las tasas propuestas para China difieren entre medios.",
+      "analisis": "Beijing combina rechazo verbal con espacio para negociar dentro de la tregua.",
+      "implicaciones": "Exportadores colombianos pueden beneficiarse de una reorientación del comercio, pero también enfrentar menor demanda global.",
+      "que_vigilar": "Respuesta formal de China antes del 10 de enero.",
       "fuentes": [
         {
-          "medio": "Al Jazeera",
-          "titulo": "Trump downplays Russia, China support for Iran during talks with US troops",
-          "url": "https://aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops"
+          "medio": "MLex",
+          "titulo": "China rejects overcapacity allegations amid proposed US Section 301 tariffs",
+          "url": "https://www.mlex.com/mlex/trade/articles/2560036"
         },
         {
-          "medio": "CNN",
-          "titulo": "Europe fears what Trump, Xi and Putin might discuss behind closed doors in China",
-          "url": "https://www.cnn.com/trump-xi-putin-meeting-europe-fears-intl"
+          "medio": "Demócrata",
+          "titulo": "China rejects as a fallacy the accusation of US overcapacity",
+          "url": "https://www.democrata.es/en/economy/beijing-calls-the-overcapacity-argument-used-by-washington-for-new-tariffs-a-fallacy/"
+        },
+        {
+          "medio": "GSM Global News",
+          "titulo": "China Business Community Firmly Opposes US Section 301 Tariff Proposal, Urges Withdrawal",
+          "url": "https://gsmglobalnews.com/article/d20261127-ccpit3011.html"
         }
       ]
     },
     {
-      "titulo": "Ucrania: Kushner dice que Putin 'mostró moderación' al no usar armas nucleares; sigue el debate sobre Donbás y garantías",
-      "categoria": "Geopolítica",
+      "titulo": "Los líderes de la UE eligen a Pablo Hernández de Cos para suceder a Lagarde en el BCE",
+      "categoria": "Europa",
       "importancia": 3,
-      "resumen": "El enviado estadounidense Jared Kushner dijo que Putin 'ha mostrado moderación' al no usar armas nucleares y advirtió que la guerra podría 'escalar masivamente' con poco error de cálculo, según CNN. Kushner calificó el artículo 5 de la OTAN como el 'estándar de oro' de las garantías de seguridad. Según Kyiv Post, Kushner admitió que Putin no está interesado en un alto el fuego. Zelensky ha dicho que negociadores de EE. UU. plantearon que Ucrania retire sus fuerzas del resto del Donbás a cambio de garantías. Putin dijo que la respuesta a los ataques ucranianos contra refinerías rusas es 'inevitable'.",
-      "por_que_importa": "La falta de avances prolonga la guerra y el riesgo para la infraestructura energética.",
+      "resumen": "Los jefes de Estado de la UE respaldaron al español Pablo Hernández de Cos, actual gerente general del Banco de Pagos Internacionales y exgobernador del Banco de España, para presidir el Banco Central Europeo, según Gulf News y Traders Union. Según los reportes, contó con el apoyo de Francia y Alemania, y Países Bajos retiró el apoyo a Klaas Knot. Sería el primer español en dirigir el BCE. Los analistas lo describen como más flexible en tasas que Knot. Las fechas de transición difieren entre fuentes (febrero o marzo de 2027).",
+      "por_que_importa": "La política del BCE influye en el euro, el dólar y las tasas globales que afectan el financiamiento externo de Colombia.",
       "perspectivas": [
         {
-          "medio": "CNN",
-          "enfoque": "Recoge las declaraciones de Kushner sobre Putin."
+          "medio": "Gulf News",
+          "enfoque": "Destaca el relevo de Lagarde."
         },
         {
-          "medio": "Kyiv Post",
-          "enfoque": "Perspectiva ucraniana: Putin no quiere alto el fuego."
+          "medio": "Traders Union",
+          "enfoque": "Enfoque de mercado en la política monetaria."
         },
         {
-          "medio": "Newsweek",
-          "enfoque": "Recoge la reacción rusa a los elogios de Kushner."
+          "medio": "NewsLooks",
+          "enfoque": "Recoge el respaldo de los líderes europeos."
         }
       ],
-      "coincidencias": "No hay alto el fuego a la vista.",
-      "diferencias": "Kyiv Post critica el tono de Kushner hacia Putin; medios rusos lo reciben con agrado, según Newsweek.",
-      "analisis": "Washington busca un acuerdo territorial con garantías; Kiev y Europa desconfían. Los ataques a refinerías elevan el riesgo energético.",
-      "implicaciones": "Efecto indirecto en precios de energía y fertilizantes para Colombia.",
-      "que_vigilar": "Represalias rusas y nuevas rondas de negociación.",
+      "coincidencias": "Hernández de Cos es el candidato respaldado por los líderes.",
+      "diferencias": "Las fechas de inicio varían; la designación aún requiere pasos formales.",
+      "analisis": "Un perfil pragmático podría significar menos rigidez frente a la inflación por la guerra con Irán.",
+      "implicaciones": "Efecto indirecto en tasas y monedas globales.",
+      "que_vigilar": "Confirmación formal y primeras declaraciones.",
       "fuentes": [
         {
-          "medio": "CNN",
-          "titulo": "Putin showed 'restraint' by not using nuclear weapons, Kushner says",
-          "url": "https://edition.cnn.com/2026/11/26/world/putin-showed-restraint-by-not-using-nuclear-weapons-kushner-says"
+          "medio": "Gulf News",
+          "titulo": "European leaders choose Pablo Hernández de Cos to succeed Christine Lagarde as ECB president",
+          "url": "https://gulfnews.com/business/economy/european-leaders-choose-pablo-hern%C3%A1ndez-de-cos-to-succeed-christine-lagarde-as-ecb-president-1.500762345"
         },
         {
-          "medio": "Kyiv Post",
-          "titulo": "Kushner Admits Putin Is Uninterested in Ceasefire, Praises Russian Leader",
-          "url": "https://www.kyivpost.com/post/91223"
+          "medio": "Traders Union",
+          "titulo": "EU leaders endorse Hernández de Cos for ECB presidency",
+          "url": "https://tradersunion.com/news/central-banks/show/4439485-eu-leaders-endorse-hernndez/"
         },
         {
-          "medio": "Newsweek",
-          "titulo": "How Russia Reacted to Kushner Praising Putin as 'Political Grandmaster'",
-          "url": "https://newsweek.com/how-russia-reacted-kushner-praising-putin-political-grandmaster-12770391"
+          "medio": "NewsLooks",
+          "titulo": "EU Leaders Chose Pablo Hernández de Cos to Succeed Christine Lagarde as Next ECB President",
+          "url": "https://www.newslooks.com/eu-leaders-chose-pablo-hernandez-de-cos-to-succeed-christine-lagarde-as-next-ecb-president/"
         }
       ]
     }
   ],
-  "lectura_mercados": "Sin Wall Street por Acción de Gracias, Europa y Asia rebotaron con fuerza ante una lectura más moderada de los aranceles de EE. UU. El petróleo encadenó tres días de alzas por riesgos en el Golfo. En Colombia, la TRM sigue en máximos, aunque el dólar de contado bajó el jueves. La liquidez es baja hasta el lunes.",
+  "lectura_mercados": "La semana terminó con alivio: Wall Street recuperó con fuerza y el peso colombiano se fortaleció el viernes, aunque la TRM sigue en máximos de seis meses. El petróleo cerró la semana al alza por riesgos en el Golfo. Para Colombia, la semana próxima depende de la ponencia de la Ley de Rescate y de la decisión de la OPEP+.",
   "agenda": [
-    "Hoy, 27 de noviembre: sesión corta en Wall Street; audiencia regional de la Ley de Rescate.",
     "29 de noviembre: reunión de la OPEP+ sobre producción de 2027.",
     "30 de noviembre: radicación prevista de la ponencia de la Ley de Rescate.",
     "1–2 de diciembre: votación prevista en comisiones económicas conjuntas.",
     "9 de diciembre: decisión de tasas de la Reserva Federal.",
+    "10 de enero de 2027: vence la tregua comercial entre EE. UU. y China.",
     "16 de diciembre: fin del periodo ordinario del Congreso.",
     "18 de diciembre: decisión de tasas del Banco de la República."
   ],
-  "balance_cobertura": "Las bolsas de EE. UU. no operaron el 26 por Acción de Gracias; se muestran los cierres del 25. No hubo liquidación oficial del petróleo en Nueva York el jueves; el Brent es una cotización aproximada y se omite el WTI. El cierre del dólar del 26 varía según modalidad (spot o next day). No se encontró cobertura de lo ocurrido en la audiencia de Cali; sus fechas difieren entre medios. La cifra de recaudo de la propuesta de la industria licorera es suya y no ha sido validada. Los reportes sobre ayuda de Rusia y China a Irán no están confirmados oficialmente. La sesión corta de Wall Street del viernes es la práctica habitual tras Acción de Gracias. No se verificaron COLCAP, oro, café ni el bono a 10 años.",
+  "balance_cobertura": "Edición de sábado: los mercados son los cierres del viernes 27. No se verificó la TRM del fin de semana. El cierre del dólar del viernes ($3.488) proviene de El Comercio; otros sitios publicaron cifras de TRM inconsistentes. La cifra de Antioquia en el resumen de Colombia Hoy (113) no coincide con el desglose policial (64). La advertencia de recesión de Restrepo proviene de 360 Radio; la de impago, de una entrevista anterior. La posición de la OPEP+ proviene de fuentes anónimas. No se publicó aún el desempleo de octubre del DANE. La designación de Hernández de Cos no tiene aún confirmación oficial en las fuentes consultadas. No se verificaron COLCAP, oro, café ni el bono a 10 años.",
   "mercados": [
     {
       "id": "trm",
@@ -360,10 +341,10 @@
       "unidad": "COP",
       "decimales": 2,
       "valor": 3630.89,
-      "variacion_pct": 1.08,
+      "variacion_pct": 0.0,
       "variacion_mes_pct": null,
-      "vigencia": "26–27 nov",
-      "fuente": "Superfinanciera (vía El Nuevo Siglo / Noticias RCN)"
+      "vigencia": "27 nov (TRM de fin de semana no verificada)",
+      "fuente": "Superfinanciera (vía Minuto30)"
     },
     {
       "id": "usdcop",
@@ -371,11 +352,11 @@
       "grupo": "Divisas",
       "unidad": "COP",
       "decimales": 2,
-      "valor": 3549.7,
-      "variacion_pct": -0.15,
+      "valor": 3488.0,
+      "variacion_pct": -1.88,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 26 nov (spot)",
-      "fuente": "Infobae"
+      "vigencia": "Cierre 27 nov",
+      "fuente": "El Comercio"
     },
     {
       "id": "brent",
@@ -383,35 +364,23 @@
       "grupo": "Materias primas",
       "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 95.58,
-      "variacion_pct": null,
+      "valor": 95.44,
+      "variacion_pct": -1.2,
       "variacion_mes_pct": null,
-      "vigencia": "26 nov (aprox.)",
-      "fuente": "FinanceFeeds"
+      "vigencia": "Cierre 27 nov",
+      "fuente": "Reuters (vía mlq.ai / The Circuitry)"
     },
     {
-      "id": "stoxx600",
-      "nombre": "STOXX 600",
-      "grupo": "Bolsas",
-      "unidad": "pts",
+      "id": "wti",
+      "nombre": "Petróleo WTI (ene.)",
+      "grupo": "Materias primas",
+      "unidad": "USD/bbl",
       "decimales": 2,
-      "valor": 636.98,
-      "variacion_pct": 1.8,
+      "valor": 83.08,
+      "variacion_pct": -0.7,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 26 nov",
-      "fuente": "CNBC"
-    },
-    {
-      "id": "nikkei",
-      "nombre": "Nikkei 225",
-      "grupo": "Bolsas",
-      "unidad": "pts",
-      "decimales": 2,
-      "valor": 57499.16,
-      "variacion_pct": 0.86,
-      "variacion_mes_pct": null,
-      "vigencia": "Cierre 26 nov",
-      "fuente": "Eurasia Business News / CNN"
+      "vigencia": "Cierre 27 nov",
+      "fuente": "Reuters (vía The Circuitry)"
     },
     {
       "id": "sp500",
@@ -419,11 +388,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 7182.78,
-      "variacion_pct": -0.25,
+      "valor": 7297.49,
+      "variacion_pct": 1.6,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 25 nov (26 nov feriado)",
-      "fuente": "AP (vía ABC News)"
+      "vigencia": "Cierre 27 nov",
+      "fuente": "Yahoo Finance"
     },
     {
       "id": "nasdaq",
@@ -431,11 +400,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 23585.8,
-      "variacion_pct": -0.62,
+      "valor": 24129.5,
+      "variacion_pct": 2.31,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 25 nov (26 nov feriado)",
-      "fuente": "AP (vía ABC News)"
+      "vigencia": "Cierre 27 nov",
+      "fuente": "Yahoo Finance"
     },
     {
       "id": "dow",
@@ -443,11 +412,11 @@
       "grupo": "Bolsas",
       "unidad": "pts",
       "decimales": 2,
-      "valor": 50182.95,
-      "variacion_pct": 0.33,
+      "valor": 50774.94,
+      "variacion_pct": 1.18,
       "variacion_mes_pct": null,
-      "vigencia": "Cierre 25 nov (26 nov feriado)",
-      "fuente": "AP (vía ABC News)"
+      "vigencia": "Cierre 27 nov",
+      "fuente": "Yahoo Finance"
     }
   ],
   "macro": [
@@ -565,25 +534,15 @@
     }
   ],
   "cobertura": {
-    "total_articulos": 25,
+    "total_articulos": 22,
     "medios": [
       {
-        "medio": "Infobae",
-        "articulos": 2,
+        "medio": "Minuto30",
+        "articulos": 3,
         "ok": true
       },
       {
-        "medio": "La Silla Vacía",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "CNN",
-        "articulos": 2,
-        "ok": true
-      },
-      {
-        "medio": "Noticias RCN",
+        "medio": "El Comercio (Perú)",
         "articulos": 1,
         "ok": true
       },
@@ -593,87 +552,87 @@
         "ok": true
       },
       {
-        "medio": "El Nuevo Siglo",
+        "medio": "Blu Radio",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Universal",
+        "medio": "Colombia Hoy",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Heraldo",
+        "medio": "CV Noticias",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Espectador",
+        "medio": "360 Radio",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Frente",
+        "medio": "Bloomberg Línea",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El País (Cali)",
+        "medio": "Yahoo Finance",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Yahoo Noticias",
+        "medio": "Business Upturn",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "El Colombiano",
+        "medio": "Hargreaves Lansdown",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "CNBC",
+        "medio": "Rigzone",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Business Recorder",
+        "medio": "IBTimes Australia",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Eurasia Business News",
+        "medio": "Middle East Monitor",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "FinanceFeeds",
+        "medio": "MLex",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "TMGM",
+        "medio": "Demócrata",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Invezz",
+        "medio": "GSM Global News",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Al Jazeera",
+        "medio": "Gulf News",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Kyiv Post",
+        "medio": "Traders Union",
         "articulos": 1,
         "ok": true
       },
       {
-        "medio": "Newsweek",
+        "medio": "NewsLooks",
         "articulos": 1,
         "ok": true
       }
